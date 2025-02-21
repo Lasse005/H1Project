@@ -1,0 +1,32 @@
+﻿.PCsCADSymbol PCS-S00117.SYM 0 0 5000 2500 0 '19-06-2020 12:25:28' 0 V21.0 dpYRlV4r6NB9EwHhUEnfU1+v6U/Q52pRhAVlZ9xMsxY= 5 IEC60617
+.Title 'Material, electret, S00117' 1033
+.Title 'Materiał, elektret, S00117' 1045
+.Title 'Materiale, elektret, S00117' 1030
+.Title 'Materiál. elektret, S00117' 1029
+.Name "" -6000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1250 0 0
+.Point 0 2500 -1250 0 0
+.Point 0 1250 1250 0 0
+.Point 0 -1250 1250 0 0
+.Point 0 -2500 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1250 1250 0 0
+.Point 0 0 -1250 0 0
+.Point 0 1250 1250 0 0
+.end
+.end
+

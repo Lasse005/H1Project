@@ -1,0 +1,48 @@
+﻿.PCsCADSymbol PCS-S00060-044.SYM 0 0 5000 7500 161 '17-11-2020 13:07:22' 0 V21.0 /AaCwppwS/aZktGdaDj7LiI5UabPa4fabmpPHAHbBRQ= 5 IEC60617
+.Title 'ULP input into Micrologic X relay' 1033
+.Title 'Wejście ULP dla przekaźnika Micrologic' 1045
+.Title 'ULP indgang i Micrologic X relæ' 1030
+.Title 'ULP input into Micrologic X relay' 1029
+.Name Q -6500 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6500 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6500 -13750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6500 -6250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -6500 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 7500 0 0
+.Point 0 5000 7500 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 -5000 -5000 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 750 4500 0 0
+.Point 0 750 7500 0 0
+.Point 0 -750 7500 0 0
+.Point 0 -750 4500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 3250 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 850 4600 0 0
+.Point 0 -850 4600 0 0
+.end
+.arc 8 0 4500 0 0 16777215 1200 1800 3600 100 0 0 0 0 0 0 0
+.arc 0 0 4500 0 0 0 1300 1800 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 8250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

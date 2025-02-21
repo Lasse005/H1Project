@@ -1,0 +1,69 @@
+﻿.PCsCADSymbol PCS-S00162.SYM 0 0 15125 2500 1 '19-06-2020 12:33:24' 0 V21.0 Q4S5dW9CiyxofsxntEMOz2jiM8g7fT3d7sdMA1AwxAw= 5 IEC60617
+.Title 'Unidirectional coupling device for rotation, S00162' 1033
+.Title 'Jednokierunkowe urządzenie sprzęgające do obrotu, S00162' 1045
+.Title 'Envejs koblingsanordning til rotation, S00162' 1030
+.Title 'Jednosměrné spojovací zařízení pro otáčení, S00162' 1029
+.Name X -1000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4875 0 0 0
+.Point 0 6875 0 0 0
+.Point 0 6875 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 8375 2500 0 0
+.Point 0 8375 0 0 0
+.Point 0 9375 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6250 875 0 0
+.Point 0 6250 1500 0 0
+.Point 0 9000 1500 0 0
+.Point 0 9000 875 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10250 0 0 0
+.Point 0 11875 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12750 0 0 0
+.Point 0 15125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 1500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2375 0 0 0
+.Point 0 4000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4875 0 0 0
+.Point 0 6500 0 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 10000 2500 0 0
+.Point 0 10354 1439 0 0
+.Point 0 11061 2147 0 0
+.Point 0 10000 2500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 2854 1439 0 0
+.Point 0 3561 2147 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 2500 -2500 0 0
+.Point 0 3561 -2146 0 0
+.Point 0 2853 -1439 0 0
+.Point 0 2500 -2500 0 0
+.end
+.arc 0 8250 0 0 0 0 3000 3050 450 250 0 0 0 0 0 0 0
+.arc 0 750 0 0 0 0 3000 3150 450 250 0 0 0 0 0 0 0
+.end
+

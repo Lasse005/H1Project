@@ -1,0 +1,71 @@
+﻿.PCsCADSymbol PCS-S00302.SYM 0 0 5000 5000 1 '15-10-2020 11:52:38' 0 V21.0 9+jEipY3o4+Xmy3FX1EbfDTyWeoKoabsy1lcpsfnbig= 5 IEC60617
+.Title 'Star-delta starter, S00302' 1033
+.Title 'Rozrusznik gwiazda-trójkąt, S00302' 1045
+.Title 'Stjerne-trekant-starter, S00302' 1030
+.Title 'Spouštěč hvězda-trojúhelník, S00302' 1029
+.Name Q -1250 6000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 1250 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Art "" 1250 18250 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Func "" 1250 11750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 1250 8500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3750 0 0
+.Point 0 1750 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 -3750 0 0
+.Point 0 0 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3750 0 0
+.Point 0 0 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2750 0 0
+.Point 0 0 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3750 0 0
+.Point 0 0 -2750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2750 0 0
+.Point 0 1750 -3750 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 5750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

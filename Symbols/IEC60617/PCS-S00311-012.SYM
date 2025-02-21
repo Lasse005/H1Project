@@ -1,0 +1,36 @@
+﻿.PCsCADSymbol PCS-S00311-012.SYM 0 0 -5000 2500 129 '19-10-2020 13:22:30' 0 V21.0 WREyu1m+nec4WXESK5bTg330JkNlEheiikt0rpdzsvg= 5 IEC60617
+.Title 'Add-on symbol for relay with delayed off-operation' 1033
+.Title 'Symbol dodatkowy dla przekaźnika z opóźnionym wyłączeniem' 1045
+.Title 'Tillægssymbol for relæ for forsinket udkobling' 1030
+.Title 'Add-on symbol for relay with delayed off-operation' 1029
+.Name X -9500 1250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0
+.Typ "" -9500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -7500 -2500 0 0
+.Point 64 -7500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -7500 2500 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -7500 -2500 0 0
+.Point 0 -7500 2500 0 0
+.end
+.end
+

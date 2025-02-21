@@ -1,0 +1,53 @@
+﻿.PCsCADSymbol PCS-S00582.SYM 0 0 3750 5000 1 '08-09-2020 15:08:34' 0 V21.0 VV0xFb6Ha4ug3SXllkLMP+hnMfoYwPWdnLkvBruE3wo= 5 IEC60617
+.Title 'Capacitor, voltage dependent and polarised, S00582' 1033
+.Title 'Kondensator, biegunowy o pojemności zależnej od napięcia, S00582' 1045
+.Title 'Spændingsafhængig, polariseret kondensator, S00582' 1030
+.Title 'Kondenzátor s nelineární závislostí na napětí, S00582' 1029
+.Name C -7500 300 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7500 -8700 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -7500 -11950 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -7500 -5450 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -7500 -2200 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text U -5750 -6000 0 0 0 20 0 0 0 2 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 500 0 0
+.Point 0 2500 500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -500 0 0
+.Point 0 2500 -500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 500 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -4500 -2500 0 0
+.Point 64 -2500 -2500 0 0
+.Point 64 3750 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -2500 1750 0 0
+.Point 64 -2500 3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -3250 2500 0 0
+.Point 64 -1750 2500 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -8250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00176.SYM 0 0 5000 1250 0 '13-07-2020 13:24:38' 0 V21.0 SkoQE52QXagjJ9B6Z6V8FmctF56qdr6+A8HdmNy8YZo= 5 IEC60617
+.Title 'Actuator (operated by pedal), S00176' 1033
+.Title 'Napęd (obsługiwany pedałem), S00176' 1045
+.Title 'Aktivering med pedal, S00176' 1030
+.Title 'Ovládání pedálem, S00176' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -1250 -1250 0 0
+.Point 192 0 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -500 0 0 0
+.Point 0 1750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2750 0 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -1250 -1250 0 0
+.Point 192 -2500 -500 0 0
+.end
+.end
+

@@ -1,0 +1,51 @@
+﻿.PCsCADSymbol PCS-S00311-014.SYM 0 0 6250 2500 1 '19-10-2020 13:46:50' 3 V21.0 CkHx26DxrD/ZFpL7nvtJ1FVsPqc8sPurcFZhsyIYrs4= 5 IEC60617
+.Title 'Electronic time-relay (slow releasing)' 1033
+.Title 'Przekaźnik czasowy z opóźnionym wyłączaniem' 1045
+.Title 'Electronic time-relay (slow releasing)' 1029
+.Title 'Elektronisk tidsrelæ, frafald' 1030
+.Name K -8750 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8750 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8750 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8750 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8750 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 2500 0 0
+.Point 0 6250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6250 -2500 0 0
+.Point 0 6250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -6250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 6250 -2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -6250 2500 0 0
+.Point 0 -3750 2500 0 0
+.Point 0 -3750 -2500 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -6250 2500 0 0
+.end
+.con 1 0 2500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 2500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,77 @@
+﻿.PCsCADSymbol PCS-S00299-011.SYM 0 0 7500 7500 17 '15-10-2020 11:02:40' 0 V21.0 ZSzbRGCaY3Xa8D2hwu+CJ1yX95oqa7iqhCmECeqO+A8= 5 IEC60617
+.Title 'Motor starter with automatic control, plug and socket down' 1033
+.Title 'Rozrusznik silnikowy z automatycznym sterowaniem, wtyczka i gniazdo z dołu' 1045
+.Title 'Motorstarter med automatisk styring, stikforbindelse ned' 1030
+.Title 'Motorový spouštěč' 1029
+.Name Q -8500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -8500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5000 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -1250 0 0
+.Point 0 1750 2250 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 1875 2375 0 0
+.Point 0 750 1750 0 0
+.Point 0 1250 1250 0 0
+.Point 0 1875 2375 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1875 -1375 0 0
+.Point 0 -1250 -250 0 0
+.Point 0 -750 -750 0 0
+.Point 0 -1875 -1375 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 -750 -7500 0 0
+.Point 0 -750 -10500 0 0
+.Point 0 750 -10500 0 0
+.Point 0 750 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -6250 0 0
+.Point 0 0 -5500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -12500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 -850 -7600 0 0
+.Point 0 850 -7600 0 0
+.end
+.arc 0 0 -7550 0 0 0 1200 0 1800 250 0 0 0 0 0 0 0
+.con 1 0 -12500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 -11750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

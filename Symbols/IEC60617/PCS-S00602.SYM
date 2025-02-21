@@ -1,0 +1,72 @@
+﻿.PCsCADSymbol PCS-S00602.SYM 0 0 7500 7500 1 '09-09-2020 14:22:08' 0 V21.0 Uzg+LUZObR57KyqSXCbx3610pJnBnWJOEtdUPpYHAoo= 5 IEC60617
+.Title 'Piezoelectric crystal with two pairs of electrodes, S00602' 1033
+.Title 'Element piezoelektryczny z dwioma parami elektrod, S00602' 1045
+.Title 'Piezoelektrisk krystal med to par elektroder, S00602' 1030
+.Title 'Piezoelektrická jednotka se dvěma páry elektrod, S00602' 1029
+.Name R -10000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -10000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -10000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -10000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -10000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -2500 0 0
+.Point 0 7500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -7500 0 0
+.Point 0 5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -7500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -5000 2500 0 0
+.Point 192 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 1750 0 0
+.Point 0 7500 1750 0 0
+.Point 0 7500 -1750 0 0
+.Point 0 -7500 -1750 0 0
+.Point 0 -7500 1750 0 0
+.end
+.con 1 -5000 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -4250 8250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -5000 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -5750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -4250 -8250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" -5000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 7500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 8250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -7500 0 0 0 0 "" 0 0 0
+.PinName 4 4250 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -8250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,119 @@
+﻿.PCsCADSymbol PCS-S00344-037.SYM 0 0 2500 7500 129 '08-02-2022 19:12:32' 0 V23.0 oq54qjpPuwoEmobXet7LIQAyFU00Fl0kXf58imTnKUc= 0 IEC60617
+.Title 'Cewka aktywowana podnapięciowo ze stykami działającymi z wyprzedzeniem' 1045
+.Title 'Undervoltage operating coil (withref) with 2 early make contacts' 1033
+.Title 'Undervoltage operating coil (withref) with 2 early make contacts' 1029
+.Title 'Underspændings aktiveringsspole (withref) m. 2 tidl.slutte' 1030
+.Name B -14000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ "" -14000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art "" -14000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" -14000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -14000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -12500 -5000 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 0 -10000 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -12500 -10000 0 0
+.Point 0 0 -10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 -15000 0 0
+.Point 0 -5000 -10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 2500 -15000 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 -2500 0 0
+.Point 0 -8000 3375 0 0
+.Point 0 -6750 4000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -6250 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -4000 0 0 0
+.Point 0 -2750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 2500 2500 0 0
+.Point 0 2500 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 2500 -2500 0 0
+.Point 0 -500 3375 0 0
+.Point 0 750 4000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -1750 0 0 0
+.Point 0 -500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 500 0 0 0
+.Point 0 1250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -2750 -6750 0 0
+.Point 0 -4750 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -3000 -8500 0 0
+.Point 0 -4750 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -7750 -7750 0 0
+.Point 0 -7500 -6000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5750 -8000 0 0
+.Point 0 -5500 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -12500 -10000 0 0
+.Point 0 -12500 -5000 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0 20
+.Point 0 -12500 -5000 0 0
+.Point 0 -10000 -5000 0 0
+.Point 0 -10000 -10000 0 0
+.Point 0 -12500 -10000 0 0
+.Point 0 -12500 -5000 0 0
+.end
+.arc 1 -6750 -8000 0 0 0 1000 1700 3550 250 0 0 0 0 0 0 0
+.con 1 -5000 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" -5000 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinDes "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.con 1 -5000 -15000 0 0 0 0 "" 0 0 0
+.PinName 2 -5750 -14250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" -5000 -12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" -5000 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinDes "" -5000 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.con 1 2500 7500 0 0 0 0 "" 0 0 0
+.PinName 3 1750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 2500 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.con 1 2500 -15000 0 0 0 0 "" 0 0 0
+.PinName 4 1750 -14250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 2500 -12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 2500 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 2500 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.end
+

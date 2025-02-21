@@ -1,0 +1,33 @@
+﻿.PCsCADSymbol PCS-S00846.SYM 0 0 7500 17500 1 '05-10-2020 14:45:22' 0 V21.0 ekKJsdUcdll00is1nq4c56/mstwHSf6us9aoA6uWcvc= 5 IEC60617
+.Title 'Auto-transformer, general symbol /Form 1, S00846' 1033
+.Title 'Autotransformator, symbol ogólny, forma 1 S00846' 1045
+.Title 'Autotransformer, alment symbol S00846' 1030
+.Title 'Autotransformátor S00846' 1029
+.Name T -8500 3750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -5250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -8500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -2000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 12625 0 0
+.Point 0 0 17500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -12500 0 0
+.Point 0 0 -8375 0 0
+.end
+.arc 1 0 -875 0 0 0 7500 0 3600 250 0 0 0 0 0 0 0
+.arc 1 -8500 -875 0 0 0 16000 0 579 250 0 0 0 0 0 0 0
+.con 1 0 17500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 18250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 17250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -12500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -13250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

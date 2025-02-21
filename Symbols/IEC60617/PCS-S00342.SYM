@@ -1,0 +1,43 @@
+﻿.PCsCADSymbol PCS-S00342.SYM 0 0 7500 7500 1 '21-10-2020 11:11:40' 0 V21.0 jmRikbJrXOciTA5ytSRXl664A+/8ZMzRtiR48Y7o1bM= 5 IEC60617
+.Title 'Overcurrent relay, S00342' 1033
+.Title 'Przekaźnik nadprądowy, S00342' 1045
+.Title 'Overstrømsrelæ med to måleelementer (fra 5A  til 10A), S00342' 1030
+.Title 'Nadproudové relé s dvěma proudovými prvky, s rozsahem od 5A do 10A, S00342' 1029
+.Name B -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 5..10A 0 -1500 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.Text 2( -2500 2500 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.Text >) 2500 2500 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.Text I 0 2500 0 0 0 25 0 7 0 2 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

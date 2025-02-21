@@ -1,0 +1,57 @@
+﻿.PCsCADSymbol SGDIGIN.SYM 0 0 3250 0 1 '11-12-2015 11:46:52' 10 V18.0
+.Title 'Signalsymbol Digital in' 1030
+.Title 'Signal symbol, Digital in' 1033
+.Name "" 1500 4000 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 1500 3000 0 0 0 25 0 6 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 32 3250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 32 3250 -3250 0 0
+.Point 32 3250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 -3250 0 0
+.Point 32 3250 -3250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 -3250 0 0
+.Point 0 -3250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -3250 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2625 -2625 0 0
+.Point 0 2625 -625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 625 -1625 0 0
+.Point 0 2625 -2625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 625 -1625 0 0
+.Point 0 2625 -625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2375 -2625 0 0
+.Point 0 -1875 -625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1375 -2625 0 0
+.Point 0 -875 -625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2375 -1125 0 0
+.Point 0 -625 -1125 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2625 -2125 0 0
+.Point 0 -875 -2125 0 0
+.end
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

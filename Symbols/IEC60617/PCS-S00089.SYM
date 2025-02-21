@@ -1,0 +1,17 @@
+﻿.PCsCADSymbol PCS-S00089.SYM 0 0 1750 1750 1 '19-06-2020 12:19:08' 0 V21.0 udoswVy2yeESl9Y+NQTW2BDr8Wf5zHvdZBVpmW31XTg= 1 IEC60617
+.Title 'Continuous variability, S00089' 1033
+.Title 'Zmienność ciągła, S00089' 1045
+.Title 'Trinløs variationsmulighed, S00089' 1030
+.Title 'Proměnnost plynulá, S00089' 1029
+.Name "" -1000 2125 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -6875 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -10125 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -3625 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 -375 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 1750 1750 0 0
+.end
+.end
+

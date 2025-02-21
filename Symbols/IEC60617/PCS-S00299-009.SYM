@@ -1,0 +1,63 @@
+﻿.PCsCADSymbol PCS-S00299-009.SYM 0 0 7500 7500 17 '15-10-2020 11:00:00' 0 V21.0 tHJP4asZReDMW5JvJ/YJEEQ4M9o4Pc+FNEkkjHOPZzI= 5 IEC60617
+.Title 'Motor starter with automatic control, 2 connections  1 up 1 down' 1033
+.Title 'Rozrusznik silnikowy z automatycznym sterowaniem, 2 połączenia, 1 z góry, 1 z dołu' 1045
+.Title 'Motorstarter med automatisk styring, 2 tilslutninger 1 op 1 ned' 1030
+.Title 'Motorový spouštěč' 1029
+.Name Q -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7250 0 0
+.Point 0 0 4750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 4750 0 0
+.Point 0 7500 7250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -1500 0 0
+.Point 0 1750 2000 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 1875 2125 0 0
+.Point 0 750 1500 0 0
+.Point 0 1250 1000 0 0
+.Point 0 1875 2125 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1875 -1625 0 0
+.Point 0 -1250 -500 0 0
+.Point 0 -750 -1000 0 0
+.Point 0 -1875 -1625 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,42 @@
+﻿.PCsCADSymbol PCS-S00851-003.SYM 0 0 10000 2500 0 '05-10-2020 15:30:54' 0 V21.0 pWAqkOavMVz2ehrLmouqaeKh4pghYDNS44r/20r2Qxo= 5 IEC60617
+.Title 'Current transformer' 1033
+.Title 'Przekładnik prądowy' 1045
+.Title 'Sumstrømstransformer 2 tilslutning' 1030
+.Title 'Transformátor proudu, pulsní transformátor' 1029
+.AppData [MechLoad]
+.AppData DBField=MEKTYPE
+.Name B -11000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -2500 0 0
+.Point 0 7500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 2500 0 0
+.Point 0 7500 1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -2500 0 0
+.Point 0 7500 -1750 0 0
+.end
+.arc 0 0 0 0 0 0 10000 0 3600 250 -300 0 0 0 0 0 0
+.con 1 10000 2500 0 0 0 0 "" 0 0 0
+.PinName 1 10750 3250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 10000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 10000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 10000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 10000 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 10750 -1750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 10000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 10000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 10000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

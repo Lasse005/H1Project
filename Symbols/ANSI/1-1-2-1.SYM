@@ -1,0 +1,16 @@
+﻿.PCsCADSymbol 1-1-2-1.SYM 0 0 3750 3750 1 '14-08-2014 14:30:02' 0 V16.0
+.Title 'IEC Inherent variability (intrinsic var.) Linear' 1033
+.Title 'Variationsmulighed, indre, almindeligt symbol' 1030
+.Title 'Proměnnost vázaná' 1029
+.Name "" -4750 1250 0 0 0 25 14 6 1800 0 0 0 0 0 0 0
+.Typ "" -4750 -7750 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Art "" -4750 -11000 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Func "" -4750 -4500 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4750 -1250 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0
+.Point 0 -3750 -3750 0 0
+.Point 0 3750 3750 0 0
+.end
+.end
+

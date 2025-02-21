@@ -1,0 +1,59 @@
+﻿.PCsCADSymbol PCS-S00229-019.SYM 0 0 2750 7500 1 '23-10-2020 16:03:38' 0 V21.0 3UHYRUUULKRF9ykccupZdhIhMsb1S63A1IadfWzratw= 5 IEC60617
+.Title 'Foot operated break contact' 1033
+.Title 'Łącznik rozwierny uruchamiany stopą' 1045
+.Title 'Fodbetjent afbryder (brydekontakt)' 1030
+.Title 'Vypínací kontakt ovládaný pedálem' 1029
+.Name K -10500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -10500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -10500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -10500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -10500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 2750 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -6500 -2500 0 0
+.Point 64 -4000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -8500 -1250 0 0
+.Point 64 -6500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 2000 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5250 0 0 0
+.Point 0 -3875 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 0 0 0
+.Point 0 -1375 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -500 0 0 0
+.Point 0 750 0 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

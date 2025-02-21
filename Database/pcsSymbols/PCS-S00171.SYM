@@ -1,0 +1,37 @@
+.PCsCADSymbol PCS-S00171.SYM 0 0 7500 1250 0 '13-07-2020 13:23:04' 0 V21.0 4JIX61VCqJYRGDVdYwJGks1aJss/bHiifr6DYyx9w9g= 7 IEC60617
+.Title 'Actuator (operated by pushing), S00171' 1033
+.Title 'Naped (obslugiwany przez naciskanie), S00171' 1045
+.Title 'Aktivering ved tryk S00171' 1030
+.Title 'Ovládání tlakem S00171' 1029
+.Name "" -1000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1250 0 0
+.Point 0 0 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 1750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2750 0 0 0
+.Point 0 4750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5500 0 0 0
+.Point 0 7500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1250 0 0
+.Point 0 1250 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1250 0 0
+.Point 0 1250 -1250 0 0
+.end
+.end
+

@@ -1,0 +1,38 @@
+﻿.PCsCADSymbol PCS-S00449.SYM 0 0 9250 3000 0 '23-10-2020 18:11:00' 0 V21.0 qd36P7nV8e8n//6/ZkB/ccTEUtUhVU6vYoMmre4cOOU= 5 IEC60617
+.Title 'Three-phase wiring with neutral conductor and protective conductor, S00449' 1033
+.Title 'Przewód neutralny, ochronny i 3 fazowy, S00449' 1045
+.Title 'Spændingsførende ledere (3), nul og beskyttelsesleder, S00449' 1030
+.Title 'Trojfázové vedení se středním a ochranným vodičem, S00449' 1029
+.Name "" -12000 -1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -12000 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -12000 -13250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -12000 -6750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12000 -3500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 5750 2500 0 0
+.Point 192 9250 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -8750 -2500 0 0
+.Point 192 -6250 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -2500 0 0
+.Point 0 -7500 2500 0 0
+.end
+.arc 8 0 2500 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.end
+

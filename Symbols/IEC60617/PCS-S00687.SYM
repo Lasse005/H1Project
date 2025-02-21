@@ -1,0 +1,60 @@
+﻿.PCsCADSymbol PCS-S00687.SYM 0 0 5000 6750 129 '10-09-2020 15:17:14' 0 V21.0 FIMEwJyexUp69tU2HtXNIMcUIR4WWyQuc+7aPDoF7to= 5 IEC60617
+.Title 'Phototransistor, S00687' 1033
+.Title 'Fototranzystor, S00687' 1045
+.Title 'Fototransistor, vist som PNP-type, S00687' 1030
+.Title 'Fototranzistor, zobrazen typ PNP, S00687' 1029
+.Name B -4000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4000 -10750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4000 -14000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4000 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4000 -4250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1250 0 0
+.Point 0 5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1250 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 0 5750 0 0
+.Point 0 750 4250 0 0
+.Point 0 -750 5000 0 0
+.Point 0 0 5750 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1250 4500 0 0
+.Point 0 -500 3000 0 0
+.Point 0 -2000 3750 0 0
+.Point 0 -1250 4500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 5500 0 0
+.Point 0 -1250 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 6750 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2000 4125 0 0
+.Point 0 1625 2500 0 0
+.Point 0 3250 2500 0 0
+.end
+.con 1 5000 5000 0 0 0 0 "" 0 0 0
+.PinName 1 4250 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 4250 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

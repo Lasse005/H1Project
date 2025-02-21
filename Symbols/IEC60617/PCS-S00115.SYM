@@ -1,0 +1,22 @@
+﻿.PCsCADSymbol PCS-S00115.SYM 0 0 5000 2500 0 '19-06-2020 12:24:52' 0 V21.0 kf4CTr8SgMUP/iP2zAHtTwMn0sxI8cpXvrzv6VfwnYg= 5 IEC60617
+.Title 'Material, liquid, S00115' 1033
+.Title 'Materiał, płyn, S00115' 1045
+.Title 'Materiale, flydende, S00115' 1030
+.Title 'Materiál, kapalný, S00115' 1029
+.Name "" -6000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.arc 0 -1750 1500 0 0 0 2500 2250 3150 180 0 0 0 0 0 0 0
+.arc 0 1750 1500 0 0 0 2500 2250 3150 180 0 0 0 0 0 0 0
+.end
+

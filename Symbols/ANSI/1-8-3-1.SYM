@@ -1,0 +1,19 @@
+﻿.PCsCADSymbol 1-8-3-1.SYM 0 0 2500 1250 128 '15-01-2015 11:41:42' 0 V16.0
+.Title 'IEC Vekselstrøm, n - frekvensinterval' 1030
+.Title 'IEC Alternating current, n - frequency range' 1033
+.Title "" 1029
+.Name "" -3500 1375 0 0 0 25 14 6 1800 0 0 0 0 0 0 0
+.Typ "" -3500 -7625 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Art "" -3500 -10875 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Func n -3500 -4375 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1125 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.polyline 2 0 0 0 0 0 0 250 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 4 -1250 1250 0 0
+.Point 4 0 0 0 0
+.Point 4 1250 -1000 0 0
+.Point 0 2500 0 0 0
+.end
+.end
+

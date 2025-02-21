@@ -1,0 +1,46 @@
+﻿.PCsCADSymbol PCS-S00465-004.SYM 0 0 2500 7500 1 '26-10-2020 09:01:58' 0 V21.0 YuAe0LUHgFqKKlR4+Qa8jR39MipH3vT0MxPZSOokZ6A= 5 IEC60617
+.Title 'Telephone socket outlet with plug' 1033
+.Title 'Gniazdo telefoniczne z wtyczką' 1045
+.Title 'Telefonstikdåse m bøjelig ledn. og stikprop' 1030
+.Title 'Telephone socket outlet with plug' 1029
+.Name X -5500 -769 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5500 -9769 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5500 -13019 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5500 -6519 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5500 -3269 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 192 750 -4000 0 0
+.Point 192 -750 -4000 0 0
+.Point 192 -750 0 0 0
+.Point 192 750 0 0 0
+.Point 192 750 -4000 0 0
+.end
+.arc 1 250 -6250 0 0 0 800 1000 2600 250 0 0 0 0 0 0 0
+.arc 1 250 -9250 0 0 0 800 1000 2600 250 0 0 0 0 0 0 0
+.arc 1 -250 -4750 0 0 0 800 2800 800 250 0 0 0 0 0 0 0
+.arc 1 -250 -7750 0 0 0 800 2800 800 250 0 0 0 0 0 0 0
+.arc 1 -250 -10750 0 0 0 800 2800 800 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,30 @@
+﻿.PCsCADSymbol PCS-S00174.SYM 0 0 7500 2000 0 '13-07-2020 13:23:58' 0 V21.0 yBggTe1+5qx+67AqFB/4YfAtlEmNlcxUkXnhDSTqg3E= 5 IEC60617
+.Title 'Actuator, emergency, S00174' 1033
+.Title 'Napęd, awaryjny, S00174' 1045
+.Title 'Nødstop, paddehat-type, S00174' 1030
+.Title 'Spínač nouzového ovládání, S00174' 1029
+.Name "" -1000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 2000 0 0
+.Point 0 1250 -2000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 0 0 0
+.Point 0 2625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3500 0 0 0
+.Point 0 5125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6000 0 0 0
+.Point 0 7500 0 0 0
+.end
+.arc 0 2250 0 0 0 0 2220 1160 2440 250 0 0 0 0 0 0 0
+.end
+

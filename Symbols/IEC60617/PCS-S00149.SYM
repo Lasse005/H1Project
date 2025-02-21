@@ -1,0 +1,22 @@
+﻿.PCsCADSymbol PCS-S00149.SYM 0 0 2500 2200 0 '19-06-2020 12:29:00' 0 V21.0 W8dn3VyAmH3YwPKpAyqlYcbh40uZJYVKhJHqqAghu2s= 5 IEC60617
+.Title 'Delayed action / Form 2, S00149' 1033
+.Title 'Działanie opóźnione / Forma 1, S00149' 1045
+.Title 'Forsinket bevægelse / Form 2, S00149' 1030
+.Title 'Zpožděné působení / tvar 2, S00149' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 400 0 0
+.Point 0 300 400 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -400 0 0
+.Point 0 300 -400 0 0
+.end
+.arc 0 2500 0 0 0 0 2200 900 2700 250 0 0 0 0 0 0 0
+.end
+

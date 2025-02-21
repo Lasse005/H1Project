@@ -1,0 +1,78 @@
+﻿.PCsCADSymbol PCS-S00343.SYM 0 0 7500 17500 1 '21-10-2020 11:14:58' 0 V21.0 axIt9TCwhWAxn/Llp/g20FhN/g/jmU0u8eCanOrlXl0= 5 IEC60617
+.Title 'Overpower relay for reactive power, S00343' 1033
+.Title 'Przekaźnik biernomocowy, S00343' 1045
+.Title 'Maksimumseffektrelæ til relativ effekt, S00343' 1030
+.Title 'Relé maximálního jalového výkonu, S00343' 1029
+.Name B -9400 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9400 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9400 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9400 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9400 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 5..10s 0 -11000 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.Text '1 Mvar' 0 4000 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.Text Q> 0 12500 0 0 0 25 0 7 0 2 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 17500 0 0
+.Point 0 7500 17500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -17500 0 0
+.Point 0 7500 17500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -17500 0 0
+.Point 0 7500 -17500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -17500 0 0
+.Point 0 -7500 17500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -7500 0 0
+.Point 0 5000 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -8250 0 0
+.Point 0 5000 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -8250 0 0
+.Point 0 -5000 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 7500 0 0
+.Point 0 5000 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 6750 0 0
+.Point 0 -5000 8250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -500 7500 0 0
+.Point 0 1500 6250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -500 7500 0 0
+.Point 0 1500 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -10000 0 0
+.Point 0 2500 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 -4250 0 0
+.Point 0 3250 -5750 0 0
+.end
+.con 1 0 17500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 18250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 17250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -17500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -18250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -14750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

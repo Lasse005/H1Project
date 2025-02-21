@@ -1,0 +1,26 @@
+﻿.PCsCADSymbol SGPE.SYM 0 0 2600 0 1 '12-10-2021 15:56:26' 10 V23.0 "" -1 0
+.Title 'Signalsymbol Beskyttende jord PE' 1030
+.Title 'Signal symbol, Protected earth PE' 1033
+.Name PE -3250 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" -3250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 0 -4000 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -1750 -4000 0 0
+.Point 0 1750 -4000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -1125 -4750 0 0
+.Point 0 1125 -4750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -500 -5500 0 0
+.Point 0 500 -5500 0 0
+.end
+.arc 1 0 -3500 0 0 0 2600 0 3600 250 0 0 0 0 0 0 0
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

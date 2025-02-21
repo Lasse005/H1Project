@@ -1,0 +1,47 @@
+﻿.PCsCADSymbol PCS-S00048.SYM 0 0 7500 2500 1 '07-08-2020 10:46:52' 0 V21.0 YwNGJWyIx9bKo039V6I0CCgCdojge+zr5sh1jMM7DFU= 5 IEC60617
+.Title 'Plug and socket-type connector, male-female, S00048' 1033
+.Title 'Złącze gniazdowe wtyk-gniazdo, S0048' 1045
+.Title 'Overgangsled for eksempel U-led. Han-hun, S00048' 1030
+.Title 'Zásuvková spojka s mezičlenem, S00048' 1029
+.Name X -2500 5500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 0 12000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 0 15250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 0 8750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 5500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -7500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 0 0 0
+.Point 0 7500 0 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -5000 750 0 0
+.Point 0 -625 750 0 0
+.Point 0 -625 -750 0 0
+.Point 0 -5000 -750 0 0
+.Point 0 -5000 750 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 64 1875 750 0 0
+.Point 64 5000 750 0 0
+.Point 64 5000 -750 0 0
+.Point 64 1875 -750 0 0
+.Point 64 1875 750 0 0
+.end
+.arc 1 -5000 0 0 0 0 2500 900 2700 250 0 0 0 0 0 0 0
+.arc 1 1875 0 0 0 0 2500 900 2700 250 0 0 0 0 0 0 0
+.con 1 -10000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -10750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -10750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -10000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -10000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 7500 0 0 0 0 0 "" 0 0 0
+.PinName 2 8250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 8250 -750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

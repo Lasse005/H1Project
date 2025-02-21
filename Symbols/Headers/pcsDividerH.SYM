@@ -1,0 +1,73 @@
+﻿.PCsCADSymbol PCS22_ML_DividerH.SYM 0 0 387500 272500 160 '18-03-2020 16:01:40' 0 V22.0
+.Title 'Faneblad - horisontal (A3)' 1030
+.Title 'Divider - horizontal (A3)' 1033
+.AppData ' [StateTitles]'
+.AppData State0=
+.AppData State1=DK
+.AppData State2=UK
+.AppData State3=PL
+.AppData State4=DE
+.AppData State5=NO
+.AppData State6=CZ
+.AppData State7=SE
+.AppData State8=HU
+.AppData State9=BR
+.AppData State10=TR
+.AppData 'State11=CN - 中文'
+.AppData State12=RU
+.AppData State13=HR
+.AppData State14=ES
+.Name "" 0 1800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Typ "" 0 1800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 0 1800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func ' ' 0 1800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" 1800 0 0 0 16711680 18 0 6 2700 32 0 2 0 0 0 0 0 0 0 0
+.Field Title 0 25500 0 0 16777215 110 0 6 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 23 0 ' ' 4098 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 28 0 ' ' 2114 "" ""
+.Field 'Last used page' 365000 38000 0 0 16777215 30 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 29 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'List ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面 ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 28 0 ' ' 2114 "" ""
+.Field 'First used page' 362500 38000 0 0 16777215 30 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 28 0 ' ' 2114 "" ""
+.polyline 40 0 0 0 0 6252327 0 100 0 0 0 0 0 0 0 0 20
+.Point 0 387500 45000 0 0
+.Point 0 387500 2500 0 0
+.Point 0 -17500 2500 0 0
+.Point 0 -17500 45000 0 0
+.Point 0 387500 45000 0 0
+.end
+.polyline 0 0 0 0 0 14671839 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -17500 2500 0 0
+.Point 0 387500 2500 0 0
+.Point 0 387500 272500 0 0
+.Point 0 -17500 272500 0 0
+.Point 0 -17500 2500 0 0
+.end
+.end
+

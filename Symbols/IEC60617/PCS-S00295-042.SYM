@@ -1,0 +1,135 @@
+﻿.PCsCADSymbol PCS-S00295-042.SYM 0 0 3000 7500 1 '15-10-2020 10:15:56' 0 V21.0 dt1rEECZHoW+0bGH8qRxM+rx7+/G1NodaOF+pp2bHbE= 5 IEC60617
+.Title 'Aut.Fuse woth short circuit, 1-pole disconnector' 1033
+.Title 'Wyłącznik automatyczny 1-polowy z wyzwalaniem zwarciowym' 1045
+.Title 'Aut.Fuse woth short circuit, 1-pole disconnector' 1029
+.Title 'Aut.sikring kun med kortsl.udløser, 1P med effektadskiller' 1030
+.Name Q -17250 -1500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -17250 -10500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -17250 -13750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -17250 -7250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -17250 -4000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text I -500 -5250 0 0 0 25 0 6 0 2 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 -4250 0 0
+.Point 64 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -15000 0 0
+.Point 0 0 -9250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6500 -2500 0 0
+.Point 0 -6500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11500 -2500 0 0
+.Point 0 -6500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11500 -2500 0 0
+.Point 0 -11500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11500 2500 0 0
+.Point 0 -6500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 0 0 0
+.Point 0 -6500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 -2500 0 0
+.Point 0 -9000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 2 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 0 0 0
+.Point 0 -11500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2000 -4250 0 0
+.Point 0 3000 -4250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 1250 -6750 0 0
+.Point 0 2500 -7250 0 0
+.Point 0 1250 -7750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2000 -4250 0 0
+.Point 0 -2000 -9250 0 0
+.Point 0 3000 -9250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3000 -4250 0 0
+.Point 0 3000 -9250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 -4250 0 0
+.Point 0 -9000 -2625 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -6750 0 0
+.Point 0 -5875 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8375 -6750 0 0
+.Point 0 -9000 -6750 0 0
+.Point 0 -9000 -5125 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -6750 0 0
+.Point 0 -3375 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -6750 0 0
+.Point 0 -2000 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4750 0 0 0
+.Point 0 -3125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 0 0 0
+.Point 0 -5625 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 1500 0 0
+.Point 0 -15000 -1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 2500 0 0
+.Point 0 1250 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1125 3625 0 0
+.Point 0 -1125 1375 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1125 3625 0 0
+.Point 0 1125 1375 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -15000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -14250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,24 @@
+﻿.PCsCADSymbol 13-3-3.SYM 0 0 2900 2900 16 '09-07-2015 08:48:44' 0 V17.0
+.Title 'Winding connection, 3-phase wye (ungrounded)' 1033
+.Title 'Winding connection, 3-phase wye (ungrounded)' 1030
+.Name "" -3900 1250 0 0 0 25 14 6 1800 0 0 0 0 0 0 0 0
+.Typ "" -3900 -7750 0 0 0 25 14 8 0 0 0 0 0 0 0 0 0
+.Art "" -3900 -11000 0 0 0 25 14 8 0 0 0 0 0 0 0 0 0
+.Func "" -3900 -4500 0 0 0 25 14 8 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3900 -1250 0 0 0 25 14 8 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2375 1375 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 2375 1375 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 -2750 0 0
+.end
+.arc 0 0 0 0 0 0 2900 0 3600 250 0 0 0 0 0 0 0
+.end
+

@@ -1,0 +1,17 @@
+﻿.PCsCADSymbol SGPILRight.SYM 0 0 0 1250 1 '12-10-2021 15:47:34' 10 V23.0 "" -1 0
+.Title 'Signalsymbol Henvisningspil til højre' 1030
+.Title 'Signal symbol, Right arrow' 1033
+.Name "" -3750 500 0 0 0 25 0 6 1800 0 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 2250 500 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 32 -2500 1250 0 0
+.Point 32 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 32 -2500 -1250 0 0
+.Point 32 0 0 0 0
+.end
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

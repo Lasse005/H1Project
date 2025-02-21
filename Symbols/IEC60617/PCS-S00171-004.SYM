@@ -1,0 +1,51 @@
+﻿.PCsCADSymbol PCS-S00171-004.SYM 0 0 0 1250 1 '27-10-2020 13:17:04' 0 V21.0 hRRCVUzsQl4oJrtr4gOAuHh9BYCYylIPHQdEFL0D9uI= 5 IEC60617
+.Title 'Kip push' 1033
+.Title 'Wciśnięcie z zapadką' 1045
+.Title 'Kip push' 1029
+.Title 'Kiptryk (ingen tilbagestilling)' 1030
+.Name "" -17500 -1375 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -17500 -10375 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -17500 -13625 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -17500 -7125 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -17500 -3875 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5500 -2000 0 0
+.Point 0 -6500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5500 -2000 0 0
+.Point 0 -4500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 0 0 0
+.Point 0 -14000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -13125 0 0 0
+.Point 0 -11500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10625 0 0 0
+.Point 0 -9000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8125 0 0 0
+.Point 0 -6500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4500 0 0 0
+.Point 0 -2875 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2000 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -13750 1250 0 0
+.Point 0 -15000 1250 0 0
+.Point 0 -15000 -1250 0 0
+.Point 0 -13750 -1250 0 0
+.end
+.end
+

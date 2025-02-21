@@ -1,0 +1,79 @@
+﻿.PCsCADSymbol PCS-S00229-025.SYM 0 0 5000 7500 129 '26-10-2020 12:52:54' 5 V21.0 ncX9G8JHONAjLqy3mKqJJJrZpGQ41y/dTYzZstBv51k= 5 IEC60617
+.Title 'Two pole contactor (closed in unoperated position)' 1033
+.Title 'Stycznik 2-polowy (zamknięty w pozycji niewzbudzonej)' 1045
+.Title 'To-polet kontaktor, (sluttet i ikke aktiv tilstand)' 1030
+.Title '2 pólový vypínací kontakt stykače (v klidové poloze zapnuto)' 1029
+.Name K -7500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -7500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -7500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -7500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -2500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -7500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 2500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -7500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -2500 0 0
+.Point 0 4500 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 -500 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 0 0 0
+.Point 0 -625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 250 0 0 0
+.Point 0 1875 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2750 0 0 0
+.Point 0 3250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.arc 0 -2500 3750 0 0 0 1250 2700 900 250 0 0 0 0 0 0 0
+.arc 0 2500 3750 0 0 0 1250 2700 900 250 0 0 0 0 0 0 0
+.con 1 -2500 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -3250 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -2500 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -2500 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -3250 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -2500 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -2500 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -2500 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 2500 7500 0 0 0 0 "" 0 0 0
+.PinName 3 1750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 2500 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 2500 -7500 0 0 0 0 "" 0 0 0
+.PinName 4 1750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 2500 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 2500 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

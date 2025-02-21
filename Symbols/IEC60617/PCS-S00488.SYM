@@ -1,0 +1,48 @@
+﻿.PCsCADSymbol PCS-S00488.SYM 0 0 8000 3250 129 '25-10-2020 16:33:28' 0 V21.0 O63FUH/Iw6cai7tx1EkATF5PFkCtbFmbamJGVsyP7Vo= 5 IEC60617
+.Title 'Spot light, S00488' 1033
+.Title 'Światło punktowe, S00488' 1045
+.Title 'Smalstrålende projektør, S00488' 1030
+.Title 'Světlomet se soustředěným světelným svazkem (bodový), S00488' 1029
+.Name E -4000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 500 750 0 0
+.Point 0 2000 -750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 500 -750 0 0
+.Point 0 2000 750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4000 1250 0 0
+.Point 0 6250 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4000 -1250 0 0
+.Point 0 6250 -1250 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 8000 1250 0 0
+.Point 0 6250 1750 0 0
+.Point 0 6250 750 0 0
+.Point 0 8000 1250 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 8000 -1250 0 0
+.Point 0 6250 -750 0 0
+.Point 0 6250 -1750 0 0
+.Point 0 8000 -1250 0 0
+.end
+.arc 1 1250 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.arc 1 1250 0 0 0 0 3250 900 2700 250 0 0 0 0 0 0 0
+.con 1 2500 0 0 0 0 0 "" 0 0 0
+.PinName 1 3250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

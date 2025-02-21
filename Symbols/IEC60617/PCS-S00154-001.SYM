@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00154-001.SYM 0 0 12500 1500 129 '19-06-2020 12:30:18' 0 V21.0 yfn4lprOyRUvZjw+p9hnCgpp76IkVqpNy1pOv+fvDaQ= 5 IEC60617
+.Title 'Mechanical interlock' 1033
+.Title 'Blokada mechaniczna między dwoma urządzeniami' 1045
+.Title 'Gensidig mekanisk blokering mellem to indretninger' 1030
+.Title 'Mechanické blokování mezi dvěma zařízeními' 1029
+.Name "" -16000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -16000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 1500 0 0
+.Point 0 1750 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1500 0 0
+.Point 0 1750 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1500 0 0
+.Point 0 -1750 1500 0 0
+.end
+.polyline 0 0 0 0 0 0 2 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 0 0 0
+.Point 0 12500 0 0 0
+.end
+.end
+

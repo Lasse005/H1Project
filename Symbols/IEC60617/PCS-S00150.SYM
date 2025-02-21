@@ -1,0 +1,49 @@
+﻿.PCsCADSymbol PCS-S00150.SYM 0 0 10000 2000 1 '19-06-2020 12:29:16' 0 V21.0 +tas3M4j3pJGT+HE5H7Xpby/LmwWzhwxj390WtfwGZI= 5 IEC60617
+.Title 'Automatic return, S00150' 1033
+.Title 'Powrót samoczynny, S00151' 1045
+.Title 'Automatisk tilbagestilling, S00150' 1030
+.Title 'Samočinný návrat, S00150' 1029
+.Name "" -11000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 0 0 0
+.Point 0 10000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -7500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6500 0 0 0
+.Point 0 -4000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -3000 0 0 0
+.Point 64 -500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1500 -2000 0 0
+.Point 0 1500 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2000 0 0 0
+.Point 0 1500 -2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2000 0 0 0
+.Point 0 1500 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 500 0 0 0
+.Point 0 3000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4000 0 0 0
+.Point 0 6500 0 0 0
+.end
+.end
+

@@ -1,0 +1,30 @@
+﻿.PCsCADSymbol PCS-S00482.SYM 0 0 1750 4000 1 '25-10-2020 16:03:42' 0 V21.0 7vQX7s8bxZyAPceF3D6OU+WASo4i+8JcxsANSNFZhFk= 5 IEC60617
+.Title 'Lighting outlet on wall, S00482' 1033
+.Title 'Wypust oświetleniony na ścianie, S00482' 1045
+.Title 'Tilslutningssted på væg for belysning, S00482' 1030
+.Title 'Světelný vývod nástěnný znázorněný s přívodem zleva, S00482' 1029
+.Name U 250 -5500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 250 -14500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" 250 -17750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" 250 -11250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 250 -8000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 1750 0 0
+.Point 0 1750 -1750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -1750 0 0
+.Point 0 1750 1750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 -4000 0 0
+.Point 0 1750 4000 0 0
+.end
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -2500 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" 0 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.end
+

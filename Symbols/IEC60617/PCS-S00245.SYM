@@ -1,0 +1,48 @@
+﻿.PCsCADSymbol PCS-S00245.SYM 0 0 2500 7500 129 '12-10-2020 11:15:46' 5 V21.0 cI9IOMA+/GyZ5O8iwu54M2k7YUlwWHEU+UoPWiIypyw= 5 IEC60617
+.Title 'Break contact, delayed opening, S00245' 1033
+.Title 'Zestyk rozwierny, opóźnione otwieranie, S00245' 1045
+.Title 'Brydekontakt, der er forsinket, når indretning aktiveres, S00245' 1030
+.Title 'Vypínací kontakt se zpožděním při vypínání, S00245' 1029
+.Name K -6950 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6950 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6950 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6950 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6950 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4600 400 0 0
+.Point 0 1000 400 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4600 -400 0 0
+.Point 0 700 -400 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 2000 3000 0 0
+.end
+.arc 0 -2500 0 0 0 0 2200 900 2700 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00286.SYM 0 0 2500 7500 1 '14-10-2020 13:24:08' 5 V21.0 gUuk1i5RxMIKqOJcyo8HOOLTzBirqIUzIcpo9XOFdss= 5 IEC60617
+.Title 'Contactor; Main break contact of a contactor, S00286' 1033
+.Title 'Stycznik; Główny styk rozwierny stycznika, S00286' 1045
+.Title 'Kontaktor, hovedbrydekontakt, S00286' 1030
+.Title 'Stykač (kontakt je sepnut v klidové poloze), S00286' 1029
+.Name Q -4250 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 2000 3000 0 0
+.end
+.arc 0 0 3750 0 0 0 1250 2700 900 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

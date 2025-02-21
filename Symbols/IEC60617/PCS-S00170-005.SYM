@@ -1,0 +1,54 @@
+﻿.PCsCADSymbol PCS-S00170-005.SYM 0 0 0 5500 1 '27-10-2020 12:59:54' 0 V21.0 3vY+2DKrCHMecyvGqdYz3D+YtRNs6A5WBn8B+5Ki3wA= 5 IEC60617
+.Title 'Rotary-handle, 3 positions' 1033
+.Title 'Napęd obrotowy 3-pozycyjny' 1045
+.Title 'Rotary-handle, 3 positions' 1029
+.Title 'Drejegreb, 3 stillinger' 1030
+.Name "" -13750 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -13750 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -13750 -13500 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -13750 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -13750 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 0 -4250 3000 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.Text I -7000 2250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.Text II -1500 2250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4250 -2500 0 0
+.Point 0 -4250 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4250 -2500 0 0
+.Point 0 -6500 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4250 -2500 0 0
+.Point 0 -2000 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11250 -1250 0 0
+.Point 0 -10000 -1250 0 0
+.Point 0 -10000 1250 0 0
+.Point 0 -8750 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -9125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8250 0 0 0
+.Point 0 -6625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 0 0 0 0
+.end
+.end
+

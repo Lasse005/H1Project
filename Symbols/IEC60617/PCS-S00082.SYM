@@ -1,0 +1,27 @@
+﻿.PCsCADSymbol PCS-S00082.SYM 0 0 5000 5000 1 '19-06-2020 12:15:46' 0 V21.0 eXFpRRx6PAa4OlvyjPl6b2uQrEMqTk8mvH+5kL73R7U= 1 IEC60617
+.Title 'Adjustability, non-linear, S00082' 1033
+.Title 'Nastawność, nieliniowa, S00082' 1045
+.Title 'Indstillingsmulighed, ulineær, S00082' 1030
+.Title 'Proměnnost nevázaná, nelineární, S00082' 1029
+.Name "" -6000 2500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -9750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -3250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 5000 5000 0 0
+.Point 0 2750 4000 0 0
+.Point 0 4000 2750 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 4500 4500 0 0
+.end
+.end
+

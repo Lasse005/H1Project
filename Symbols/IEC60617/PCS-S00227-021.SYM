@@ -1,0 +1,60 @@
+﻿.PCsCADSymbol PCS-S00227-021.SYM 0 0 0 7500 1 '13-10-2020 09:48:52' 0 V21.0 yRfo/btVH/UjRZaXTgvgjhpjoPadVJCXrLwswmqoVT4= 5 IEC60617
+.Title 'Roller operated make contact, with automatic return' 1033
+.Title 'Łącznik z napędem rolkowym, zwierny, z samoczynnym powrotem' 1045
+.Title 'Rullebetjent afbryder (sluttekontakt), Fjeder-retur funktion' 1030
+.Title 'Zapínací kontakt ovládaný kladkou s automatickým návratem' 1029
+.Name S -12000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -12000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -12000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -12000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -4250 -1000 0 0
+.Point 192 -4250 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4250 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4250 -1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 0 0 0
+.Point 0 -6375 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5500 0 0 0
+.Point 0 -3875 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.arc 0 -8500 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

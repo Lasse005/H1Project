@@ -1,0 +1,25 @@
+﻿.PCsCADSymbol PCS-S00124.SYM 0 0 5000 1250 1 '19-06-2020 12:27:16' 0 V21.0 RUPygJxRHGwwqbf7o7xRRvqXRajIbGcC59+K/IeTOxU= 5 IEC60617
+.Title 'Delay, S00124' 1033
+.Title 'Opóźnienie, zwłoka, S00124' 1045
+.Title 'Forsinkelse, S00124' 1030
+.Title 'Zpoždění, S00124' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1250 0 0
+.Point 0 -2500 1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -1250 0 0
+.Point 0 5000 1250 0 0
+.end
+.end
+

@@ -1,0 +1,54 @@
+﻿.PCsCADSymbol PCS-S00192-007.SYM 0 0 3000 17500 1 '28-10-2020 16:09:38' 0 V21.0 dIdi0x4w449yL6G+h/+1SC7TGjRyO/vlwob4wHPP+Dg= 5 IEC60617
+.Title 'Wound motor for Masterpact NT and NW' 1033
+.Title 'Silnik dla Masterpact NT i NW' 1045
+.Title 'Wound motor for Masterpact NT and NW' 1029
+.Title 'Motoroptræk til Masterpact NT og NW' 1030
+.Name "" -8750 6250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8750 -2750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8750 -6000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8750 500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -8750 3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text MCH 0 10000 0 0 0 20 9 4 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 17500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 17500 0 0
+.Point 0 0 13000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -3500 3000 0 0
+.end
+.arc 1 0 10000 0 0 0 3000 0 3600 250 0 0 0 0 0 0 0
+.con 1 -5000 17500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 16750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 17250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 17500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 16750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 17250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 20000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

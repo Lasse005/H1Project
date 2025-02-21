@@ -1,0 +1,69 @@
+﻿.PCsCADSymbol PCS-S00227-038.SYM 0 0 0 7500 1 '27-10-2020 13:14:48' 0 V21.0 DunYaHLmzoEjPzqX0jA+2lifYkVG49uvO7NYBuJMaDY= 5 IEC60617
+.Title 'Key-operated switch (Make contact)' 1033
+.Title 'Styk obsługiwany kluczem' 1045
+.Title 'Key-operated switch (Make contact)' 1029
+.Title 'Nøgleafbryder med drejeknap og fjederretur (sluttekontakt)' 1030
+.Name K -11250 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11250 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11250 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11250 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11250 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -2500 0 0
+.Point 0 -6250 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -6750 250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -2500 0 0
+.Point 0 -8250 250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -3750 1250 0 0
+.Point 192 -3750 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 1250 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -3750 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4250 0 0 0
+.Point 0 -2625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6500 0 0 0
+.Point 0 -5125 0 0 0
+.end
+.arc 1 -7500 1250 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

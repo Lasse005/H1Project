@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00037.SYM 0 0 2500 5000 1 '03-08-2020 14:56:00' 0 V21.0 t9xPIanVix13oYeTMO/jTOf8GBZ+i7vDLgmqmMpQUXc= 5 IEC60617
+.Title 'Connector, movable portion of an assembly S00037' 1033
+.Title 'Zespół złączy, część ruchoma S00037' 1045
+.Title 'Apparatstikforbindelse, den bevægelige del af en stikforbindelse S00037' 1030
+.Title 'Spojovací součást, pohyblivá část S00037' 1029
+.Name X -2500 7500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 0 15000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 0 18750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 0 11250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 7500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -5000 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5000 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5000 0 0
+.Point 0 2500 -5000 0 0
+.end
+.arc 1 0 2500 0 0 0 2500 900 1800 250 0 0 0 0 0 0 0
+.arc 1 0 -2500 0 0 0 2500 1800 2700 250 0 0 0 0 0 0 0
+.con 1 -7500 0 0 0 0 0 "" 0 0 0
+.PinName 1 -8250 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -8250 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.end
+

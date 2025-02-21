@@ -1,0 +1,26 @@
+﻿.PCsCADSymbol PCS-S00104.SYM 0 0 5000 1500 0 '19-06-2020 12:23:34' 0 V21.0 J7tqLvzTtZiLtP61hNzcPh/rJLwoPqxVgHORi3e9ppQ= 5 IEC60617
+.Title 'Energy flow from the busbars, S00104' 1033
+.Title 'Przepływ energii z szyn zbiorczych, S00104' 1045
+.Title 'Energistrømning bort fra samleskinnerne, S00104' 1030
+.Title 'Tok energie od přípojnice, S00104' 1029
+.Name "" -6000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -5000 0 0 0
+.Point 64 5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 -1000 0 0
+.Point 0 -250 0 0 0
+.Point 0 -2250 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 1500 0 0
+.Point 0 -5000 -1500 0 0
+.end
+.end
+

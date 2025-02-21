@@ -1,0 +1,142 @@
+﻿.PCsCADSymbol PCS-S00305-103.SYM 0 0 5000 7500 1 '27-10-2020 10:21:52' 0 V21.0 UwemZyueBdg3nAKxSpRgSQ4wwyAoOmWpL1rOu+5Thos= 5 IEC60617
+.Title 'Module for circuit breaker A-FAZ' 1033
+.Title 'Moduł do wyłącznika nadprądowego A-AFZ' 1045
+.Title 'Module for circuit breaker A-FAZ' 1029
+.Title 'Arbejdsstrømsudløser A-FAZ' 1030
+.Name K -31000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -31000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -31000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -31000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -31000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 -7500 0 0
+.Point 0 -12500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -17500 2500 0 0
+.Point 0 -17500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15750 -2500 0 0
+.Point 0 -12500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -20000 -7500 0 0
+.Point 0 -20000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -20000 -2500 0 0
+.Point 0 -18000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 -7500 0 0
+.Point 0 0 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 4500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1000 0 0
+.Point 0 2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 1 250 0 0 0 0 0 0 0 0
+.Point 0 -24500 -2000 0 0
+.Point 0 -23500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 1 250 0 0 0 0 0 0 0 0
+.Point 0 -24500 -2000 0 0
+.Point 0 -25500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 1 250 0 0 0 0 0 0 0 0
+.Point 0 -28500 0 0 0
+.Point 0 -25500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -4500 0 0 0
+.Point 192 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -27250 1250 0 0
+.Point 0 -28500 1250 0 0
+.Point 0 -28500 -1250 0 0
+.Point 0 -27250 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -3000 0 0
+.Point 0 -17500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -23500 0 0 0
+.Point 0 -22125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -21250 0 0 0
+.Point 0 -19625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -18750 0 0 0
+.Point 0 -17125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -16250 0 0 0
+.Point 0 -14625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -13750 0 0 0
+.Point 0 -12125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11250 0 0 0
+.Point 0 -9625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 0 0 0
+.Point 0 -7125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 0 0 0
+.Point 0 -4500 0 0 0
+.end
+.con 1 -17500 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -18250 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -17500 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -17500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -17500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -20000 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -20750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -20000 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -20000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -20000 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

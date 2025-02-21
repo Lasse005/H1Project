@@ -1,0 +1,35 @@
+﻿.PCsCADSymbol PCS-S00195.SYM 0 0 15000 2500 0 '13-07-2020 14:40:34' 0 V21.0 TFalBx80Rmmb2KEdDiPSMbQqU1Xwp4r/K02bBrEKd7k= 5 IEC60617
+.Title 'Actuator (actuated by liquid level), S00195' 1033
+.Title 'Napęd (uruchamiany przez poziom cieczy), S00195' 1045
+.Title 'Aktivering med væskeniveau, S00195' 1030
+.Title 'Ovládání hladinou kapaliny, S00195' 1029
+.Name "" -3475 2000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3475 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3475 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3475 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3475 -500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1000 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2250 0 0 0
+.Point 0 4500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5500 0 0 0
+.Point 0 8000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 9000 0 0 0
+.Point 0 11500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 0 0 0
+.Point 0 15000 0 0 0
+.end
+.arc 0 0 -2500 0 0 0 3500 450 1350 250 0 0 0 0 0 0 0
+.arc 0 0 2500 0 0 0 3500 2250 3150 250 0 0 0 0 0 0 0
+.end
+

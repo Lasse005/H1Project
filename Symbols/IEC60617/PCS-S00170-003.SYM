@@ -1,0 +1,67 @@
+﻿.PCsCADSymbol PCS-S00170-003.SYM 0 0 0 5500 1 '27-10-2020 12:58:16' 0 V21.0 BIBPa6HIH3lq/DqOxdz+TO2E8uWOq7zLy0LJoog/v38= 5 IEC60617
+.Title 'Rotary-handle, 3 positions w. automatic return from Left to the middle' 1033
+.Title 'Napęd obrotowy 3-pozycyjny z automatycznym powrotem z pozycji lewej' 1045
+.Title 'Rotary-handle, 3 positions w. automatic return from Left to the middle' 1029
+.Title 'Drejegreb, 3 stillinger med fjederretur fra venstre til midt' 1030
+.Name "" -16250 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16250 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16250 -13500 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -16250 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16250 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 0 -6750 3000 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.Text I -9500 2250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.Text II -4000 2250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 -2500 0 0
+.Point 0 -6750 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 -2500 0 0
+.Point 0 -9000 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 -2500 0 0
+.Point 0 -4500 1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3800 1100 0 0
+.Point 0 -3800 -1100 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3800 1200 0 0
+.Point 0 -2300 0 0 0
+.Point 0 -3800 -1100 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -13750 -1250 0 0
+.Point 0 -12500 -1250 0 0
+.Point 0 -12500 1250 0 0
+.Point 0 -11250 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 0 0 0
+.Point 0 -11625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10750 0 0 0
+.Point 0 -9125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8250 0 0 0
+.Point 0 -6625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 0 0 0 0
+.end
+.end
+

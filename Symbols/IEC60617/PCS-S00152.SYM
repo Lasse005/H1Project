@@ -1,0 +1,32 @@
+﻿.PCsCADSymbol PCS-S00152.SYM 0 0 -2500 2500 1 '19-06-2020 12:29:48' 0 V21.0 lu1g07GrbsjRfrJPsO9jGU4Q1lAXa+zx4jxUisLK4uQ= 5 IEC60617
+.Title 'Detent, disengaged, S00152' 1033
+.Title 'Zapadka, wysprzęgnięta, S00152' 1045
+.Title 'Fastholdelse ude af funktion, S00152' 1030
+.Title 'Zarážka, vypnutá, S00152' 1029
+.Name "" -13500 1500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -13500 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -13500 -10750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -13500 -4250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -13500 -1000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 750 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9625 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -6500 -2000 0 0
+.Point 0 -5500 0 0 0
+.Point 0 -4875 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4000 0 0 0
+.Point 0 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 0 0 0
+.Point 0 -10500 0 0 0
+.end
+.end
+

@@ -1,0 +1,69 @@
+﻿.PCsCADSymbol PCS-S00679.SYM 0 0 5000 6250 129 '10-09-2020 14:21:38' 0 V21.0 sLepFluh+xjlACwj2cx/1SvIqzG6+unGBbTeDMir6UI= 5 IEC60617
+.Title 'Insulated gate field effect transistor IGFET, depletion type, two gates, P-type channel with substrate connection brought out, S00679' 1033
+.Title 'Tranzystor polowy z izolowaną bramką IGFET, typu zubożonego, z dwiema bramkami, kanał typu P, z wyprowadzeniem podłoża, S00679' 1045
+.Title 'IG-FET-ladningsbærerformindskende type med to gater, N-type kanal med supstratforbindelsen ført ud, S00679' 1030
+.Title 'IGFET, ochuzovací typ se 2 hradly, kanál typu N s vyvedenou podložkou, S00679' 1029
+.Name K -2000 7500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -2000 -16500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -2000 -19750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -2000 -13250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2000 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 5000 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 0 0 0
+.Point 64 5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -6250 0 0
+.Point 0 0 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -750 -5000 0 0
+.Point 0 -750 -750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 4250 0 0
+.Point 0 -750 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -1000 0 0
+.Point 0 2500 0 0 0
+.Point 0 1250 1000 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 -5000 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -5750 -4250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -5750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 5000 0 0 0 0 "" 0 0 0
+.PinName 3 4250 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 4 5750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -5000 0 0 0 0 "" 0 0 0
+.PinName 5 4250 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

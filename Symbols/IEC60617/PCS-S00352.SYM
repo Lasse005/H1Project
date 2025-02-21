@@ -1,0 +1,65 @@
+﻿.PCsCADSymbol PCS-S00352.SYM 0 0 7500 10000 1 '21-10-2020 12:20:26' 0 V21.0 3rt/hxGtmMsD+fr5uTGhcxyLIRhH0D/2ym5uJ8biIpY= 5 IEC60617
+.Title 'Buchholz protective device; Gas relay, S00352' 1033
+.Title 'Przekaźnik ochronny Bucholza; Przekaźnik gazowy, S00352' 1045
+.Title 'Buchholz-beskyttelsesindretning; gasrelæ, S00352' 1030
+.Title 'Buchholzovo ochranné ústrojí; plynové relé, S00352' 1029
+.Name B -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -7500 10000 0 0
+.Point 64 7500 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -10000 0 0
+.Point 0 7500 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -10000 0 0
+.Point 0 7500 -10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -10000 0 0
+.Point 0 -7500 10000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 7500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3250 0 0
+.Point 0 3000 -3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -6750 0 0
+.Point 0 -1750 -3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -6750 0 0
+.Point 0 1750 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 -6750 0 0
+.Point 0 1750 -3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5750 0 0
+.Point 0 0 7000 0 0
+.end
+.arc 0 0 3250 0 0 0 2500 450 1350 250 0 0 0 0 0 0 0
+.arc 0 0 6750 0 0 0 2500 2250 3150 250 0 0 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -10000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -10750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00851-007.SYM 0 0 5000 3000 128 '05-10-2020 15:36:34' 0 V21.0 VU0v/vW8uYQiVQJ1pPOrKIjaElueStcwF11WQ2tvGaE= 5 IEC60617
+.Title 'Current transformer (rectangular) 2 secondary connections' 1033
+.Title 'Przekładnik prądowy, transformator impulsowy 3-polowy' 1045
+.Title 'Strømtransformer (rektangulær) 2 sekundære tilslutninger' 1030
+.Title 'Transformátor proudu, pulsní transformátor' 1029
+.Name B -5000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 3500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 3500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3500 2500 0 0
+.Point 0 2500 1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3500 -2500 0 0
+.Point 0 2500 -1500 0 0
+.end
+.arc 0 0 0 0 0 0 3000 0 3600 250 0 0 0 0 0 0 0
+.con 1 5000 2500 0 0 0 0 "" 0 0 0
+.PinName 1 5750 3250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 5750 -1750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

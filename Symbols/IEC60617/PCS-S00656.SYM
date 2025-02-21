@@ -1,0 +1,60 @@
+﻿.PCsCADSymbol PCS-S00656.SYM 0 0 2500 6250 1 '10-09-2020 12:29:04' 0 V21.0 iHK2oku18SpROQKwhNr70L3Soxp6RXo5X73G/LkzzH8= 5 IEC60617
+.Title 'Turn-off triode thyristor, N-gate (anode-side), S00656' 1033
+.Title 'Tyrystor triodowy odłączający, z bramką N (sterowany od strony anody), S00656' 1045
+.Title 'Slukketyristordiode , N-gate (styret på anodesiden), S00656' 1030
+.Title 'Triodový tyristor vypínací, N-hradlo, S00656' 1029
+.Name Q -5750 -1500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5750 -10500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5750 -13750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5750 -7250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5750 -4000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5000 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 5000 0 0
+.Point 0 -1250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4000 6250 0 0
+.Point 0 -4000 3750 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -5000 5000 0 0 0 0 "" 0 0 0
+.PinName 3 -5750 5750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 4250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.end
+

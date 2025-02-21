@@ -1,0 +1,73 @@
+﻿.PCsCADSymbol PCS-S00254-003.SYM 0 0 2500 7500 1 '09-10-2020 15:48:36' 5 V21.0 tkIxEWinE2kPwCbSstz1VrZKMn52LbPts/snECvrI38= 5 IEC60617
+.Title 'Push button' 1033
+.Title 'przycisk ze stykiem rozwiernym' 1045
+.Title Brydekontakt 1030
+.Title 'Vypínací kontakt' 1029
+.Name S -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 2000 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5250 0 0 0
+.Point 0 -4250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 -2000 0 0
+.Point 0 -4250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 -2000 0 0
+.Point 0 -2250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6375 0 0 0
+.Point 0 -5250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5500 -1250 0 0
+.Point 0 -6750 -1250 0 0
+.Point 0 -6750 1250 0 0
+.Point 0 -5500 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 8250 0 0 0 20 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -8250 0 0 0 20 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,52 @@
+﻿.PCsCADSymbol PCS-S00341.SYM 0 0 7500 7500 1 '21-10-2020 11:09:42' 0 V21.0 vo9GC62cFxhaEpMEi0N/DZJ2G4dajPO4BuZ6rBmmvb8= 5 IEC60617
+.Title 'Delayed overcurrent relay, S00341' 1033
+.Title 'Przekaźnik nadprądowy zwłoczny, S00341' 1045
+.Title 'Overstrømsrelæ med forsinket udkobling, S00341' 1030
+.Title 'Zpožděné nadproudové relé, S00341' 1029
+.Name B -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text I> 0 2000 0 0 0 25 0 7 0 2 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -3250 0 0
+.Point 0 5000 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -3250 0 0
+.Point 0 -5000 -1750 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

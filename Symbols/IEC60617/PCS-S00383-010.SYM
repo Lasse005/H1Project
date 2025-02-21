@@ -1,0 +1,56 @@
+﻿.PCsCADSymbol PCS-S00383-010.SYM 0 0 7500 7500 49 '23-10-2020 10:28:20' 0 V21.0 Ai2kFt6Dw9+w8i2i22gUJC7Z+i4O+SIPgBKkrM1dbkw= 5 IEC60617
+.Title 'Operating devices plug and socket ' 1033
+.Title 'Urządzenie z wtykami i gniazdami' 1045
+.Title 'Styreindretning, 1 stikforbindelse op eller ned' 1030
+.Title 'Operating devices plug and socket ' 1029
+.Name K -10000 1425 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -10000 -7575 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -10000 -10825 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -10000 -4325 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -10000 -1075 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text // 0 0 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 750 -5500 0 0
+.Point 0 750 -2500 0 0
+.Point 0 -750 -2500 0 0
+.Point 0 -750 -5500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -6750 0 0
+.Point 0 0 -7500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 850 -5400 0 0
+.Point 0 -850 -5400 0 0
+.end
+.arc 8 0 -5500 0 0 16777215 1200 1800 3600 100 0 0 0 0 0 0 0
+.arc 0 0 -5500 0 0 0 1300 1800 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 4750 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

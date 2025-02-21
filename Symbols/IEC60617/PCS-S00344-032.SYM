@@ -1,0 +1,72 @@
+﻿.PCsCADSymbol PCS-S00344-032.SYM 0 0 5000 7500 129 '27-10-2020 15:51:48' 0 V21.0 Tq45eBvo1OIhK5Ac7w0TbSlJuO4aWSiBBLiFBEloEvU= 5 IEC60617
+.Title 'Undervoltage-release for overload circuit-breaker, draw-out' 1033
+.Title 'Wyciągany wyzwalacz podnapięciowy dla wyłącznika przeciążeniowego' 1045
+.Title 'Undervoltage-release for overload circuit-breaker, draw-out' 1029
+.Title 'Underspændingsudløser til maks.afbr. i draw-out udførelse' 1030
+.Name B -7500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -7500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -7500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -7500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text U< 0 0 0 0 0 25 0 4 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 750 -5500 0 0
+.Point 0 750 -2500 0 0
+.Point 0 -750 -2500 0 0
+.Point 0 -750 -5500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -6750 0 0
+.Point 0 0 -7500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 850 -5400 0 0
+.Point 0 -850 -5400 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 -750 5500 0 0
+.Point 0 -750 2500 0 0
+.Point 0 750 2500 0 0
+.Point 0 750 5500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 6750 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 -850 5400 0 0
+.Point 0 850 5400 0 0
+.end
+.arc 8 0 -5500 0 0 16777215 1200 1800 3600 100 0 0 0 0 0 0 0
+.arc 0 0 -5500 0 0 0 1300 1800 3600 250 0 0 0 0 0 0 0
+.arc 8 0 5500 0 0 16777215 1200 0 1800 100 0 0 0 0 0 0 0
+.arc 0 0 5500 0 0 0 1300 0 1800 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

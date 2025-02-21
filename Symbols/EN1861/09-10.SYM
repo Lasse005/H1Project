@@ -1,0 +1,87 @@
+﻿.PCsCADSymbol 09-10.SYM 0 0 5000 10000 1 '12-05-2015 15:42:04' 0 V17.0
+.Title 'Beholder med indbygget demisterfyldning. Ordnet indsats, fx prelleplade' 1030
+.Title 'Vessel with built in demister package. Regular arrangement e.g. baffle' 1033
+.Title 'Nádoba s demisterem. Běžné uspořádání, např. pevná vestavba' 1029
+.Name "" -6000 10000 0 0 0 25 14 2 0 0 0 0 0 0 0 0 0
+.Typ "" -6000 -6000 0 0 16711680 18 12 2 0 0 0 0 0 0 0 0 0
+.Art "" -6000 -10000 0 0 16711680 18 12 2 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 7000 0 0 0 18 12 2 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 7500 0 0
+.Point 0 5000 7500 0 0
+.Point 0 5000 -10000 0 0
+.Point 0 -5000 -10000 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 -5000 10000 0 0
+.Point 0 5000 10000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 3750 0 0
+.Point 0 5000 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 -7000 1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7000 -1000 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 0 7500 0 0
+.Point 0 0 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 1250 3750 0 0
+.Point 0 1250 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 2500 7500 0 0
+.Point 0 2500 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 3750 3750 0 0
+.Point 0 3750 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1250 7500 0 0
+.Point 0 -1250 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -2500 3750 0 0
+.Point 0 -2500 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -3750 7500 0 0
+.Point 0 -3750 3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -5000 6250 0 0
+.Point 0 5000 6250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 5000 5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -6000 1750 0 0 16711680 18 12 2 0 128 0 0 0 0 0 0 0
+.PinFunc "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 10750 0 0 16711680 18 12 0 900 128 0 0 0 0 0 0 0
+.PinFunc "" 0 10000 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 10000 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 10000 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.end
+

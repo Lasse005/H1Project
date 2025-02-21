@@ -1,0 +1,62 @@
+﻿.PCsCADSymbol PCS-S00674.SYM 0 0 5000 3500 1 '10-09-2020 13:55:10' 0 V21.0 9fYTYfXL2etar5TdAH9E41IACRRXjzcyqAAAbmFE0zg= 5 IEC60617
+.Title 'Insulated gate field effect transistor IGFET enhancement type, single gate, N-type channel without substrate connection, S00674' 1033
+.Title 'Tranzystor polowy z izolowaną bramką IGFET rozszerzonego typu, pojedyncza bramka, kanał typu N bez połaczenia do podłoża, S00674' 1045
+.Title 'IGFET-ladningsbærerforøgende type, enkelt gate N-type kanal uden substratforbindelse, S00674' 1030
+.Title 'IGFET, obohacovací typ, jedno hradlo, kanál typu N s nevyvedenou podložkou, S00674' 1029
+.Name K -2000 4500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -2000 -13000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -2000 -16250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -2000 -9750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2000 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1500 0 0
+.Point 0 0 3500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 2500 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1000 0 0
+.Point 0 0 -1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -750 -2500 0 0
+.Point 0 -750 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -1000 0 0
+.Point 0 1250 0 0 0
+.Point 0 2500 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -3500 0 0
+.Point 0 0 -1500 0 0
+.end
+.con 1 -5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 -1750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -3250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 2500 0 0 0 0 "" 0 0 0
+.PinName 2 4250 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 3250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,64 @@
+﻿.PCsCADSymbol PCS-S00353-013.SYM 0 0 12500 2500 0 '26-10-2020 11:25:10' 0 V21.0 Tcoa/TFFKD004SBMfGWI/i2yZTxmp1moVlmdX5K5dCE= 5 IEC60617
+.Title 'Automatic operating motor relay' 1033
+.Title 'Automatycznie obsługiwany przekaźnik silnikowy' 1045
+.Title 'Automatic operating motor relay' 1029
+.Title 'Relæ for automatisk genindkobling' 1030
+.Name K -5000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -5000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 12500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 -2500 0 0
+.Point 0 12500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 12500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -1250 0 0
+.Point 0 10000 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 3750 0 0 0
+.Point 192 8000 0 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 8750 0 0 0
+.Point 0 7000 500 0 0
+.Point 0 7000 -500 0 0
+.Point 0 8750 0 0 0
+.end
+.arc 0 1250 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 2500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 2500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 10000 2500 0 0 0 0 "" 0 0 0
+.PinName 4 9250 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 10000 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 10000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 10000 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

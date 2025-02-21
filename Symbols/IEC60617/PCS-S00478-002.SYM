@@ -1,0 +1,107 @@
+﻿.PCsCADSymbol PCS-S00478-002.SYM 0 0 20000 5000 129 '19-10-2020 13:25:42' 3 V21.0 GS/uD3m4aXZtoI65nAX0cOmSx5R0WhGkGXKSxQMzmyI= 5 IEC60617
+.Title 'Multitimer with transistor output (input reset, start, gate)' 1033
+.Title 'Timer z wyjściem tranzystorowym (wejścia: reset, start, bramka)' 1045
+.Title 'Multitimer with transistor output (input reset, start, gate)' 1029
+.Title 'Multitimer, transistorudgang (input: Reset, Start og Gate)' 1030
+.Name K -7500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -7500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -7500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -7500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text MULTI^TIMER 8750 0 0 0 0 20 0 4 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 20000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 20000 -5000 0 0
+.Point 0 20000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 20000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -5000 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 -2000 0 0
+.Point 0 15000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 -2000 0 0
+.Point 0 20000 -2000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 15250 3750 0 0
+.Point 0 16250 2750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 15875 4375 0 0
+.Point 0 16875 3375 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 17125 3500 0 0
+.Point 0 17500 2750 0 0
+.Point 0 16750 3125 0 0
+.Point 0 17125 3500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 16500 2875 0 0
+.Point 0 16875 2125 0 0
+.Point 0 16125 2500 0 0
+.Point 0 16500 2875 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 17050 1550 0 0
+.Point 0 17050 -450 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 17050 50 0 0
+.Point 0 19050 -1450 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 17050 1050 0 0
+.Point 0 19050 2550 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 18209 -820 0 0
+.Point 0 17950 -150 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 18209 -820 0 0
+.Point 0 17550 -750 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 7500 -5000 0 0 0 0 "" 0 0 0
+.PinName 3 6750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 7500 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 12500 -5000 0 0 0 0 "" 0 0 0
+.PinName 4 11750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 12500 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 12500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 12500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 17500 -5000 0 0 0 0 "" 0 0 0
+.PinName 5 16750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 17500 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 17500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 17500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

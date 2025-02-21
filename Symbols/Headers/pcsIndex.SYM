@@ -1,0 +1,776 @@
+﻿.PCsCADSymbol PCS22_ML_index_A3.SYM 0 0 390000 273125 160 '27-03-2020 12:47:28' 0 V22.0
+.Title 'Indeks (A3)' 1030
+.Title 'Index (A3)' 1033
+.AppData ' [StateTitles]'
+.AppData State0=
+.AppData State1=DK
+.AppData State2=UK
+.AppData State3=PL
+.AppData State4=DE
+.AppData State5=NO
+.AppData State6=CZ
+.AppData State7=SE
+.AppData State8=HU
+.AppData State9=BR
+.AppData State10=TR
+.AppData 'State11=CN - 中文'
+.AppData State12=RU
+.AppData State13=HR
+.AppData State14=ES
+.Name "" 0 0 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Typ "" 0 0 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 0 0 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func ' ' 0 0 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 32768 17 0 6 0 33 0 2 0 0 0 0 0 0 0 0
+.Field Title 20250 265500 0 0 16777215 100 0 2 900 32808 0 2 35 0 0 0 0 0 0 0
+.Fdata "" 11 35 ' ' 4098 "" ""
+.Field Title 30000 13538 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 40850 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 68162 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 95475 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 122788 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 150100 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 177412 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 204725 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 232038 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 30000 259350 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Line number' 199500 261250 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 233938 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 206625 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 179312 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 152000 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 124688 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 97375 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 70062 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 42750 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 199500 15438 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 3825 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 250112 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 222088 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 195250 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 168175 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 140388 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 113550 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 85762 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 59162 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 184775 30900 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field Title 213125 13538 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 40850 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 68162 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 95475 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 122788 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 150100 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 177412 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 204725 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 232038 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Title 213125 259350 0 0 6252327 76 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Line number' 382250 261250 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 233938 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 206625 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 179312 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 152000 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 124688 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 97375 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 70062 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 42750 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Line number' 382250 15438 0 0 6252327 95 0 8 0 33 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 49 0 ' ' 4 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 1 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 2 0 0 0 0
+.Fdata 'Page ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 3 0 0 0 0
+.Fdata 'Strona ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 4 0 0 0 0
+.Fdata 'Seite ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 5 0 0 0 0
+.Fdata 'Side ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 6 0 0 0 0
+.Fdata 'Strana ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 7 0 0 0 0
+.Fdata 'Sida ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 8 0 0 0 0
+.Fdata 'Oldal ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 9 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 10 0 0 0 0
+.Fdata 'Sayfa ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 11 0 0 0 0
+.Fdata '页面  ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'Første brugte side' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 12 0 0 0 0
+.Fdata 'Страница ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 13 0 0 0 0
+.Fdata 'Stranica ' 53 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 3825 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 250112 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 222088 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 195250 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 168175 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 140388 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 113550 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 85762 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 59162 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'Last used page' 367525 30900 0 0 6252327 24 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Fdata '- ' 54 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 182638 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 3825 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 250112 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 222088 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 195250 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 168175 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 140388 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 113550 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 85762 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 59162 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.Field 'First used page' 365388 30900 0 0 6252327 24 0 8 0 32 0 2 0 0 0 14 0 0 0 0
+.Fdata 'Página ' 53 0 ' ' 2116 "" ""
+.polyline 32 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 20
+.Point 0 -15000 0 0 0
+.Point 0 390000 0 0 0
+.end
+.polyline 32 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 20
+.Point 0 -15000 0 0 0
+.Point 0 -15000 273125 0 0
+.end
+.polyline 40 0 0 0 0 6252327 0 100 0 0 0 0 0 0 0 0 20
+.Point 64 -12625 270750 0 0
+.Point 64 23000 270750 0 0
+.Point 64 23000 2375 0 0
+.Point 64 -12625 2375 0 0
+.Point 64 -12625 270750 0 0
+.end
+.polyline 32 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 20
+.Point 0 -15000 272500 0 0
+.Point 0 390000 272500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 273125 0 0
+.Point 0 25375 0 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 390000 218500 0 0
+.Point 0 25375 218500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 191188 0 0
+.Point 0 390000 191188 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 136562 0 0
+.Point 0 390000 136562 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 390000 109250 0 0
+.Point 0 25375 109250 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 81938 0 0
+.Point 0 390000 81938 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 390000 54625 0 0
+.Point 0 25375 54625 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 27312 0 0
+.Point 0 390000 27312 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 25375 245812 0 0
+.Point 0 390000 245812 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 390000 163875 0 0
+.Point 0 25375 163875 0 0
+.end
+.polyline 32 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 20
+.Point 0 390000 272500 0 0
+.Point 0 390000 0 0 0
+.end
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 207500 272500 0 0
+.Point 0 207500 0 0 0
+.end
+.end
+

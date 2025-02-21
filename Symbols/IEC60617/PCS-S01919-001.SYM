@@ -1,0 +1,99 @@
+﻿.PCsCADSymbol PCS-S01919-001.SYM 0 0 6000 12500 1 '27-10-2020 11:37:22' 0 V21.0 rC1x3Sa4i9g6y0vWnhU+1vAPd18PuXXRP96tg5RngFk= 5 IEC60617
+.Title 'Resistor, capasitor and light emitting diode (in one symbol)' 1033
+.Title 'Rezystor, kondensator i dioda świecąca' 1045
+.Title 'Modstand, kondensator og lysdiode i serie' 1030
+.Title 'Odpor, kondenzátor a LED v sérii (v jednom symbolu)' 1029
+.Name E -5000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -1250 0 0
+.Point 0 -1250 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -1250 0 0
+.Point 0 1250 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -1250 0 0
+.Point 0 1250 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 6250 0 0
+.Point 0 1250 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 6250 0 0
+.Point 0 0 8250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -12500 0 0
+.Point 0 0 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 8250 0 0
+.Point 0 2500 8250 0 0
+.end
+.polyline 1 0 0 0 0 0 2 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 9750 0 0
+.Point 0 2500 9750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 9750 0 0
+.Point 0 2500 9750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 9750 0 0
+.Point 0 0 12500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -8500 0 0
+.Point 0 2500 -8500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -8500 0 0
+.Point 0 2500 -3250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -3250 0 0
+.Point 0 2500 -3250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -8500 0 0
+.Point 0 -2500 -3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3500 -8500 0 0
+.Point 0 5750 -10750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -10000 0 0
+.Point 0 4750 -12250 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 6000 -11000 0 0
+.Point 0 5250 -9750 0 0
+.Point 0 4750 -10250 0 0
+.Point 0 6000 -11000 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 5000 -12500 0 0
+.Point 0 4250 -11250 0 0
+.Point 0 3750 -11750 0 0
+.Point 0 5000 -12500 0 0
+.end
+.con 1 0 12500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 11750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -12500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -11750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

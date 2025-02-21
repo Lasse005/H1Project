@@ -1,0 +1,662 @@
+﻿.PCsCADSymbol PCS-ANSI-Toc.SYM 0 0 383426 234120 16 '14-07-2016 13:06:12' 0 V18.5
+.Title 'TOC in columns (DK & UK) (ANSI)' 1033
+.Title 'Indhold i spalter (DK & UK)' 1030
+.AppData ' [StateTitles]'
+.AppData State1=DK
+.AppData State2=UK
+.Name "" 16926 7500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Typ "" 16926 10000 0 0 16711680 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 16926 3500 0 0 16711680 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 15676 7500 0 0 16711680 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 16926 4500 0 0 16711680 25 0 0 0 0 0 2 0 0 0 0 0
+.Text Revision 102176 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 1 0
+.Text Sidenr. 181676 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 1 0
+.Text Titel 8176 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 1 0
+.Text 'Sidste rettelsestid' 129676 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 1 0
+.Text Revision 302176 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 1 0
+.Text Sidenr. 381676 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 1 0
+.Text Titel 208176 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 1 0
+.Text 'Sidste rettelsestid' 329676 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 1 0
+.Text Revision 102176 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 2 0
+.Text Page 181676 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 2 0
+.Text Title 8176 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 2 0
+.Text 'Last edit' 129676 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 2 0
+.Text Revision 302176 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 2 0
+.Text Page 381676 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 2 0
+.Text Title 208176 231620 0 0 32768 25 0 2 0 1 0 2 0 0 0 2 0
+.Text 'Last edit' 329676 231620 0 0 32768 25 0 0 0 1 0 2 0 0 0 2 0
+.Field 'Last Revision' 102176 225000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 217500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 210000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 202500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 195000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 187500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 180000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 172500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 165000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 157500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 150000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 225000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 217500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 210000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 202500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 195000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 187500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 180000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 172500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 165000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 157500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 150000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 225000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 217500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 210000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 202500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 195000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 187500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 180000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 172500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 165000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 157500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 150000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129676 225000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129676 217500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 210000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 202500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 195000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 187500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 180000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 172500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 165000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 157500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 150000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 142500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 135000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 127500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 120000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 112500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 105000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 142500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 135000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 127500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 120000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 112500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 105000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 142500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 135000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 127500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 120000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 112500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 105000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129926 142500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 135000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 127500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 120000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 112500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 105000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 97500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 90000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 82500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 75000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 67500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 60000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 97500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 90000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 82500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 75000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 67500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 180926 60000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 97500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 90000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 82500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 75000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 67500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 2176 60000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129926 97500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 90000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 82500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 75000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 67500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 129926 60000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 52500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 52500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 52500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129926 52500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 45000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 45000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 45000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129926 45000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 102176 37500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 180926 37500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 2176 37500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 129926 37500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 225000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 217500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 210000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 202500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 195000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 187500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 180000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 172500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 165000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 157500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 150000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 380926 225000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 217500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 210000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 202500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 195000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 187500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 180000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 172500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 165000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 157500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 150000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 225000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 217500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 210000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 202500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 195000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 187500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 180000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 172500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 165000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 157500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 150000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329676 225000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329676 217500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 210000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 202500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 195000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 187500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 180000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 172500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 165000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 157500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 150000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 142500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 135000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 127500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 120000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 112500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 105000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 380926 142500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 135000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 127500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 120000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 112500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 105000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 142500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 135000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 127500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 120000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 112500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 105000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329926 142500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 135000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 127500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 120000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 112500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 105000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 97500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 90000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 82500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 75000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 67500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 60000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 380926 97500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 90000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 82500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 75000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 67500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 380926 60000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 97500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 90000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 82500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 75000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 67500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field Title 202176 60000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329926 97500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 90000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 82500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 75000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 67500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Date for last change' 329926 60000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 52500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 380926 52500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 52500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329926 52500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 45000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.Field 'Page number' 380926 45000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 45000 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329926 45000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 380926 37500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Title 202176 37500 0 0 0 25 0 0 0 0 0 2 50 0 0 0 0
+.Fdata "" 43 50 ' ' 132 "" ""
+.Field 'Date for last change' 329926 37500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Last Revision' 302176 37500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Fdata %[F:SRev(n)(n)] 51 0 ' ' 4 "" ""
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 230000 0 0
+.Point 0 183426 230000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 222500 0 0
+.Point 0 183426 222500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 215000 0 0
+.Point 0 183426 215000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 207500 0 0
+.Point 0 183426 207500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 200000 0 0
+.Point 0 183426 200000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 192500 0 0
+.Point 0 183426 192500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 185000 0 0
+.Point 0 183426 185000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 177500 0 0
+.Point 0 183426 177500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 170000 0 0
+.Point 0 183426 170000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 162500 0 0
+.Point 0 183426 162500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 155000 0 0
+.Point 0 183426 155000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 147500 0 0
+.Point 0 183426 147500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 140000 0 0
+.Point 0 183426 140000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 132500 0 0
+.Point 0 183426 132500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 125000 0 0
+.Point 0 183426 125000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 117500 0 0
+.Point 0 183426 117500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 110000 0 0
+.Point 0 183426 110000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 102500 0 0
+.Point 0 183426 102500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 95000 0 0
+.Point 0 183426 95000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 87500 0 0
+.Point 0 183426 87500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 80000 0 0
+.Point 0 183426 80000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 72500 0 0
+.Point 0 183426 72500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 65000 0 0
+.Point 0 183426 65000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 57500 0 0
+.Point 0 183426 57500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 50000 0 0
+.Point 0 183426 50000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 42500 0 0
+.Point 0 183426 42500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1574 35000 0 0
+.Point 0 183426 35000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 230000 0 0
+.Point 0 383426 230000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 222500 0 0
+.Point 0 383426 222500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 215000 0 0
+.Point 0 383426 215000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 207500 0 0
+.Point 0 383426 207500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 200000 0 0
+.Point 0 383426 200000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 192500 0 0
+.Point 0 383426 192500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 185000 0 0
+.Point 0 383426 185000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 177500 0 0
+.Point 0 383426 177500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 170000 0 0
+.Point 0 383426 170000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 162500 0 0
+.Point 0 383426 162500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 155000 0 0
+.Point 0 383426 155000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 147500 0 0
+.Point 0 383426 147500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 140000 0 0
+.Point 0 383426 140000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 132500 0 0
+.Point 0 383426 132500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 125000 0 0
+.Point 0 383426 125000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 117500 0 0
+.Point 0 383426 117500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 110000 0 0
+.Point 0 383426 110000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 102500 0 0
+.Point 0 383426 102500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 95000 0 0
+.Point 0 383426 95000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 87500 0 0
+.Point 0 383426 87500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 80000 0 0
+.Point 0 383426 80000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 72500 0 0
+.Point 0 383426 72500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 65000 0 0
+.Point 0 383426 65000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 57500 0 0
+.Point 0 383426 57500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 50000 0 0
+.Point 0 383426 50000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 42500 0 0
+.Point 0 383426 42500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 198426 35000 0 0
+.Point 0 383426 35000 0 0
+.end
+.end
+

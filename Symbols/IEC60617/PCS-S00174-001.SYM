@@ -1,0 +1,48 @@
+﻿.PCsCADSymbol PCS-S00174-001.SYM 0 0 -1500 2500 1 '27-10-2020 12:48:02' 0 V21.0 2PdClrE3vqL32ozZsprlIpxi8UGvcYituS9OQ/QAuT0= 5 IEC60617
+.Title 'Operation part for Emergency stop switch, push-turn w. key' 1033
+.Title 'Operowanie przez naciskanie grzybkiem, z zatrzaskiem i kluczem' 1045
+.Title 'Operation part for Emergency stop switch, push-turn w. key' 1029
+.Title 'Betjeningsdel for sikkerhedsnødstop, tryk-drej med nøgle' 1030
+.Name "" -16149 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16149 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16149 -13500 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -16149 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16149 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -3500 0 0 0
+.Point 64 -1500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -3750 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 -2500 0 0
+.Point 0 -4250 250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -5750 250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -10000 1250 0 0
+.Point 64 -8250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 750 0 0
+.Point 0 -7500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -12500 0 0 0
+.Point 192 -6750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 2000 0 0
+.Point 0 -12500 -2000 0 0
+.end
+.arc 1 -5000 1250 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.arc 0 -11550 0 0 0 0 2220 1160 2440 250 0 0 0 0 0 0 0
+.end
+

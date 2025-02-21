@@ -1,0 +1,25 @@
+﻿.PCsCADSymbol PCS-S00223.SYM 0 0 0 0 1 '09-10-2020 14:43:38' 0 V21.0 ZZHQTdVCAmHSginKdHpi52hfcOXJuHe5b6KzxO39xr8= 5 IEC60617
+.Title 'Position switch function, S00223' 1033
+.Title 'Funkcja łącznika drogowego, krańcowego, S00223' 1045
+.Title 'Positions-kontaktfunktion, S00223' 1030
+.Title 'Polohový spínač, mezní spínač, S00223' 1029
+.Name "" -2500 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -2500 -9000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -2500 -12250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -2500 -5750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2500 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -1500 0 0 0
+.end
+.end
+

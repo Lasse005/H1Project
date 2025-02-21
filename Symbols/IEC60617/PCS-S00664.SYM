@@ -1,0 +1,51 @@
+﻿.PCsCADSymbol PCS-S00664.SYM 0 0 3750 5000 1 '10-09-2020 12:47:38' 0 V21.0 8Y3jmj2CTGjVL4Xfdb/+Gw0ElmV3BrLu3fzRBXHfmYQ= 5 IEC60617
+.Title 'NPN transistor with collector connected to the envelope, S00664' 1033
+.Title 'Tranzystor NPN o kolektorze połączonym elektrycznie z obudową, S00664' 1045
+.Title 'NPN-transistor med kollektor forbundet til huset, S00664' 1030
+.Title 'Tranzistor typu NPN, kolektor spojený s pouzdrem, S00664' 1029
+.Name K -6250 5000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6250 -14250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1250 0 0
+.Point 0 2500 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 1250 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 3250 0 0
+.Point 0 125 3250 0 0
+.Point 0 -250 1625 0 0
+.end
+.arc 0 -1250 0 0 0 0 5000 0 3600 250 0 0 0 0 0 0 0
+.arc 8 1500 -4250 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.con 1 -7500 0 0 0 0 0 "" 0 0 0
+.PinName 1 -8250 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -8250 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 2500 5000 0 0 0 0 "" 0 0 0
+.PinName 2 1750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 3250 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 2500 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 2500 -5000 0 0 0 0 "" 0 0 0
+.PinName 3 1750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 3250 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 2500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

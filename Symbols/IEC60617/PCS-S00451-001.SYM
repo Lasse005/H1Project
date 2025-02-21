@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00451-001.SYM 0 0 0 0 0 '23-10-2020 18:21:00' 0 V21.0 VohyU9UqOQDAScGsciUBH9/d8lwpwpTSr89nXO00OsI= 5 IEC60617
+.Title 'Wiring, up- or downwards  (DK standard)' 1033
+.Title 'Kable biegnące do dołu (standard DK)' 1045
+.Title 'Nedadgående ledning' 1030
+.Title 'Wiring, up- or downwards  (DK standard)' 1029
+.Name "" -8625 -4563 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8625 -13563 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8625 -16813 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8625 -10313 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8625 -7063 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 -3375 -3375 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -2875 -3750 0 0
+.Point 0 -3750 -2875 0 0
+.Point 0 -5000 -5000 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -6625 -6625 0 0
+.Point 0 -4375 -5250 0 0
+.Point 0 -5250 -4375 0 0
+.Point 0 -6625 -6625 0 0
+.end
+.end
+

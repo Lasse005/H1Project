@@ -1,0 +1,38 @@
+﻿.PCsCADSymbol 19-01.SYM 0 0 5000 0 1 '12-05-2015 15:49:08' 0 V17.0
+.Title 'Fordelingsanordning for væsker, sprøjtedyse' 1030
+.Title 'Distribution device for fluids. Spray nozzle' 1033
+.Title 'Rozdělovací zařízení pro tekutiny. Rozšiřovací tryska' 1029
+.Name "" 0 3500 0 0 0 25 14 1 0 0 0 0 0 0 0 0 0
+.Typ "" 0 -6000 0 0 16711680 18 12 7 0 0 0 0 0 0 0 0 0
+.Art "" 5000 -3250 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 500 0 0 0 18 12 1 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -3750 750 0 0 16711680 18 12 2 0 128 0 0 0 0 0 0 0
+.PinFunc "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 3750 750 0 0 16711680 18 12 0 0 128 0 0 0 0 0 0 0
+.PinFunc "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.end
+

@@ -1,0 +1,49 @@
+﻿.PCsCADSymbol PCS-S00851-006.SYM 0 0 15000 5000 32 '05-10-2020 15:35:12' 0 V21.0 IBcu6s1PR7xNpyaAkPBr9lqFCFIlTb3NVsSDql/Pc58= 5 IEC60617
+.Title 'Total current transformer 3 connections' 1033
+.Title 'Przekładnik prądowy, transformator impulsowy' 1045
+.Title 'Sumstrømstransformer 3 tilslutninger' 1030
+.Title 'Transformátor proudu, pulsní transformátor' 1029
+.Name B -13500 3750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -13500 -5250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -13500 -8500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -13500 -2000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -13500 1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 0 0 0
+.Point 0 15000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 5000 0 0
+.Point 0 10000 2000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -2000 0 0
+.Point 0 10000 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 5000 0 0
+.Point 0 15000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -5000 0 0
+.Point 0 15000 -5000 0 0
+.end
+.arc 0 0 0 0 0 0 12500 0 3600 250 -300 0 0 0 0 0 0
+.con 1 15000 5000 0 0 0 0 "" 0 0 0
+.PinName 1 15750 5750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 15000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 15000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 15000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 15000 0 0 0 0 0 "" 0 0 0
+.PinName 2 15750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 15000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 15000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 15000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 15000 -5000 0 0 0 0 "" 0 0 0
+.PinName 3 15750 -4250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 15000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 15000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 15000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

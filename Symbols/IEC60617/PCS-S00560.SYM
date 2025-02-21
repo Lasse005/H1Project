@@ -1,0 +1,55 @@
+﻿.PCsCADSymbol PCS-S00560.SYM 0 0 5500 5000 1 '08-09-2020 13:10:48' 0 V21.0 6wfWUDoYvCgilkzqjGHADv1StpHDlm292UCqmJ3YVXA= 5 IEC60617
+.Title 'Resistor with movable contact and off position, S00560' 1033
+.Title 'Rezystor o styku ruchomym i położeniem wyłączenia, S00560' 1045
+.Title 'Modstand med glidekontakt og afbrudt stilling, S00560' 1030
+.Title 'Rezistor proměnný s vyznačením vypnuté polohy, S00560' 1029
+.Name R 0 10000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 5000 17500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 5000 21250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 5000 13750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 5000 10000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 1750 0 0
+.Point 0 -750 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -750 1250 0 0
+.Point 0 -1500 3500 0 0
+.Point 0 0 3500 0 0
+.Point 0 -750 1250 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 4500 -1250 0 0
+.Point 0 5500 -1250 0 0
+.Point 0 5500 1250 0 0
+.Point 0 4500 1250 0 0
+.Point 0 4500 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3250 -1250 0 0
+.Point 0 3250 1250 0 0
+.Point 0 -3250 1250 0 0
+.Point 192 -3250 -1250 0 0
+.Point 192 3250 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -5000 0 0 0
+.Point 192 -3250 0 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 5000 0 0 0 0 "" 0 0 0
+.PinName 2 5750 5750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 4250 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

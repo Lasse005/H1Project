@@ -1,0 +1,35 @@
+﻿.PCsCADSymbol 1-9-5-1.SYM 0 0 4750 4125 16 '10-07-2015 10:59:42' 0 V17.0
+.Title '3-phase, open-delta, grounded at common point' 1033
+.Title '3-phase, open-delta, grounded at common point' 1030
+.Name "" -2750 437 0 0 0 25 14 6 1800 0 0 0 0 0 0 0 0
+.Typ "" -2750 -8563 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.Art "" -2750 -11813 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.Func "" -2750 -5313 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2750 -2063 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3750 0 0
+.Point 0 1750 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -4750 0 0
+.Point 0 1250 -4750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 -5750 0 0
+.Point 0 750 -5750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 4750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2375 4125 0 0
+.Point 0 0 0 0 0
+.end
+.end
+

@@ -1,0 +1,27 @@
+﻿.PCsCADSymbol PCS-S00491.SYM 0 0 2500 2500 0 '25-10-2020 16:36:52' 0 V21.0 Y8HzmJhcgekmElTmUdMufP9rJa6IWBJzPlsYsqtuDgo= 5 IEC60617
+.Title 'Emergency lighting luminaire on special circuit, S00491' 1033
+.Title 'Wypust oświetlenia awaryjnego, S00491' 1045
+.Title 'Armatur f nød-/panikbelysning på særlig installation, S00491' 1030
+.Title 'Svítidlo nouzového osvětlení ve zvláštním obvodu, S00491' 1029
+.Name E -4250 -1075 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4250 -9075 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4250 -12325 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4250 -5825 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4250 -2575 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.arc 8 0 0 0 0 0 750 0 3600 100 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3500 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

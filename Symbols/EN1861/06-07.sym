@@ -1,0 +1,46 @@
+﻿.PCsCADSymbol 06-07.sym 0 0 5000 7500 1 '12-05-2015 15:37:50' 0 V17.0
+.Title 'Aktueret af arbejdstryk mod fastindstillet fjeder' 1030
+.Title 'Driven by working pressure against fixed spring' 1033
+.Title 'Pohon pracovním tlakem proti fixní pružině' 1029
+.Name "" -2500 4250 0 0 0 25 14 2 0 0 0 0 0 0 0 0 0
+.Typ "" 0 -3500 0 0 16711680 18 12 7 0 0 0 0 0 0 0 0 0
+.Art "" 0 -6250 0 0 16711680 18 12 7 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2500 1250 0 0 0 18 12 2 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 1250 3000 0 0
+.Point 0 -1250 3500 0 0
+.Point 0 1250 4000 0 0
+.Point 0 -1250 4500 0 0
+.Point 0 1250 5000 0 0
+.Point 0 0 5500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5500 0 0
+.Point 0 0 7500 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 16711680 18 12 2 0 128 0 0 0 0 0 0 0
+.PinFunc "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 5750 750 0 0 16711680 18 12 0 0 128 0 0 0 0 0 0 0
+.PinFunc "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 0 0 16711680 18 12 0 0 0 0 0 0 0 0 0 0
+.end
+

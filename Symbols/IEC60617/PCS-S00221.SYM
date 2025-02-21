@@ -1,0 +1,18 @@
+﻿.PCsCADSymbol PCS-S00221.SYM 0 0 1250 0 1 '09-10-2020 14:41:40' 0 V21.0 TV6S4RPoMaGV2Jxp6sY5Nh/uzgFsgXFwk7DPtnMOVJg= 5 IEC60617
+.Title 'Switch-disconnector function, S00221' 1033
+.Title 'Funkcja rozłącznika izolacyjnego, S00221' 1045
+.Title 'Lastadskillerfunktion, S00221' 1030
+.Title 'Odpínač, S00221' 1029
+.Name "" -2250 125 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -2250 -8875 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -2250 -12125 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -2250 -5625 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2250 -2375 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 0 0 0
+.Point 0 1250 0 0 0
+.end
+.arc 1 0 -1250 0 0 0 1000 0 3600 250 0 0 0 0 0 0 0
+.end
+

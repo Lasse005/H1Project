@@ -1,0 +1,249 @@
+﻿.PCsCADSymbol PCS-S00342-015.SYM 0 0 11250 2500 1 '15-04-2021 18:30:02' 0 V21.0 /ErE4niTA2O1kHLmb60ql4nn6+MVXJdTYhO9NuUU8f4= 5 IEC60617
+.Title 'ZM-x-(8)-PKZ24 4p. Circuit module' 1033
+.Title 'Moduł wyzwalacza 4-polowy ZM-x-(8)-PKZ24' 1045
+.Title 'ZM-x-(8)-PKZ24 4p. Circuit module' 1029
+.Title 'ZM-x-(8)-PKZ24 4p. maksimal modul' 1030
+.Name Q -15500 -2500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -15500 -11500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -15500 -14750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -15500 -8250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -15500 -5000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 11250 -10000 0 0
+.Point 0 11250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -1250 0 0
+.Point 0 10000 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -3750 0 0
+.Point 0 7500 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -3750 0 0
+.Point 0 10000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1250 0 0
+.Point 0 0 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -3750 0 0
+.Point 0 -2500 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -3750 0 0
+.Point 0 0 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -1250 0 0
+.Point 0 -5000 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -3750 0 0
+.Point 0 -7500 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -3750 0 0
+.Point 0 -5000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -10000 0 0
+.Point 0 -8750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -5000 0 0
+.Point 0 11250 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 0 0 0
+.Point 0 11250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 1 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -10000 0 0
+.Point 0 11250 -10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -10000 0 0
+.Point 0 11250 -10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5000 0 0
+.Point 0 0 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -5000 0 0
+.Point 0 10000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 -10000 0 0
+.Point 0 -3750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -10000 0 0
+.Point 0 1250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -9000 0 0
+.Point 0 -7500 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8000 -9000 0 0
+.Point 0 -7000 -9000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8000 -6000 0 0
+.Point 0 -7000 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -6000 0 0
+.Point 0 -4750 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -9000 0 0
+.Point 0 -4750 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -9000 0 0
+.Point 0 -2500 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 -9000 0 0
+.Point 0 -2000 -9000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 -6000 0 0
+.Point 0 -2000 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -6000 0 0
+.Point 0 250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -9000 0 0
+.Point 0 250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -9000 0 0
+.Point 0 7500 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7000 -9000 0 0
+.Point 0 8000 -9000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7000 -6000 0 0
+.Point 0 8000 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 8750 -6000 0 0
+.Point 0 10250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 8750 -9000 0 0
+.Point 0 10250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -1250 0 0
+.Point 0 10000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1250 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -1250 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6250 -10000 0 0
+.Point 0 6250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -1250 0 0
+.Point 0 5000 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -3750 0 0
+.Point 0 2500 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -3750 0 0
+.Point 0 5000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -9000 0 0
+.Point 0 2500 -6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 -6000 0 0
+.Point 0 5250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 -9000 0 0
+.Point 0 5250 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -1250 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -7500 0 0
+.Point 0 -14000 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -5875 0 0
+.Point 0 -14000 -4250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -875 0 0
+.Point 0 -14000 750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 1625 0 0
+.Point 0 -14000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -3375 0 0
+.Point 0 -14000 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -2500 0 0
+.Point 0 -13375 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 -2500 0 0
+.Point 0 -10875 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -2500 0 0
+.Point 0 -8750 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -7500 0 0
+.Point 0 -14000 -6750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -7500 0 0
+.Point 0 -13375 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 -7500 0 0
+.Point 0 -10875 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -7500 0 0
+.Point 0 -8750 -7500 0 0
+.end
+.end
+

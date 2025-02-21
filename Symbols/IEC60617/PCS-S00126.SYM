@@ -1,0 +1,21 @@
+﻿.PCsCADSymbol PCS-S00126.SYM 0 0 2500 2500 0 '19-06-2020 12:27:44' 0 V21.0 yQj/EX8whAq/cq7amqPqZNiQrNbLCaOF7LJXtE/qWHc= 5 IEC60617
+.Title 'Coupling effect with electrical separation, S00126' 1033
+.Title 'Efekt sprzężenia z separacją elektryczną S00126' 1045
+.Title 'Koblingsvirkning med elektrisk adskillelse S00126' 1030
+.Title 'Vazební efekt s elektrickým oddělením S00126' 1029
+.Name "" -1000 2500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -9750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -3250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 1000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 1500 0 0 0
+.end
+.end
+

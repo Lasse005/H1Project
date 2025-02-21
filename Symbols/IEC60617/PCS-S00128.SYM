@@ -1,0 +1,37 @@
+﻿.PCsCADSymbol PCS-S00128.SYM 0 0 2000 2500 0 '19-06-2020 12:28:16' 0 V21.0 iMp/FFs4yfAyWpT/qJCIuACj3Dy8T3RUfKUoxlCm/V0= 5 IEC60617
+.Title 'Radiation, coherent, non-ionizing, S00128' 1033
+.Title 'Promieniowanie, spójne, niejonizujące, S00128' 1045
+.Title 'Stråling, kohærent, ikke-ioniserende, S00128' 1030
+.Title 'Záření, koherentní, neionizující,  S00128' 1029
+.Name "" -3500 1500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -10750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -1875 625 0 0
+.Point 64 0 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -625 1875 0 0
+.Point 64 1250 0 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 1250 750 0 0
+.Point 0 2000 -750 0 0
+.Point 0 500 0 0 0
+.Point 0 1250 750 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 0 -500 0 0
+.Point 0 750 -2000 0 0
+.Point 0 -750 -1250 0 0
+.Point 0 0 -500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 0 2500 0 0
+.end
+.end
+

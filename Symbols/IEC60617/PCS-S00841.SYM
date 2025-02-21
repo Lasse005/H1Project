@@ -1,0 +1,33 @@
+﻿.PCsCADSymbol PCS-S00841.SYM 0 0 7500 15000 1 '21-09-2020 14:01:54' 0 V21.0 Ui6REtFbg03eEcdXsDejJD0I1FXpfkkm6D1cX1JHXng= 5 IEC60617
+.Title 'Transformer with two windings, general symbol /Form 1, S00841' 1033
+.Title 'Transformator o dwóch uzwojeniach, symbol ogólny /Forma 1, S00841' 1045
+.Title 'Transformer med to viklinger, S00841' 1030
+.Title 'Jednofázový transformátor s dvěma vinutími, S00841' 1029
+.Name T -9000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 12500 0 0
+.Point 0 0 15000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -15000 0 0
+.Point 0 0 -12500 0 0
+.end
+.arc 1 0 5000 0 0 0 7500 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 -5000 0 0 0 7500 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 15000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 15750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 15750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -15000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -15750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -15750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00290-S004.SYM 0 0 1250 7500 1 '09-09-2021 12:25:04' 4 V22.1 /4EZ+nYLoYZS2+0WI+Xy2lEMJy97tQBdm4TCASh6LFE= 5 IEC60617
+.Title 'Singleline symbol - Switch-disconnector; 3P+N, on-load isolating switch' 1033
+.Title 'Symbol jednokreskowy 3P+N rozłącznik izolacyjny, Przełącznik odłączający pod obciążeniem' 1045
+.Title 'Singleline symbol - 3P+N lastadskiller' 1030
+.Title 'Singleline symbol - 3P+N odpínač' 1029
+.Name Q -4250 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 3750 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 3750 0 0
+.Point 0 1250 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.arc 0 0 2500 0 0 0 1000 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 128 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,37 @@
+﻿.PCsCADSymbol PCS-S00196.SYM 0 0 15000 2500 1 '13-07-2020 14:43:58' 0 V21.0 Z0CLQbR9TBdGym0anw4qx4LITf62WRR/18Z27K348oY= 5 IEC60617
+.Title 'Actuator (actuated by a counter), S00196' 1033
+.Title 'Napęd (uruchamiany przez licznik), S00196' 1045
+.Title 'Aktivering med tælleværk, S00196' 1030
+.Title 'Ovládání počtem událostí, Ovládání čítačem, S00196' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 4500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 9000 0 0 0
+.Point 0 11500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 0 0 0
+.Point 0 15000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5500 0 0 0
+.Point 0 8000 0 0 0
+.end
+.arc 0 0 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.end
+

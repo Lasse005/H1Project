@@ -1,0 +1,41 @@
+﻿.PCsCADSymbol PCS-S00198.SYM 0 0 15000 2500 1 '13-07-2020 14:49:26' 0 V21.0 By+NF855leKip0lSmVNVr92iQs2IBOCUtpyt8x8YVbg= 5 IEC60617
+.Title 'Actuator (actuated by gas flow), S00198' 1033
+.Title 'Napęd (uruchamiany przez przepływ gazu), S00198' 1045
+.Title 'Aktivering med gasstrømning, S00198' 1030
+.Title 'Ovládání tokem plynu, S00198' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 4500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 9000 0 0 0
+.Point 0 11500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 0 0 0
+.Point 0 15000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5500 0 0 0
+.Point 0 8000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.arc 8 1250 -1250 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.end
+

@@ -1,0 +1,352 @@
+﻿.PCsCADSymbol PCS-S00284-010.SYM 0 0 17500 7500 1 '21-05-2021 12:07:30' 4 V22.0 6ZT5qu5pLYr7pRhWqUXQUy/dlSv6wg4T+2pusjhjdlI= 5 IEC60617
+.Title 'Stycznik; Główny styk zwierny stycznika, sterowanie ręczne' 1045
+.Title 'Contactor; Main make contact of a contactor, manual operation' 1033
+.Title 'Kontaktor, Hovedsluttekontakt' 1030
+.Title 'Stykač (kontakt je rozepnut v klidové poloze)' 1029
+.AppData [StateTitles]
+.AppData State0=
+.AppData State1=
+.AppData State2=
+.AppData State3=
+.AppData State4=
+.AppData State5=
+.AppData State6=
+.AppData State7=
+.AppData State8=
+.AppData State9=
+.AppData State10=
+.AppData State11=
+.AppData State12=
+.AppData State13=
+.AppData State14=
+.AppData State15=
+.AppData State16=
+.AppData State17=
+.AppData State18=
+.AppData State19=
+.AppData State20=
+.AppData State21=
+.AppData State22=
+.AppData State23=
+.AppData State24=
+.AppData State25=
+.AppData State26=
+.AppData State27=
+.AppData State28=
+.AppData State29=
+.AppData State30=
+.AppData State31=
+.AppData State32=
+.AppData State33=
+.AppData State34=
+.AppData State35=
+.AppData State36=
+.AppData State37=
+.AppData State38=
+.AppData State39=
+.AppData State40=
+.AppData State41=
+.AppData State42=
+.AppData State43=
+.AppData State44=
+.AppData State45=
+.AppData State46=
+.AppData State47=
+.AppData State48=
+.AppData State49=
+.AppData State50=
+.AppData State51=
+.AppData State52=
+.AppData State53=
+.AppData State54=
+.AppData State55=
+.AppData State56=
+.AppData State57=
+.AppData State58=
+.AppData State59=
+.AppData State60=
+.AppData State61=
+.AppData State62=
+.AppData State63=
+.AppData State64=
+.AppData State65=
+.AppData State66=
+.AppData State67=
+.AppData State68=
+.AppData State69=
+.AppData State70=
+.AppData State71=
+.AppData State72=
+.AppData State73=
+.AppData State74=
+.AppData State75=
+.AppData State76=
+.AppData State77=
+.AppData State78=
+.AppData State79=
+.AppData State80=
+.AppData State81=
+.AppData State82=
+.AppData State83=
+.AppData State84=
+.AppData State85=
+.AppData State86=
+.AppData State87=
+.AppData State88=
+.AppData State89=
+.AppData State90=
+.AppData State91=
+.AppData State92=
+.AppData State93=
+.AppData State94=
+.AppData State95=
+.AppData State96=
+.AppData State97=
+.AppData State98=
+.AppData State99=
+.AppData State100=
+.AppData State101=
+.AppData State102=
+.AppData State103=
+.AppData State104=
+.AppData State105=
+.AppData State106=
+.AppData State107=
+.AppData State108=
+.AppData State109=
+.AppData State110=
+.AppData State111=
+.AppData State112=
+.AppData State113=
+.AppData State114=
+.AppData State115=
+.AppData State116=
+.AppData State117=
+.AppData State118=
+.AppData State119=
+.AppData State120=
+.AppData State121=
+.AppData State122=
+.AppData State123=
+.AppData State124=
+.AppData State125=
+.AppData State126=
+.AppData State127=
+.AppData State128=
+.AppData State129=
+.AppData State130=
+.AppData State131=
+.AppData State132=
+.AppData State133=
+.AppData State134=
+.AppData State135=
+.AppData State136=
+.AppData State137=
+.AppData State138=
+.AppData State139=
+.AppData State140=
+.AppData State141=
+.AppData State142=
+.AppData State143=
+.AppData State144=
+.AppData State145=
+.AppData State146=
+.AppData State147=
+.AppData State148=
+.AppData State149=
+.AppData State150=
+.AppData State151=
+.AppData State152=
+.AppData State153=
+.AppData State154=
+.AppData State155=
+.AppData State156=
+.AppData State157=
+.AppData State158=
+.AppData State159=
+.AppData State160=
+.AppData State161=
+.AppData State162=
+.AppData State163=
+.AppData State164=
+.AppData State165=
+.AppData State166=
+.AppData State167=
+.AppData State168=
+.AppData State169=
+.AppData State170=
+.AppData State171=
+.AppData State172=
+.AppData State173=
+.AppData State174=
+.AppData State175=
+.AppData State176=
+.AppData State177=
+.AppData State178=
+.AppData State179=
+.AppData State180=
+.AppData State181=
+.AppData State182=
+.AppData State183=
+.AppData State184=
+.AppData State185=
+.AppData State186=
+.AppData State187=
+.AppData State188=
+.AppData State189=
+.AppData State190=
+.AppData State191=
+.AppData State192=
+.AppData State193=
+.AppData State194=
+.AppData State195=
+.AppData State196=
+.AppData State197=
+.AppData State198=
+.AppData State199=
+.AppData State200=
+.AppData State201=
+.AppData State202=
+.AppData State203=
+.AppData State204=
+.AppData State205=
+.AppData State206=
+.AppData State207=
+.AppData State208=
+.AppData State209=
+.AppData State210=
+.AppData State211=
+.AppData State212=
+.AppData State213=
+.AppData State214=
+.AppData State215=
+.AppData State216=
+.AppData State217=
+.AppData State218=
+.AppData State219=
+.AppData State220=
+.AppData State221=
+.AppData State222=
+.AppData State223=
+.AppData State224=
+.AppData State225=
+.AppData State226=
+.AppData State227=
+.AppData State228=
+.AppData State229=
+.AppData State230=
+.AppData State231=
+.AppData State232=
+.AppData State233=
+.AppData State234=
+.AppData State235=
+.AppData State236=
+.AppData State237=
+.AppData State238=
+.AppData State239=
+.AppData State240=
+.AppData State241=
+.AppData State242=
+.AppData State243=
+.AppData State244=
+.AppData State245=
+.AppData State246=
+.AppData State247=
+.AppData State248=
+.AppData State249=
+.AppData State250=
+.AppData State251=
+.AppData State252=
+.AppData State253=
+.AppData State254=
+.AppData State255=
+.Name Q -4250 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text P 15000 500 0 0 0 10 0 7 0 0 0 2 0 0 0 0 0
+.Text I 17500 2050 0 0 0 18 0 8 0 0 0 2 0 0 0 0 0
+.Text auto 17500 -1700 0 0 0 18 0 8 0 0 0 2 0 0 0 0 0
+.Text O 17500 -5450 0 0 0 18 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 11250 0 0 0
+.Point 0 12000 1250 0 0
+.Point 0 12750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6500 -1250 0 0
+.Point 0 6500 -2250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6500 1250 0 0
+.Point 0 6500 2250 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 0 0 0
+.Point 0 4000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4000 1250 0 0
+.Point 0 9000 1250 0 0
+.Point 0 9000 -1250 0 0
+.Point 0 4000 -1250 0 0
+.Point 0 4000 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 7750 1250 0 0
+.Point 0 5250 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 3000 0 0 0
+.Point 0 3000 -3750 0 0
+.Point 0 17500 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 17500 -7500 0 0
+.Point 0 10000 -7500 0 0
+.Point 0 10000 0 0 0
+.Point 0 11250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 14000 0 0 0
+.Point 0 12750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 14000 1000 0 0
+.Point 0 15500 1000 0 0
+.Point 0 16250 0 0 0
+.Point 0 15500 -1000 0 0
+.Point 0 14000 -1000 0 0
+.Point 0 14000 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 16250 0 0 0
+.Point 0 17500 0 0 0
+.end
+.arc 0 0 3750 0 0 0 1250 900 2700 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

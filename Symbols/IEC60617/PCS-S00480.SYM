@@ -1,0 +1,38 @@
+﻿.PCsCADSymbol PCS-S00480.SYM 0 0 5000 6250 1 '25-10-2020 15:54:44' 0 V21.0 2X2lOctX0gXsGxWmzEQN7Dgfwu1IjYRTsvMOdo39NLs= 5 IEC60617
+.Title 'Key-operated switch, S00480' 1033
+.Title 'Łącznik działający na klucz, S00480' 1045
+.Title 'Afbryder betjent med nøgle, S00480' 1030
+.Title 'Spínač ovládaný klíčem, S00480' 1029
+.Name Q -1250 8750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 1250 15250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 1250 18500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 1250 12000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 1250 8750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -3750 0 0
+.Point 0 2500 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 -3750 0 0
+.Point 0 1250 1125 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -3750 0 0
+.Point 0 -1250 1125 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 6250 0 0
+.Point 0 5000 6250 0 0
+.Point 0 5000 -6250 0 0
+.Point 0 -5000 -6250 0 0
+.Point 0 -5000 6250 0 0
+.end
+.arc 1 0 2500 0 0 0 1800 0 3600 250 0 0 0 0 0 0 0
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.end
+

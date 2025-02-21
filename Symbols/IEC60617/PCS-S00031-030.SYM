@@ -1,0 +1,33 @@
+﻿.PCsCADSymbol PCS-S00031-030.SYM 0 0 2000 15000 161 '31-07-2020 14:00:56' 0 V21.0 QKfvJGsQ24lkoWqeIKnh3vTP3Uz5Mm4Zwtu/3uENWsc= 5 IEC60617
+.Title 'Connector female for 1P contact in switch' 1033
+.Title 'Złącze żeńskie 1P' 1045
+.Title 'Konnektor hun for 1P kontakt.' 1030
+.Title 'Connector female for 1P contact in switch' 1029
+.Name X -5750 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5750 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5750 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5750 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5750 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -15000 0 0
+.Point 0 0 -12000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 12000 0 0
+.Point 0 0 15000 0 0
+.end
+.arc 0 0 10000 0 0 0 2000 0 1800 250 0 0 0 0 0 0 0
+.arc 0 0 -10000 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.con 1 0 15000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 15750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 15750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -15000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -15750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -15750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,53 @@
+﻿.PCsCADSymbol PCS-S00255.SYM 0 0 0 7500 129 '12-10-2020 11:58:54' 0 V21.0 gQsvn0V4EKC3rk2YMK/Q8mPgQ31j56uUby8+e2tBkKw= 5 IEC60617
+.Title 'Switch, manually operated, pulling, automatic return, S00255' 1033
+.Title 'Łącznik ręczny cięgnowy, zwierny, automatyczny powrót, S00255' 1045
+.Title 'Trækafbryder, sluttekontakt med automatisk tilbageføring, S00255' 1030
+.Title 'Spínač ovládaný tahem, se samočinným návratem, bez aretace, S00255' 1029
+.Name S -11000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 0 0 0
+.Point 0 -7375 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6000 0 0 0
+.Point 0 -3250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 1250 0 0
+.Point 0 -7500 1250 0 0
+.Point 0 -7500 -1250 0 0
+.Point 0 -8750 -1250 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

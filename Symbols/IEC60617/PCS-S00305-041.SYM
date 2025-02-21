@@ -1,0 +1,100 @@
+﻿.PCsCADSymbol PCS-S00305-041.SYM 0 0 11250 2500 33 '16-10-2020 15:02:32' 0 V21.0 +xytUG0yVmNT9bD2+M6cDkQ3Ba5rPvroF8uGhTPniRw= 5 IEC60617
+.Title 'Over current relay for 4 Pole circuit breaker' 1033
+.Title 'Przekaźnik nadprądowy dla wyłącznika 4P' 1045
+.Title 'Over current relay for 4 Pole circuit breaker' 1029
+.Title 'Overstrømsrelæ 4P til maksimalafbryder' 1030
+.Name K -16250 -5000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0
+.Typ "" -16250 -14000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16250 -17250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -16250 -10750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16250 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -5000 0 0
+.Point 0 11250 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 0 0 0
+.Point 0 11250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -2500 0 0
+.Point 0 -6250 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 -1250 -500 0 0
+.Point 0 -1250 -1250 0 0
+.Point 0 1250 -1250 0 0
+.Point 0 1250 -3500 0 0
+.Point 0 -1250 -3500 0 0
+.Point 0 -1250 -4250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 1250 -9000 0 0
+.Point 0 1250 -6000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 750 -9000 0 0
+.Point 0 1750 -9000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 750 -6000 0 0
+.Point 0 1750 -6000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 2500 -9000 0 0
+.Point 0 4000 -7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 2500 -6000 0 0
+.Point 0 4000 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 6730 -1370 0 0
+.Point 0 7450 -2090 0 0
+.end
+.polyline 1 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0
+.Point 0 5290 -3530 0 0
+.Point 0 7090 -1730 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -10000 0 0
+.Point 0 -5000 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -10000 0 0
+.Point 0 0 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -10000 0 0
+.Point 0 5000 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -10000 0 0
+.Point 0 10000 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -5000 0 0
+.Point 0 11250 -5000 0 0
+.Point 0 11250 -10000 0 0
+.Point 0 -6250 -10000 0 0
+.Point 0 -6250 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 11250 0 0 0
+.Point 0 11250 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 0 0 0
+.Point 0 -6250 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -7500 0 0
+.Point 0 -14000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 -14000 -7500 0 0
+.Point 0 -6250 -7500 0 0
+.end
+.end
+

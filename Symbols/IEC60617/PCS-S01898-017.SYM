@@ -1,0 +1,67 @@
+﻿.PCsCADSymbol PCS-S01898-017.SYM 0 0 7500 7500 1 '20-11-2020 11:53:56' 0 V21.0 gLX2z/gG1olT70A9acrunPk16EUxU+gIzetjpI8S8Hc= 5 IEC60617
+.Title 'SL-SP/PP  multi-core cabel PLC I/O unit' 1033
+.Title 'SL-SP/PP  multi-core cabel PLC I/O unit' 1030
+.Title 'SL-SP/PP  multi-core cabel PLC I/O unit' 1029
+.Title 'Kabel wielożyłowy jednostki I/O PLC, SL-SP/PP' 1045
+.Name T -9000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9000 -8750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9000 -12500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func ' ' -9000 -5000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -7500 0 0
+.Point 0 7500 -7500 0 0
+.Point 0 7500 7500 0 0
+.Point 0 -7500 7500 0 0
+.Point 0 -7500 -7500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 -750 5500 0 0
+.Point 0 -750 2500 0 0
+.Point 0 750 2500 0 0
+.Point 0 750 5500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 6750 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 -850 5400 0 0
+.Point 0 850 5400 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1500 0 0
+.Point 0 -2500 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1500 0 0
+.Point 0 2500 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 0 0 0
+.Point 0 -1500 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1500 0 0 0
+.Point 0 1500 -5000 0 0
+.end
+.arc 8 0 5500 0 0 16777215 1200 0 1800 100 0 0 0 0 0 0 0
+.arc 0 0 5500 0 0 0 1300 0 1800 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 8250 0 0 0 20 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 7500 2500 0 0 0 0 "" 0 0 0
+.PinName 2 8250 3250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 8250 1750 0 0 0 20 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -8250 0 0 0 20 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

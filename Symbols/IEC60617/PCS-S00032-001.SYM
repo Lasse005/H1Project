@@ -1,0 +1,126 @@
+﻿.PCsCADSymbol PCS-S00032-001.SYM 0 0 20000 2500 128 '03-08-2020 12:30:44' 0 V21.0 8a+QBI/AkSse+WzWDbS0q1jVVbd+8gzz77cx/3N74sg= 5 IEC60617
+.Title 'RJ 45 connector (male) m/8 connection' 1033
+.Title 'Złącze RJ 45 (męskie) 8 punktów połączeń' 1045
+.Title 'RJ 45 connector (male) m/8 connection' 1029
+.Title 'RJ 45 stik (han) m/1 tilslutning' 1030
+.Name X -22500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -22500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -22500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -22500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -22500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 17500 2500 0 0
+.Point 0 18250 2500 0 0
+.Point 0 18250 -500 0 0
+.Point 0 16750 -500 0 0
+.Point 0 16750 2500 0 0
+.Point 0 17500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 12500 2500 0 0
+.Point 0 13250 2500 0 0
+.Point 0 13250 -500 0 0
+.Point 0 11750 -500 0 0
+.Point 0 11750 2500 0 0
+.Point 0 12500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 7500 2500 0 0
+.Point 0 8250 2500 0 0
+.Point 0 8250 -500 0 0
+.Point 0 6750 -500 0 0
+.Point 0 6750 2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 3250 2500 0 0
+.Point 0 3250 -500 0 0
+.Point 0 1750 -500 0 0
+.Point 0 1750 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -1750 2500 0 0
+.Point 0 -1750 -500 0 0
+.Point 0 -3250 -500 0 0
+.Point 0 -3250 2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -7500 2500 0 0
+.Point 0 -6750 2500 0 0
+.Point 0 -6750 -500 0 0
+.Point 0 -8250 -500 0 0
+.Point 0 -8250 2500 0 0
+.Point 0 -7500 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -12500 2500 0 0
+.Point 0 -11750 2500 0 0
+.Point 0 -11750 -500 0 0
+.Point 0 -13250 -500 0 0
+.Point 0 -13250 2500 0 0
+.Point 0 -12500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 17500 0 0 0
+.Point 0 17500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12500 0 0 0
+.Point 0 12500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 0 0 0
+.Point 0 7500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -7500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 0 0 0
+.Point 0 -12500 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -17500 0 0 0
+.Point 0 -17500 -2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -17500 2500 0 0
+.Point 0 -16750 2500 0 0
+.Point 0 -16750 -500 0 0
+.Point 0 -18250 -500 0 0
+.Point 0 -18250 2500 0 0
+.Point 0 -17500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 17500 -1000 0 0
+.Point 0 -17500 -1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -20000 -2500 0 0
+.Point 0 20000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 -5000 0 0
+.end
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

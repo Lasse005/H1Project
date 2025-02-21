@@ -1,0 +1,25 @@
+﻿.PCsCADSymbol PCS-S00090.SYM 0 0 7000 4500 1 '19-06-2020 12:19:24' 0 V21.0 1d8yfCPWaxs2Tmt9pVRNJ5HviDvWFCcdAw1PKWvOHRg= 1 IEC60617
+.Title 'Continuous variability, pre-set, S00090' 1033
+.Title 'Zmienność ciągła, z ustawieniem wstępnym, S00090' 1045
+.Title 'Forindstilling, trinløs variabel, S00090' 1030
+.Title 'Nastavitelnost, proměnnost plynulá, S00090' 1029
+.Name "" -3500 2250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -6750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -3500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1500 3500 0 0
+.Point 0 3500 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 7000 4500 0 0
+.end
+.end
+

@@ -1,0 +1,66 @@
+﻿.PCsCADSymbol PCS-S00032-004.SYM 0 0 4270 2500 129 '03-08-2020 13:12:52' 0 V21.0 WxmKav9KkzYn1gtWiBtR+sy0i8Yfz3HcyqwEdkleFGo= 5 IEC60617
+.Title 'Male connector up - statement symbol' 1033
+.Title 'Wtyczka i gniazdo (męskie i żeńskie)' 1045
+.Title 'Stikforbindelse han op - Tilstandssymbol' 1030
+.Title 'Male connector up - statement symbol' 1029
+.AppData [StateTitles]
+.AppData State0=
+.AppData 'State1=8 P'
+.AppData 'State2=15 P'
+.AppData 'State3=9 P'
+.AppData 'State4=25 P'
+.AppData 'State5=4 P'
+.Name X -4750 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4750 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4750 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4750 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4750 -3500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 8 1750 -1000 0 0 0 25 0 0 0 0 0 2 0 0 0 1 0
+.Text 15 1750 -1000 0 0 0 25 0 0 0 0 0 2 0 0 0 2 0
+.Text 9 1750 -1000 0 0 0 25 0 0 0 0 0 2 0 0 0 3 0
+.Text 25 1750 -1000 0 0 0 25 0 0 0 0 0 2 0 0 0 4 0
+.Text 4 1750 -1000 0 0 0 25 0 0 0 0 0 2 0 0 0 5 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 1250 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -500 2500 0 0
+.Point 0 500 2500 0 0
+.Point 0 500 -750 0 0
+.Point 0 -500 -750 0 0
+.Point 0 -500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 1 0 0 0 0 0
+.Point 0 250 1500 0 0
+.Point 0 1500 500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 2 0 0 0 0 0
+.Point 0 250 1500 0 0
+.Point 0 1500 500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 3 0 0 0 0 0
+.Point 0 250 1500 0 0
+.Point 0 1500 500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 4 0 0 0 0 0
+.Point 0 250 1500 0 0
+.Point 0 1500 500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 5 0 0 0 0 0
+.Point 0 250 1500 0 0
+.Point 0 1500 500 0 0
+.end
+.con 1 0 2500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 3250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

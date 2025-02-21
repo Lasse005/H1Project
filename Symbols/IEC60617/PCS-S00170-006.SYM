@@ -1,0 +1,44 @@
+﻿.PCsCADSymbol PCS-S00170-006.SYM 0 0 0 1250 1 '27-10-2020 13:00:46' 0 V21.0 PvsVQVYY3nwIOIGfuJ05wzm1X6kQcC/sJm9th85uz/Q= 5 IEC60617
+.Title 'Rotary-handle, 2 positions with return from Right to Left' 1033
+.Title 'Napęd obrotowy 2-pozycyjny z automatycznym powrotem z pozycji prawej do lewej' 1045
+.Title 'Rotary-handle, 2 positions with return from Right to Left' 1029
+.Title 'Drejegreb, 2 stillinger med fjederretur fra højre til venstre' 1030
+.Name "" -11250 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11250 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11250 -13500 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -11250 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11250 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2150 1100 0 0
+.Point 0 -2150 -1100 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -2150 1200 0 0
+.Point 192 -3850 0 0 0
+.Point 192 -2150 -1200 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 -1250 0 0
+.Point 0 -7500 -1250 0 0
+.Point 0 -7500 1250 0 0
+.Point 0 -6250 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -6625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 0 0 0 0
+.end
+.end
+

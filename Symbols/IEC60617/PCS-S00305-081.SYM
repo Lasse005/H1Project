@@ -1,0 +1,117 @@
+﻿.PCsCADSymbol PCS-S00305-081.SYM 0 0 15000 5000 1 '19-10-2020 14:24:48' 3 V21.0 Wbt5tGUcqsyTOH/rj+E0lVcDEi/gr99BvF/xxUsCGAM= 5 IEC60617
+.Title 'Operational device with 2 seperate coils, mechanical latched relay' 1033
+.Title 'Dwie cewki połączone blokadą mechaniczną' 1045
+.Title 'Aktiveringsudstyr m 2 adskilte spoler med mekanisk spærring' 1030
+.Title 'Ovládací prvek s 2 oddělenými cívkami, relé s mechanickým přidržením' 1029
+.Name K -16000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -16000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 15000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 -2500 0 0
+.Point 0 15000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 15000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -5000 0 0
+.Point 0 10000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 2500 0 0
+.Point 0 10000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 -2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 -2500 0 0
+.Point 0 -15000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -5000 0 0
+.Point 0 -10000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 2500 0 0
+.Point 0 -10000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1000 0 0
+.Point 0 -1250 1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 1000 0 0
+.Point 0 1250 1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1000 0 0
+.Point 0 1250 1000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 -4125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 0 0 0
+.Point 0 3375 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4250 0 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 875 0 0 0
+.Point 0 625 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 -625 0 0 0
+.end
+.con 1 -10000 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -10750 4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -10000 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -10000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -10000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -10000 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -10750 -4250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -10000 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -10000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -10000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 10000 5000 0 0 0 0 "" 0 0 0
+.PinName 3 9250 4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 10000 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 10000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 10000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 10000 -5000 0 0 0 0 "" 0 0 0
+.PinName 4 9250 -4250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 10000 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 10000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 10000 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

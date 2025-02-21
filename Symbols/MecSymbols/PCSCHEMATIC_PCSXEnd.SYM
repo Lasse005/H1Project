@@ -1,0 +1,17 @@
+﻿.PCsCADSymbol pcsXEnd.SYM 0 0 2500 25000 16 '13-10-2021 14:34:14' 0 V23.0 lBS/kkBNX7ozJznZLiLPKorq/SiTx1VQS6haKRwFiwE= 0 MECHANICAL
+.Title 'Endestykke til klemrækker' 1030
+.Title 'End plate for termrows' 1033
+.Name X 0 30000 0 0 0 50 0 4 0 0 0 2 0 0 0 0 0
+.Typ "" 0 0 0 0 0 50 0 4 0 128 0 2 0 0 0 0 0
+.Art "" 0 0 0 0 0 50 0 4 0 128 0 2 0 0 0 0 0
+.Func "" 0 0 0 0 0 50 0 4 0 128 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 6252327 25 16 4 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -25000 0 0
+.Point 0 2500 -25000 0 0
+.Point 0 2500 25000 0 0
+.Point 0 -2500 25000 0 0
+.Point 0 -2500 -25000 0 0
+.end
+.end

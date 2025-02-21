@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00047.SYM 0 0 7500 2500 1 '07-08-2020 10:44:18' 0 V21.0 9RaHjKmWiQ6v6myGUHap1KLrVQMq+xbbrV0b3EErAeg= 5 IEC60617
+.Title 'Plug and socket-type connector male-male, S00047' 1033
+.Title 'Złącze gniazdowe typu wtyk-wtyk, S00047' 1045
+.Title 'Overgangsled for eksempel U-led. Han-han, S00047' 1030
+.Title 'Zásuvková spojka, 2 zásuvky spojené kolíkem, např. U-kolík, S00047' 1029
+.Name X -1250 5500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 1250 12000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 1250 15250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 1250 8750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 1250 5500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 0 0 0
+.Point 0 7500 0 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 64 -2500 750 0 0
+.Point 64 2500 750 0 0
+.Point 64 2500 -750 0 0
+.Point 64 -2500 -750 0 0
+.Point 64 -2500 750 0 0
+.end
+.arc 1 -2500 0 0 0 0 2500 900 2700 250 0 0 0 0 0 0 0
+.arc 1 2500 0 0 0 0 2500 2700 900 250 0 0 0 0 0 0 0
+.con 1 -7500 0 0 0 0 0 "" 0 0 0
+.PinName 1 -8250 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -8250 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -7500 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 7500 0 0 0 0 0 "" 0 0 0
+.PinName 2 8250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 8250 -750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

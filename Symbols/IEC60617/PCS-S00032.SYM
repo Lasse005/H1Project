@@ -1,0 +1,34 @@
+﻿.PCsCADSymbol PCS-S00032.SYM 0 0 7500 1000 129 '30-10-2020 09:48:44' 0 V21.0 1Lbi32RpgvFaKztIv7kOAdK4Dm0LV9VdKzFW2AzIe4M= 5 IEC60617
+.Title 'Contact, male (of a socket or plug) S00032' 1033
+.Title 'Styk, męski (wtyku lub gniazda) S00032' 1045
+.Title 'Hankontakt (i en stikdåse eller stikprop). Stikprop S00032' 1030
+.Title 'Vidlice, Kolík zásuvkového spojení S00032' 1029
+.Name X 2500 5000 0 0 0 25 0 6 1800 0 0 2 0 0 0 0 0
+.Typ "" 5000 12500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 5000 16250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 5000 8750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 5000 5000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 64 0 -1000 0 0
+.Point 64 5000 -1000 0 0
+.Point 64 5000 1000 0 0
+.Point 64 0 1000 0 0
+.Point 64 0 -1000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 5000 0 0 0
+.Point 64 7500 0 0 0
+.end
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 7500 0 0 0 0 0 "" 0 0 0
+.PinName 2 8250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 8250 -750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

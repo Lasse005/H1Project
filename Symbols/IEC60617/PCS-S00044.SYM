@@ -1,0 +1,41 @@
+﻿.PCsCADSymbol PCS-S00044.SYM 0 0 5000 625 129 '03-08-2020 15:08:38' 0 V21.0 W4QK2tkdQN2L/cc73XajHYkrUa3hHZB3eVmwO3gqvnU= 5 IEC60617
+.Title 'Connecting link, closed / Form 1, S00044' 1033
+.Title 'Łącznik, zamknięty / Forma 1, S00044' 1045
+.Title 'Forbindelsesled, sluttet, S00044' 1030
+.Title 'Spojka uzavřená, tvar 1, S00044' 1029
+.Name X 0 5000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 2500 12500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 2500 16250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 2500 8750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 2500 5000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -3000 625 0 0
+.Point 192 3000 625 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 -625 0 0
+.Point 0 3000 -625 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 -3625 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3625 0 0 0
+.Point 0 5000 0 0 0
+.end
+.arc 1 -3000 0 0 0 0 625 0 3600 250 0 0 0 0 0 0 0
+.arc 1 3000 0 0 0 0 625 0 3600 250 0 0 0 0 0 0 0
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 5750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

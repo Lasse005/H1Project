@@ -1,0 +1,66 @@
+﻿.PCsCADSymbol PCS-S00652.SYM 0 0 5000 5000 1 '09-09-2020 15:58:58' 0 V21.0 jqEpfsx7oJbU8s06LtZ0GL47GDFT7PzyHvjF8LElnc0= 5 IEC60617
+.Title 'Bidirectional diode thyristor, Diac, S00652' 1033
+.Title 'Tyrystor diodowy obukierunkowy, diak S00652' 1045
+.Title 'Tyristordiode med ledning i begge retninger, Diac, S00652' 1030
+.Title 'Diodový tyristor obousměrný, S00652' 1029
+.Name Q -8250 5750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8250 -9000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8250 -12250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8250 -5750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8250 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 0 -2500 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 5000 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 5750 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -5750 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 3 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.end
+

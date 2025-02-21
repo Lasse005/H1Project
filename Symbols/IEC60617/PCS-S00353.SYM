@@ -1,0 +1,66 @@
+﻿.PCsCADSymbol PCS-S00353.SYM 0 0 5000 5000 1 '21-10-2020 13:27:22' 0 V21.0 b6TDGPWgSS3Fd5my9REm80R3bCAhYBNVeV2NCWjPPK8= 5 IEC60617
+.Title 'Device for auto-reclosing; Auto-reclose relay, S00353' 1033
+.Title 'Urządzenie do samoczynnego ponownego załączania, S00353' 1045
+.Title 'Indretning til automatisk genindkobling, S00353' 1030
+.Title 'Relé automatického opětovného zapínání, S00353' 1029
+.Name K -6000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 1250 0 0
+.Point 0 3750 3500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 2500 0 0
+.Point 0 1750 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 -2750 0 0
+.Point 0 4000 -2750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 -4000 0 0
+.Point 0 -3750 -1500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 3250 2500 0 0
+.Point 0 1500 3000 0 0
+.Point 0 1500 2000 0 0
+.Point 0 3250 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4000 -4000 0 0
+.Point 0 4000 -1500 0 0
+.end
+.arc 0 -3000 2500 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

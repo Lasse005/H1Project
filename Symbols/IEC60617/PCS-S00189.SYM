@@ -1,0 +1,45 @@
+﻿.PCsCADSymbol PCS-S00189.SYM 0 0 10000 5000 0 '13-07-2020 13:56:24' 0 V21.0 g6M6DRjUHo2bo976Y6sTdOY3l13lZyEdMRZB8ewBfmo= 5 IEC60617
+.Title 'Actuator (actuated by electromagnetic effect), S00189' 1033
+.Title 'Napęd (uruchamiany przez efekt elektromagnetyczny), S00189' 1045
+.Title 'Aktivering med elektromagnetisk påvirkning, S00189' 1030
+.Title 'Ovládání elektromagnetické, S00189' 1029
+.Name "" -11000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 2250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -5000 2500 0 0
+.Point 0 -10000 2500 0 0
+.Point 0 -10000 -2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3000 0 0 0
+.Point 0 6000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 6750 0 0 0
+.Point 0 10000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 -5000 0 0
+.end
+.end
+

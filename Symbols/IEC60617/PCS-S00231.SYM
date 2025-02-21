@@ -1,0 +1,45 @@
+﻿.PCsCADSymbol PCS-S00231.SYM 0 0 2500 7500 1 '13-05-2020 10:52:02' 6 V21.0 KAahxKmrJKePJwP7iAXoJykEapZHHlFIxylaPbqvLxQ= 5 IEC60617
+.Title 'Change-over contact with off-position, S00231' 1033
+.Title 'Styk przełączny z pozycją wyłączoną po środku, S00231' 1045
+.Title 'Omskifterkontakt med afbrudt midterstilling, S00231' 1030
+.Title 'Přepínací kontakt se střední klidovou polohou, S00231' 1029
+.Name K -5000 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -11250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -15000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -7500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -3750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 2500 0 0
+.Point 0 2500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 -2500 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1875 0 0
+.Point 0 0 2750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -3125 0 0
+.end
+.arc 0 0 -2500 0 0 0 600 0 3600 250 0 0 0 0 0 0 0
+.con 1 -2500 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -3250 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -1750 8250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" -2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 2500 7500 0 0 0 0 "" 0 0 0
+.PinName 2 1750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 3250 8250 0 0 0 25 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -8250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -8250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

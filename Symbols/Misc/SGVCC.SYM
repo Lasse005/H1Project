@@ -1,0 +1,20 @@
+﻿.PCsCADSymbol SGVCC.SYM 0 0 700 4900 129 '11-12-2015 11:41:50' 10 V18.0
+.Title 'Signalsymbol Plus spænding, pil op' 1030
+.Title 'Signal symbol, Positive voltage arrow up' 1033
+.Name VCC 2000 500 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 2000 -500 0 0 0 25 0 6 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 224 0 0 0 0
+.Point 224 0 2700 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 0 2700 0 0
+.Point 0 -700 2700 0 0
+.Point 0 0 4900 0 0
+.Point 0 700 2700 0 0
+.Point 0 0 2700 0 0
+.end
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

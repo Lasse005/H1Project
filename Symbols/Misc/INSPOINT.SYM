@@ -1,0 +1,19 @@
+﻿.PCsCADSymbol INSPOINT.SYM 0 0 2500 2500 32 '11-12-2015 11:42:36' 28 V18.0
+.Title 'Indsætningspunkt for dataskabeloner og deltegninger' 1030
+.Title 'Insertion point for Data Templates and Subdrawings' 1033
+.Name "" 0 0 0 0 0 25 0 4 0 128 0 0 0 0 0 0 0
+.Typ "" 0 0 0 0 16711680 25 0 4 0 128 0 0 0 0 0 0 0
+.Art "" 0 0 0 0 16711680 25 0 4 0 128 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 16711680 25 0 4 0 128 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -3000 0 0 0 25 0 4 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 14671839 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 0 0 0 0 0 14671839 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 2500 0 0 0
+.end
+.end
+

@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00170-001.SYM 0 0 4875 1250 1 '27-10-2020 12:52:18' 0 V21.0 97L+BKwPkNojiXVJq+loqGLKRAYLcKNMJorieuhTuBY= 5 IEC60617
+.Title 'Rotary-handle, locking' 1033
+.Title 'Napęd obrotowy z kluczem' 1045
+.Title 'Rotary-handle, locking' 1029
+.Title 'Drejegreb, aflåseligt' 1030
+.Name "" -3750 -1375 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3750 -10375 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3750 -13625 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0
+.Func "" -3750 -7125 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3750 -3875 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -7500 0 0
+.Point 0 3750 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 -7500 0 0
+.Point 0 3250 -4750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -7500 0 0
+.Point 0 1750 -4750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 1875 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3000 0 0 0
+.Point 0 4875 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -1250 0 0
+.Point 0 0 -1250 0 0
+.Point 0 0 1250 0 0
+.Point 0 1250 1250 0 0
+.end
+.arc 1 2500 -3750 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.end
+

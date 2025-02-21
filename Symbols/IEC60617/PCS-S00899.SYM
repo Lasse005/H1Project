@@ -1,0 +1,40 @@
+﻿.PCsCADSymbol PCS-S00899.SYM 0 0 5000 5000 1 '08-10-2020 14:29:08' 0 V21.0 LxQKAGC4DNkOBtzS/kkmExhUxTNfLwyyDTvlsYhN9ts= 5 IEC60617
+.Title 'Generator, general symbol, S00899' 1033
+.Title 'Generator, symbol ogólny, S00899' 1045
+.Title 'Generator, alment symbol, S00899' 1030
+.Title 'Generátor, všeobecná značka, S00899' 1029
+.Name G -1250 6000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 1250 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Art "" 1250 18250 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Func "" 1250 11750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 1250 8500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Text G 0 1300 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 5750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

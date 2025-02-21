@@ -1,0 +1,14 @@
+﻿.PCsCADSymbol PCS-S00851-005.SYM 0 0 7200 1900 0 '05-10-2020 15:33:44' 0 V21.0 AaUIC5YyuXgb5UjgRXMe+Zo6l4Mj/2AdWVHATHmROM8= 5 IEC60617
+.Title 'Current transformer without connections ' 1033
+.Title 'Transformator prądowy bez podłączeń' 1045
+.Title 'Common mode filter uden tilslutninger' 1030
+.Title 'Transformátor proudu, pulsní transformátor' 1029
+.Name B -11000 250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -8750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -12000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -5500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -11000 -2250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.arc 0 0 100 0 0 0 7200 0 3600 250 -300 0 0 0 0 0 0
+.end
+

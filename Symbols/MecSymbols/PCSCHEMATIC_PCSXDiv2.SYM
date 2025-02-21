@@ -1,0 +1,17 @@
+﻿.PCsCADSymbol pcsXDiv2.SYM 0 0 1250 42500 16 '13-10-2021 14:35:18' 11 V23.0 e7R9/f210h63GvxZhsjN/ms1xQFe+74RiTsIUm+N38A= 0 MECHANICAL
+.Title 'Skillestykke til klemrækker' 1030
+.Title 'Divider for termrows' 1033
+.Name X -250 50000 0 0 0 50 0 4 0 0 0 2 0 0 0 0 0
+.Typ "" -250 0 0 0 0 25 0 4 0 128 0 2 0 0 0 0 0
+.Art "" -250 0 0 0 0 25 0 4 0 128 0 2 0 0 0 0 0
+.Func "" -250 0 0 0 0 25 0 4 0 128 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -250 0 0 0 0 25 0 4 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -42500 0 0
+.Point 0 1250 -42500 0 0
+.Point 0 1250 42500 0 0
+.Point 0 -1250 42500 0 0
+.Point 0 -1250 -42500 0 0
+.end
+.end

@@ -1,0 +1,32 @@
+﻿.PCsCADSymbol PCS-S00482-006.SYM 0 0 2500 3250 1 '26-10-2020 10:24:20' 0 V21.0 LLz/IE2B9o/ezexprITZIVzMu4tkt8Dy6LotRfVjO4c= 5 IEC60617
+.Title 'Point of conn. on wall with spot light' 1033
+.Title 'Punkt podłaczenia na ścianie ze światłem punktowym' 1045
+.Title 'Tilslutn.sted på væg m fastmont. spotlight' 1030
+.Title 'Point of conn. on wall with spot light' 1029
+.Name U -4000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 500 750 0 0
+.Point 0 2000 -750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 500 -750 0 0
+.Point 0 2000 750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 1750 0 0
+.Point 0 2500 -1750 0 0
+.end
+.arc 1 1250 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.arc 1 1250 0 0 0 0 3250 900 2700 250 0 0 0 0 0 0 0
+.con 1 2500 0 0 0 0 0 "" 0 0 0
+.PinName 1 3250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 2500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

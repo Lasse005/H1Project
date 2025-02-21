@@ -1,0 +1,9 @@
+﻿.PCsCADSymbol SGSIGNAL.SYM -152000 -102000 -148000 -98000 130 '12-10-2021 08:42:46' 10 V23.0 "" -1 0
+.Title 'Signalsymbol Henvisningssymbol, som er skjult i en streg' 1030
+.Title 'Signal symbol Reference symbol hidden in the line' 1033
+.Name SIGNAL 1000 500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" -1750 500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

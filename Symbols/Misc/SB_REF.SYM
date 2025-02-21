@@ -1,0 +1,44 @@
+﻿.PCsCADSymbol SB_REF.SYM 0 0 9250 0 128 '11-12-2015 11:57:50' 9 V18.0
+.Title Slutte-/brydekors 1030
+.Title 'Reference cross' 1033
+.Name K 0 -19750 0 0 0 25 0 1 0 128 0 0 0 0 0 0 0
+.Typ Slutte -1000 -5750 0 0 0 25 0 2 0 128 0 0 0 0 0 0 0
+.Art Omskifter 0 -5750 0 0 0 25 0 1 0 128 0 0 0 0 0 0 0
+.Func Bryde 1000 -5750 0 0 0 25 0 0 0 128 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -22750 0 0 0 25 0 1 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -19250 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 -2500 0 0
+.Point 0 9250 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3000 -1500 0 0
+.Point 0 -1000 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7750 -1500 0 0
+.Point 0 -5250 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5250 -250 0 0
+.Point 0 -3000 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3500 -250 0 0
+.Point 0 5750 -1500 0 0
+.Point 0 7750 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1000 -1500 0 0
+.Point 0 3750 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 -1500 0 0
+.Point 0 3750 0 0 0
+.end
+.end
+

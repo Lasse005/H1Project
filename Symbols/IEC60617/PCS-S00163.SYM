@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00163.SYM 0 0 -2750 1500 1 '19-06-2020 12:33:40' 0 V21.0 dzkdInx0qKihZ1SXlfIruzDI7XybpiPHDBemx6qGcUI= 5 IEC60617
+.Title 'Brake, S00163' 1033
+.Title 'Hamulec, S00163' 1045
+.Title 'Bremse, S00163' 1030
+.Title 'Brzda, S00163' 1029
+.Name R -8250 2000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8250 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8250 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8250 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8250 -500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 0 0 0
+.Point 0 -2750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3500 1500 0 0
+.Point 0 -2750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6500 1500 0 0
+.Point 0 -3500 1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 0 0 0
+.Point 0 -6500 1500 0 0
+.end
+.end
+

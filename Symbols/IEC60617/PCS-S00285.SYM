@@ -1,0 +1,43 @@
+﻿.PCsCADSymbol PCS-S00285.SYM 0 0 0 7500 1 '14-10-2020 13:22:58' 4 V21.0 gieNvM3qmG7WVOJiINQerZ97ZJiurfDt4cgWW4/yrcA= 5 IEC60617
+.Title 'Contactor with automatic tripping, S00285' 1033
+.Title 'Stycznik o wyzwalaniu samoczynnym, S00285' 1045
+.Title 'Kontaktor med automatisk udkobling, S00285' 1030
+.Title 'Stykač se samočinným vypínáním, S00285' 1029
+.Name Q -5000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 2500 0 0
+.Point 64 0 7500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 64 -1000 -500 0 0
+.Point 64 -2500 -1250 0 0
+.Point 64 -3250 250 0 0
+.Point 64 -1750 1000 0 0
+.Point 64 -1000 -500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.arc 0 0 3750 0 0 0 1250 900 2700 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,22 @@
+﻿.PCsCADSymbol PCS-S00448.SYM 0 0 2750 5000 0 '23-10-2020 18:09:36' 0 V21.0 uNZ6lyrvs+zdlFwCOnpg8NhXAHcSXZylz4Oz7PTDsjc= 5 IEC60617
+.Title 'Combined protective and neutral conductor, S00448' 1033
+.Title 'Przewód neutralny i ochronny, S00448' 1045
+.Title 'Nulleder i nulsikkert anlæg, S00448' 1030
+.Title 'Kombinovaný střední a ochranný vodič, S00448' 1029
+.Name "" -4500 0 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -9000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -12250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -5750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 -2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 1250 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 5000 0 0
+.Point 0 2750 5000 0 0
+.end
+.arc 8 0 2500 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.end
+

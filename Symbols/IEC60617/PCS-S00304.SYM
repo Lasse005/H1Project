@@ -1,0 +1,78 @@
+﻿.PCsCADSymbol PCS-S00304.SYM 0 0 5000 8500 1 '15-10-2020 12:05:34' 0 V21.0 CIDmPIK+dv7SZfRBR44EdnGrU00Xsbwv1X2g3O9hMlM= 5 IEC60617
+.Title 'Starter-regulator with thyristors, S00304' 1033
+.Title 'Rozrusznik-regulator tyrystorowy, S00304' 1045
+.Title 'Starter-hastighedsregulator med thyristorer, S00304' 1030
+.Title 'Tyristorový spouštěč - regulátor, S00304' 1029
+.Name Q -1250 9500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 1250 18500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Art "" 1250 21750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.Func "" 1250 15250 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 1250 12000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 5000 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 -5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 5000 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 -2500 2000 0 0
+.Point 64 3750 8250 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 4000 8500 0 0
+.Point 0 1750 7250 0 0
+.Point 0 2750 6250 0 0
+.Point 0 4000 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 0 0 0
+.Point 0 3750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 1750 0 0
+.Point 0 -1500 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 1750 0 0
+.Point 0 1250 0 0 0
+.Point 0 -1500 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1500 1750 0 0
+.Point 0 1500 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -875 0 0
+.Point 0 0 -3250 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 0 0 0 0 0 "" 0 0 0
+.PinName 2 5750 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

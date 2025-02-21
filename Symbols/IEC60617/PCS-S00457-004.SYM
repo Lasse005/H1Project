@@ -1,0 +1,35 @@
+﻿.PCsCADSymbol PCS-S00457-004.SYM 0 0 0 3750 1 '26-10-2020 09:43:40' 0 V21.0 70J0pEbOjoB6N3iPo1hqs1EI8O+whhdZZNzLaJfJQeg= 5 IEC60617
+.Title 'Point of connection via socket lighting outlet on wall' 1033
+.Title 'Punkt podłączenia przez gniazdo i wypust oświetleniowy na ścianie' 1045
+.Title 'Tilslutningssted via stikkontakt på væg f belysningsarmatur' 1030
+.Title 'Point of connection via socket lighting outlet on wall' 1029
+.Name X -12250 -1500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -12250 -10500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -12250 -13750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -12250 -7250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12250 -4000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 2500 0 0
+.Point 0 -5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -3750 0 0
+.Point 0 -5000 3750 0 0
+.end
+.arc 1 0 0 0 0 0 2500 900 2700 250 0 0 0 0 0 0 0
+.con 1 -7500 0 0 0 0 0 "" 0 0 0
+.PinName 1 -8250 3500 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -7500 -250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -7500 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

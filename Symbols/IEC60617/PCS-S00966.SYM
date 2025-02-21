@@ -1,0 +1,59 @@
+﻿.PCsCADSymbol PCS-S00966.SYM 0 0 6750 5000 1 '09-10-2020 13:43:30' 0 V21.0 3bZDJTOt/mF5mrk7q9n4fMaNPPqdc+z7bhA1GBZqQU0= 5 IEC60617
+.Title 'Signal lamp,flashing type, S00966' 1033
+.Title 'Lampka sygnalizacyjna o świetle pulsującym, S00966' 1045
+.Title 'Signallampe, blinkende type, S00966' 1030
+.Title 'Zábleskový světelný zdroj, S00966' 1029
+.Name P -5000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -11250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -8750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -6250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5000 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4 -4 0 0
+.Point 0 1750 1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4 -4 0 0
+.Point 0 -1750 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4 -4 0 0
+.Point 0 -1750 1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4 -4 0 0
+.Point 0 1750 -1750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 4500 -1250 0 0
+.Point 192 4500 1250 0 0
+.Point 192 5500 1250 0 0
+.Point 192 5500 -1250 0 0
+.Point 192 6750 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 4500 -1250 0 0
+.Point 0 3250 -1250 0 0
+.end
+.arc 1 0 0 0 0 0 2500 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -4250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

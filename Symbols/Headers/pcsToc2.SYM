@@ -1,0 +1,563 @@
+﻿.PCsCADSymbol pcsToc2.SYM 0 0 380250 250000 144 '01-03-2024 13:17:52' 0 V24.0 "" -1 ""
+.Title 'Indhold (multi-language)' 1030
+.Title 'TOC (multi-language)' 1033
+.AppData [StateTitles]
+.AppData State0=
+.AppData 'State1=DK - Indholdsfortegnelse'
+.AppData 'State2=UK - Table of contents'
+.AppData 'State3=PL - Spis treści'
+.AppData 'State4=DE - Inhaltsverzeichnis'
+.AppData 'State5=NO - Innholdsfortegnelse'
+.AppData 'State6=CZ - Seznam listů'
+.AppData 'State7=SE - Innehållsförteckning'
+.AppData 'State8=HU - Tartalomjegyzék'
+.AppData 'State9=BR - Tabela de Conteúdos'
+.AppData 'State10=TR - İçindekiler'
+.AppData 'State11=CN - 中文'
+.AppData 'State12=RU - Спецификация'
+.AppData 'State13=HR - Tablica sadržaja'
+.AppData 'State14=FR - Table des matières'
+.Name "" 11250 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ "" 11250 12500 0 0 16711680 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Art "" 11250 6000 0 0 16711680 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 10000 10000 0 0 16711680 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" 11250 7000 0 0 16711680 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Text Sidenr. 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 1 0 0 0 0
+.Text Titel 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 1 0 0 0 0
+.Text 'Sidste rettelse' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 1 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 2 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 2 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 2 0 0 0 0
+.Text Strona 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 3 0 0 0 0
+.Text Tytuł 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 3 0 0 0 0
+.Text 'Ostatnia edycja' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 3 0 0 0 0
+.Text Blatt 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 4 0 0 0 0
+.Text Titel 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 4 0 0 0 0
+.Text 'Letzte Bearbeitung' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 4 0 0 0 0
+.Text Side 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 5 0 0 0 0
+.Text Tittel 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 5 0 0 0 0
+.Text 'Siste endring' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 5 0 0 0 0
+.Text Stranica 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 13 0 0 0 0
+.Text Naziv 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 13 0 0 0 0
+.Text 'Posljednja izmjena' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 13 0 0 0 0
+.Text 'Opr. af' 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 1 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 2 0 0 0 0
+.Text Konstr. 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 3 0 0 0 0
+.Text Ing. 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 4 0 0 0 0
+.Text Konstr. 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 5 0 0 0 0
+.Text Eng. 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 13 0 0 0 0
+.Text Sidestørrelse 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 1 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 2 0 0 0 0
+.Text 'Rozmiar strony' 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 3 0 0 0 0
+.Text Seitengröße 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 4 0 0 0 0
+.Text Papirformat 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 5 0 0 0 0
+.Text 'Veličina stranice' 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 13 0 0 0 0
+.Text Oprettet 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 1 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 2 0 0 0 0
+.Text 'Czas powstania' 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 3 0 0 0 0
+.Text Erstellungszeit 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 4 0 0 0 0
+.Text Opprettelsestid 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 5 0 0 0 0
+.Text 'Vrijeme stvaranja' 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 13 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 14 0 0 0 0
+.Text Titre 2500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 14 0 0 0 0
+.Text 'Dernière modification' 269000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 14 0 0 0 0
+.Text 'Créé par' 191500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 14 0 0 0 0
+.Text 'Taille de la page' 154000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 14 0 0 0 0
+.Text 'Créé à' 219000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 14 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 6 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 6 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 6 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 6 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 6 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 6 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 7 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 7 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 7 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 7 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 7 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 7 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 8 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 8 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 8 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 8 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 8 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 8 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 9 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 9 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 9 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 9 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 9 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 9 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 10 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 10 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 10 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 10 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 10 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 10 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 11 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 11 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 11 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 11 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 11 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 11 0 0 0 0
+.Text Page 376000 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 12 0 0 0 0
+.Text Title 7500 250000 0 0 6252327 25 0 8 0 1 0 2 0 0 0 12 0 0 0 0
+.Text 'Last edit' 274000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 12 0 0 0 0
+.Text Engineer 196500 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 12 0 0 0 0
+.Text 'Page size' 159000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 12 0 0 0 0
+.Text Created 224000 250000 0 0 6252327 25 0 6 0 1 0 2 0 0 0 12 0 0 0 0
+.Field 'Page number' 375250 242500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 235000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 227500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 220000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 212500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 205000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 197500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 190000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 182500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 175000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 167500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 160000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 152500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 242500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 235000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 227500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 220000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 212500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 205000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 197500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 190000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 182500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 175000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 167500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 160000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 152500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254000 242500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254000 235000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254000 227500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254000 220000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 212500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 205000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 197500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 190000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 182500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 175000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 167500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 160000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 152500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 375250 145000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 137500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 130000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 122500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 115000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 107500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 145000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 137500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 130000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 122500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 115000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 107500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254250 145000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 137500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 130000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 122500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 115000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 107500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 375250 100000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 92500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 85000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 77500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 70000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field 'Page number' 375250 62500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 100000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 92500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 85000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 77500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 70000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field Titel -6000 62500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254250 100000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 92500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 85000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 77500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 70000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Sidste rettelses tid' 254250 62500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 375250 55000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 55000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254250 55000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 375250 47500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 47500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254250 47500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field 'Page number' 375250 40000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 42 0 ' ' 4 "" ""
+.Field Titel -6000 40000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 43 0 ' ' 132 "" ""
+.Field 'Sidste rettelses tid' 254250 40000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 44 0 ' ' 4 "" ""
+.Field Engineer 176500 242500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176500 235000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176500 227500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176500 220000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 212500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 205000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 197500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 190000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 182500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 175000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 167500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 160000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 152500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 145000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 137500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 130000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 122500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 115000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 107500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 100000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 92500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 85000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 77500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 70000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 62500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 55000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 47500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field Engineer 176750 40000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 40 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144000 242500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144000 235000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144000 227500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144000 220000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 212500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 205000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 197500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 190000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 182500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 175000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 167500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 160000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 152500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 145000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 137500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 130000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 122500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 115000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 107500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 100000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 92500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 85000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 77500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 70000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 62500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 55000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 47500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Sidens papirformat' 144250 40000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 58 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204000 242500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204000 235000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204000 227500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204000 220000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 212500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 205000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 197500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 190000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 182500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 175000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 167500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 160000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 152500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 145000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 137500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 130000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 122500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 115000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 107500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 100000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 92500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 85000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 77500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 70000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 62500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 55000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 47500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.Field 'Oprettelses dato/tid' 204250 40000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 48 0 ' ' 4 "" ""
+.polyline 32 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1 -7250 245000 0 0
+.Point 1 380250 245000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 237500 0 0
+.Point 0 380250 237500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 230000 0 0
+.Point 0 380250 230000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 222500 0 0
+.Point 0 380250 222500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 215000 0 0
+.Point 0 380250 215000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 207500 0 0
+.Point 0 380250 207500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 200000 0 0
+.Point 0 380250 200000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 192500 0 0
+.Point 0 380250 192500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 185000 0 0
+.Point 0 380250 185000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 177500 0 0
+.Point 0 380250 177500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 170000 0 0
+.Point 0 380250 170000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 162500 0 0
+.Point 0 380250 162500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 155000 0 0
+.Point 0 380250 155000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 147500 0 0
+.Point 0 380250 147500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 140000 0 0
+.Point 0 380250 140000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 132500 0 0
+.Point 0 380250 132500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 125000 0 0
+.Point 0 380250 125000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 117500 0 0
+.Point 0 380250 117500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 110000 0 0
+.Point 0 380250 110000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 102500 0 0
+.Point 0 380250 102500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 95000 0 0
+.Point 0 380250 95000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 87500 0 0
+.Point 0 380250 87500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 80000 0 0
+.Point 0 380250 80000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 72500 0 0
+.Point 0 380250 72500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 65000 0 0
+.Point 0 380250 65000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 57500 0 0
+.Point 0 380250 57500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 50000 0 0
+.Point 0 380250 50000 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 42500 0 0
+.Point 0 380250 42500 0 0
+.end
+.polyline 32 0 0 0 0 0 0 180 0 0 0 0 0 0 0 0 20
+.Point 0 -7250 35000 0 0
+.Point 0 380250 35000 0 0
+.end
+.end
+

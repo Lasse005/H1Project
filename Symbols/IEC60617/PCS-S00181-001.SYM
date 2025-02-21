@@ -1,0 +1,32 @@
+﻿.PCsCADSymbol PCS-S00181-001.SYM 0 0 7500 1250 1 '13-07-2020 13:26:36' 0 V21.0 yfqPwpKriqpOhqnXdqghPnfqpVfehfPJIIqkEFNb1kQ= 5 IEC60617
+.Title 'Actuator (operated by roller), automatic return' 1033
+.Title 'Napęd (obsługiwany przez wałek), automatyczny powrót' 1045
+.Title 'Aktivering med stempel, rulle o.l. m/automatisk tilbagestilling' 1030
+.Title 'Ovládání kladkou' 1029
+.Name "" -1250 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 6000 0 0 0
+.Point 192 7500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 1000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3250 0 0 0
+.Point 0 5250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3300 0 0 0
+.Point 0 5400 -1200 0 0
+.Point 0 5400 1200 0 0
+.Point 0 3300 0 0 0
+.end
+.arc 1 1000 0 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.end
+

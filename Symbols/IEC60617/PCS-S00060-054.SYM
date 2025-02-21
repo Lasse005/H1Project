@@ -1,0 +1,50 @@
+﻿.PCsCADSymbol PCS-S00060-054.SYM 0 0 7500 5000 129 '23-11-2020 13:33:24' 0 V21.0 e+wJBTubT00gWePwyy5w3cfXaws9pF6QzbuGu4Wa9Hg= 3 IEC60617
+.Title 'VB-P* I/O module for optical image sensor' 1033
+.Title 'VB-P* I/O module for optical image sensor' 1030
+.Title 'VB-P* I/O module for optical image sensor' 1029
+.Title 'Moduł I/O dla optycznego czujnika obrazowego VB-P*' 1045
+.Name U -9000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9000 -11250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9000 -15000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9000 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -5000 0 0
+.Point 0 -7500 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 -5000 0 0
+.Point 0 7500 -5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -5000 0 0
+.Point 0 7500 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 5000 0 0
+.Point 0 7500 5000 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 1048576 -750 -2000 0 0
+.Point 0 -750 -5000 0 0
+.Point 0 750 -5000 0 0
+.Point 0 750 -2000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -750 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 16777215 0 500 0 0 0 0 0 0 0 0
+.Point 0 -850 -2100 0 0
+.Point 0 850 -2100 0 0
+.end
+.arc 8 0 -2000 0 0 16777215 1200 0 1800 100 0 0 0 0 0 0 0
+.arc 0 0 -2000 0 0 0 1300 0 1800 250 0 0 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 -5750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -750 -3750 0 0 0 20 0 0 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

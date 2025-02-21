@@ -1,0 +1,53 @@
+﻿.PCsCADSymbol PCS-S00289.SYM 0 0 6250 7500 1 '14-10-2020 13:40:56' 6 V21.0 9ObFhkO6nwdSDpV7HyXz58E47Nd5eChAmqh5PDI5qtA= 5 IEC60617
+.Title 'Two-way disconnector; Two-way isolator, S00289' 1033
+.Title 'Przełącznik odłącznikowy (izolator) dwuobwodowy, S00289' 1045
+.Title 'To-vejs-adskiller, der er afbrudt i midterstilling, S00289' 1030
+.Title 'Dvoucestný odpojovač, ve střední poloze vypnutý, S00289' 1029
+.Name Q -9250 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9250 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9250 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9250 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9250 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 2500 0 0
+.Point 0 5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -1875 0 0
+.Point 0 0 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -3125 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 2500 0 0
+.Point 0 -3500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 2500 0 0
+.Point 0 6250 2500 0 0
+.end
+.arc 0 0 -2500 0 0 0 600 0 3600 250 0 0 0 0 0 0 0
+.con 1 -5000 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 7500 0 0 0 0 "" 0 0 0
+.PinName 2 4250 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

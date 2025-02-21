@@ -1,0 +1,18 @@
+﻿.PCsCADSymbol PCS-S00446.SYM 0 0 500 3000 1 '23-10-2020 16:26:54' 0 V21.0 klO9KRYjRvYmMoz0fk1wgwvpAsFW6J1890aaz6eACzw= 5 IEC60617
+.Title 'Neutral conductor, S00446' 1033
+.Title 'Przewód neutralny, S00446' 1045
+.Title 'Nulleder, S00446' 1030
+.Title 'Střední vodič, S00446' 1029
+.Name "" -4500 -1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -13250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -6750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 -3500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 0 2500 0 0
+.end
+.arc 8 0 2500 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.end
+

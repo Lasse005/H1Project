@@ -1,0 +1,54 @@
+﻿.PCsCADSymbol PCS-S01898.SYM 0 0 5000 10000 16 '28-10-2020 18:44:24' 0 V21.0 G1jNg/ShPcuYQsNDiMjQMV3bYeaiJQwE9uQXrJ1laAI= 5 IEC60617
+.Title 'Bus coupling unit, S01898' 1033
+.Title 'Bus coupling unit, S01898' 1030
+.Title 'Bus coupling unit, S01898' 1029
+.Title 'Urządzenie łączące magistrale (moduł komunikacyjny), S01898' 1045
+.Name T -7000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7000 -12500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Art "" -7000 -16250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Func "" -7000 -8750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -7000 -5000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 10000 0 0
+.Point 0 5000 10000 0 0
+.Point 0 5000 -10000 0 0
+.Point 0 -5000 -10000 0 0
+.Point 0 -5000 10000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 7500 0 0
+.Point 0 -2500 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 7500 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1500 6000 0 0
+.Point 0 -1500 -6000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1500 6000 0 0
+.Point 0 1500 -6000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 2500 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 -2500 -5000 0 0
+.end
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 10750 0 0 0 20 0 6 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -10000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -10750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -10750 0 0 0 20 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,61 @@
+﻿.PCsCADSymbol PCS-S01413.SYM 0 0 1250 12500 1 '27-10-2020 11:50:10' 4 V21.0 PQ1DjmBbTqLfwgf21uVgJ3LHv8kggctnarerHPXDf+U= 5 IEC60617
+.Title 'Multiple-function switching device, S01413' 1033
+.Title 'Urządzenie załączające o wielu funkcjach, S01413' 1045
+.Title 'Multiple-function switching device, S01413, S01413' 1030
+.Title 'Multiple-function switching device, S01413, S01413' 1029
+.Name Q -5000 -250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5000 -9250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5000 -12500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5000 -6000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5000 -2750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -17500 0 0
+.Point 0 0 -12500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 64 0 -7500 0 0
+.Point 64 0 12500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 64 -1000 -10500 0 0
+.Point 64 -2500 -11250 0 0
+.Point 64 -3250 -9750 0 0
+.Point 64 -1750 -9000 0 0
+.Point 64 -1000 -10500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -12500 0 0
+.Point 0 -2750 -7000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 750 0 0
+.Point 0 750 -750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 750 750 0 0
+.Point 0 -750 -750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -3000 0 0
+.Point 0 1000 -3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 9250 0 0
+.Point 0 -1250 8000 0 0
+.Point 0 1250 4500 0 0
+.Point 0 1250 3250 0 0
+.end
+.arc 0 0 -6250 0 0 0 1250 900 2700 250 0 0 0 0 0 0 0
+.con 1 0 12500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 11750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -17500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -16750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -14750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -17500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

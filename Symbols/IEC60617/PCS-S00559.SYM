@@ -1,0 +1,57 @@
+﻿.PCsCADSymbol PCS-S00559.SYM 0 0 5000 5000 1 '08-09-2020 13:05:50' 0 V21.0 g325zqlDJpsxvysPjpKppiGUeXVkTt5Mqd45s/qDDvI= 5 IEC60617
+.Title 'Resistor with movable contact, S00559' 1033
+.Title 'Rezystor o styku ruchomym, S00559' 1045
+.Title 'Modstand med glidekontakt, S00559' 1030
+.Title 'Rezistor s pohyblivým kontaktem, S00559' 1029
+.Name R 0 10000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" 2500 17500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Art "" 2500 21250 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.Func "" 2500 13750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 2500 10000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 1250 0 0
+.Point 0 3750 1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 -1250 0 0
+.Point 0 3750 1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -3250 -1250 0 0
+.Point 192 3750 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 -1250 0 0
+.Point 0 -3250 1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -5000 0 0 0
+.Point 192 -3250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1000 1750 0 0
+.Point 0 -1000 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1000 5000 0 0
+.Point 0 5000 5000 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1750 3500 0 0
+.Point 0 -1000 1250 0 0
+.Point 0 -250 3500 0 0
+.Point 0 -1750 3500 0 0
+.end
+.con 1 -5000 0 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.PinFunc "" -5750 -750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 2500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.con 1 5000 5000 0 0 0 0 "" 0 0 0
+.PinName 2 5750 5750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 4250 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

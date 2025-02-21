@@ -1,0 +1,35 @@
+﻿.PCsCADSymbol PCS-S00158.SYM 0 0 8750 2500 1 '19-06-2020 12:32:16' 0 V21.0 0ZCW27O4OaSF158VW/0DjrHE6eSp+rX0no5mh8i7Kbw= 5 IEC60617
+.Title 'Latching device, engaged, S00158' 1033
+.Title 'Zatrzask, sprzęgnięty, S00158' 1045
+.Title 'Blokering, i funktion, S00158' 1030
+.Title 'Západkové zařízení, zapnuto, S00158' 1029
+.Name "" -2250 2500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -2250 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -2250 -9750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -2250 -3250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2250 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 0 0 0
+.Point 0 875 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 0 0 0
+.Point 0 6250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7125 0 0 0
+.Point 0 8750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3750 0 0 0
+.Point 0 3750 1625 0 0
+.Point 0 5750 1625 0 0
+.Point 0 5750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 3000 625 0 0
+.Point 0 3000 2500 0 0
+.end
+.end
+

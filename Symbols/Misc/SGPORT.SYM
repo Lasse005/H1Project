@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol SGPORT.SYM 0 0 14000 2000 1 '10-12-2015 15:08:32' 10 V18.0
+.Title 'Signalsymbol Port, henvisning' 1030
+.Title 'Signal symbol, double arrow' 1033
+.Name "" 6000 0 0 0 0 25 0 4 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 16000 0 0 0 0 25 0 3 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2000 0 0
+.Point 0 12000 -2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12000 -2000 0 0
+.Point 32 14000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 12000 2000 0 0
+.Point 32 14000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2000 0 0
+.Point 0 12000 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2000 0 0
+.Point 0 0 2000 0 0
+.end
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

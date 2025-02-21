@@ -1,0 +1,49 @@
+﻿.PCsCADSymbol PCS-S00171-001.SYM 0 0 -1500 2500 1 '27-10-2020 12:32:50' 0 V21.0 1Wz4z/nfDFK780LXlumA/PLcPNnZHbHX2qMyi6wp8wc= 5 IEC60617
+.Title 'Operated by pushing, Push-turn w. block and key' 1033
+.Title 'Operowanie przez naciskanie, z zatrzaskiem i kluczem' 1045
+.Title 'Operated by pushing, Push-turn w. block and key' 1029
+.Title 'Betjeningstryk, tryk-drej med spærring og nøgle' 1030
+.Name "" -15000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -15000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -15000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -15000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -15000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3500 0 0 0
+.Point 0 -1500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -3750 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3750 -2500 0 0
+.Point 0 -4250 250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 -2500 0 0
+.Point 0 -5750 250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -10000 1250 0 0
+.Point 64 -8250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 750 0 0
+.Point 0 -7500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 -12500 0 0 0
+.Point 192 -6750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11250 1250 0 0
+.Point 0 -12500 1250 0 0
+.Point 0 -12500 -1250 0 0
+.Point 0 -11250 -1250 0 0
+.end
+.arc 1 -5000 1250 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.end
+

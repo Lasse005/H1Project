@@ -1,0 +1,30 @@
+﻿.PCsCADSymbol PCS-S00878-001.SYM 0 0 5000 10000 1 '07-10-2020 09:05:38' 0 V21.0 8R4OIN2Mp4CJkJd6IWol6EBoPqmbgWKFBPzEf3AQAtM= 5 IEC60617
+.Title 'Voltage transformer' 1033
+.Title 'Transformator napięciowy' 1045
+.Title 'Spændingstransformer med voltmeter' 1030
+.Title 'Voltmetr s měřícím transformátorem napětí' 1029
+.Name B -6000 -3575 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6000 -12575 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6000 -15825 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6000 -9325 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6000 -6075 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text V 0 -13750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 10000 0 0
+.Point 0 0 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -10000 0 0
+.Point 0 0 -6250 0 0
+.end
+.arc 1 0 -2500 0 0 0 3750 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 2500 0 0 0 3750 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 -15000 0 0 0 5000 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 9250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

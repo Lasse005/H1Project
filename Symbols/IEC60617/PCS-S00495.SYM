@@ -1,0 +1,38 @@
+﻿.PCsCADSymbol PCS-S00495.SYM 0 0 5000 7500 1 '25-10-2020 16:46:48' 0 V21.0 AvS0hA37vWNd4aHdVKbHWOFkC93KTREuBxgYpvbTzj8= 5 IEC60617
+.Title 'Time clock, time recorder, S00495' 1033
+.Title 'Zegar, S00495' 1045
+.Title 'Stempelur, kontrolur, S00495' 1030
+.Title 'Elektrické hodiny kontrolní (spínací), S00495' 1029
+.Name K -7000 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -7000 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -7000 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -7000 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -7000 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3500 5000 0 0
+.Point 0 3750 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -5000 0 0
+.Point 0 5000 -5000 0 0
+.Point 0 5000 7500 0 0
+.Point 0 -5000 7500 0 0
+.Point 0 -5000 -5000 0 0
+.end
+.arc 0 0 0 0 0 0 3750 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

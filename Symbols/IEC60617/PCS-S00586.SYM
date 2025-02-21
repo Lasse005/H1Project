@@ -1,0 +1,43 @@
+﻿.PCsCADSymbol PCS-S00586.SYM 0 0 5000 2500 1 '09-09-2020 13:56:52' 0 V21.0 cT3zMXZ5HUdHiVd3kxcsbWbS9rah761R9/O/xKdl+gI= 5 IEC60617
+.Title 'Inductor with gap in magnetic core, S00586' 1033
+.Title 'Induktor z rdzeniem magnetycznym ze szczeliną, S00586' 1045
+.Title 'Induktor med spalte i magnetkerne, S00586' 1030
+.Title 'Indukční cívka s feromagnetickým jádrem se vzduchovou mezerou, S00586' 1029
+.Name R -9250 1075 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -9250 -7925 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -9250 -11175 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -9250 -4675 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -9250 -1425 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -1250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.arc 1 1250 0 0 0 0 1250 0 1800 250 0 0 0 0 0 0 0
+.arc 1 3750 0 0 0 0 1250 0 1800 250 0 0 0 0 0 0 0
+.arc 1 -1250 0 0 0 0 1250 0 1800 250 0 0 0 0 0 0 0
+.arc 1 -3750 0 0 0 0 1250 0 1800 250 0 0 0 0 0 0 0
+.con 1 -5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -4250 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" -5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 4250 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

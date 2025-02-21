@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00204.SYM 0 0 3500 0 1 '15-07-2020 13:56:14' 0 V21.0 qL7vOtLRDqiHPg77Qy1dn+BjCJQteSqzc+fxiuVDAZw= 5 IEC60617
+.Title 'Protective equipotential bonding, S00204' 1033
+.Title 'Ochronne wyrównanie potencjałów, S00204' 1045
+.Title 'Ækvipotentiale, ækvipotentialeforbindelse, S00204' 1030
+.Title 'Ekvipotencialita, S00204' 1029
+.Name W -4500 -3250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -12250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -15500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -9000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 -5750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -3750 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -9000 0 0
+.Point 0 3500 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -9000 0 0
+.Point 0 -3500 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3500 -3750 0 0
+.Point 0 3500 -3750 0 0
+.end
+.end
+

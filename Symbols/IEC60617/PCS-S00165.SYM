@@ -1,0 +1,45 @@
+﻿.PCsCADSymbol PCS-S00165.SYM 0 0 0 2500 1 '19-06-2020 12:34:08' 0 V21.0 +FbwiKK5ef8w5D/ZkPylVnlRfv+DhzeMx3PT4jBx2A8= 5 IEC60617
+.Title 'Brake, released, S00165' 1033
+.Title 'Hamulec, zwolniony, S00165' 1045
+.Title 'Brems, frigivet, S00165' 1030
+.Title 'Brzda, uvolněná, S00165' 1029
+.Name R -16000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -16000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text M -12500 -1200 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 0 0 0
+.Point 0 -9125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8250 0 0 0
+.Point 0 -6625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5750 0 0 0
+.Point 0 -4125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -1625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 750 0 0
+.Point 0 -6500 2250 0 0
+.Point 0 -3500 2250 0 0
+.Point 0 -2750 750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 750 0 0
+.Point 0 -2750 750 0 0
+.end
+.arc 0 -12500 0 0 0 0 2500 0 3600 250 0 0 0 0 0 0 0
+.end
+

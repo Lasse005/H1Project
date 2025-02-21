@@ -1,0 +1,42 @@
+﻿.PCsCADSymbol PCS-S00462-004.SYM 0 0 5150 10000 1 '24-10-2020 16:27:10' 0 V21.0 CZEFWSpu27v3WAB0Zz27Hkb/4UzCzF+S72ApzLyNz24= 5 IEC60617
+.Title 'Socket outlet, four-pole f. three-fases (DK symbol)' 1033
+.Title 'Gniazdo wtykowe, z łącznikiem 4-biegunowym (standard DK)' 1045
+.Title 'Stikkontakt m 4polet afbryder f 3 faser, nul og beskyt.kont.' 1030
+.Title 'Socket outlet, four-pole f. three-fases (DK symbol)' 1029
+.Name X -4500 3687 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -5313 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -8563 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -2063 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 1187 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 9875 0 0
+.Point 0 0 4875 0 0
+.Point 0 2625 9250 0 0
+.Point 0 4500 8000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 5000 0 0
+.Point 0 2500 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2250 8500 0 0
+.Point 0 4125 7250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1875 7750 0 0
+.Point 0 3750 6500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1375 7000 0 0
+.Point 0 3250 5750 0 0
+.end
+.arc 1 0 2375 0 0 0 2500 0 1800 250 0 0 0 0 0 0 0
+.arc 9 4750 7875 0 0 0 400 0 3600 100 0 0 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 9250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

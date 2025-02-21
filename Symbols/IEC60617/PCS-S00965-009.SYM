@@ -1,0 +1,114 @@
+﻿.PCsCADSymbol PCS-S00965-009.SYM 0 0 2500 10000 1 '09-10-2020 14:09:20' 0 V21.0 1znOcC10dpa2z/vladK/N68xb48NFjeoNwNHRP/kpJg= 6 IEC60617
+.Title 'Lamp with diode, resistor and diode test input' 1033
+.Title 'Lamka z diodą, rezystorem i diodą' 1045
+.Title 'Lamp with diode, resistor and diode test input' 1029
+.Title 'Lampe med diode, modstand og test indgang med diode' 1030
+.Name P -5500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2000 0 0
+.Point 0 0 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 4250 0 0
+.Point 0 1250 4250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 4250 0 0
+.Point 0 1250 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 6875 0 0
+.Point 0 1250 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 4250 0 0
+.Point 0 -1250 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1000 2000 0 0
+.Point 0 1000 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1000 -2000 0 0
+.Point 0 1000 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1000 -2000 0 0
+.Point 0 1000 -2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1000 -2000 0 0
+.Point 0 -1000 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2750 0 0
+.Point 0 0 -2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -10000 0 0
+.Point 0 0 -7750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -3500 0 0
+.Point 0 0 -5250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5250 0 0
+.Point 0 1750 -7000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -7000 0 0
+.Point 0 0 -5250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5250 0 0
+.Point 0 1750 -3500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 3000 0 0
+.Point 0 0 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 4250 0 0
+.Point 0 -3750 4250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 4250 0 0
+.Point 0 -3750 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 6875 0 0
+.Point 0 -3750 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 4250 0 0
+.Point 0 -6250 6875 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 3000 0 0
+.Point 0 -5000 10000 0 0
+.end
+.arc 1 0 -5250 0 0 0 2500 0 3600 250 0 0 0 0 0 0 0
+.arc 8 0 3000 0 0 0 500 0 3600 100 0 0 0 0 0 0 0
+.con 1 -5000 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -10000 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -10750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

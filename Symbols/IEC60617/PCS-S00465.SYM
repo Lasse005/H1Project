@@ -1,0 +1,34 @@
+﻿.PCsCADSymbol PCS-S00465.SYM 0 0 2500 7500 1 '24-10-2020 16:14:28' 0 V21.0 0HJ1lKDZwvlJo+oOrPniWvwH1LT+shdONooO/TRyS2A= 5 IEC60617
+.Title 'Socket outlet (telecommunications), general symbol, S00465' 1033
+.Title 'Gniazdo teleinformatyczne, symbol ogólny, S00465' 1045
+.Title 'Stikdåse (telekommunikation), alment symbol, S00465' 1030
+.Title 'Zásuvka pro sdělovací zařízení - všeobecná značka, S00465' 1029
+.Name X -4500 2500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -6500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -9750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -3250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 0 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 2500 2500 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

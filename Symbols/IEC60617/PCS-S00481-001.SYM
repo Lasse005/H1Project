@@ -1,0 +1,26 @@
+﻿.PCsCADSymbol PCS-S00481-001.SYM 0 0 2500 2500 1 '25-10-2020 16:39:56' 0 V21.0 Ww96kLt3H5i/hlZbUIJfKTnQbw5/L1dW9dlY//bDtPo= 5 IEC60617
+.Title 'Lighting outlet position, shown with wiring (DK symbol)' 1033
+.Title 'Wypust oświetleniowy, pokazany z kablami (symbol DK)' 1045
+.Title 'Tilslutningssted for belysning' 1030
+.Title 'Lighting outlet position, shown with wiring (DK symbol)' 1029
+.Name E -4000 -1075 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4000 -9075 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4000 -12325 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4000 -5825 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4000 -2575 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3500 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

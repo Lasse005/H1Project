@@ -1,0 +1,37 @@
+﻿.PCsCADSymbol PCS-S00031-008.SYM 0 0 7000 2500 128 '29-07-2020 14:19:48' 0 V21.0 hjEG7MBE84SMDB8hKuogh7BVly2jEjB9jwh1K2ta+oY= 6 IEC60617
+.Title 'TeSys Ultima  2-pol. Con. (female)' 1033
+.Title 'Złacze TeSys Ultima, 2 punkty połączeń (żeńskie)' 1045
+.Title 'TeSys Ultima  2-pol. Con. (female)' 1029
+.Title 'TeSys Ultima stik 2-led. (hun)' 1030
+.Name X -5500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -5500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -5500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -5500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -5500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 500 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0 0 0 0 0 0
+.Point 0 0 -750 0 0
+.Point 0 5000 -750 0 0
+.end
+.arc 0 0 2500 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 5000 2500 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 4250 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

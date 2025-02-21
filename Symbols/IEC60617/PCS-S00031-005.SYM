@@ -1,0 +1,43 @@
+﻿.PCsCADSymbol PCS-S00031-005.SYM 0 0 17000 2500 32 '29-07-2020 14:13:12' 0 V21.0 tm0Cv2M1UTcmI/yrKyqY6fjKCGllUl5JLtjyTqhnL94= 5 IEC60617
+.Title 'Connections block for steering of reverser unit to TeSys Ultima' 1033
+.Title 'Blok połączeniowy dla jednostki TeSys Ultima' 1045
+.Title 'Connections block for steering of reverser unit to TeSys Ultima' 1029
+.Title 'Forbindelsesblok for styrekreds fra reverseringsenhed til TeSys Ultima' 1030
+.Name X -25750 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -25750 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -25750 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -25750 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -25750 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -20000 500 0 0
+.Point 0 -20000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 750 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 500 0 0
+.Point 0 15000 -2500 0 0
+.end
+.arc 0 -20000 2500 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 0 2500 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 15000 2500 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.con 1 -20000 -2500 0 0 0 0 "" 0 0 0
+.PinName 1 -20750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" -19250 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" -20000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -20000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 15000 -2500 0 0 0 0 "" 0 0 0
+.PinName 3 14250 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 15750 -3250 0 0 0 25 0 8 900 0 0 2 0 0 0 0 0
+.PinLab "" 15000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 15000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

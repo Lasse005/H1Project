@@ -1,0 +1,45 @@
+﻿.PCsCADSymbol PLC-Ref-top3.SYM 0 0 240000 0 16 '20-12-2021 17:23:54' 29 V23.0 YVaFxb0lacma5XKuRZSmEp6sEvZgn8urDggISxtci3E= 8 PLC
+.Title 'Plc-ref - top 3 modules' 1033
+.Title 'Plc-ref - top 3 moduler' 1030
+.Title 'PLC odsyłacz - góra, długość 3 moduły' 1045
+.Name K 750 -1000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ "" 78750 -5000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art "" 78750 -14250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 750 -14250 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 750 -5000 0 0 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Field PlcNo 57500 -7500 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 0 "" ""
+.Field NetNo 60000 -7500 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 0 "" ""
+.Field NodeNo 62500 -7500 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 0 "" ""
+.Field SlotNo 65000 -7500 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 0 "" ""
+.Field PlcID 78750 -1000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 0 "" ""
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 0 -15000 0 0
+.Point 0 80000 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 80000 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 160000 -15000 0 0
+.Point 0 240000 -15000 0 0
+.Point 0 240000 0 0 0
+.Point 0 160000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 80000 -15000 0 0
+.Point 0 160000 -15000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 160000 0 0 0
+.Point 0 80000 0 0 0
+.end
+.end
+

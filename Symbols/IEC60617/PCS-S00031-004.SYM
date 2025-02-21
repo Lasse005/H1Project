@@ -1,0 +1,37 @@
+﻿.PCsCADSymbol PCS-S00031-004.SYM 0 0 27000 5000 128 '29-07-2020 14:10:12' 0 V21.0 jzNBkuhIldNqiOvIImjFeJKmJNe/lBWToc6dH/XzYc8= 6 IEC60617
+.Title 'Connection block between basic- and reverser- modul to TeSys Ultima' 1033
+.Title 'Blok połączeniowy między modułami TeSys Ultima' 1045
+.Title 'Connection block between basic- and reverser- modul to TeSys Ultima' 1029
+.Title 'Forbindelsesblok ml. grundmodul og reverseringsmodul til TeSys Ultima ' 1030
+.Name X -35500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -35500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -35500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -35500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -35500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -30000 3000 0 0
+.Point 0 -30000 -3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 3000 0 0
+.Point 0 -10000 -3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 3250 0 0
+.Point 0 10000 -3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 25000 3000 0 0
+.Point 0 25000 -3000 0 0
+.end
+.arc 0 -10000 5000 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 10000 5000 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 25000 5000 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 -30000 5000 0 0 0 2000 1800 3600 250 0 0 0 0 0 0 0
+.arc 0 -30000 -5000 0 0 0 2000 0 1800 250 0 0 0 0 0 0 0
+.arc 0 -10000 -5000 0 0 0 2000 0 1800 250 0 0 0 0 0 0 0
+.arc 0 10000 -5000 0 0 0 2000 0 1800 250 0 0 0 0 0 0 0
+.arc 0 25000 -5000 0 0 0 2000 0 1800 250 0 0 0 0 0 0 0
+.end
+

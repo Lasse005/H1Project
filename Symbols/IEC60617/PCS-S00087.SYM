@@ -1,0 +1,25 @@
+﻿.PCsCADSymbol PCS-S00087.SYM 0 0 2500 1250 1 '19-06-2020 12:18:26' 0 V21.0 WOk1+NXZLx3lMUgsks3+ci9157/VxdfqC4SCgb3VtQg= 1 IEC60617
+.Title 'Action in steps, S00087' 1033
+.Title 'Działanie w krokach, S00087' 1045
+.Title 'Trinvis påvirkning, S00087' 1030
+.Title 'Proměnnost v krocích, S00087' 1029
+.Name "" -3500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 2500 1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -1250 0 0
+.Point 0 -2500 0 0 0
+.end
+.end
+

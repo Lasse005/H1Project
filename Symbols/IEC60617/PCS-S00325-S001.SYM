@@ -1,0 +1,55 @@
+﻿.PCsCADSymbol PCS-S00325-S001.SYM 0 0 5000 5000 1 '09-09-2021 12:48:06' 3 V22.1 CSr2MP7mFClTMnovGlHOcw4FTfRV6KwwX8SmByXap5U= 5 IEC60617
+.Title 'Singleline symbol - 3P operating device of a thermal relay' 1033
+.Title 'Symbol jednokreskowy - 3P człon napędowy przekaźnika cieplnego' 1045
+.Title 'Singleline symbol - 3P aktiveringssindretning til et termisk relæ' 1030
+.Title 'Singleline symbol - 3P popudový článek tepelného relé' 1029
+.Name K -6750 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -6750 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -6750 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -6750 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -6750 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 5000 -2500 0 0
+.Point 0 5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 5000 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5000 -2500 0 0
+.Point 0 -5000 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -5000 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 1250 0 0
+.Point 0 2500 1250 0 0
+.Point 0 2500 -1250 0 0
+.Point 0 0 -1250 0 0
+.Point 0 0 -2500 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 4250 0 0 0 25 0 0 900 128 0 2 0 0 0 0 0
+.PinFunc "" 0 4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -4250 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0
+.PinFunc "" 0 -2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,43 @@
+﻿.PCsCADSymbol PCS-S00482-005.SYM 0 0 2500 6250 1 '26-10-2020 10:23:36' 0 V21.0 AohwEyqZKAOKeeHgbhn7FMmvXeQ6FB/m36siqnGdktM= 5 IEC60617
+.Title 'Point of conn. for emergency lighting on wall' 1033
+.Title 'Punkt podłaczenia dla oświetlenia awaryjnego na ścianie' 1045
+.Title 'Tilslutn.sted f nød-/panikbelysning på væg m fastmont.arm.' 1030
+.Title 'Point of conn. for emergency lighting on wall' 1029
+.Name U -4250 1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4250 -8000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4250 -11250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4250 -4750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4250 -1500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -6250 0 0
+.Point 0 0 6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -6250 0 0
+.Point 0 1250 -6250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 6250 0 0
+.Point 0 1250 6250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 2500 3750 0 0
+.Point 0 2500 -3750 0 0
+.end
+.arc 9 0 0 0 0 0 750 0 3600 100 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

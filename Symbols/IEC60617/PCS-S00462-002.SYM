@@ -1,0 +1,29 @@
+﻿.PCsCADSymbol PCS-S00462-002.SYM 0 0 4750 10000 1 '24-10-2020 16:25:08' 0 V21.0 yVabFPmwgmeSTCsUSfyewP/i+Ne4rovwLaSUtl92Ayg= 5 IEC60617
+.Title 'Multiple socket outlet with protective contact' 1033
+.Title 'Gniazdo wtykowe wielokrotne ze stykiem ochronnym' 1045
+.Title 'Stikkontakt med beskyttelseskontakt og afbryder' 1030
+.Title 'Multiple socket outlet with protective contact' 1029
+.Name X -4500 3750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -5250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -8500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -2000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 10000 0 0
+.Point 0 0 5000 0 0
+.Point 0 2625 9375 0 0
+.Point 0 4750 8000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 5000 0 0
+.Point 0 2500 5000 0 0
+.end
+.arc 1 0 2500 0 0 0 2500 0 1800 250 0 0 0 0 0 0 0
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 9250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

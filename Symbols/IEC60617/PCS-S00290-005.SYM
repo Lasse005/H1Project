@@ -1,0 +1,81 @@
+﻿.PCsCADSymbol PCS-S00290-005.SYM 0 0 1250 7500 161 '14-10-2020 13:51:36' 0 V21.0 HwkUqrBnthIzPEiSbPm41rCikhRQ2I+inQdP6nIrt4M= 5 IEC60617
+.Title 'Switch-disconnect operate with turning 1P' 1033
+.Title 'Rozłącznik izolacyjny działający przez obracanie 1P' 1045
+.Title 'Switch-disconnect operate with turning 1P' 1029
+.Title 'Lastadskiller drejebetjent 1P' 1030
+.Name Q -12500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -12500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -12500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -12500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 -1250 0 0
+.Point 0 -9000 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 1250 0 0
+.Point 0 -7750 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 -1250 0 0
+.Point 0 -10250 -1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 -6500 0 0
+.Point 0 -4750 -6500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4750 -6500 0 0
+.Point 0 -5250 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 -6500 0 0
+.Point 0 -6750 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 3750 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 3750 0 0
+.Point 0 1250 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9000 0 0 0
+.Point 0 -8125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7250 0 0 0
+.Point 0 -5625 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4750 0 0 0
+.Point 0 -3125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.arc 0 -6000 -2750 0 0 0 1250 0 3600 250 0 0 0 0 0 0 0
+.arc 0 0 2750 0 0 0 1000 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

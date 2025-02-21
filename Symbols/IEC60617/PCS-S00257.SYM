@@ -1,0 +1,73 @@
+﻿.PCsCADSymbol PCS-S00257.SYM 0 0 0 7500 129 '12-10-2020 12:04:28' 0 V21.0 kx7Hnb9gYkBLuDBOkDzAM/BSoOzwhkwuVxrrdzBJW4o= 5 IEC60617
+.Title 'Switch, manually operated with positive operation, push-button, automatic return, S00257' 1033
+.Title 'Łącznik ręczny przyciskowy o pozytywnym kierunku działania, S00257' 1045
+.Title 'Trykknapafbryder med tvangsført sluttekontakt (f.eks. alarm), S00257' 1030
+.Title 'Tlačítkový spínač se zapínacím kontaktem (alarm), S00257' 1029
+.Name S -15000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -15000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -15000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -15000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -15000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12750 1500 0 0
+.Point 0 -12750 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12750 1500 0 0
+.Point 0 -11250 1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12750 -1500 0 0
+.Point 0 -11250 -1500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12750 0 0 0
+.Point 0 -10375 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -9625 0 0 0
+.Point 0 -6750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6000 0 0 0
+.Point 0 -3125 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2375 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8250 3750 0 0
+.Point 0 -4750 3750 0 0
+.Point 0 -6250 5250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4750 3750 0 0
+.Point 0 -6250 2250 0 0
+.end
+.arc 0 -6500 3750 0 0 0 2500 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

@@ -1,0 +1,19 @@
+﻿.PCsCADSymbol PanelBuilderInputSymbol.SYM 0 0 2500 0 144 '11-12-2015 11:43:12' 10 V18.0
+.Title 'Input symbol Panel builder' 1030
+.Title 'Input symbol Panel builder' 1033
+.Name Input 0 -15000 0 0 0 25 0 0 0 128 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 -20000 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 192 0 0 0 0
+.Point 192 0 -12500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 192 0 -2500 0 0
+.Point 192 -2500 -7500 0 0
+.Point 192 2500 -7500 0 0
+.Point 192 0 -2500 0 0
+.end
+.con 17 0 0 0 0 0 0 "" 0 0 0
+.end
+

@@ -1,0 +1,135 @@
+﻿.PCsCADSymbol PCS-S00299-031.SYM 0 0 15000 10000 145 '15-10-2020 11:38:10' 0 V21.0 E/sttkEyXy4orvKSz4ieTtrXYLra2ABVP9xjg7KIkVo= 5 IEC60617
+.Title 'Motor starter communication ports with states, 2 connections up' 1033
+.Title 'Rozrusznik silnikowy z automatycznym sterowaniem' 1045
+.Title 'Motorstarter kommunikationsporte med tilstande. 2 hunstik op' 1030
+.Title 'Motorový spouštěč' 1029
+.AppData [StateTitles]
+.AppData State0=
+.AppData 'State1=2 x 8P RJ45 hunstik op - Ethernet/IP'
+.AppData 'State2=2 x 8P RJ45 hunstik op - Modbus TCP'
+.AppData 'State3=2 X 8P RJ45 hunstik op - CanOpen'
+.AppData 'State4=2 x 8P RJ45 hunstik op - Profinet PNT'
+.AppData 'State5=2 x RJ45 hustik op - Ethercat ECT'
+.Name Q -17500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -17500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -17500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -17500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -17500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Text 8 -4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 1 0
+.Text 8 4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 1 0
+.Text Ethernet/IP -10000 -2250 0 0 0 20 0 6 0 0 0 2 0 0 0 1 0
+.Text 8 -4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 2 0
+.Text 8 4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 2 0
+.Text 'Modbus TCP' -10000 -2250 0 0 0 20 0 6 0 0 0 2 0 0 0 2 0
+.Text 8 -4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 3 0
+.Text 8 4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 3 0
+.Text CanOpen -7750 -2000 0 0 0 25 0 6 0 0 0 2 0 0 0 3 0
+.Text 8 -4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 4 0
+.Text 8 4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 4 0
+.Text 'Profinet PNT' -14000 -2000 0 0 0 25 0 6 0 0 0 2 0 0 0 4 0
+.Text 8 -4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 5 0
+.Text 8 4500 9250 0 0 0 20 0 7 0 0 0 2 0 0 0 5 0
+.Text 'Ethercat ECT' -11500 -2000 0 0 0 25 0 6 0 0 0 2 0 0 0 5 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 10000 0 0
+.Point 0 6250 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 -7500 0 0
+.Point 0 15000 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 -7500 0 0
+.Point 0 15000 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 -7500 0 0
+.Point 0 -15000 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 10000 0 0
+.Point 0 0 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 3750 0 0
+.Point 0 15000 10000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 0 0 0
+.Point 0 1750 3500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 1875 3625 0 0
+.Point 0 750 3000 0 0
+.Point 0 1250 2500 0 0
+.Point 0 1875 3625 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1875 -125 0 0
+.Point 0 -1250 1000 0 0
+.Point 0 -750 500 0 0
+.Point 0 -1875 -125 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 8750 0 0
+.Point 0 -7500 7750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 8750 0 0
+.Point 0 7500 7750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 1 0 0 0 0 0
+.Point 0 -6500 9250 0 0
+.Point 0 -5750 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 1 0 0 0 0 0
+.Point 0 6500 9000 0 0
+.Point 0 5750 8250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 3 0 0 0 0 0
+.Point 0 -6500 9250 0 0
+.Point 0 -5750 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 3 0 0 0 0 0
+.Point 0 6500 9000 0 0
+.Point 0 5750 8250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 4 0 0 0 0 0
+.Point 0 -6500 9250 0 0
+.Point 0 -5750 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 4 0 0 0 0 0
+.Point 0 6500 9000 0 0
+.Point 0 5750 8250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 5 0 0 0 0 0
+.Point 0 -6500 9250 0 0
+.Point 0 -5750 8500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 5 0 0 0 0 0
+.Point 0 6500 9000 0 0
+.Point 0 5750 8250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -15000 10000 0 0
+.Point 0 -8750 10000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 15000 10000 0 0
+.Point 0 8750 10000 0 0
+.end
+.arc 1 -7500 10000 0 0 0 1250 1800 3600 250 0 0 0 0 0 0 0
+.arc 1 7500 10000 0 0 0 1250 1800 3600 250 0 0 0 0 0 0 0
+.con 1 -7500 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -8250 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -7500 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -7500 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -7500 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 7500 10000 0 0 0 0 "" 0 0 0
+.PinName 2 6750 10750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 7500 9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 7500 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 7500 12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

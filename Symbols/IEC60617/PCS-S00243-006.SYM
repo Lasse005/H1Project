@@ -1,0 +1,57 @@
+.PCsCADSymbol PCS-S00243-006.SYM 0 0 0 7500 1 '25-01-2024 16:50:26' 6 V23.0 /1wqQ3EMcavVOTYAMgpIhiy/DauC67RbiFi5GVYT2qI= 0 IEC60617
+.Title 'Zestyk przelaczny dzialajacy ze zwloka przy wzbudzaniu' 1045
+.Title 'Break before make contact delayed when closing and opening' 1033
+.Title 'Skiftekontakt, med forsinket bryde før slutte' 1030
+.Title 'Prepínací kontakt, vypínající pred zapnutím, vypínající a spínající se zpoždením' 1029
+.Name K -10450 1000 0 0 0 25 0 2 0 0 0 1 0 0 0 0 0 0 0 0
+.Typ "" -10450 -7500 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.Art "" -10450 -10750 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.Func "" -10450 -4250 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -10450 -1000 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 0 -2500 0 0
+.Point 0 -3500 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -5000 2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -9600 400 0 0
+.Point 0 -1900 400 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -9600 -400 0 0
+.Point 0 -1400 -400 0 0
+.end
+.arc 0 -7500 0 0 0 0 2200 900 2700 250 0 0 0 0 0 0 0
+.con 1 -5000 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 6750 0 0 0 25 0 0 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" -5750 6000 0 0 0 25 0 2 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" -5000 7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" -5000 7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 6750 0 0 0 25 0 0 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" -750 6000 0 0 0 25 0 2 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" 0 7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" 0 7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 3 -750 -6750 0 0 0 25 0 2 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" -750 -6000 0 0 0 25 0 0 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.end
+

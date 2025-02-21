@@ -1,0 +1,46 @@
+﻿.PCsCADSymbol PCS-S00491-003.SYM 0 0 11750 6000 1 '26-10-2020 09:48:04' 0 V21.0 4sRtkcAgkJg7sPz673a29V4SPKFYdaWx6+xnnrLFc/Q= 5 IEC60617
+.Title 'Point of conn. to emergency lighting luminaire' 1033
+.Title 'Punkt podłaczenia do oprawy oświetlenia awaryjnego' 1045
+.Title 'Tilsl.sted f nød/panikbelysn. forb.t arm.f lysstofrør m bøjl' 1030
+.Title 'Point of conn. to emergency lighting luminaire' 1029
+.Name E -3750 -1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3750 -10000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3750 -13250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3750 -6750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3750 -3500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10500 -6500 0 0
+.Point 0 10500 6000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 9250 -6500 0 0
+.Point 0 11750 -6500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 9250 6000 0 0
+.Point 0 11750 6000 0 0
+.end
+.arc 1 2250 250 0 0 0 800 1900 3500 250 0 0 0 0 0 0 0
+.arc 1 5250 250 0 0 0 800 1900 3500 250 0 0 0 0 0 0 0
+.arc 1 750 -250 0 0 0 800 100 1700 250 0 0 0 0 0 0 0
+.arc 1 3750 -250 0 0 0 800 100 1700 250 0 0 0 0 0 0 0
+.arc 1 6750 -250 0 0 0 800 100 1700 250 0 0 0 0 0 0 0
+.arc 1 8250 250 0 0 0 800 1900 3500 250 0 0 0 0 0 0 0
+.arc 1 9750 -250 0 0 0 800 100 1700 250 0 0 0 0 0 0 0
+.arc 9 0 0 0 0 0 750 0 3600 100 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3500 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

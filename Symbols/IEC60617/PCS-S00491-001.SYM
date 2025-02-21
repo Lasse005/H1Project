@@ -1,0 +1,41 @@
+﻿.PCsCADSymbol PCS-S00491-001.SYM 0 0 2500 2500 1 '25-10-2020 16:41:46' 0 V21.0 XwbJhLQLR84sC/93RS3FqGKlevF2NtNAWhcv/8bNfco= 5 IEC60617
+.Title 'Point of connection via socket outlet and lighting' 1033
+.Title 'Punkt podłączenia przez gniazdo wtykowe i oświetlenie' 1045
+.Title 'Armatur f nød-/panikbelysning på særlig installation' 1030
+.Title 'Self-contained emergency lighting luminaire (DK symbol)' 1029
+.Name E -4500 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4500 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4500 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4500 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4500 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 -2500 0 0
+.Point 0 2500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 2500 0 0
+.Point 0 2500 -2500 0 0
+.end
+.arc 1 0 0 0 0 0 750 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 500 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 100 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 200 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 300 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 400 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 50 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 450 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 350 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 250 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 150 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 550 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 600 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 650 0 3600 250 0 0 0 0 0 0 0
+.arc 1 0 0 0 0 0 700 0 3600 250 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0 "" 0 0 0
+.PinName 1 3250 750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0
+.PinFunc "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

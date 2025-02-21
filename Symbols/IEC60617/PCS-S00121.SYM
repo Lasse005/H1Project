@@ -1,0 +1,22 @@
+﻿.PCsCADSymbol PCS-S00121.SYM 0 0 1250 2500 1 '19-06-2020 12:26:30' 0 V21.0 dx3GqinJcoAYu7UHfb044nAlK8Bie14V+13xjash2/c= 5 IEC60617
+.Title 'Electromagnetic effect, S00121' 1033
+.Title 'Oddziaływanie elektromagnetyczne, S00121' 1045
+.Title 'Elektromagnetisk påvirkning, S00121' 1030
+.Title 'Elektromagnetický účinek, S00121' 1029
+.Name "" -1000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -1000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -1000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -1000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -1000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 -1250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 1250 0 0
+.Point 0 0 2500 0 0
+.end
+.arc 1 0 0 0 0 0 1250 2700 900 250 0 0 0 0 0 0 0
+.end
+

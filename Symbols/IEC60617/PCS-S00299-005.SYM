@@ -1,0 +1,68 @@
+﻿.PCsCADSymbol PCS-S00299-005.SYM 0 0 10000 7500 17 '15-10-2020 10:56:46' 0 V21.0 A8KhjvY+8uT50reQrfQeItOoo9/D6CmHhwO4BKtteyU= 5 IEC60617
+.Title 'Motor starter with automatic control, 3 connections up' 1033
+.Title 'Rozrusznik silnikowy z automatycznym sterowaniem, 3 połączenia z góry' 1045
+.Title 'Motorstarter med automatisk styring, 3 tilslutninger op' 1030
+.Title 'Motorový spouštěč' 1029
+.Name Q -11000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -11000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -11000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -11000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" -11000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 7500 0 0
+.Point 0 10000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 10000 -7500 0 0
+.Point 0 10000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -7500 0 0
+.Point 0 10000 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 -7500 0 0
+.Point 0 -10000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10000 7250 0 0
+.Point 0 0 4750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 4750 0 0
+.Point 0 10000 7250 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1750 -1500 0 0
+.Point 0 1750 2000 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 1875 2125 0 0
+.Point 0 750 1500 0 0
+.Point 0 1250 1000 0 0
+.Point 0 1875 2125 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -1875 -1625 0 0
+.Point 0 -1250 -500 0 0
+.Point 0 -750 -1000 0 0
+.Point 0 -1875 -1625 0 0
+.end
+.con 1 -5000 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -5750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" -5000 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" -5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 7500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 8250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

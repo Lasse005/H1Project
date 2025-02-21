@@ -1,0 +1,70 @@
+﻿.PCsCADSymbol PCS-S00254-004.SYM 0 0 0 7500 1 '12-10-2020 10:20:30' 4 V21.0 yqfLihqkKeMxMDHwFmjozMpCE2YWe5KEva+U0rW/qZo= 5 IEC60617
+.Title 'Make contact, operated by pushing, detent, disengaged' 1033
+.Title 'Styk zwierny, działanie przez przyciskanie, z zapadką' 1045
+.Title 'Sluttekontakt, håndbetjent med relætilbagehold' 1030
+.Title 'Zapínací kontakt, ovládání tlakem, zarážka, vypnutá' 1029
+.Name K -16000 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -16000 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -16000 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -16000 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -16000 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -2750 3000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -13750 0 0 0
+.Point 0 -11250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6750 0 0 0
+.Point 0 -5500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 -1250 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -10250 0 0 0
+.Point 0 -8750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -4500 0 0 0
+.Point 0 -3500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6250 750 0 0
+.Point 0 -6250 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8750 0 0 0
+.Point 0 -7750 -2000 0 0
+.Point 0 -6750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -12500 1250 0 0
+.Point 0 -13750 1250 0 0
+.Point 0 -13750 -1250 0 0
+.Point 0 -12500 -1250 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

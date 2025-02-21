@@ -1,0 +1,31 @@
+﻿.PCsCADSymbol 1-1-3-2.SYM 0 0 8750 3750 129 '14-08-2014 16:50:50' 0 V16.0
+.Title 'IEC Spec.features (shown in combi with gen. adj. symbol). In steps' 1033
+.Title 'Trinvis indstillingsmulighed, vist med 5 trin' 1030
+.Title 'Proměnnost stupňovitá, ukázáno 5 stupňů' 1029
+.Name "" -4750 1250 0 0 0 25 14 6 1800 0 0 0 0 0 0 0
+.Typ "" -4750 -7750 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Art "" -4750 -11000 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.Func "" -4750 -4500 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4750 -1250 0 0 0 25 14 8 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0
+.Point 64 -3750 -3750 0 0
+.Point 64 3500 3500 0 0
+.end
+.polyline 9 0 0 0 0 0 0 100 0 0 0 0 0 0 0
+.Point 0 3750 3750 0 0
+.Point 0 1500 2500 0 0
+.Point 0 2500 1500 0 0
+.Point 0 3750 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0
+.Point 0 5000 1250 0 0
+.Point 0 5000 2500 0 0
+.Point 128 8750 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0
+.Point 0 8750 2500 0 0
+.Point 0 8750 3750 0 0
+.end
+.end
+

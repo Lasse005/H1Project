@@ -1,0 +1,83 @@
+﻿.PCsCADSymbol PCS-S00313-006.SYM 0 0 7500 2500 1 '15-10-2020 14:47:20' 3 V21.0 W0uWX0bmdNKCfFDrE4qGwuOqfPu92CfoEnQXqf8CfYE= 5 IEC60617
+.Title 'Relay coil of a slow-operating and slow-releasing relay' 1033
+.Title 'Cewka przekaźnika z opóźnieniem przy załączaniu i wyłączaniu' 1045
+.Title 'Relay coil of a slow-operating and slow-releasing relay' 1029
+.Title 'Relæspole med forsinket ind- og udkobling og flash' 1030
+.Name K -12750 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -12750 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -12750 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -12750 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12750 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11000 2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 -2500 0 0
+.Point 0 7500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11000 -2500 0 0
+.Point 0 7500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -11000 -2500 0 0
+.Point 0 -11000 2500 0 0
+.end
+.polyline 8 0 0 0 0 0 0 100 0 0 0 0 0 0 0 0
+.Point 0 -11000 2500 0 0
+.Point 0 -8500 2500 0 0
+.Point 0 -8500 -2500 0 0
+.Point 0 -11000 -2500 0 0
+.Point 0 -11000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8500 -2500 0 0
+.Point 0 -8500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -6000 2500 0 0
+.Point 0 -6000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8500 -2500 0 0
+.Point 0 -6000 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -8500 2500 0 0
+.Point 0 -6000 -2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -5500 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 -5000 1000 0 0
+.Point 0 -4500 1000 0 0
+.Point 0 -4500 0 0 0
+.Point 0 -3750 0 0 0
+.Point 0 -3750 1000 0 0
+.Point 0 -3250 1000 0 0
+.Point 0 -3250 0 0 0
+.Point 0 -2750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2250 2500 0 0
+.Point 0 -2250 -2500 0 0
+.end
+.con 1 0 2500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 3250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 2250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 5000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -2500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 5000 -2500 0 0 0 0 "" 0 0 0
+.PinName 3 4250 -3250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 5000 250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 5000 -2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

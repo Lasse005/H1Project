@@ -1,0 +1,39 @@
+﻿.PCsCADSymbol 1-9-7-1.SYM 0 0 2375 2750 16 '10-07-2015 11:14:16' 0 V17.0
+.Title '3-phase, wye, grounded neutral' 1033
+.Title '3-phase, wye, grounded neutral' 1030
+.Name "" -3375 -250 0 0 0 25 14 6 1800 0 0 0 0 0 0 0 0
+.Typ "" -3375 -9250 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.Art "" -3375 -12500 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.Func "" -3375 -6000 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3375 -2750 0 0 0 25 14 8 0 128 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1750 -3750 0 0
+.Point 0 -1750 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -4750 0 0
+.Point 0 -1250 -4750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 750 -5750 0 0
+.Point 0 -750 -5750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -2375 -1375 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 2375 -1375 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 2750 0 0
+.end
+.end
+

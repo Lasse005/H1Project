@@ -1,0 +1,51 @@
+﻿.PCsCADSymbol PCS-S00364.SYM 0 0 7500 7500 1 '22-10-2020 19:35:24' 0 V21.0 Tpf9E19U6TDCIrYKnjJkupmh7TUsE2U7sSAzpt20n/A= 5 IEC60617
+.Title 'Fuse, striker fuse, S00364' 1033
+.Title 'Bezpiecznik wybijakowy, S00364' 1045
+.Title 'Sikring, med sikringsslagstift, S00364' 1030
+.Title 'Tavná pojistka s mechanickým spojením S00364' 1029
+.Name F -4750 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -4750 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -4750 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -4750 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -4750 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 -3750 0 0
+.Point 0 1250 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -3750 0 0
+.Point 0 -1250 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 3750 0 0
+.Point 0 1250 3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -3750 0 0
+.Point 0 1250 -3750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 1250 0 0 0
+.Point 0 3750 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 7500 0 0 0
+.Point 0 5000 0 0 0
+.end
+.con 1 0 7500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 6750 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 7250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -4750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+

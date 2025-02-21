@@ -1,0 +1,17 @@
+﻿.PCsCADSymbol PCS-S00446-001.SYM 0 0 1250 2500 0 '23-10-2020 18:12:04' 0 V21.0 e0kBAEOde7omLxZfzPUpzKCwI4Sah/575jgt12iHHyE= 5 IEC60617
+.Title Wiring 1033
+.Title 'Przewód, okablowanie, przewodnik' 1045
+.Title 'Spændingsførende ledning' 1030
+.Title Wiring 1029
+.Name "" -3250 -1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -3250 -10250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -3250 -13500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -3250 -7000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -3250 -3750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -1250 -2500 0 0
+.Point 0 1250 2500 0 0
+.end
+.end
+

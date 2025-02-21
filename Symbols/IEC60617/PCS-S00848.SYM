@@ -1,0 +1,37 @@
+﻿.PCsCADSymbol PCS-S00848.SYM 0 0 7500 12500 1 '05-10-2020 14:49:38' 0 V21.0 AB6AguPY/2qU0+BhPxnoBonZqlAKAE/AsMr2fVPnmFw= 5 IEC60617
+.Title 'Reactor, general symbol /Form 1, S00848' 1033
+.Title 'Dławik, reaktor S00848' 1045
+.Title 'Induktionsspole, Reaktor S00848' 1030
+.Title 'Tlumivka, reaktor S00848' 1029
+.Name R -8500 1250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0
+.Typ "" -8500 -7750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Art "" -8500 -11000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.Func "" -8500 -4500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -8500 -1250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 7500 0 0
+.Point 0 0 12500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 0 -12500 0 0
+.Point 0 0 -7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0
+.Point 0 -7500 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 7500 0 0
+.end
+.arc 1 0 0 0 0 0 7500 2700 1800 250 0 0 0 0 0 0 0
+.con 1 0 12500 0 0 0 0 "" 0 0 0
+.PinName 1 -750 13250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 12250 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 15000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.con 1 0 -12500 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -13250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0
+.PinFunc "" 0 -9750 0 0 0 25 0 7 0 0 0 2 0 0 0 0 0
+.PinLab "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.PinDes "" 0 -12500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0
+.end
+
