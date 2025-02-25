@@ -1,4 +1,4 @@
-﻿.PCsCADProject C:\Users\lasse\OneDrive\Documents\GitHub\H1Project\H1Project.PRO V24.0 6 261 1515743398 '24-02-2025 13:05:04' 2 2500 500 2500 500 2000 Standard 1 "" "" 37 249
+﻿.PCsCADProject C:\Users\lasse\OneDrive\Documents\GitHub\H1Project\H1Project.PRO V24.0 18 261 1515804139 '25-02-2025 10:47:30' 2 2500 500 2500 500 2000 Standard 1 "" "" 37 249
 .Title 'Toyota Painting' 0
 .Born 2 0 23.0 1513576155
 
@@ -36,15 +36,11 @@
 .AppData '0000={"Name":"Setting","Expression":"","Visible":false,"DisplayOrder":1,"Items":[]}'
 .AppData '0001={"Name":"Segregation","Expression":"","Visible":false,"DisplayOrder":0,"Items":[]}'
 .AppData [Components]
-.AppData '1={"FromPortal":"1"}'
-.AppData '2={"FromPortal":"1"}'
-.AppData '3={"FromPortal":"2"}'
-.AppData '4={"FromPortal":"2"}'
-.AppData '5={"FromPortal":"2"}'
-.AppData '8={"FromPortal":"2"}'
-.AppData '10={"FromPortal":"2"}'
-.AppData '6={"FromPortal":"2"}'
-.AppData '7={"FromPortal":"1"}'
+.AppData '304={"FromPortal":"1"}'
+.AppData '305={"FromPortal":"1"}'
+.AppData '307={"FromPortal":"1"}'
+.AppData '306={"FromPortal":"1"}'
+.AppData '273={"FromPortal":"2"}'
 .AppData '9={"FromPortal":"2"}'
 .AppData '11={"FromPortal":"2"}'
 .AppData '12={"FromPortal":"2"}'
@@ -56,6 +52,19 @@
 .AppData '55={"FromPortal":"2"}'
 .AppData '56={"FromPortal":"2"}'
 .AppData '57={"FromPortal":"2"}'
+.AppData '269={"FromPortal":"2"}'
+.AppData '316={"FromPortal":"2"}'
+.AppData '311={"FromPortal":"1"}'
+.AppData '314={"FromPortal":"2"}'
+.AppData '1={"FromPortal":"1"}'
+.AppData '2={"FromPortal":"1"}'
+.AppData '3={"FromPortal":"2"}'
+.AppData '4={"FromPortal":"2"}'
+.AppData '5={"FromPortal":"2"}'
+.AppData '8={"FromPortal":"2"}'
+.AppData '10={"FromPortal":"2"}'
+.AppData '6={"FromPortal":"2"}'
+.AppData '7={"FromPortal":"1"}'
 .AppData '15={"FromPortal":"1"}'
 .AppData '16={"FromPortal":"2"}'
 .AppData '17={"FromPortal":"2"}'
@@ -66,13 +75,16 @@
 .AppData '58={"FromPortal":"2"}'
 .AppData '220={"FromPortal":"2"}'
 .AppData '218={"FromPortal":"2"}'
+.AppData '299={"FromPortal":"2"}'
+.AppData '300={"FromPortal":"2"}'
+.AppData '301={"FromPortal":"2"}'
+.AppData '302={"FromPortal":"2"}'
 .AppData '18={"FromPortal":"2"}'
 .AppData '32={"FromPortal":"2"}'
 .AppData '33={"FromPortal":"2"}'
 .AppData '34={"FromPortal":"2"}'
 .AppData '224={"FromPortal":"2"}'
 .AppData '86={"FromPortal":"2"}'
-.AppData '269={"FromPortal":"2"}'
 .AppData '22={"FromPortal":"2"}'
 .AppData '23={"FromPortal":"2"}'
 .AppData '24={"FromPortal":"2"}'
@@ -104,12 +116,10 @@
 .AppData '74={"FromPortal":"2"}'
 .AppData '78={"FromPortal":"2"}'
 .AppData '79={"FromPortal":"2"}'
-.AppData '241={"FromPortal":"2"}'
-.AppData '242={"FromPortal":"2"}'
+.AppData '318={"FromPortal":"2"}'
 .AppData '39={"FromPortal":"2"}'
 .AppData '40={"FromPortal":"1"}'
 .AppData '85={"FromPortal":"2"}'
-.AppData '273={"FromPortal":"2"}'
 .AppData '51={"FromPortal":"2"}'
 .AppData '52={"FromPortal":"2"}'
 .AppData '53={"FromPortal":"2"}'
@@ -119,15 +129,15 @@
 .AppData '54={"FromPortal":"2"}'
 .AppData '246={"FromPortal":"2"}'
 .AppData '227={"FromPortal":"2"}'
-.AppData '243={"FromPortal":"2"}'
 .AppData '229={"FromPortal":"2"}'
 .AppData '289={"FromPortal":"2"}'
 .AppData '290={"FromPortal":"2"}'
 .AppData '232={"FromPortal":"2"}'
 .AppData '233={"FromPortal":"2"}'
-.AppData '286={"FromPortal":"2"}'
 .AppData '287={"FromPortal":"2"}'
 .AppData '288={"FromPortal":"2"}'
+.AppData '315={"FromPortal":"2"}'
+.AppData '317={"FromPortal":"2"}'
 .AppData '158={"FromPortal":"1"}'
 .AppData '159={"FromPortal":"2"}'
 .AppData '160={"FromPortal":"2"}'
@@ -185,8 +195,6 @@
 .AppData '297={"FromPortal":"1"}'
 .AppData '298={"FromPortal":"1"}'
 .AppData '216={"FromPortal":"2"}'
-.AppData '219={"FromPortal":"2"}'
-.AppData '244={"FromPortal":"1"}'
 
 .Revision 0 0
 
@@ -248,12 +256,12 @@
 
 .Database ComponentID;Manufacturer;ManufacturersArticleNumber;ManufacturersGTIN;HistoricalArticleNumber;HistoricalArticleNumber2;Type;usrDatasheet;Picture;usrFavoriteSupplier;DescriptUK;DescriptDK;DescriptCZ;DescriptCN;DescriptDE;DescriptES;DescriptFR;DescriptHU;DescriptHR;DescriptIT;DescriptNL;DescriptNO;DescriptPL;DescriptPT;DescriptRU;DescriptSE;DescriptTR;DescriptUS;pcsDiagramSymbols;usrDiagramSymbols;pcsDiagramPinData;usrDiagramPinData;pcsSingleLineSymbol;usrSingleLineSymbol;pcsInstSymbols;usrInstSymbols;pcsBusSymbols;usrBusSymbols;pcsPneuSymbols;usrPneuSymbols;pcsHydSymbols;usrHydSymbols;pcsPidSymbols;usrPidSymbols;pcsConplanSymbol;usrConplanSymbol;pcsMecSymbols;usrMecSymbols;pcsOptionalAccessories;usrOptionalAccessories;pcsFixedAccessories;usrFixedAccessories;usrPBSymbol;pcsPBSymbol;pcsCDimData;TechProperties;BuiltInDepth;Weight;UnitPerPack;UnitForUPP;CwCode;OrganizationNode1;OrganizationNode2;OrganizationNode3;usrOrganizationNode1;usrOrganizationNode2;usrOrganizationNode3;RefIDIec;RefIDAnsi;RefIDCustom;pcsComponentID;pcsComponentVersion;pcsComponentLastUpdate;pcsCheckSum;pcsInternalCheckedStatus;pcsSys1;pcsSys2;pcsSys6;pcsSys7
 .DbIndex 44;20;53;102;103;104;3;36;35;94;58;106;109;110;111;112;120;113;114;95;115;116;108;117;118;107;119;23;47;5;48;7;50;25;51;45;52;46;60;61;62;63;93;92;96;97;49;8;64;39;65;9;105;32;98;122;66;72;24;73;40;74;75;76;77;78;79;6;80;101;57;54;99;100;91;81;82;86;87
-.DbValues 'c922a79a-fe5d-4922-8382-350146c3949a;Weidmüller;1020200000;4008190163440;;;"WDU 6";;%pcsPIC%\Weidmüller-1020200000.jpg;;"Feed-through terminal, Screw connection, 6 mm², 800 V, 41 A, dark beige";"Gennemgangsklemme skrue/skrue";;;"Durchgangs-Reihenklemme, Schraubanschluss, 6 mm², 800 V, 41 A, dunkelbeige";;;;;;;;"Przelotowa rzędowa listwa zaciskowa, złącze śrubowe, 6 mm², 800 V, 41 A, Ciemnobeżowy";;;;;;PCS-S00017=T;;1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;;WEIDMÜLLER_1020200000=T;;;;;;;;;;0;0;0;;;2120;X;;;;;X;;;c922a79a-fe5d-4922-8382-350146c3949a;5;11/28/2023;8e12132b2ab2e0fe89b4284b1cfba0df3b2319d1;0;;;;'
+.DbValues 'c922a79a-fe5d-4922-8382-350146c3949a;Weidmüller;1020200000;4008190163440;;;"WDU 6";;%pcsPIC%\Weidmüller-1020200000.jpg;;"Feed-through terminal, Screw connection, 6 mm², 800 V, 41 A, dark beige";"Gennemgangsklemme skrue/skrue";;;"Durchgangs-Reihenklemme, Schraubanschluss, 6 mm², 800 V, 41 A, dunkelbeige";;;;;;;;"Przelotowa rzędowa listwa zaciskowa, złącze śrubowe, 6 mm², 800 V, 41 A, Ciemnobeżowy";;;;;;PCS-S00017=T;PCS-S00017;1[/I:ET],1[/I:IT];1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;WEIDMÜLLER_1020200000=T;WEIDMÜLLER_1020200000;;;;;;;;;0;0;0;;N;2120;X;;;;;X;;;c922a79a-fe5d-4922-8382-350146c3949a;5;11/28/2023;8e12132b2ab2e0fe89b4284b1cfba0df3b2319d1;0;;;;'
 .DbValues '981cdd39-4b3b-494f-af4a-7185f0807f28;"Scankab Cables";170025005;;;;"SCANFLEX H 2001 - 300/500 V";;"%pcsPIC%\Scankab Cables-170025005.jpg";;"Halogen-free connection cable 5G2,5";"Halogenfrit tilslutningskabel 5G2,5";;;;;;;;;;;"Bezhalogenowy kabel przylaczeniowy 5G2,5";;;;;;PCS-S00009;PCS-S00010-001=N;1,2,3,4,GNYE;1,2,3,4,GNYE;;;;;;;;;;;;;;;#R5.1mm;#R5.1mm;;;;;;;;;0;180;0;;C;3310;W;;;;;W;;;981cdd39-4b3b-494f-af4a-7185f0807f28;7;03/09/2023;b8dced089de243a46b74ebf0b74e61c6cd91b906;0;;;;C'
 .DbValues '15BA8D4A-EB8E-47E1-8E90-C2E714F331FF;Siemens;3LD2003-1TL53;4011209519138;;;3LD2003-1TL53;%PCSDOC%\3LD20031TL53_datasheet_en.pdf;%PCSPIC%\G_I202_XX_33220I.jpg;;"SENTRON, Switch disconnector 3LD, emergency switching-off switch, 4- pole, Iu: 16 A, operating power / at AC-23 A 400 V: 7.5 kW, front-mounted, rotary operating mechanism, Red / yellow, 4-hole mounting of the handle";"SENTRON, Afbryder 3LD, hovedafbryder, 4-polet, Iu: 16 A, Driftseffekt / ved AC-23 A ved 400 V: 7,5 kW";;;;;;;;;;;"SENTRON, Rozłącznik izolacyjny 3LD, wyłącznik główny, 4-biegunowy, Iu: 16 A, Moc robocza / przy AC-23 A przy 400 V: 7,5 kW";;;;;;PCS-S00256-019=N;PCS-S00256-019;1,2,3,4,5,6,N.1,N.2;1,2,3,4,5,6,N.1,N.2;;;;;;;;;;;;;;;SIEMENS-3LD2003-1TL51=N;SIEMENS-3LD2003-1TL51;;;;;;;;;0.095;0.217;1;;N;1840;S;;;;;S;;;;0;;;0;;;;N'
-.DbValues 'c1d27285-97bc-4411-a018-708783335904;Weidmüller;1010200000;;;;"WPE 6";;%pcsPIC%\Weidmüller-1010200000.jpg;;"PE terminal, Screw connection, 6 mm², 720 A (6 mm²), Green/yellow";"Jordklemme skrue/skrue";;;"Schutzleiter-Reihenklemme, Schraubanschluss, 6 mm², 720 A (6 mm²), grün / gelb";;;;;;;;"Rzędowa listwa zaciskowa do przewodu ochronnego, złącze śrubowe, 6 mm², 720 A (6 mm²), zielony / żółty";;;;;;PCS-S00017-001=T;;1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;;WEIDMÜLLER_1010200000=T;;;;;;;;;;0;0;0;;;2120;X;;;;;X;;;c1d27285-97bc-4411-a018-708783335904;5;12/11/2023;2ce3efd69e0e7dcce096e346884eff1571f7137d;0;;;;E'
+.DbValues 'c1d27285-97bc-4411-a018-708783335904;Weidmüller;1010200000;;;;"WPE 6";;%pcsPIC%\Weidmüller-1010200000.jpg;;"PE terminal, Screw connection, 6 mm², 720 A (6 mm²), Green/yellow";"Jordklemme skrue/skrue";;;"Schutzleiter-Reihenklemme, Schraubanschluss, 6 mm², 720 A (6 mm²), grün / gelb";;;;;;;;"Rzędowa listwa zaciskowa do przewodu ochronnego, złącze śrubowe, 6 mm², 720 A (6 mm²), zielony / żółty";;;;;;PCS-S00017-001=T;PCS-S00017-001;1[/I:ET],1[/I:IT];1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;WEIDMÜLLER_1010200000=T;WEIDMÜLLER_1010200000;;;;;;;;;0;0;0;;E;2120;X;;;;;X;;;c1d27285-97bc-4411-a018-708783335904;5;12/11/2023;2ce3efd69e0e7dcce096e346884eff1571f7137d;0;;;;E'
 .DbValues '5254db40-93dc-4797-899d-da37a008accc;Siemens;5SL6610-7;4001869389585;;;5SL6610-7;;%pcsPIC%\Siemens-5SL6610-7.jpg;;"Miniature circuit breaker 400 V 6kA, 3+N-pole, C, 10 A";"Automatsikring 400V 6KA, 3P+N, C, 10A";;;;;;;;;;;"Wyłącznik nadprądowy bezzwłoczny 3P+N 400V 10A (6000A) ''C''";;;;;;PCS-S00295-102=N;;1,2,3,4,5,6,N,N'';;PCS-S00295-050=N;;;;;;;;;;;;;;SIEMENS_5SL6610-7=N;;;;;;;;;;0;1;0;;;2220;Q;;;;;Q;;;5254db40-93dc-4797-899d-da37a008accc;26;09/18/2024;0afcbd85f5d7af701e7794913946b9e9459c3818;0;;;;'
-.DbValues '8e8f99ad-1c7f-47ec-8542-d145f8c815fa;Weidmüller;1020280000;4008190100032;;;"WDU 6";;%pcsPIC%\Weidmüller-1020280000.jpg;;"Feed-through terminal, Screw connection, 6 mm², 800 V, 41 A, blue";"Gennemgangsklemme blå";;;"Durchgangs-Reihenklemme, Schraubanschluss, 6 mm², 800 V, 41 A, blau";;;;;;;;"Przelotowa rzędowa listwa zaciskowa, złącze śrubowe, 6 mm², 800 V, 41 A, niebieski";;;;;;PCS-S00017=T;;1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;;WEIDMÜLLER_1020280000=T;;;;;;;;;;0;0;0;;;2120;X;;;;;X;;;8e8f99ad-1c7f-47ec-8542-d145f8c815fa;5;11/28/2023;599352bebc0f8a4c7daa3ca1b4b45c81ebfbac02;0;;;;'
+.DbValues '8e8f99ad-1c7f-47ec-8542-d145f8c815fa;Weidmüller;1020280000;4008190100032;;;"WDU 6";;%pcsPIC%\Weidmüller-1020280000.jpg;;"Feed-through terminal, Screw connection, 6 mm², 800 V, 41 A, blue";"Gennemgangsklemme blå";;;"Durchgangs-Reihenklemme, Schraubanschluss, 6 mm², 800 V, 41 A, blau";;;;;;;;"Przelotowa rzędowa listwa zaciskowa, złącze śrubowe, 6 mm², 800 V, 41 A, niebieski";;;;;;PCS-S00017=T;PCS-S00017-001;1[/I:ET],1[/I:IT];1[/I:ET],1[/I:IT];;;;;;;;;;;;;;;WEIDMÜLLER_1020280000=T;WEIDMÜLLER_1020280000;;;;;;;;;0;0;0;;N;2120;X;;;;;X;;;8e8f99ad-1c7f-47ec-8542-d145f8c815fa;5;11/28/2023;599352bebc0f8a4c7daa3ca1b4b45c81ebfbac02;0;;;;'
 .DbValues 'EFF1A919-C08B-41C8-A250-6A5E407930D1;Weidmüller;1469470000;4050118275711;;;"PRO ECO 72W 24V 3A";%PCSDOC%\1469470000_PRO_ECO_72W_24V_3A_en.pdf;%PCSPIC%\1469470000.jpg;;"Power supply, switch-mode power supply unit, 24 V";;;;;;;;;;;;;;;;;"Power supply, switch-mode power supply unit, 24 V";;"WeidMuller PowerSupply";;13[],14[],+[],-[],-[],L(+)[],N(-)[],PE[];;;;;;;;;;;;;;;;"WeidMuller PowerSupply MEK";;;;;;;;;100;0.557;1;pcs;N;6330;;;;;;;;;;0;;;0;;;;'
 .DbValues '0f059ffd-c53f-458e-a1ca-240ec93d27ae;Weidmüller;1011060000;;;;"WSI 6";;%pcsPIC%\Weidmüller-1011060000.jpg;;"W-Series, Fuse terminal, Rated cross-section: 6 mm², Screw connection";"Sikringsklemme skrue/skrue orange";;;"W-Reihe, Sicherungs-Reihenklemme, Bemessungsquerschnitt: 6 mm², Schraubanschluss";;;;;;;;"Seria W, Rzędowa listwa bezpiecznikowa, Przekrój pomiarowy: 6 mm², złącze śrubowe";;;;;;PCS-S00017-007=N;;1,2;;;;;;;;;;;;;;;;WEIDMÜLLER_1011060000=N;;;;;;;;;;0;0;0;;;2120;X;;;;;X;;;0f059ffd-c53f-458e-a1ca-240ec93d27ae;8;10/27/2022;a8b47575e940db105e242b8472975cef05b896b9;0;;;;'
 .DbValues 'd1eaa1a5-1858-4217-9da7-9844f0db9e87;ABB;2CDS251103R0064;;;;"S201-C6 NA";;%pcsPIC%\ABB-2CDS251103R0064.jpg;;"Miniature Circuit Breaker - S200 - 1+NP - C - 6 ampere";"AUTOMATSIKRING 1P+N C6";;;;;;;;;;;"S201-C6 NA Wyłącznik nadmiarowo-prądowy";;;;;;PCS-S00295-070=N;;1,2,3N,4N;;PCS-S00295-050=N;;;;;;;;;;;;;;ABB_2CDS251103R0064=N;;;;;;;;;;0;0;0;;;2220;F;;;;;F;;;d1eaa1a5-1858-4217-9da7-9844f0db9e87;24;10/27/2023;1e2ce3032c697f584c836c5cedf5d9cb86cb1e5b;0;;;;'
@@ -273,6 +281,9 @@
 .DbValues 'ee95a7a0-fbc3-47e6-8bbb-41bbaad7a1d3;SICK;2095618;;;;YF2A15-050UB5XLEAX;;%pcsPIC%\SICK-2095618.png;;"Female connector, M12, 5-pin, straight, A-coded";"Hunstik, M12, 5-polet, lige, A-kodet";;;;;;;;;;;"Złącze żeńskie, M12, 5-stykowe, proste, kodowanie A";;;;;;PCS-S00009;;1,2,3,4,5;;;;;;;;;;;;;;;;#R0mm;;;;;;;;;;0;0;0;;;3510;W;;;;;W;;;ee95a7a0-fbc3-47e6-8bbb-41bbaad7a1d3;7;10/25/2024;733444d6d4f72b7ffb80971d0cd54bd38b41f3ee;0;;;;C'
 .DbValues '52fa2c02-8653-4eca-861e-8aeb117831cc;Siemens;6ES7214-1HG40-0XB0;4047623402732;;;6ES7214-1HG40-0XB0;;%pcsPIC%\Siemens-6ES7214-1HG40-0XB0.jpg;;"SIMATIC S7-1200, CPU 1214C, compact CPU, DC/DC/relay, onboard I/O: 14 DI 24 V DC; 10 DO relay 2 A; 2 AI 0-10 V DC, Power supply: DC 20.4-28.8V DC, Program/data memory 100 KB";"CPU 1214C, DC/DC/RELAY, 14DI/10DO/2AI";;;"CPU 1214C, DC/DC/RELAIS, 14DI/10DO/2AI";;;;;;;;"Sterownik PLC (kompaktowy CPU) - 24VDC, 14DI(1x14,Sink/Source), 10DO(2x5,przekaźnik), 2AI, Profinet";;;;;;"PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-IN1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-REF-OUT1=X;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-IN1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-OUT1=P;PLC-REF-TOP3=X;PLC-REF-BOTTOM3=X;PLC-REF-COMM§1=X;PLC-AUX3=N;PLC-AUX6=N;PLC-COMM1§2=N";;"10.7[DIA.0/I:IPD];10.8[DIA.1/I:IPD];10.9[DIA.2/I:IPD];10.10[DIA.3/I:IPD];10.11[DIA.4/I:IPD];10.12[DIA.5/I:IPD];10.13[DIA.6/I:IPD];10.14[DIA.7/I:IPD];10.15[DIB.0/I:IPD];10.16[DIB.1/I:IPD];10.17[DIB.2/I:IPD];10.18[DIB.3/I:IPD];10.19[DIB.4/I:IPD];10.20[DIB.5/I:IPD];11.2[AI.0/I:IPA];11.3[AI.1/I:IPA];X12.2[DQA.0/I:OPD];X12.3[DQA.1/I:OPD];X12.4[DQA.2/I:OPD];X12.5[DQA.3/I:OPD];X12.6[DQA.4/I:OPD];X12.8[DQA.5/I:OPD];X12.9[DQA.6/I:OPD];X12.10[DQA.7/I:OPD];X12.11[DQB.0/I:OPD];X12.12[DQB.1/I:OPD];10.7[DIA.0/I:IPD];10.8[DIA.1/I:IPD];10.9[DIA.2/I:IPD];10.10[DIA.3/I:IPD];10.11[DIA.4/I:IPD];10.12[DIA.5/I:IPD];10.13[DIA.6/I:IPD];10.14[DIA.7/I:IPD];10.15[DIB.0/I:IPD];10.16[DIB.1/I:IPD];10.17[DIB.2/I:IPD];10.18[DIB.3/I:IPD];10.19[DIB.4/I:IPD];10.20[DIB.5/I:IPD];11.2[AI.0/I:IPA];11.3[AI.1/I:IPA];X12.2[DQA.0/I:OPD];X12.3[DQA.1/I:OPD];X12.4[DQA.2/I:OPD];X12.5[DQA.3/I:OPD];X12.6[DQA.4/I:OPD];X12.8[DQA.5/I:OPD];X12.9[DQA.6/I:OPD];X12.10[DQA.7/I:OPD];X12.11[DQB.0/I:OPD];X12.12[DQB.1/I:OPD];;,,,,,,,,,;X1[PROFINET/I:N];X10.1[L+],X10.2[M],X10.3[E];X10.4[L+OUT],X10.5[MOUT],X12.1[1L],X12.7[2L],X10.6[1M],X11.1[2M];X1[PROFINET]";;;;;;;;;;;;;;;;SIEMENS-6ES7214-1HG40-0XB0=N;;;;;;;;;;0;0;0;;;8920;K;;;;;K;;;52fa2c02-8653-4eca-861e-8aeb117831cc;27;10/22/2024;d73fd763cb9b6c547e8f959493138a2c14e4804e;0;;;;"P {""ChannelsTotal"":26,""PinSeriesFixed"":-1,""PLCPinSeriesArray"":[{""OptNo"":1,""Count"":8,""Used"":0,""VariantCount"":1,""Variants"":[{""IOStatus"":0,""IOStatusType"":""D"",""AddrPrChannel"":1,""TermPrAddr"":1,""NumberSystem"":1,""SubName"":false,""Symbol"":""PLC-IN1"",""SymbolState"":0,""PinDataStr"":""10.7[DIA.0\/I:IPD],10.8[DIA.1\/I:IPD],10.9[DIA.2\/I:IPD],10.10[DIA.3\/I:IPD],10.11[DIA.4\/I:IPD],10.12[DIA.5\/I:IPD],10.13[DIA.6\/I:IPD],10.14[DIA.7\/I:IPD]"",""RefChUsed"":8,""PinDataSubname"":[],""PinData"":[[""10.7"",""10.8"",""10.9"",""10.10"",""10.11"",""10.12"",""10.13"",""10.14""],[""DIA.0"",""DIA.1"",""DIA.2"",""DIA.3"",""DIA.4"",""DIA.5"",""DIA.6"",""DIA.7""]],""SymRefPCSType"":[{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.7[DIA.0\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.8[DIA.1\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.9[DIA.2\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.10[DIA.3\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.11[DIA.4\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.12[DIA.5\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.13[DIA.6\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.14[DIA.7\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1}]}]},{""OptNo"":2,""Count"":6,""Used"":0,""VariantCount"":1,""Variants"":[{""IOStatus"":0,""IOStatusType"":""D"",""AddrPrChannel"":1,""TermPrAddr"":1,""NumberSystem"":1,""SubName"":false,""Symbol"":""PLC-IN1"",""SymbolState"":0,""PinDataStr"":""10.15[DIB.0\/I:IPD],10.16[DIB.1\/I:IPD],10.17[DIB.2\/I:IPD],10.18[DIB.3\/I:IPD],10.19[DIB.4\/I:IPD],10.20[DIB.5\/I:IPD]"",""RefChUsed"":6,""PinDataSubname"":[],""PinData"":[[""10.15"",""10.16"",""10.17"",""10.18"",""10.19"",""10.20""],[""DIB.0"",""DIB.1"",""DIB.2"",""DIB.3"",""DIB.4"",""DIB.5""]],""SymRefPCSType"":[{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.15[DIB.0\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.16[DIB.1\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.17[DIB.2\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.18[DIB.3\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.19[DIB.4\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""10.20[DIB.5\/I:IPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1}]}]},{""OptNo"":3,""Count"":2,""Used"":0,""VariantCount"":1,""Variants"":[{""IOStatus"":0,""IOStatusType"":""A"",""AddrPrChannel"":1,""TermPrAddr"":1,""NumberSystem"":1,""SubName"":false,""Symbol"":""PLC-IN1"",""SymbolState"":0,""PinDataStr"":""11.2[AI.0\/I:IPA],11.3[AI.1\/I:IPA]"",""RefChUsed"":2,""PinDataSubname"":[],""PinData"":[[""11.2"",""11.3""],[""AI.0"",""AI.1""]],""SymRefPCSType"":[{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""11.2[AI.0\/I:IPA]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-IN1.SYM"",""AltNo"":0,""PinDataStr"":""11.3[AI.1\/I:IPA]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1}]}]},{""OptNo"":4,""Count"":10,""Used"":0,""VariantCount"":1,""Variants"":[{""IOStatus"":1,""IOStatusType"":""D"",""AddrPrChannel"":1,""TermPrAddr"":1,""NumberSystem"":1,""SubName"":false,""Symbol"":""PLC-OUT1"",""SymbolState"":0,""PinDataStr"":""X12.2[DQA.0\/I:OPD],X12.3[DQA.1\/I:OPD],X12.4[DQA.2\/I:OPD],X12.5[DQA.3\/I:OPD],X12.6[DQA.4\/I:OPD],X12.8[DQA.5\/I:OPD],X12.9[DQA.6\/I:OPD],X12.10[DQA.7\/I:OPD],X12.11[DQB.0\/I:OPD],X12.12[DQB.1\/I:OPD]"",""RefChUsed"":10,""PinDataSubname"":[],""PinData"":[[""X12.2"",""X12.3"",""X12.4"",""X12.5"",""X12.6"",""X12.8"",""X12.9"",""X12.10"",""X12.11"",""X12.12""],[""DQA.0"",""DQA.1"",""DQA.2"",""DQA.3"",""DQA.4"",""DQA.5"",""DQA.6"",""DQA.7"",""DQB.0"",""DQB.1""]],""SymRefPCSType"":[{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.2[DQA.0\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.3[DQA.1\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.4[DQA.2\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.5[DQA.3\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.6[DQA.4\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.8[DQA.5\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.9[DQA.6\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.10[DQA.7\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.11[DQB.0\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-OUT1.SYM"",""AltNo"":0,""PinDataStr"":""X12.12[DQB.1\/I:OPD]"",""NumberOfConnectionPoints"":1,""SymbolType"":29,""SymbolType2"":52,""SymbolBirthType"":29,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":1}]}]}],""OtherPCSType"":[{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-Ref-top3"",""AltNo"":0,""PinDataStr"":"""",""NumberOfConnectionPoints"":0,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-BOTTOM3"",""AltNo"":0,""PinDataStr"":"",,,,,,,,,"",""NumberOfConnectionPoints"":10,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-REF-COMM"",""AltNo"":0,""PinDataStr"":""X1[PROFINET\/I:N]"",""NumberOfConnectionPoints"":1,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":1,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-Aux3"",""AltNo"":0,""PinDataStr"":""X10.1[L+\/I:N],X10.2[M\/I:N],X10.3[E\/I:N]"",""NumberOfConnectionPoints"":3,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-Aux6"",""AltNo"":0,""PinDataStr"":""X10.4[L+OUT\/I:N],X10.5[MOUT\/I:N],X12.1[1L\/I:N],X12.7[2L\/I:N],X10.6[1M\/I:N],X11.1[2M\/I:N]"",""NumberOfConnectionPoints"":6,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":0,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0},{""ShouldBeDeleted"":false,""BadPinStr"":false,""SymLibFileName"":""PLC-Comm1"",""AltNo"":0,""PinDataStr"":""X1[PROFINET\/I:N]"",""NumberOfConnectionPoints"":1,""SymbolType"":0,""SymbolType2"":52,""SymbolBirthType"":0,""SymbolBirthType2"":52,""SymbolSubName"":"""",""State"":2,""PCSType"":"""",""BadPCSTYPE"":false,""RefPinsFromIO"":0}]}"'
 .DbValues 'CF351613-C561-4263-B690-440AA4A8D2B3;Festo;VUVG-S10-B52-ZT-M7-1T1L;;;;"5/2, bistable";%PCSDOC%\VUVG-S10-B52-ZT-M7-1T1L.pdf;%PCSPIC%\VUVG-S10-B52-ZT-M7-1T1L.jpg;;;;;;;;;;;;;;;;;;;;;VUVG-S10-B52-ZT-M7-1T1L;;1[],2[],3[],4[];;;;;;;;;;;;;;;;(IGNORE);;;;;;;;;0;0;0;;N;;;;;;;;;;;0;;;0;;;;'
+.DbValues 'CF351613-C561-4263-B690-440AA4A8D2B3;Festo;VUVG-S10-B52-ZT-M7-1T1L;;;;"5/2, bistable";%PCSDOC%\VUVG-S10-B52-ZT-M7-1T1L.pdf;%PCSPIC%\VUVG-S10-B52-ZT-M7-1T1L.jpg;;;;;;;;;;;;;;;;;;;;;VUVG-S10-B52-ZT-M7-1T1L;;1[],2[],3[],4[];;;;;;;;;;;;;;;;(IGNORE);;;;;;;;;0;0;0;;N;;;;;;;;;;;0;;;0;;;;'
+.DbValues 'FA1EC981-FA3E-41D0-8FD2-BD289BD0FE37;SMC;D-M9P;;;;"SMC D-M9P 24V PNP 3Wire";%PCSDOC%\D-M9NW_eng_tds.pdf;%PCSPIC%\SMC-D-M9NW-30106445-01.jpg;;"Proximity switch, PNP, 1NO, 0.5m cable, 3 wires";"Nærhedsafbryder, 1NO, 2.5 m kabel, 3 ledninger";;;;;;;;;;;"Wyłącznik zbliżeniowy, 1NO, kabel 2.5m, 3 przewody";;;;;;;PCS-S00359-065;;BN[~/+/-],BU[~/-/+],BK[NO];;;;;;;;;;;;;;;;(IGNORE);;;;;;;;;0;0;0;;N;2480;B;;;;;B;;;;0;;;0;;;;'
+.DbValues '88B09B7F-E647-418D-80D3-FAC4F0D7AB98;SMC;D-M9B;;;;"SMC D-M9B 24V 2Wire";%PCSDOC%\D-M9NW_eng_tds.pdf;%PCSPIC%\SMC-D-M9NW-30106445-01.jpg;;"Proximity switch, 1NO, 0.5m cable, 2 wires";"Nærhedsafbryder, 1NO, 2.5 m kabel, 3 ledninger";;;;;;;;;;;"Wyłącznik zbliżeniowy, 1NO, kabel 2.5m, 3 przewody";;;;;;;PCS-S00359-065;;BN[~/+/-/I:N],,BK[NO/I:N];;;;;;;;;;;;;;;;(IGNORE);;;;;;;;;0;0;0;;N;2480;B;;;;;B;;;;0;;;0;;;;'
 
 
 .PCsCADSymbol PCSA3HBASIC.SYM -18000 0 387000 260283 160 '19-10-2021 07:58:04' 0 V24.0 "" -1 ""
@@ -14371,174 +14382,6 @@
 .PinDes "" 17500 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
 .end
 
-.PCsCADSymbol C:\PCAutomationEDU\Symbols\UserSymbols\VUVG-S10-B52-ZT-M7-1T1L.SYM -42500 -10750 42500 11500 144 '26-01-2025 13:47:52' 0 V24.0 "" -1 ""
-.Title VUVG-S10-B52-ZT-M7-1T1L 1030
-.Name B -25750 1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ "" -25750 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art "" -25750 -10750 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" -25750 -4250 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
-.SymbRef 0 1 "" 0 0 0
-.SingleRef "" -25750 -1000 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -25000 -10000 0 0
-.Point 0 25000 -10000 0 0
-.Point 0 25000 10000 0 0
-.Point 0 -25000 10000 0 0
-.Point 0 -25000 -10000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 42500 7500 0 0
-.Point 0 25000 7500 0 0
-.Point 0 25000 -5000 0 0
-.Point 0 42500 -5000 0 0
-.Point 0 42500 7500 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -25000 7500 0 0
-.Point 0 -42500 7500 0 0
-.Point 0 -42500 -5000 0 0
-.Point 0 -25000 -5000 0 0
-.Point 0 -25000 7500 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -33750 7500 0 0
-.Point 0 -33750 -5000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 33750 7500 0 0
-.Point 0 33750 -5000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 33750 7500 0 0
-.Point 0 42250 -5000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -33750 7250 0 0
-.Point 0 -42500 -5000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 33750 5250 0 0
-.Point 0 26000 1750 0 0
-.Point 0 33750 -2250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -33750 5250 0 0
-.Point 0 -26500 1000 0 0
-.Point 0 -33750 -3250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 0 10000 0 0
-.Point 0 0 -10000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -22000 -10000 0 0
-.Point 0 -22000 -6250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 21000 -10000 0 0
-.Point 0 21000 -6250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -23750 -6250 0 0
-.Point 0 -20000 -6250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 18250 -6250 0 0
-.Point 0 23250 -6250 0 0
-.end
-.polyline 2 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -21750 8000 0 0
-.Point 0 -15500 -6750 0 0
-.end
-.polyline 2 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -20750 8500 0 0
-.Point 0 -22750 7250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -22750 7250 0 0
-.Point 0 -22750 9250 0 0
-.Point 0 -20750 8500 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -15500 -6750 0 0
-.Point 0 -14000 -5750 0 0
-.Point 0 -14000 -8000 0 0
-.Point 0 -16250 -7750 0 0
-.Point 0 -15500 -6750 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 14250 -7500 0 0
-.Point 0 20000 7000 0 0
-.Point 0 21750 6500 0 0
-.Point 0 21000 9250 0 0
-.Point 0 18250 8000 0 0
-.Point 0 20000 7000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 14250 -7500 0 0
-.Point 0 16000 -8500 0 0
-.Point 0 13250 -8750 0 0
-.Point 0 13000 -6750 0 0
-.Point 0 14250 -7500 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 4500 7250 0 0
-.Point 0 4500 -6000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 4500 -5750 0 0
-.Point 0 6750 -5750 0 0
-.Point 0 4500 -7500 0 0
-.Point 0 2750 -5750 0 0
-.Point 0 4500 -5750 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 4500 7250 0 0
-.Point 0 6250 7250 0 0
-.Point 0 4500 8750 0 0
-.Point 0 2750 7250 0 0
-.Point 0 4500 7250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -5500 7250 0 0
-.Point 0 -5500 -6000 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -5500 -5750 0 0
-.Point 0 -3250 -5750 0 0
-.Point 0 -5500 -7500 0 0
-.Point 0 -7250 -5750 0 0
-.Point 0 -5500 -5750 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 -5500 7250 0 0
-.Point 0 -3750 7250 0 0
-.Point 0 -5500 8750 0 0
-.Point 0 -7250 7250 0 0
-.Point 0 -5500 7250 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 4500 8750 0 0
-.Point 0 4500 11500 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 0 4722 -7327 0 0
-.Point 0 4722 -10750 0 0
-.end
-.con 1 -32500 7500 0 0 0 0 "" 0 0 0
-.PinName 1 -33250 8250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" -33250 6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.con 1 35000 7500 0 0 0 0 "" 0 0 0
-.PinName 2 34250 8250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 34250 6750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.con 1 -32500 -5000 0 0 0 0 "" 0 0 0
-.PinName 3 -33250 -5750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" -33250 -4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.con 1 35000 -5000 0 0 0 0 "" 0 0 0
-.PinName 4 34250 -5750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 34250 -4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.end
-
 .PCsCADSymbol C:\PCAutomationEDU\Symbols\PLC\PLC-AUX6.SYM -20000 -45000 20000 0 129 '13-01-2022 14:00:30' 0 V24.0 xMkIX8AF0v4znIDfjUqZpYpSsUTgp3PqSWVKBjM2SfY= 9 PLC
 .Title 'PLC auxilary - 6 connections' 1033
 .Title 'PLC auxilary - 6 forbindelser' 1030
@@ -14933,8 +14776,117 @@
 .PinDes "" 10000 2500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .end
 
+.PCsCADSymbol C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00359-065.SYM -22500 -7500 12500 10000 128 '25-02-2025 07:49:34' 0 V24.0 sn+rVlZlGJwdZEUW8YMXcK4MRo28uxrMyA+gfEQDOwc= 0 IEC60617
+.Title 'Proximity sensor, magnetically controlled, NO, 3 pins (3t)' 1033
+.Title 'Czujnik zblizeniowy, sterowany magnetycznie, NO, 3 piny (3g)' 1045
+.Title 'Nærhedssensor, magnetisk styret, NO, 3 pins (3t)' 1030
+.Title 'Senzor priblížení, magneticky ovládaný, NO, 3 pins (3t)' 1029
+.Name B -23250 1000 0 0 0 25 0 2 0 0 0 1 0 0 0 0 0 0 0 0
+.Typ "" -23250 -7500 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.Art "" -23250 -10750 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.Func "" -23250 -4250 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -23250 -1000 0 0 0 25 0 8 0 0 0 1 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -20000 7500 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -7500 -5000 0 0
+.Point 0 -7500 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -20000 -5000 0 0
+.Point 0 -7500 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -20000 -5000 0 0
+.Point 0 -20000 7500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 12500 10000 0 0
+.Point 0 -22500 10000 0 0
+.Point 0 -22500 -7500 0 0
+.Point 0 12500 -7500 0 0
+.Point 0 12500 10000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -16250 -250 0 0
+.Point 0 -16250 2750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -17250 -250 0 0
+.Point 0 -17250 2750 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -16750 3250 0 0
+.Point 0 -18750 1250 0 0
+.Point 0 -16750 -750 0 0
+.Point 0 -14750 1250 0 0
+.Point 0 -16750 3250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -11250 -2000 0 0
+.Point 0 -11250 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 64 -11250 2500 0 0
+.Point 64 -11250 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -11250 0 0 0
+.Point 0 -12500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -14750 1250 0 0
+.Point 0 -13750 1250 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -12750 1250 0 0
+.Point 0 -12000 1250 0 0
+.end
+.con 1 0 10000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 10750 0 0 0 25 0 0 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" -750 9250 0 0 0 25 0 2 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" 0 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" 0 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.con 1 5000 10000 0 0 0 0 "" 0 0 0
+.PinName 2 4250 10750 0 0 0 25 0 0 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" 4250 9250 0 0 0 25 0 2 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" 5000 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" 5000 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.con 1 10000 10000 0 0 0 0 "" 0 0 0
+.PinName 3 9250 10750 0 0 0 25 0 0 900 128 0 1 0 0 0 0 0 0 0 0
+.PinFunc "" 9250 9250 0 0 0 25 0 2 900 0 0 1 0 0 0 0 0 0 0 0
+.PinLab "" 10000 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.PinDes "" 10000 10000 0 0 0 25 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+.end
 
-.PageNo 1 1 '22-02-2025 02:09:36' 4 10000 1 0 300 1 1 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PCsCADSymbol C:\PCAUTOMATIONEDU\SYMBOLS\USERSYMBOLS\VALVE.SYM -10000 -5000 10000 5000 144 '25-02-2025 08:34:02' 0 V24.0 "" -1 ""
+.Title 'shutoff valve' 1033
+.Name QMB -10750 1000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ "" -10750 -7500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art "" -10750 -10750 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" -10750 -4250 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -10750 -1000 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 0 -10000 -5000 0 0
+.Point 0 10000 -5000 0 0
+.Point 0 10000 5000 0 0
+.Point 0 -10000 5000 0 0
+.Point 0 -10000 -5000 0 0
+.end
+.con 1 0 5000 0 0 0 0 "" 0 0 0
+.PinName 1 -750 5750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" -750 4250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 0 -5000 0 0 0 0 "" 0 0 0
+.PinName 2 -750 -5750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" -750 -4250 0 0 0 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.end
+
+
+.PageNo 1 1 '25-02-2025 09:06:16' 4 10000 1 0 300 1 1 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title 'Front page' 0
 .Born 2 0 20.0 1513576155
 
@@ -14985,7 +14937,7 @@
 
 .end
 
-.PageNo 2 2 '26-01-2025 15:35:02' 4 10000 1 0 0 1 3 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo 2 2 '25-02-2025 09:08:50' 4 10000 1 0 0 1 3 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title 'Index - A3' 0
 .Born 2 0 20.0 1513576155
 
@@ -15016,11 +14968,11 @@
 .SField "" 6 0
 .SField "" 7 0
 .SField 'Graphical plans' 8 0
-.SLink 8 39 0 0 0
+.SLink 8 45 0 0 0
 .SField Lists 9 0
-.SLink 9 22 0 0 0
+.SLink 9 23 0 0 0
 .SField Layout 10 0
-.SLink 10 19 0 0 0
+.SLink 10 20 0 0 0
 .SField Diagrams 11 0
 .SLink 11 4 0 0 0
 .SField 1 12 0
@@ -15037,11 +14989,11 @@
 .SField PowerIN 23 0
 .SLink 23 4 0 0 0
 .SField 4 24 0
-.SLink 24 19 0 0 0
+.SLink 24 20 0 0 0
 .SField 6 25 0
-.SLink 25 22 0 0 0
+.SLink 25 23 0 0 0
 .SField 13 26 0
-.SLink 26 39 0 0 0
+.SLink 26 45 0 0 0
 .SField "" 27 0
 .SField "" 28 0
 .SField "" 29 0
@@ -15051,11 +15003,11 @@
 .SField PowerIN 33 0
 .SLink 33 4 0 0 0
 .SField 4 34 0
-.SLink 34 19 0 0 0
+.SLink 34 20 0 0 0
 .SField 6 35 0
-.SLink 35 22 0 0 0
+.SLink 35 23 0 0 0
 .SField 13 36 0
-.SLink 36 39 0 0 0
+.SLink 36 45 0 0 0
 .SField "" 37 0
 .SField "" 38 0
 .SField "" 39 0
@@ -15065,11 +15017,11 @@
 .SField PowerIN 43 0
 .SLink 43 4 0 0 0
 .SField 4 44 0
-.SLink 44 19 0 0 0
+.SLink 44 20 0 0 0
 .SField 6 45 0
-.SLink 45 22 0 0 0
+.SLink 45 23 0 0 0
 .SField 13 46 0
-.SLink 46 39 0 0 0
+.SLink 46 45 0 0 0
 .SField "" 47 0
 .SField "" 48 0
 .SField "" 49 0
@@ -15079,11 +15031,11 @@
 .SField PowerIN 53 0
 .SLink 53 4 0 0 0
 .SField 4 54 0
-.SLink 54 19 0 0 0
+.SLink 54 20 0 0 0
 .SField 6 55 0
-.SLink 55 22 0 0 0
+.SLink 55 23 0 0 0
 .SField 13 56 0
-.SLink 56 39 0 0 0
+.SLink 56 45 0 0 0
 .SField "" 57 0
 .SField "" 58 0
 .SField "" 59 0
@@ -15093,11 +15045,11 @@
 .SField PowerIN 63 0
 .SLink 63 4 0 0 0
 .SField 4 64 0
-.SLink 64 19 0 0 0
+.SLink 64 20 0 0 0
 .SField 6 65 0
-.SLink 65 22 0 0 0
+.SLink 65 23 0 0 0
 .SField 13 66 0
-.SLink 66 39 0 0 0
+.SLink 66 45 0 0 0
 .SField "" 67 0
 .SField "" 68 0
 .SField "" 69 0
@@ -15107,11 +15059,11 @@
 .SField PowerIN 73 0
 .SLink 73 4 0 0 0
 .SField 4 74 0
-.SLink 74 19 0 0 0
+.SLink 74 20 0 0 0
 .SField 6 75 0
-.SLink 75 22 0 0 0
+.SLink 75 23 0 0 0
 .SField 13 76 0
-.SLink 76 39 0 0 0
+.SLink 76 45 0 0 0
 .SField "" 77 0
 .SField "" 78 0
 .SField "" 79 0
@@ -15121,11 +15073,11 @@
 .SField PowerIN 83 0
 .SLink 83 4 0 0 0
 .SField 4 84 0
-.SLink 84 19 0 0 0
+.SLink 84 20 0 0 0
 .SField 6 85 0
-.SLink 85 22 0 0 0
+.SLink 85 23 0 0 0
 .SField 13 86 0
-.SLink 86 39 0 0 0
+.SLink 86 45 0 0 0
 .SField "" 87 0
 .SField "" 88 0
 .SField "" 89 0
@@ -15135,11 +15087,11 @@
 .SField PowerIN 93 0
 .SLink 93 4 0 0 0
 .SField 4 94 0
-.SLink 94 19 0 0 0
+.SLink 94 20 0 0 0
 .SField 6 95 0
-.SLink 95 22 0 0 0
+.SLink 95 23 0 0 0
 .SField 13 96 0
-.SLink 96 39 0 0 0
+.SLink 96 45 0 0 0
 .SField "" 97 0
 .SField "" 98 0
 .SField "" 99 0
@@ -15149,11 +15101,11 @@
 .SField PowerIN 103 0
 .SLink 103 4 0 0 0
 .SField 4 104 0
-.SLink 104 19 0 0 0
+.SLink 104 20 0 0 0
 .SField 6 105 0
-.SLink 105 22 0 0 0
+.SLink 105 23 0 0 0
 .SField 13 106 0
-.SLink 106 39 0 0 0
+.SLink 106 45 0 0 0
 .SField "" 107 0
 .SField "" 108 0
 .SField "" 109 0
@@ -15163,11 +15115,11 @@
 .SField PowerIN 113 0
 .SLink 113 4 0 0 0
 .SField 4 114 0
-.SLink 114 19 0 0 0
+.SLink 114 20 0 0 0
 .SField 6 115 0
-.SLink 115 22 0 0 0
+.SLink 115 23 0 0 0
 .SField 13 116 0
-.SLink 116 39 0 0 0
+.SLink 116 45 0 0 0
 .SField "" 117 0
 .SField "" 118 0
 .SField "" 119 0
@@ -15177,11 +15129,11 @@
 .SField PowerIN 123 0
 .SLink 123 4 0 0 0
 .SField 4 124 0
-.SLink 124 19 0 0 0
+.SLink 124 20 0 0 0
 .SField 6 125 0
-.SLink 125 22 0 0 0
+.SLink 125 23 0 0 0
 .SField 13 126 0
-.SLink 126 39 0 0 0
+.SLink 126 45 0 0 0
 .SField "" 127 0
 .SField "" 128 0
 .SField "" 129 0
@@ -15191,11 +15143,11 @@
 .SField PowerIN 133 0
 .SLink 133 4 0 0 0
 .SField 4 134 0
-.SLink 134 19 0 0 0
+.SLink 134 20 0 0 0
 .SField 6 135 0
-.SLink 135 22 0 0 0
+.SLink 135 23 0 0 0
 .SField 13 136 0
-.SLink 136 39 0 0 0
+.SLink 136 45 0 0 0
 .SField "" 137 0
 .SField "" 138 0
 .SField "" 139 0
@@ -15205,25 +15157,25 @@
 .SField PowerIN 143 0
 .SLink 143 4 0 0 0
 .SField 4 144 0
-.SLink 144 19 0 0 0
+.SLink 144 20 0 0 0
 .SField 6 145 0
-.SLink 145 22 0 0 0
+.SLink 145 23 0 0 0
 .SField 13 146 0
-.SLink 146 39 0 0 0
+.SLink 146 45 0 0 0
 .SField "" 147 0
 .SField "" 148 0
 .SField "" 149 0
 .SField "" 150 0
 .SField "" 151 0
 .SField "" 152 0
-.SField SensorRelay 153 0
+.SField PLCPower3 153 0
 .SLink 153 4 0 0 0
 .SField 5 154 0
-.SLink 154 19 0 0 0
-.SField 17 155 0
-.SLink 155 22 0 0 0
+.SLink 154 20 0 0 0
+.SField 20 155 0
+.SLink 155 23 0 0 0
 .SField 15 156 0
-.SLink 156 39 0 0 0
+.SLink 156 45 0 0 0
 .SField "" 157 0
 .SField "" 158 0
 .SField "" 159 0
@@ -15393,11 +15345,11 @@
 .SField PowerIN 323 0
 .SLink 323 4 0 0 0
 .SField 4 324 0
-.SLink 324 19 0 0 0
+.SLink 324 20 0 0 0
 .SField 6 325 0
-.SLink 325 22 0 0 0
+.SLink 325 23 0 0 0
 .SField 13 326 0
-.SLink 326 39 0 0 0
+.SLink 326 45 0 0 0
 .SField "" 327 0
 .SField "" 328 0
 .SField "" 329 0
@@ -15418,7 +15370,7 @@
 
 .end
 
-.PageNo 3 3 '26-01-2025 15:35:02' 4 10000 1 0 0 1 3 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo 3 3 '25-02-2025 09:08:50' 4 10000 1 0 0 1 3 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title 'Table of Contents' 0
 .Born 2 0 20.0 1513576155
 
@@ -15496,9 +15448,11 @@
 .SField "" 11 0
 .SLink 11 10 0 0 0
 .SField "" 12 0
-.SLink 12 13 0 0 0
+.SLink 12 11 0 0 0
 .SField "" 13 0
+.SLink 13 12 0 0 0
 .SField "" 14 0
+.SLink 14 13 0 0 0
 .SField 3 15 0
 .SLink 15 3 0 0 0
 .SField "" 16 0
@@ -15515,10 +15469,12 @@
 .SLink 21 9 0 0 0
 .SField MotorMAA1 22 0
 .SLink 22 10 0 0 0
-.SField ButtonBox 23 0
-.SLink 23 13 0 0 0
-.SField StartStop 24 0
-.SField Sensors 25 0
+.SField MotorMAA2 23 0
+.SLink 23 11 0 0 0
+.SField MotorMAA3 24 0
+.SLink 24 12 0 0 0
+.SField ButtonBox 25 0
+.SLink 25 13 0 0 0
 .SField 'Front page' 26 0
 .SLink 26 1 0 0 0
 .SField 'Index - A3' 27 0
@@ -15540,157 +15496,167 @@
 .SField Diagram 35 0
 .SLink 35 10 0 0 0
 .SField Diagram 36 0
-.SLink 36 13 0 0 0
+.SLink 36 11 0 0 0
 .SField Diagram 37 0
+.SLink 37 12 0 0 0
 .SField Diagram 38 0
-.SField '26/01/2025 3:34:48 PM' 39 0
+.SLink 38 13 0 0 0
+.SField '25/02/2025 9:06:16 AM' 39 0
 .SLink 39 1 0 0 0
-.SField '26/01/2025 3:35:02 PM' 40 0
+.SField '25/02/2025 9:08:50 AM' 40 0
 .SLink 40 2 0 0 0
-.SField '26/01/2025 3:35:02 PM' 41 0
+.SField '25/02/2025 9:08:50 AM' 41 0
 .SLink 41 3 0 0 0
 .SField "" 42 0
 .SLink 42 4 0 0 0
-.SField '23/01/2025 10:59:22 AM' 43 0
+.SField '22/02/2025 12:39:08 AM' 43 0
 .SLink 43 5 0 0 0
-.SField '23/01/2025 11:27:50 AM' 44 0
+.SField '25/02/2025 8:23:12 AM' 44 0
 .SLink 44 6 0 0 0
-.SField '24/01/2025 12:57:36 PM' 45 0
+.SField '22/02/2025 1:04:38 AM' 45 0
 .SLink 45 7 0 0 0
-.SField '24/01/2025 9:26:04 AM' 46 0
+.SField '25/02/2025 9:07:18 AM' 46 0
 .SLink 46 8 0 0 0
-.SField '23/01/2025 11:28:14 AM' 47 0
+.SField '22/02/2025 1:55:10 AM' 47 0
 .SLink 47 9 0 0 0
-.SField '24/01/2025 12:30:10 PM' 48 0
+.SField '25/02/2025 9:08:24 AM' 48 0
 .SLink 48 10 0 0 0
-.SField '24/01/2025 1:00:10 PM' 49 0
-.SLink 49 13 0 0 0
-.SField '26/01/2025 3:33:40 PM' 50 0
-.SField '24/01/2025 1:27:08 PM' 51 0
+.SField '22/02/2025 1:31:20 AM' 49 0
+.SLink 49 11 0 0 0
+.SField '22/02/2025 1:31:00 AM' 50 0
+.SLink 50 12 0 0 0
+.SField '22/02/2025 1:55:10 AM' 51 0
+.SLink 51 13 0 0 0
 .SField "" 52 0
+.SLink 52 14 0 0 0
 .SField "" 53 0
-.SLink 53 19 0 0 0
+.SLink 53 15 0 0 0
 .SField "" 54 0
-.SLink 54 20 0 0 0
+.SLink 54 16 0 0 0
 .SField "" 55 0
-.SLink 55 21 0 0 0
+.SLink 55 18 0 0 0
 .SField "" 56 0
-.SLink 56 22 0 0 0
 .SField "" 57 0
-.SLink 57 23 0 0 0
-.SField SensorRelay 58 0
-.SField "" 59 0
-.SLink 59 19 0 0 0
-.SField 4 60 0
-.SLink 60 20 0 0 0
-.SField 5 61 0
-.SLink 61 21 0 0 0
-.SField "" 62 0
-.SLink 62 22 0 0 0
-.SField 6 63 0
-.SLink 63 23 0 0 0
+.SLink 57 19 0 0 0
+.SField 'Photo Sensors' 58 0
+.SLink 58 14 0 0 0
+.SField 'Reed Sensors' 59 0
+.SLink 59 15 0 0 0
+.SField PLCPower 60 0
+.SLink 60 16 0 0 0
+.SField PLCPower1 61 0
+.SLink 61 18 0 0 0
+.SField PLCPower2 62 0
+.SField PLCPower3 63 0
+.SLink 63 19 0 0 0
 .SField Diagram 64 0
-.SField Layout 65 0
-.SLink 65 19 0 0 0
-.SField 'Arrangement - A4 - 1:4 - CompList' 66 0
-.SLink 66 20 0 0 0
-.SField 'Arrangement - A3 - 1:4 - CompList' 67 0
-.SLink 67 21 0 0 0
-.SField Lists 68 0
-.SLink 68 22 0 0 0
-.SField 'Parts list ' 69 0
-.SLink 69 23 0 0 0
-.SField '26/01/2025 3:34:48 PM' 70 0
-.SField "" 71 0
-.SLink 71 19 0 0 0
-.SField '23/01/2025 10:54:54 AM' 72 0
-.SLink 72 20 0 0 0
-.SField '23/01/2025 10:54:54 AM' 73 0
-.SLink 73 21 0 0 0
-.SField "" 74 0
-.SLink 74 22 0 0 0
-.SField '26/01/2025 3:35:00 PM' 75 0
-.SLink 75 23 0 0 0
+.SLink 64 14 0 0 0
+.SField Diagram 65 0
+.SLink 65 15 0 0 0
+.SField Diagram 66 0
+.SLink 66 16 0 0 0
+.SField Diagram 67 0
+.SLink 67 18 0 0 0
+.SField Diagram 68 0
+.SField Diagram 69 0
+.SLink 69 19 0 0 0
+.SField '25/02/2025 8:46:54 AM' 70 0
+.SLink 70 14 0 0 0
+.SField '25/02/2025 9:06:28 AM' 71 0
+.SLink 71 15 0 0 0
+.SField '22/02/2025 1:55:10 AM' 72 0
+.SLink 72 16 0 0 0
+.SField '22/02/2025 1:52:10 AM' 73 0
+.SLink 73 18 0 0 0
+.SField '22/02/2025 1:52:10 AM' 74 0
+.SField '25/02/2025 8:47:06 AM' 75 0
+.SLink 75 19 0 0 0
 .SField "" 76 0
-.SLink 76 25 0 0 0
+.SLink 76 20 0 0 0
 .SField "" 77 0
-.SLink 77 26 0 0 0
+.SLink 77 21 0 0 0
 .SField "" 78 0
-.SLink 78 29 0 0 0
+.SLink 78 22 0 0 0
 .SField "" 79 0
-.SLink 79 31 0 0 0
+.SLink 79 23 0 0 0
 .SField "" 80 0
-.SLink 80 33 0 0 0
+.SLink 80 24 0 0 0
 .SField "" 81 0
-.SLink 81 34 0 0 0
-.SField 7 82 0
-.SLink 82 25 0 0 0
-.SField 8 83 0
-.SLink 83 26 0 0 0
-.SField 9 84 0
-.SLink 84 29 0 0 0
-.SField 10 85 0
-.SLink 85 31 0 0 0
-.SField 12 86 0
-.SLink 86 33 0 0 0
-.SField 13 87 0
-.SLink 87 34 0 0 0
-.SField 'Parts list' 88 0
-.SLink 88 25 0 0 0
-.SField 'Components list' 89 0
-.SLink 89 26 0 0 0
-.SField 'Terminal list - External connections' 90 0
-.SLink 90 29 0 0 0
-.SField 'Cable list' 91 0
-.SLink 91 31 0 0 0
-.SField 'PLC list' 92 0
-.SLink 92 33 0 0 0
-.SField 'Connection list' 93 0
-.SLink 93 34 0 0 0
-.SField '26/01/2025 3:35:00 PM' 94 0
-.SLink 94 25 0 0 0
-.SField '26/01/2025 3:35:02 PM' 95 0
-.SLink 95 26 0 0 0
-.SField '26/01/2025 3:35:02 PM' 96 0
-.SLink 96 29 0 0 0
-.SField '26/01/2025 3:35:02 PM' 97 0
-.SLink 97 31 0 0 0
-.SField '23/01/2025 10:54:54 AM' 98 0
-.SLink 98 33 0 0 0
-.SField '26/01/2025 3:35:02 PM' 99 0
-.SLink 99 34 0 0 0
+.SLink 81 26 0 0 0
+.SField "" 82 0
+.SLink 82 20 0 0 0
+.SField 4 83 0
+.SLink 83 21 0 0 0
+.SField 5 84 0
+.SLink 84 22 0 0 0
+.SField "" 85 0
+.SLink 85 23 0 0 0
+.SField 6 86 0
+.SLink 86 24 0 0 0
+.SField 7 87 0
+.SLink 87 26 0 0 0
+.SField Layout 88 0
+.SLink 88 20 0 0 0
+.SField 'Arrangement - A4 - 1:4 - CompList' 89 0
+.SLink 89 21 0 0 0
+.SField 'Arrangement - A3 - 1:4 - CompList' 90 0
+.SLink 90 22 0 0 0
+.SField Lists 91 0
+.SLink 91 23 0 0 0
+.SField 'Parts list ' 92 0
+.SLink 92 24 0 0 0
+.SField 'Parts list' 93 0
+.SLink 93 26 0 0 0
+.SField "" 94 0
+.SLink 94 20 0 0 0
+.SField '23/01/2025 10:54:54 AM' 95 0
+.SLink 95 21 0 0 0
+.SField '23/01/2025 10:54:54 AM' 96 0
+.SLink 96 22 0 0 0
+.SField "" 97 0
+.SLink 97 23 0 0 0
+.SField '25/02/2025 9:08:48 AM' 98 0
+.SLink 98 24 0 0 0
+.SField '25/02/2025 9:08:48 AM' 99 0
+.SLink 99 26 0 0 0
 .SField "" 100 0
-.SLink 100 39 0 0 0
-.SField "" 101 0
-.SLink 101 39 0 0 0
-.SField 'Graphical plans' 102 0
-.SLink 102 39 0 0 0
-.SField "" 103 0
-.SLink 103 39 0 0 0
+.SLink 100 27 0 0 0
+.SField 8 101 0
+.SLink 101 27 0 0 0
+.SField 'Components list' 102 0
+.SLink 102 27 0 0 0
+.SField '25/02/2025 9:08:50 AM' 103 0
+.SLink 103 27 0 0 0
 .SField "" 104 0
-.SLink 104 40 0 0 0
-.SField 13 105 0
-.SLink 105 40 0 0 0
-.SField 'Terminal plan' 106 0
-.SLink 106 40 0 0 0
-.SField '23/01/2025 10:54:54 AM' 107 0
-.SLink 107 40 0 0 0
+.SLink 104 31 0 0 0
+.SField 9 105 0
+.SLink 105 31 0 0 0
+.SField 'Terminal list - External connections' 106 0
+.SLink 106 31 0 0 0
+.SField '25/02/2025 9:08:50 AM' 107 0
+.SLink 107 31 0 0 0
 .SField "" 108 0
-.SLink 108 41 0 0 0
-.SField 14 109 0
-.SLink 109 41 0 0 0
-.SField 'Cable plan' 110 0
-.SLink 110 41 0 0 0
-.SField '23/01/2025 10:54:54 AM' 111 0
-.SLink 111 41 0 0 0
-.SField 15 112 0
-.SLink 112 42 0 0 0
-.SField "" 113 0
+.SLink 108 34 0 0 0
+.SField 10 109 0
+.SLink 109 34 0 0 0
+.SField 'Cable list' 110 0
+.SLink 110 34 0 0 0
+.SField '25/02/2025 9:08:50 AM' 111 0
+.SLink 111 34 0 0 0
+.SField 13 112 0
+.SLink 112 37 0 0 0
+.SField 14 113 0
+.SLink 113 38 0 0 0
 .SField "" 114 0
+.SLink 114 38 0 0 0
 .SField "" 115 0
+.SLink 115 45 0 0 0
 .SField "" 116 0
+.SLink 116 46 0 0 0
 .SField "" 117 0
+.SLink 117 47 0 0 0
 .SField "" 118 0
+.SLink 118 48 0 0 0
 .SField "" 119 0
 .SField "" 120 0
 .SField "" 121 0
@@ -15699,9 +15665,13 @@
 .SField "" 124 0
 .SField "" 125 0
 .SField "" 126 0
-.SField "" 127 0
-.SField "" 128 0
-.SField "" 129 0
+.SLink 126 45 0 0 0
+.SField 13 127 0
+.SLink 127 46 0 0 0
+.SField 14 128 0
+.SLink 128 47 0 0 0
+.SField 15 129 0
+.SLink 129 48 0 0 0
 .SField "" 130 0
 .SField "" 131 0
 .SField "" 132 0
@@ -15709,13 +15679,18 @@
 .SField "" 134 0
 .SField "" 135 0
 .SField "" 136 0
-.SField 'Connection plan' 137 0
-.SLink 137 42 0 0 0
-.SField "" 138 0
-.SField "" 139 0
-.SField "" 140 0
-.SField "" 141 0
-.SField "" 142 0
+.SField 'PLC list' 137 0
+.SLink 137 37 0 0 0
+.SField 'Connection list' 138 0
+.SLink 138 38 0 0 0
+.SField 'Graphical plans' 139 0
+.SLink 139 45 0 0 0
+.SField 'Terminal plan' 140 0
+.SLink 140 46 0 0 0
+.SField 'Cable plan' 141 0
+.SLink 141 47 0 0 0
+.SField 'Connection plan' 142 0
+.SLink 142 48 0 0 0
 .SField "" 143 0
 .SField "" 144 0
 .SField "" 145 0
@@ -15723,13 +15698,18 @@
 .SField "" 147 0
 .SField "" 148 0
 .SField "" 149 0
-.SField '23/01/2025 10:54:54 AM' 150 0
-.SLink 150 42 0 0 0
-.SField "" 151 0
+.SField '25/02/2025 9:08:50 AM' 150 0
+.SLink 150 37 0 0 0
+.SField '25/02/2025 9:08:50 AM' 151 0
+.SLink 151 38 0 0 0
 .SField "" 152 0
-.SField "" 153 0
-.SField "" 154 0
-.SField "" 155 0
+.SLink 152 45 0 0 0
+.SField '23/01/2025 10:54:54 AM' 153 0
+.SLink 153 46 0 0 0
+.SField '23/01/2025 10:54:54 AM' 154 0
+.SLink 154 47 0 0 0
+.SField '23/01/2025 10:54:54 AM' 155 0
+.SLink 155 48 0 0 0
 .SField "" 156 0
 .SField "" 157 0
 .SField "" 158 0
@@ -15799,7 +15779,7 @@
 .SField "" 222 0
 .SLink 222 1 0 0 0
 .SField "" 223 0
-.SLink 223 42 0 0 0
+.SLink 223 37 0 0 0
 .SField "" 224 0
 .end
 
@@ -15846,7 +15826,7 @@
 
 .end
 
-.PageNo PowerIN 5 '22-02-2025 00:39:08' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo PowerIN 5 '25-02-2025 09:12:52' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title Diagram 0
 .Born 2 2 24.0 1513576171
 
@@ -16188,7 +16168,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00295-102.SYM 0 187500 122500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 26 5254db40-93dc-4797-899d-da37a008accc 5254db40-93dc-4797-899d-da37a008accc Siemens 5SL6610-7
-.Name -FC1 164000 117500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -FCA1 164000 117500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 5SL6610-7 164000 108500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 5SL6610-7 164000 105250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 164000 111750 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16260,7 +16240,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 180000 77500 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 175625 76250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 175625 76250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 175625 67250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 175625 64000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 175625 70500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16280,7 +16260,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 185000 77500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 180625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 180625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 180625 67250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 180625 64000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 180625 70500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16300,7 +16280,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 190000 77500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 185625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 185625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 185625 67250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 185625 64000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 185625 70500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16320,7 +16300,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 195000 77500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 0 0 0
 .portal 5 8e8f99ad-1c7f-47ec-8542-d145f8c815fa 8e8f99ad-1c7f-47ec-8542-d145f8c815fa Weidmüller 1020280000
-.Name -XD1 190625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 190625 76250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 190625 67250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020280000 190625 64000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 190625 70500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16341,7 +16321,7 @@
 
 .end
 
-.PageNo PowerSupplyACtoDC 6 '22-02-2025 00:38:52' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo PowerSupplyACtoDC 6 '25-02-2025 09:22:54' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title Diagram 0
 .Born 2 2 24.0 1513576189
 
@@ -16372,32 +16352,32 @@
 .Point 0 192500 235000 0 6
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 185000 112500 0 11
+.Point 0 185000 120000 0 0
+.Point 0 192500 120000 0 0
+.Point 0 192500 132500 0 12
+.end
+.polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 202500 132500 0 13
+.Point 0 202500 120000 0 0
+.Point 0 210000 120000 0 0
+.Point 0 210000 85000 0 14
+.end
+.polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 207500 235000 0 15
+.Point 0 207500 175000 0 16
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 200000 175000 0 9
 .Point 0 200000 190500 0 0
 .Point 0 198000 192500 0 0
 .Point 0 197500 192500 0 10
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 197500 220000 0 11
-.Point 0 198000 220000 0 0
+.Point 1048576 200000 235000 0 17
 .Point 0 200000 222000 0 0
-.Point 0 200000 235000 0 12
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 185000 112500 0 13
-.Point 0 185000 120000 0 0
-.Point 0 192500 120000 0 0
-.Point 0 192500 132500 0 14
-.end
-.polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 202500 132500 0 15
-.Point 0 202500 107500 0 0
-.Point 0 210000 107500 0 0
-.Point 0 210000 85000 0 16
-.end
-.polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 207500 235000 0 17
-.Point 0 207500 175000 0 18
+.Point 0 198000 220000 0 0
+.Point 0 197500 220000 0 18
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -16458,13 +16438,13 @@
 .con 1 240000 132500 0 0 0 0 "" 0 0 0
 .PinName 14 239250 133250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 239250 134000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 192500 132500 0 0 14 0 "" 0 0 0
+.con 1 192500 132500 0 0 12 0 "" 0 0 0
 .PinName + 191750 133250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 191750 134000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 197500 132500 0 0 3 0 "" 0 0 0
 .PinName - 196750 133250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 196750 134000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 202500 132500 0 0 15 0 "" 0 0 0
+.con 1 202500 132500 0 0 13 0 "" 0 0 0
 .PinName - 201750 133250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 201750 134000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 192500 175000 0 0 5 0 "" 0 0 0
@@ -16473,7 +16453,7 @@
 .con 1 200000 175000 0 0 9 0 "" 0 0 0
 .PinName N(-) 199250 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 199250 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 207500 175000 0 0 18 0 "" 0 0 0
+.con 1 207500 175000 0 0 16 0 "" 0 0 0
 .PinName PE 206750 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 206750 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
@@ -16491,7 +16471,7 @@
 .PinFunc "" 184250 99250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 185000 97500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 185000 97500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 1 185000 112500 0 0 13 0 "" 0 0 0
+.con 1 185000 112500 0 0 11 0 "" 0 0 0
 .PinName 1 185750 113250 0 0 6252327 25 0 2 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 184250 113250 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 185000 112500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16502,17 +16482,17 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 185000 82500 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC3 180000 80000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDC3 180000 80000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 180625 72250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 180625 69000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 180625 75500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
 .con 17 185000 80000 0 0 0 18 "" 0 0 0
-.PinName 1 184250 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinName + 184250 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 185750 79250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 185000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 185000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .con 17 185000 85000 0 0 2 34 "" 0 0 0
-.PinName 1 184000 82500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinName + 183000 81500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 185750 85750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 185000 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 185000 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16522,17 +16502,17 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 197500 82500 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 8e8f99ad-1c7f-47ec-8542-d145f8c815fa 8e8f99ad-1c7f-47ec-8542-d145f8c815fa Weidmüller 1020280000
-.Name XDC4 207500 75000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name XDC4 207500 75000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 193125 72250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020280000 193125 69000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 193125 75500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
 .con 17 197500 80000 0 0 0 18 "" 0 0 0
-.PinName 1 196750 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinName - 196750 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 198250 79250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 197500 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 197500 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .con 17 197500 85000 0 0 4 34 "" 0 0 0
-.PinName 1 197000 82500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinName - 196000 82000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 198250 85750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 197500 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 197500 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16542,7 +16522,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 200000 237500 0 1800 1 0 11 1 0 1 5 0 0 0 0 0 0 0 0 0 0
 .portal 5 8e8f99ad-1c7f-47ec-8542-d145f8c815fa 8e8f99ad-1c7f-47ec-8542-d145f8c815fa Weidmüller 1020280000
-.Name -XD1 180000 237500 0 0 0 25 0 2 1800 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 180000 237500 0 0 0 25 0 2 1800 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 204375 247750 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020280000 204375 251000 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 204375 244500 0 0 0 25 0 8 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16551,7 +16531,7 @@
 .PinFunc "" 199250 240750 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 200000 240000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 200000 240000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 17 200000 235000 0 0 12 34 "" 0 0 0
+.con 17 200000 235000 0 0 17 34 "" 0 0 0
 .PinName 4 200750 234250 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 199250 234250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 200000 232500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16562,7 +16542,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 192500 237500 0 1800 1 0 11 1 0 1 6 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 196875 238750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 196875 238750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 196875 247750 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 196875 251000 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 196875 244500 0 0 0 25 0 8 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16582,7 +16562,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017-001.SYM 0 207500 237500 0 1800 1 0 11 1 0 1 7 0 0 0 0 0 0 0 0 0 0
 .portal 5 c1d27285-97bc-4411-a018-708783335904 c1d27285-97bc-4411-a018-708783335904 Weidmüller 1010200000
-.Name -XD1 210000 237500 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 210000 237500 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WPE 6' 213125 244000 0 0 0 25 0 6 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1010200000 213125 247250 0 0 0 25 0 6 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 213125 240750 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16591,7 +16571,7 @@
 .PinFunc "" 206750 240750 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 207500 240000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 207500 240000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 1 207500 235000 0 0 17 34 "" 0 0 0
+.con 1 207500 235000 0 0 15 34 "" 0 0 0
 .PinName 5 208250 234250 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 206750 234250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 207500 232500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -16618,7 +16598,7 @@
 .PinFunc "" 192500 195250 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 192500 192500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 192500 192500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 197500 220000 0 0 11 0 "" 0 0 0
+.con 1 197500 220000 0 0 18 0 "" 0 0 0
 .PinName 3N 196750 219250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 197500 219750 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 197500 222500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -16634,17 +16614,17 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017-001.SYM 0 210000 82500 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 c1d27285-97bc-4411-a018-708783335904 c1d27285-97bc-4411-a018-708783335904 Weidmüller 1010200000
-.Name -XDC121 230000 80000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDCPE 230000 80000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WPE 6' 204375 76000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1010200000 204375 72750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 204375 79250 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .con 1 210000 80000 0 0 0 18 "" 0 0 0
-.PinName 1 209250 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinName PE 209250 79250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 210750 79250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 210000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 210000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 210000 85000 0 0 16 34 "" 0 0 0
-.PinName 1 209250 85750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 210000 85000 0 0 14 34 "" 0 0 0
+.PinName PE 208500 81500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 210750 85750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 210000 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 210000 87500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -17192,7 +17172,7 @@
 
 .end
 
-.PageNo SafetyStop 8 '22-02-2025 01:20:44' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo SafetyStop 8 '25-02-2025 09:07:18' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title Diagram 0
 .Born 2 2 24.0 1513576210
 
@@ -17615,7 +17595,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00009.SYM 64 152500 175000 0 0 1 0 17 1 0 0 327681 0 0 0 0 0 0 0 0 0 0
 .portal 7 981cdd39-4b3b-494f-af4a-7185f0807f28 981cdd39-4b3b-494f-af4a-7185f0807f28 'Scankab Cables' 170025005
-.Name -WDB101 151750 176000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -WDB2 151750 176000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'SCANFLEX H 2001 - 300/500 V' 151750 167500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 170025005 151750 164250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 151750 170750 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -17638,7 +17618,7 @@
 
 .end
 
-.PageNo SafetyPower 9 '22-02-2025 01:55:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo SafetyPower 9 '25-02-2025 09:12:52' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title Diagram 0
 .Born 2 2 24.0 1513576215
 
@@ -17953,7 +17933,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 102500 202500 0 1800 1 0 11 1 0 1 8 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 90000 202500 0 0 0 25 0 2 1800 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 90000 202500 0 0 0 25 0 2 1800 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 106875 212750 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 106875 216000 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 106875 209500 0 0 0 25 0 8 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -17973,7 +17953,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 107500 202500 0 1800 1 0 11 1 0 1 9 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 111875 203750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 111875 203750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 111875 212750 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 111875 216000 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 111875 209500 0 0 0 25 0 8 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -17993,7 +17973,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 112500 202500 0 1800 1 0 11 1 0 1 10 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD1 116875 203750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
+.Name -XDC1 116875 203750 0 0 0 25 0 2 1800 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 116875 212750 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 116875 216000 0 0 0 25 0 8 1800 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 116875 209500 0 0 0 25 0 8 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -18153,7 +18133,7 @@
 
 .end
 
-.PageNo MotorMAA1 10 '22-02-2025 01:29:54' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
+.PageNo MotorMAA1 10 '25-02-2025 10:33:58' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:10' -1
 .Title Diagram 0
 .Born 2 2 24.0 1513576228
 
@@ -18169,65 +18149,35 @@
 
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 225000 120000 0 4
-.Point 1 225000 147500 0 37
+.Point 1 225000 147500 0 25
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 235000 130000 0 8
-.Point 1 235000 147500 0 39
+.Point 1 235000 147500 0 27
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 225000 217500 0 13
-.Point 1 225000 192000 0 14
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 230000 175000 0 15
-.Point 1 230000 193000 0 16
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 235000 217500 0 17
-.Point 1 235000 202000 0 18
+.Point 1048576 230000 175000 0 14
+.Point 0 230000 217500 0 17
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 32 0 20
-.Point 1048577 235000 198000 0 20
-.Point 0 235000 175000 0 19
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 187500 175000 0 21
-.Point 0 187500 198000 0 0
-.Point 0 189500 200000 0 0
-.Point 0 233000 200000 0 22
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 35 0 20
-.Point 1048577 230000 197000 0 24
-.Point 0 230000 217500 0 23
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 192500 175000 0 25
-.Point 0 192500 193000 0 0
-.Point 0 194500 195000 0 0
-.Point 0 228000 195000 0 26
+.Point 1048576 235000 217500 0 15
+.Point 0 235000 175000 0 16
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 36 0 20
-.Point 1048577 225000 188000 0 28
-.Point 0 225000 175000 0 27
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 197500 175000 0 29
-.Point 0 197500 188000 0 0
-.Point 0 199500 190000 0 0
-.Point 0 223000 190000 0 30
+.Point 1048576 225000 217500 0 13
+.Point 0 225000 175000 0 18
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 44 0 20
 .Point 1048576 225000 77500 0 1
-.Point 17 225000 97500 0 42
+.Point 17 225000 97500 0 30
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 45 0 20
 .Point 1048576 230000 120000 0 2
-.Point 17 230000 97500 0 43
+.Point 17 230000 97500 0 31
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 46 0 20
 .Point 1048576 235000 77500 0 3
-.Point 17 235000 97500 0 44
+.Point 17 235000 97500 0 32
 .end
 .polyline 0 0 0 0 1 0 2 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 190000 50000 0 0
@@ -18237,43 +18187,67 @@
 .Point 0 190000 50000 0 0
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 54 0 20
-.Point 1048577 187500 147500 0 34
+.Point 1048577 187500 147500 0 22
 .Point 0 187500 120000 0 0
 .Point 0 225000 120000 0 4
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 55 0 20
-.Point 1048577 192500 147500 0 35
+.Point 1048577 192500 147500 0 23
 .Point 0 192500 125000 0 0
 .Point 0 230000 125000 0 6
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 56 0 20
-.Point 1048577 197500 147500 0 36
+.Point 1048577 197500 147500 0 24
 .Point 0 197500 130000 0 0
 .Point 0 235000 130000 0 8
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 58 0 20
-.Point 1048577 230000 147500 0 38
+.Point 1048577 230000 147500 0 26
 .Point 0 230000 125000 0 6
 .end
 .polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 240000 77500 0 40
-.Point 17 240000 97500 0 45
+.Point 1048576 240000 77500 0 28
+.Point 17 240000 97500 0 33
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 215 0 20
-.Point 1048593 225000 97500 0 42
-.Point 0 225000 115000 0 31
+.Point 1048593 225000 97500 0 30
+.Point 0 225000 115000 0 19
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 216 0 20
-.Point 1048593 230000 97500 0 43
-.Point 0 230000 77500 0 32
+.Point 1048593 230000 97500 0 31
+.Point 0 230000 77500 0 20
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 217 0 20
-.Point 1048593 235000 97500 0 44
-.Point 0 235000 125000 0 33
+.Point 1048593 235000 97500 0 32
+.Point 0 235000 125000 0 21
 .end
 .polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 218 0 20
-.Point 1048593 240000 97500 0 45
-.Point 0 240000 130000 0 41
+.Point 1048593 240000 97500 0 33
+.Point 0 240000 130000 0 29
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 225000 175000 0 18
+.Point 0 225000 193000 0 0
+.Point 0 223000 195000 0 0
+.Point 0 199500 195000 0 0
+.Point 0 197500 193000 0 0
+.Point 0 197500 175000 0 34
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 230000 175000 0 14
+.Point 0 230000 198000 0 0
+.Point 0 228000 200000 0 0
+.Point 0 194500 200000 0 0
+.Point 0 192500 198000 0 0
+.Point 0 192500 175000 0 35
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 235000 175000 0 16
+.Point 0 235000 203000 0 0
+.Point 0 233000 205000 0 0
+.Point 0 189500 205000 0 0
+.Point 0 187500 203000 0 0
+.Point 0 187500 175000 0 36
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -18332,7 +18306,7 @@
 .PinFunc "" 225750 78250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 225000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 225000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 230000 77500 0 0 32 0 "" 0 0 0
+.con 1 230000 77500 0 0 20 0 "" 0 0 0
 .PinName 2 229250 78250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 230750 78250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 230000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -18342,7 +18316,7 @@
 .PinFunc "" 235750 78250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 235000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 240000 77500 0 0 40 0 "" 0 0 0
+.con 1 240000 77500 0 0 28 0 "" 0 0 0
 .PinName 4 239250 78250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 240750 78250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 240000 80000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -18358,20 +18332,20 @@
 .Art LC1D09BL 183500 156750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 183500 163250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef /PLCPower3.2 183500 166500 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.con 1 187500 175000 0 0 21 0 "" 0 0 0
+.SingleRef /PLC_DQA.1 183500 166500 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.con 1 187500 175000 0 0 36 0 "" 0 0 0
 .PinName 1 186750 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 186750 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 187500 160000 0 0 10 0 "" 0 0 0
 .PinName "" 186750 160750 0 0 6252327 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 186750 161500 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 192500 175000 0 0 25 0 "" 0 0 0
+.con 1 192500 175000 0 0 35 0 "" 0 0 0
 .PinName 3 191750 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 191750 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 192500 160000 0 0 11 0 "" 0 0 0
 .PinName "" 191750 160750 0 0 6252327 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 191750 161500 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 197500 175000 0 0 29 0 "" 0 0 0
+.con 1 197500 175000 0 0 34 0 "" 0 0 0
 .PinName 5 196750 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 196750 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 197500 160000 0 0 12 0 "" 0 0 0
@@ -18389,19 +18363,19 @@
 .Func "" 221000 163250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
 .SingleRef "" 221000 166500 0 0 6252327 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 225000 175000 0 0 27 0 "" 0 0 0
+.con 1 225000 175000 0 0 18 0 "" 0 0 0
 .PinName 1 224250 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 224250 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 225000 160000 0 0 5 0 "" 0 0 0
 .PinName "" 224250 160750 0 0 6252327 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 224250 161500 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 230000 175000 0 0 15 0 "" 0 0 0
+.con 1 230000 175000 0 0 14 0 "" 0 0 0
 .PinName 3 229250 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 229250 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 230000 160000 0 0 7 0 "" 0 0 0
 .PinName "" 229250 160750 0 0 6252327 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 229250 161500 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 235000 175000 0 0 19 0 "" 0 0 0
+.con 1 235000 175000 0 0 16 0 "" 0 0 0
 .PinName 5 234250 174250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 234250 173500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 235000 160000 0 0 9 0 "" 0 0 0
@@ -18422,7 +18396,7 @@
 .PinFunc "" 224250 120750 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 225000 120000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 225000 120000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 17 225000 115000 0 0 31 34 "" 0 0 0
+.con 17 225000 115000 0 0 19 34 "" 0 0 0
 .PinName 1 225750 114250 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 224250 114250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 225000 112500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -18462,7 +18436,7 @@
 .PinFunc "" 234250 130750 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 130000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 235000 130000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 17 235000 125000 0 0 33 34 "" 0 0 0
+.con 17 235000 125000 0 0 21 34 "" 0 0 0
 .PinName 3 235750 124250 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 234250 124250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 122500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -18482,7 +18456,7 @@
 .PinFunc "" 239250 135750 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 240000 135000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 240000 135000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 1 240000 130000 0 0 41 34 "" 0 0 0
+.con 1 240000 130000 0 0 29 34 "" 0 0 0
 .PinName 4 240750 129250 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 239250 129250 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 240000 127500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -18522,7 +18496,7 @@
 .PinFunc "" 229250 223250 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 230000 222500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 230000 222500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 17 230000 217500 0 0 23 34 "" 0 0 0
+.con 17 230000 217500 0 0 17 34 "" 0 0 0
 .PinName 2 230750 216750 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 229250 216750 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 230000 215000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
@@ -18542,88 +18516,13 @@
 .PinFunc "" 234250 223250 0 0 0 25 0 8 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 222500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 235000 222500 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
-.con 17 235000 217500 0 0 17 34 "" 0 0 0
+.con 17 235000 217500 0 0 15 34 "" 0 0 0
 .PinName 3 235750 216750 0 0 6252327 25 0 0 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 234250 216750 0 0 0 25 0 6 2700 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 215000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 235000 215000 0 0 0 25 0 6 1800 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=68
-.end
-
-.com C:\PCAutomationEDU\BranchFig.sym 64 235000 200000 0 900 1 250 32 0.400 0 0 0 0 0 3 0 0 0 0 -1 0 0
-.Name "" 236000 200500 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.Typ "" 237000 200500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Art "" 234400 200500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 236000 200000 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 235000 198000 0 0 20 32 "" 0 0 0
-.PinName 1 235400 198000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 234620 198000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 235720 198000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 235720 198000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 233000 200000 0 0 22 16 "" 0 0 0
-.PinName 2 233400 200000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 232620 200000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 233720 200000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 233720 200000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 235000 202000 0 0 18 32 "" 0 0 0
-.PinName 3 235400 202000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 234620 202000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 235720 202000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 235720 202000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.AppData ""
-.AppData AltCol=0
-.AppData AltPenWd=250
-.end
-
-.com C:\PCAutomationEDU\BranchFig.sym 64 230000 195000 0 900 1 250 32 0.400 0 0 0 0 0 3 0 0 0 0 -1 0 0
-.Name "" 231000 195500 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.Typ "" 232000 195500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Art "" 229400 195500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 231000 195000 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 230000 193000 0 0 16 32 "" 0 0 0
-.PinName 1 230400 193000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 229620 193000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 230720 193000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 230720 193000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 228000 195000 0 0 26 16 "" 0 0 0
-.PinName 2 228400 195000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 227620 195000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 228720 195000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 228720 195000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 230000 197000 0 0 24 32 "" 0 0 0
-.PinName 3 230400 197000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 229620 197000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 230720 197000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 230720 197000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.AppData ""
-.AppData AltCol=0
-.AppData AltPenWd=250
-.end
-
-.com C:\PCAutomationEDU\BranchFig.sym 64 225000 190000 0 900 1 250 32 0.400 0 0 0 0 0 3 0 0 0 0 -1 0 0
-.Name "" 226000 190500 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.Typ "" 227000 190500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Art "" 224400 190500 0 0 0 10 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 226000 190000 0 0 0 10 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 225000 188000 0 0 28 32 "" 0 0 0
-.PinName 1 225400 188000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 224620 188000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 225720 188000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 225720 188000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 223000 190000 0 0 30 16 "" 0 0 0
-.PinName 2 223400 190000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 222620 190000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 223720 190000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 223720 190000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.con 1 225000 192000 0 0 14 32 "" 0 0 0
-.PinName 3 225400 192000 0 0 16711680 7 5 6 900 128 0 0 0 0 0 0 0 0 0 0
-.PinFunc "" 224620 192000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinLab "" 225720 192000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 225720 192000 0 0 16711680 7 5 0 900 128 0 0 0 0 0 0 0 0 0 0
-.AppData ""
-.AppData AltCol=0
-.AppData AltPenWd=250
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00325-002.SYM 0 192500 155000 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0
@@ -18635,19 +18534,19 @@
 .con 1 187500 160000 0 0 10 0 "" 0 0 0
 .PinName "" 186750 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 186750 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 187500 147500 0 0 34 0 "" 0 0 0
+.con 1 187500 147500 0 0 22 0 "" 0 0 0
 .PinName 2 186750 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 186750 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 192500 160000 0 0 11 0 "" 0 0 0
 .PinName "" 191750 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 191750 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 192500 147500 0 0 35 0 "" 0 0 0
+.con 1 192500 147500 0 0 23 0 "" 0 0 0
 .PinName 4 191750 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 191750 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 197500 160000 0 0 12 0 "" 0 0 0
 .PinName "" 196750 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 196750 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 197500 147500 0 0 36 0 "" 0 0 0
+.con 1 197500 147500 0 0 24 0 "" 0 0 0
 .PinName 6 196750 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 196750 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
@@ -18663,19 +18562,19 @@
 .con 1 225000 160000 0 0 5 0 "" 0 0 0
 .PinName "" 224250 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 224250 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 225000 147500 0 0 37 0 "" 0 0 0
+.con 1 225000 147500 0 0 25 0 "" 0 0 0
 .PinName 2 224250 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 224250 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 230000 160000 0 0 7 0 "" 0 0 0
 .PinName "" 229250 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 229250 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 230000 147500 0 0 38 0 "" 0 0 0
+.con 1 230000 147500 0 0 26 0 "" 0 0 0
 .PinName 4 229250 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 229250 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .con 1 235000 160000 0 0 9 0 "" 0 0 0
 .PinName "" 234250 159250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 234250 158500 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 235000 147500 0 0 39 0 "" 0 0 0
+.con 1 235000 147500 0 0 27 0 "" 0 0 0
 .PinName 6 234250 148250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 234250 149000 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
@@ -18688,22 +18587,22 @@
 .Typ 'SCANFLEX H 2001 - 300/500 V' 217500 90000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 170007504 217500 87500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 217500 92500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 225000 97500 0 0 42 0 "" 0 0 0
+.con 17 225000 97500 0 0 30 0 "" 0 0 0
 .PinName 1 224250 96750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 225000 96250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 225000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 225000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 230000 97500 0 0 43 0 "" 0 0 0
+.con 17 230000 97500 0 0 31 0 "" 0 0 0
 .PinName 2 229250 96750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 230000 96250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 230000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 230000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 235000 97500 0 0 44 0 "" 0 0 0
+.con 17 235000 97500 0 0 32 0 "" 0 0 0
 .PinName 3 234250 96750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 235000 96250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 235000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 235000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 240000 97500 0 0 45 0 "" 0 0 0
+.con 17 240000 97500 0 0 33 0 "" 0 0 0
 .PinName GNYE 239250 96750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 240000 96250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 240000 95000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
@@ -20816,7 +20715,7 @@
 
 .end
 
-.PageNo Sensors 14 '22-02-2025 02:09:40' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo 'Photo Sensors' 14 '25-02-2025 08:46:54' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Diagram 0
 .Born 2 2 24.0 1514433286
 
@@ -20836,31 +20735,31 @@
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 38 0 20
 .Point 1048576 72500 125000 0 1
-.Point 17 72500 142500 0 39
+.Point 17 72500 142500 0 36
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 41 0 20
 .Point 1048593 142500 157500 0 5
-.Point 17 142500 142500 0 42
+.Point 17 142500 142500 0 39
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 42 0 20
 .Point 1048593 152500 157500 0 6
-.Point 17 152500 142500 0 43
+.Point 17 152500 142500 0 40
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 43 0 20
 .Point 1048576 157500 125000 0 10
-.Point 17 157500 142500 0 44
+.Point 17 157500 142500 0 41
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 44 0 20
 .Point 1048593 210000 157500 0 7
-.Point 17 210000 142500 0 45
+.Point 17 210000 142500 0 42
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 45 0 20
 .Point 1048593 220000 157500 0 8
-.Point 17 220000 142500 0 46
+.Point 17 220000 142500 0 43
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 46 0 20
 .Point 1048576 225000 125000 0 11
-.Point 17 225000 142500 0 47
+.Point 17 225000 142500 0 44
 .end
 .polyline 0 0 0 0 1 0 2 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 32500 152500 0 21
@@ -20883,127 +20782,103 @@
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 275000 157500 0 29
-.Point 17 275000 142500 0 56
+.Point 17 275000 142500 0 53
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 285000 125000 0 30
-.Point 17 285000 142500 0 57
+.Point 17 285000 142500 0 54
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 290000 125000 0 32
-.Point 17 290000 142500 0 58
+.Point 17 290000 142500 0 55
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 285000 162500 0 35
 .Point 0 285000 180000 0 34
 .end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 72500 182500 0 2
-.Point 0 72500 172000 0 0
-.Point 0 74500 170000 0 0
-.Point 0 208000 170000 0 0
-.Point 0 210000 168000 0 0
-.Point 17 210000 162500 0 36
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 72500 182500 0 2
-.Point 0 72500 172000 0 0
-.Point 0 74500 170000 0 0
-.Point 0 140500 170000 0 0
-.Point 0 142500 168000 0 0
-.Point 17 142500 162500 0 37
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 72500 182500 0 2
-.Point 0 72500 172000 0 0
-.Point 0 74500 170000 0 0
-.Point 0 273000 170000 0 0
-.Point 0 275000 168000 0 0
-.Point 0 275000 162500 0 38
-.end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 40 0 20
 .Point 1048576 87500 125000 0 9
-.Point 17 87500 142500 0 41
+.Point 17 87500 142500 0 38
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 39 0 20
 .Point 1048576 82500 125000 0 4
-.Point 17 82500 142500 0 40
+.Point 17 82500 142500 0 37
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 229 0 20
-.Point 1048593 72500 142500 0 39
+.Point 1048593 72500 142500 0 36
 .Point 17 72500 157500 0 12
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 230 0 20
-.Point 1048593 82500 142500 0 40
+.Point 1048593 82500 142500 0 37
 .Point 17 82500 157500 0 13
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 231 0 20
-.Point 1048593 87500 142500 0 41
+.Point 1048593 87500 142500 0 38
 .Point 0 87500 157500 0 14
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 232 0 20
-.Point 1048593 142500 142500 0 42
+.Point 1048593 142500 142500 0 39
 .Point 0 142500 125000 0 15
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 233 0 20
-.Point 1048593 152500 142500 0 43
+.Point 1048593 152500 142500 0 40
 .Point 0 152500 125000 0 16
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 234 0 20
-.Point 1048593 157500 142500 0 44
+.Point 1048593 157500 142500 0 41
 .Point 0 157500 157500 0 17
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 235 0 20
-.Point 1048593 210000 142500 0 45
+.Point 1048593 210000 142500 0 42
 .Point 0 210000 125000 0 18
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 236 0 20
-.Point 1048593 220000 142500 0 46
+.Point 1048593 220000 142500 0 43
 .Point 0 220000 125000 0 19
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 237 0 20
-.Point 1048593 225000 142500 0 47
+.Point 1048593 225000 142500 0 44
 .Point 0 225000 157500 0 20
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 342500 125000 0 48
-.Point 17 342500 142500 0 59
+.Point 1048576 342500 125000 0 45
+.Point 17 342500 142500 0 56
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 352500 157500 0 50
-.Point 17 352500 142500 0 60
+.Point 1048576 352500 157500 0 47
+.Point 17 352500 142500 0 57
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 357500 125000 0 52
-.Point 17 357500 142500 0 61
+.Point 1048576 357500 125000 0 49
+.Point 17 357500 142500 0 58
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 352500 162500 0 54
-.Point 0 352500 180000 0 55
+.Point 1048576 352500 162500 0 51
+.Point 0 352500 180000 0 52
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 244 0 20
-.Point 1048593 275000 142500 0 56
+.Point 1048593 275000 142500 0 53
 .Point 0 275000 125000 0 28
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 245 0 20
-.Point 1048593 285000 142500 0 57
+.Point 1048593 285000 142500 0 54
 .Point 0 285000 157500 0 31
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 246 0 20
-.Point 1048593 290000 142500 0 58
+.Point 1048593 290000 142500 0 55
 .Point 0 290000 157500 0 33
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 247 0 20
-.Point 1048593 342500 142500 0 59
-.Point 0 342500 157500 0 49
+.Point 1048593 342500 142500 0 56
+.Point 0 342500 157500 0 46
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 248 0 20
-.Point 1048593 352500 142500 0 60
-.Point 0 352500 125000 0 51
+.Point 1048593 352500 142500 0 57
+.Point 0 352500 125000 0 48
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 249 0 20
-.Point 1048593 357500 142500 0 61
-.Point 0 357500 157500 0 53
+.Point 1048593 357500 142500 0 58
+.Point 0 357500 157500 0 50
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -21160,7 +21035,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 72500 160000 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 68125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -X5 68125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 68125 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 68125 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 68125 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21175,7 +21050,7 @@
 .PinLab "" 72500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 72500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=54
+.AppData ComponentID=22
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 82500 160000 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 0 0 0
@@ -21220,7 +21095,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 142500 160000 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 138125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -X5 138125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 138125 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 138125 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 138125 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21229,13 +21104,13 @@
 .PinFunc "" 143250 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 142500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 142500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 142500 162500 0 0 37 34 "" 0 0 0
+.con 17 142500 162500 0 0 0 34 "" 0 0 0
 .PinName 4 141750 159250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 143250 163250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 142500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 142500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=243
+.AppData ComponentID=25
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 152500 160000 0 0 1 0 11 1 0 1 5 0 0 0 0 0 0 0 0 0 0
@@ -21280,7 +21155,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 210000 160000 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 205625 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -X5 205625 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 205625 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 205625 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 205625 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21289,13 +21164,13 @@
 .PinFunc "" 210750 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 210000 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 210000 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 210000 162500 0 0 36 34 "" 0 0 0
+.con 17 210000 162500 0 0 0 34 "" 0 0 0
 .PinName 7 209500 159500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 210750 163250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 210000 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 210000 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=290
+.AppData ComponentID=43
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 220000 160000 0 0 1 0 11 1 0 1 8 0 0 0 0 0 0 0 0 0 0
@@ -21422,7 +21297,7 @@
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 275000 160000 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 270625 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -X5 270625 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 270625 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 270625 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 270625 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21431,13 +21306,13 @@
 .PinFunc "" 275750 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 275000 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 275000 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 275000 162500 0 0 38 34 "" 0 0 0
+.con 17 275000 162500 0 0 0 34 "" 0 0 0
 .PinName 10 274500 159500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 275750 163250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 275000 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 275000 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=290
+.AppData ComponentID=43
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 285000 160000 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 -1 0 0
@@ -21486,17 +21361,17 @@
 .Typ YF2A15-050UB5XLEAX 62500 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 2095618 62500 132500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 62500 137500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 72500 142500 0 0 39 0 "" 0 0 0
+.con 17 72500 142500 0 0 36 0 "" 0 0 0
 .PinName 1 71750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 72500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 72500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 72500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 82500 142500 0 0 40 0 "" 0 0 0
+.con 17 82500 142500 0 0 37 0 "" 0 0 0
 .PinName 3 81750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 82500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 82500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 82500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 87500 142500 0 0 41 0 "" 0 0 0
+.con 17 87500 142500 0 0 38 0 "" 0 0 0
 .PinName 4 86750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 87500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 87500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21511,17 +21386,17 @@
 .Typ YF2A15-050UB5XLEAX 132500 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 2095618 132500 132500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 132500 137500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 142500 142500 0 0 42 0 "" 0 0 0
+.con 17 142500 142500 0 0 39 0 "" 0 0 0
 .PinName 1 141750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 142500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 142500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 142500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 152500 142500 0 0 43 0 "" 0 0 0
+.con 17 152500 142500 0 0 40 0 "" 0 0 0
 .PinName 3 151750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 152500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 152500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 152500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 157500 142500 0 0 44 0 "" 0 0 0
+.con 17 157500 142500 0 0 41 0 "" 0 0 0
 .PinName 4 156750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 157500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 157500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21536,17 +21411,17 @@
 .Typ YF2A15-050UB5XLEAX 200000 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 2095618 200000 132500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 200000 137500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 210000 142500 0 0 45 0 "" 0 0 0
+.con 17 210000 142500 0 0 42 0 "" 0 0 0
 .PinName 1 209250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 210000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 210000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 210000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 220000 142500 0 0 46 0 "" 0 0 0
+.con 17 220000 142500 0 0 43 0 "" 0 0 0
 .PinName 3 219250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 220000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 220000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 220000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 225000 142500 0 0 47 0 "" 0 0 0
+.con 17 225000 142500 0 0 44 0 "" 0 0 0
 .PinName 4 224250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 225000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 225000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21561,29 +21436,29 @@
 .Typ WTB4SL-3P2261 319250 107500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1058237 319250 104250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 319250 110750 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 342500 125000 0 0 48 0 "" 0 0 0
+.con 1 342500 125000 0 0 45 0 "" 0 0 0
 .PinName 1 341750 125750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc + 341750 124250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .con 1 347500 125000 0 0 0 0 "" 0 0 0
 .PinName 2 346750 125750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 346750 124250 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 352500 125000 0 0 51 0 "" 0 0 0
+.con 1 352500 125000 0 0 48 0 "" 0 0 0
 .PinName 3 351750 125750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc - 351750 124250 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.con 1 357500 125000 0 0 52 0 "" 0 0 0
+.con 1 357500 125000 0 0 49 0 "" 0 0 0
 .PinName 4 356750 125750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 356750 124250 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=285
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 342500 160000 0 0 1 0 11 1 0 1 10 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 4096 342500 160000 0 0 1 0 11 1 0 1 10 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 338125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -X5 338125 158750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 338125 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 338125 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 338125 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 342500 157500 0 0 49 18 "" 0 0 0
+.con 17 342500 157500 0 0 46 18 "" 0 0 0
 .PinName 13 341750 156750 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 343250 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 342500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21594,7 +21469,7 @@
 .PinLab "" 342500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 342500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=286
+.AppData ComponentID=46
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 352500 160000 0 0 1 0 11 1 0 1 11 0 0 0 0 0 0 0 -1 0 0
@@ -21603,12 +21478,12 @@
 .Typ 'WDU 6' 348125 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 348125 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 348125 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 352500 157500 0 0 50 18 "" 0 0 0
+.con 17 352500 157500 0 0 47 18 "" 0 0 0
 .PinName 14 351750 156750 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 353250 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 352500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 352500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 352500 162500 0 0 54 34 "" 0 0 0
+.con 17 352500 162500 0 0 51 34 "" 0 0 0
 .PinName 14 352000 159500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 353250 163250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 352500 165000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21623,7 +21498,7 @@
 .Typ 'WDU 6' 353125 149750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020200000 353125 146500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 353125 153000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 357500 157500 0 0 53 18 "" 0 0 0
+.con 17 357500 157500 0 0 50 18 "" 0 0 0
 .PinName 15 356750 156750 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 358250 156750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 357500 157500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21643,7 +21518,7 @@
 .Typ 'WDU 6' 348125 172250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1020280000 348125 169000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 348125 175500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 352500 180000 0 0 55 18 "" 0 0 0
+.con 17 352500 180000 0 0 52 18 "" 0 0 0
 .PinName - 351750 179250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 353250 179250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 352500 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21663,17 +21538,17 @@
 .Typ YF2A15-050UB5XLEAX 262500 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 2095618 262500 132500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 262500 137500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 275000 142500 0 0 56 0 "" 0 0 0
+.con 17 275000 142500 0 0 53 0 "" 0 0 0
 .PinName 1 274250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 275000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 275000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 275000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 285000 142500 0 0 57 0 "" 0 0 0
+.con 17 285000 142500 0 0 54 0 "" 0 0 0
 .PinName 3 284250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 285000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 285000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 285000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 290000 142500 0 0 58 0 "" 0 0 0
+.con 17 290000 142500 0 0 55 0 "" 0 0 0
 .PinName 4 289250 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 290000 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 290000 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21688,23 +21563,103 @@
 .Typ YF2A15-050UB5XLEAX 330000 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 2095618 330000 132500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 330000 137500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 342500 142500 0 0 59 0 "" 0 0 0
+.con 17 342500 142500 0 0 56 0 "" 0 0 0
 .PinName 1 341750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 342500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 342500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 342500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 352500 142500 0 0 60 0 "" 0 0 0
+.con 17 352500 142500 0 0 57 0 "" 0 0 0
 .PinName 3 351750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 352500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 352500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 352500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 357500 142500 0 0 61 0 "" 0 0 0
+.con 17 357500 142500 0 0 58 0 "" 0 0 0
 .PinName 4 356750 141750 0 0 6252327 25 0 6 2700 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc / 357500 141250 0 0 0 25 0 1 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 357500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 357500 140000 0 0 0 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=298
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 142500 182500 0 0 1 0 11 1 0 1 10 0 0 0 0 0 0 0 0 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC3 138125 181250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 138125 172250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 138125 169000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 138125 175500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 142500 180000 0 0 0 18 "" 0 0 0
+.PinName + 141750 179250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 143250 179250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 142500 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 142500 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 142500 185000 0 0 0 34 "" 0 0 0
+.PinName + 142000 182000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 143250 185750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 142500 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 142500 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=299
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 210000 182500 0 0 1 0 11 1 0 1 11 0 0 0 0 0 0 0 0 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC3 205625 181250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 205625 172250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 205625 169000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 205625 175500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 210000 180000 0 0 0 18 "" 0 0 0
+.PinName + 209250 179250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 210750 179250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 210000 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 210000 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 210000 185000 0 0 0 34 "" 0 0 0
+.PinName + 209500 182000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 210750 185750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 210000 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 210000 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=300
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 275000 182500 0 0 1 0 11 1 0 1 12 0 0 0 0 0 0 0 0 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC3 270625 181250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 270625 172250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 270625 169000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 270625 175500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 275000 180000 0 0 0 18 "" 0 0 0
+.PinName + 274250 179250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 275750 179250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 275000 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 275000 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 275000 185000 0 0 0 34 "" 0 0 0
+.PinName + 274500 182000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 275750 185750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 275000 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 275000 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=301
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 342500 182500 0 0 1 0 11 1 0 1 13 0 0 0 0 0 0 0 0 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC3 338125 181250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 338125 172250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 338125 169000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 338125 175500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 342500 180000 0 0 0 18 "" 0 0 0
+.PinName + 341750 179250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 343250 179250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 342500 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 342500 180000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 342500 185000 0 0 0 34 "" 0 0 0
+.PinName + 342000 182000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 343250 185750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 342500 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 342500 187500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=302
 .end
 
 .Text 'Start sensor' 60000 102500 0 1 6252327 25 0 0 0 32768 0 2 0 0 0 0 0 0 0 0
@@ -21715,7 +21670,147 @@
 
 .end
 
-.PageNo PLCPower 15 '22-02-2025 01:55:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo 'Reed Sensors' 15 '25-02-2025 09:06:28' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title Diagram 0
+.Born 2 0 23.0 1515800035
+
+
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+.AppData Sec0=pcsDiaBasic
+
+
+.Refdata 1 1 70000 267500 10000 47500 7 1 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.com INSPOINT.SYM 0 50000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
+.Name "" 50000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.Typ "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 50000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.end
+
+.com INSPOINT.SYM 0 370000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
+.Name "" 370000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.Typ "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 370000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00359-065.SYM 0 135000 142500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+.portal 0 FA1EC981-FA3E-41D0-8FD2-BD289BD0FE37 "" SMC D-M9P
+.Name -BED1 111750 143500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'SMC D-M9P 24V PNP 3Wire' 111750 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art D-M9P 111750 131750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 111750 138250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 135000 152500 0 0 0 0 "" 0 0 0
+.PinName BN 134250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/+/- 134250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 140000 152500 0 0 0 0 "" 0 0 0
+.PinName BU 139250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/-/+ 139250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 145000 152500 0 0 0 0 "" 0 0 0
+.PinName BK 144250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc NO 144250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=304
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00359-065.SYM 0 190000 142500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+.portal 0 FA1EC981-FA3E-41D0-8FD2-BD289BD0FE37 "" SMC D-M9P
+.Name -BED2 166750 143500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'SMC D-M9P 24V PNP 3Wire' 166750 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art D-M9P 166750 131750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 166750 138250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 190000 152500 0 0 0 0 "" 0 0 0
+.PinName BN 189250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/+/- 189250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 195000 152500 0 0 0 0 "" 0 0 0
+.PinName BU 194250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/-/+ 194250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 200000 152500 0 0 0 0 "" 0 0 0
+.PinName BK 199250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc NO 199250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=305
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00359-065.SYM 0 245000 142500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+.portal 0 88B09B7F-E647-418D-80D3-FAC4F0D7AB98 "" SMC D-M9B
+.Name -BED3 221750 143500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'SMC D-M9B 24V 2Wire' 221750 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art D-M9B 221750 131750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 221750 138250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 245000 152500 0 0 0 0 "" 0 0 0
+.PinName BN 244250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/+/- 244250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 3 250000 152500 0 0 0 0 "" 0 0 0
+.PinName "" 249250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 249250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 255000 152500 0 0 0 0 "" 0 0 0
+.PinName BK 254250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc NO 254250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=306
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00359-065.SYM 0 300000 142500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+.portal 0 88B09B7F-E647-418D-80D3-FAC4F0D7AB98 "" SMC D-M9B
+.Name -BED4 276750 143500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'SMC D-M9B 24V 2Wire' 276750 135000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art D-M9B 276750 131750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 276750 138250 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 300000 152500 0 0 0 0 "" 0 0 0
+.PinName BN 299250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc ~/+/- 299250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 3 305000 152500 0 0 0 0 "" 0 0 0
+.PinName "" 304250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 304250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.con 1 310000 152500 0 0 0 0 "" 0 0 0
+.PinName BK 309250 153250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc NO 309250 151750 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=307
+.end
+
+
+.end
+
+.PageNo PLCPower 16 '25-02-2025 10:33:22' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Diagram 0
 .Born 2 0 23.0 1514432029
 
@@ -21730,28 +21825,40 @@
 
 
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 87500 120000 0 1
+.Point 1048576 87500 105000 0 1
 .Point 0 87500 142500 0 2
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 92500 120000 0 3
+.Point 1048576 92500 105000 0 3
 .Point 0 92500 142500 0 4
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 155000 90000 0 5
-.Point 0 155000 142500 0 6
+.Point 1048576 130000 90000 0 5
+.Point 0 130000 142500 0 6
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 165000 90000 0 7
-.Point 0 165000 142500 0 8
+.Point 1048576 140000 90000 0 7
+.Point 0 140000 142500 0 8
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 170000 90000 0 9
-.Point 0 170000 142500 0 10
+.Point 1048576 145000 90000 0 9
+.Point 0 145000 142500 0 10
 .end
 .polyline 128 0 0 0 1 0 10 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 97500 105000 0 11
 .Point 0 97500 142500 0 12
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 167500 90000 0 13
+.Point 0 167500 142500 0 14
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 172500 142500 0 15
+.Point 0 172500 90000 0 16
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 177500 90000 0 17
+.Point 0 177500 142500 0 18
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -21835,49 +21942,49 @@
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 92500 117500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 92500 102500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC4 96000 125500 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 88125 107250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 88125 104000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 88125 110500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 92500 115000 0 0 0 18 "" 0 0 0
-.PinName 1 91750 114250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 93250 114250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 92500 115000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 92500 115000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 92500 120000 0 0 3 34 "" 0 0 0
-.PinName 1 91750 120750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 93250 120750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 92500 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 92500 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XDC4 96000 110500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 88125 92250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 88125 89000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 88125 95500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 92500 100000 0 0 0 18 "" 0 0 0
+.PinName - 91750 99250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 93250 99250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 92500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 92500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 92500 105000 0 0 3 34 "" 0 0 0
+.PinName - 91750 105750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 93250 105750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 92500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 92500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=217
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 87500 117500 0 0 1 0 11 1 0 1 5 0 0 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 87500 102500 0 0 1 0 11 1 0 1 5 0 0 0 0 0 0 0 0 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC3 86500 116000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 83125 107250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 83125 104000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 83125 110500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 87500 115000 0 0 0 18 "" 0 0 0
-.PinName 1 86750 114250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 88250 114250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 87500 115000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 87500 115000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 87500 120000 0 0 1 34 "" 0 0 0
-.PinName 1 86750 120750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 88250 120750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 87500 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 87500 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XDC3 86500 101000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 83125 92250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 83125 89000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 83125 95500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 87500 100000 0 0 0 18 "" 0 0 0
+.PinName 'Unsafe +' 86750 99250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 88250 99250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 87500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 87500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 87500 105000 0 0 1 34 "" 0 0 0
+.PinName 'Unsafe +' 86500 101500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 88250 105750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 87500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 87500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=218
 .end
 
 .com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017-001.SYM 0 97500 102500 0 0 1 0 11 1 0 1 1 0 0 0 0 0 0 0 0 0 0
 .portal 5 c1d27285-97bc-4411-a018-708783335904 c1d27285-97bc-4411-a018-708783335904 Weidmüller 1010200000
-.Name -XDC 110000 101500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -XDCPE 110000 101500 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WPE 6' 91875 96000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Art 1010200000 91875 92750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Func "" 91875 99250 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
@@ -21887,130 +21994,225 @@
 .PinLab "" 97500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 97500 100000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .con 1 97500 105000 0 0 11 34 "" 0 0 0
-.PinName PE 100500 104500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinName PE 97000 102000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 98250 105750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 97500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 97500 107500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=219
+.AppData ComponentID=269
 .end
 
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-AUX6.SYM 0 157500 187500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 56 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-AUX6.SYM 0 132500 187500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 56 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 137500 189000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 177500 189000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 177500 195000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 177500 192000 0 0 0 25 0 2 0 16 0 2 15 0 0 0 0 0 0 0
-.Field PlcNo 157500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Name -KEA1 112500 189000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 152500 189000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 152500 195000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 152500 192000 0 0 0 25 0 2 0 16 0 2 15 0 0 0 0 0 0 0
+.Field PlcNo 132500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 160000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NetNo 135000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 162500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NodeNo 137500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 165000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field SlotNo 140000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 138250 176500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Field PlcID 113250 176500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 145000 142500 0 0 0 0 "" 0 0 0
-.PinName X10.4 144250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc L+OUT 144000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.con 17 120000 142500 0 0 0 0 "" 0 0 0
+.PinName X10.4 119250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc L+OUT 119000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 120000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 120000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 125000 142500 0 0 0 0 "" 0 0 0
+.PinName X10.5 124250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc MOUT 124000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 125000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 125000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 130000 142500 0 0 6 0 "" 0 0 0
+.PinName X12.1 129250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc 1L 129000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 130000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 130000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 135000 142500 0 0 0 0 "" 0 0 0
+.PinName X12.7 134250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc 2L 134000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 135000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 135000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 140000 142500 0 0 8 0 "" 0 0 0
+.PinName X10.6 139250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc 1M 139000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 140000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 140000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 145000 142500 0 0 10 0 "" 0 0 0
+.PinName X11.1 144250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc 2M 144000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 145000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
 .PinDes "" 145000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
-.con 17 150000 142500 0 0 0 0 "" 0 0 0
-.PinName X10.5 149250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc MOUT 149000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 150000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
-.PinDes "" 150000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
-.con 17 155000 142500 0 0 6 0 "" 0 0 0
-.PinName X12.1 154250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc 1L 154000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 155000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
-.PinDes "" 155000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
-.con 17 160000 142500 0 0 0 0 "" 0 0 0
-.PinName X12.7 159250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc 2L 159000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 160000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
-.PinDes "" 160000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
-.con 17 165000 142500 0 0 8 0 "" 0 0 0
-.PinName X10.6 164250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc 1M 164000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 165000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
-.PinDes "" 165000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
-.con 17 170000 142500 0 0 10 0 "" 0 0 0
-.PinName X11.1 169250 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc 2M 169000 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
-.PinDes "" 170000 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 155000 87500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 130000 87500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 158500 95500 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 150625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 150625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 150625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 155000 85000 0 0 0 18 "" 0 0 0
-.PinName 1 154250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 155750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 155000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 155000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 155000 90000 0 0 5 34 "" 0 0 0
-.PinName 1 154250 90750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 155750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 155000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 155000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XDC5 133500 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 125625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 125625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 125625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 130000 85000 0 0 0 18 "" 0 0 0
+.PinName + 129250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 130750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 130000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 130000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 130000 90000 0 0 5 34 "" 0 0 0
+.PinName + 129000 87000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 130750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 130000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 130000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=246
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 165000 87500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 140000 87500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC4 168500 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 160625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 160625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 160625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 165000 85000 0 0 0 18 "" 0 0 0
-.PinName 1 164250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 165750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 165000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 165000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 165000 90000 0 0 7 34 "" 0 0 0
-.PinName 1 164250 90750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 165750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 165000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 165000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XDC4 143500 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 135625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 135625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 135625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 140000 85000 0 0 0 18 "" 0 0 0
+.PinName - 139250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 140750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 140000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 140000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 140000 90000 0 0 7 34 "" 0 0 0
+.PinName - 139000 87500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 140750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 140000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 140000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=247
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 170000 87500 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 145000 87500 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC4 173500 95500 0 0 0 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 165625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 165625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 165625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 85000 0 0 0 18 "" 0 0 0
-.PinName 1 169250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 90000 0 0 9 34 "" 0 0 0
-.PinName 1 169250 90750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XDC4 148500 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 140625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 140625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 140625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 145000 85000 0 0 0 18 "" 0 0 0
+.PinName - 144250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 145750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 145000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 145000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 145000 90000 0 0 9 34 "" 0 0 0
+.PinName - 144000 87500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 145750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 145000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 145000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=248
 .end
 
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-AUX3.SYM 0 172500 187500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 34 1 0
+.portal 21 957019b4-5500-40c4-a1dc-3aef615aafc1 957019b4-5500-40c4-a1dc-3aef615aafc1 Siemens 6ES7222-1HH32-0XB0
+.Name -K 152500 189000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7222-1HH32-0XB0 192500 189000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7222-1HH32-0XB0 192500 195000 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 192500 192000 0 0 0 25 0 2 0 16 0 2 15 0 0 0 0 0 0 0
+.Field PlcNo 172500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 175000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 177500 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 180000 175000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 153250 176500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 167500 142500 0 0 14 0 "" 0 0 0
+.PinName L+ 166750 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc 24VDC 166500 143500 0 0 0 25 0 0 900 32768 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 167500 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 167500 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 172500 142500 0 0 15 0 "" 0 0 0
+.PinName M 171750 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 171500 143500 0 0 0 25 0 0 900 32912 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 172500 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 172500 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.con 17 177500 142500 0 0 18 0 "" 0 0 0
+.PinName PE 176750 141750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 176500 143500 0 0 0 25 0 0 900 32912 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 177500 142500 0 0 0 25 0 6 0 65680 0 2 16 0 0 0 0 0 0 0
+.PinDes "" 177500 142500 0 0 0 25 0 6 0 65688 0 2 16 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=314
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 172500 87500 0 0 1 0 11 1 0 1 7 0 0 0 0 0 0 0 -1 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC4 176000 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 168125 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 168125 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 168125 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 172500 85000 0 0 0 18 "" 0 0 0
+.PinName - 171750 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 173250 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 172500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 172500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 172500 90000 0 0 16 34 "" 0 0 0
+.PinName - 171500 87500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 173250 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 172500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 172500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=248
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 167500 87500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC5 171000 95500 0 0 0 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 163125 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 163125 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 163125 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 167500 85000 0 0 0 18 "" 0 0 0
+.PinName + 166750 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 168250 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 167500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 167500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 167500 90000 0 0 13 34 "" 0 0 0
+.PinName + 166500 87000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 168250 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 167500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 167500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=315
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017-001.SYM 0 177500 87500 0 0 1 0 11 1 0 1 2 0 0 0 0 0 0 0 -1 0 0
+.portal 5 c1d27285-97bc-4411-a018-708783335904 c1d27285-97bc-4411-a018-708783335904 Weidmüller 1010200000
+.Name -XDCPE 190000 86500 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Typ 'WPE 6' 171875 81000 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1010200000 171875 77750 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 171875 84250 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 177500 85000 0 0 0 18 "" 0 0 0
+.PinName PE 176750 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 178250 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 177500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 177500 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 177500 90000 0 0 17 34 "" 0 0 0
+.PinName PE 177000 87000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 178250 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 177500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 177500 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=316
+.end
+
 
 .end
 
-.PageNo PLCPower1 16 '22-02-2025 01:52:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo PLC_DIA 17 '25-02-2025 10:34:32' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Diagram 0
-.Born 2 0 23.0 1514433099
+.Born 2 2 24.0 1515803717
 
 
 .AppData [MechLoad]
@@ -22023,20 +22225,28 @@
 
 
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 90000 130000 0 1
-.Point 0 90000 162500 0 2
+.Point 1048576 90000 130000 0 2
+.Point 0 90000 162500 0 1
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
 .Point 1048576 130000 162500 0 3
 .Point 0 130000 130000 0 4
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 170000 132500 0 5
-.Point 0 170000 162500 0 6
+.Point 1048576 170000 132500 0 6
+.Point 0 170000 162500 0 5
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 327500 162500 0 7
-.Point 0 327500 130000 0 8
+.Point 1048576 210000 162500 0 7
+.Point 0 210000 132500 0 8
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 290000 137500 0 10
+.Point 0 290000 162500 0 9
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
+.Point 1048576 330000 137500 0 12
+.Point 0 330000 162500 0 11
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -22103,7 +22313,7 @@
 .Fdata "" 424 0 ' ' 9 "" ""
 .Field PlcID 70750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 90000 162500 0 0 2 35 Digital 0 0 0
+.con 17 90000 162500 0 0 1 35 Digital 0 0 0
 .PinName 10.7 89250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc DIA.0 70750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 70750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
@@ -22161,7 +22371,7 @@
 .Fdata "" 424 0 ' ' 9 "" ""
 .Field PlcID 150750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 170000 162500 0 0 6 35 Digital 0 0 0
+.con 17 170000 162500 0 0 5 35 Digital 0 0 0
 .PinName 10.9 169250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc DIA.2 150750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 150750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
@@ -22172,36 +22382,36 @@
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 327500 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 29 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 210000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 29 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 307500 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 347500 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 347500 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 347500 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
-.Field IOStatustype 346500 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -KEA1 190000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 230000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 230000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 230000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 229000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 305 0 ' ' 9 DI ""
-.Field PlcNo 327500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field PlcNo 210000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 330000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NetNo 212500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 332500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NodeNo 215000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 335000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field SlotNo 217500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 308250 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Field PlcID 190750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 327500 162500 0 0 7 35 Digital 0 0 0
-.PinName 10.10 326750 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DIA.3 308250 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 308250 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
-.PinDes "" 308250 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.con 17 210000 162500 0 0 7 35 Digital 0 0 0
+.PinName 10.10 209250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DIA.3 190750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 190750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 190750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
 .ConRef 0 1 "" 0 0 0
-.SingleRef "" 308250 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.SingleRef "" 190750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 90000 127500 0 0 1 0 11 1 0 1 6 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 90000 127500 0 0 1 0 11 1 0 1 13 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
 .Name -XDC5 85625 126250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 85625 117250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
@@ -22212,16 +22422,16 @@
 .PinFunc "" 90750 124250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 90000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 90000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 90000 130000 0 0 1 34 "" 0 0 0
+.con 17 90000 130000 0 0 2 34 "" 0 0 0
 .PinName 3 89250 126750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 90750 130750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 90000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 90000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=289
+.AppData ComponentID=317
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 130000 127500 0 0 1 0 11 1 0 1 6 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 130000 127500 0 0 1 0 11 1 0 1 13 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
 .Name -XDC5 125625 126250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 125625 117250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
@@ -22238,10 +22448,10 @@
 .PinLab "" 130000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 130000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=289
+.AppData ComponentID=317
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 170000 130000 0 0 1 0 11 1 0 1 6 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 170000 130000 0 0 1 0 11 1 0 1 13 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
 .Name -XDC5 165625 128750 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
 .Typ 'WDU 6' 165625 119750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
@@ -22252,205 +22462,36 @@
 .PinFunc "" 170750 126750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 170000 127500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 170000 127500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 132500 0 0 5 34 "" 0 0 0
+.con 17 170000 132500 0 0 6 34 "" 0 0 0
 .PinName 9 169250 129250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
 .PinFunc "" 170750 133250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 170000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .PinDes "" 170000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=289
+.AppData ComponentID=317
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 327500 127500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 -1 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 210000 130000 0 0 1 0 11 1 0 1 15 0 0 0 0 0 0 0 -1 0 0
 .portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD8 323125 126250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 323125 117250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 323125 114000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 323125 120500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 327500 125000 0 0 0 18 "" 0 0 0
-.PinName 6 326750 124250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 328250 124250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 327500 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 327500 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 327500 130000 0 0 8 34 "" 0 0 0
-.PinName 6 327000 127000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 328250 130750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 327500 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 327500 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -XD8 205625 128750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 205625 119750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 205625 116500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 205625 123000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 210000 127500 0 0 0 18 "" 0 0 0
+.PinName 6 209250 126750 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 210750 126750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 210000 127500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 210000 127500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 210000 132500 0 0 8 34 "" 0 0 0
+.PinName 6 209500 129500 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 210750 133250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 210000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 210000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=241
+.AppData ComponentID=318
 .end
 
-.Text 'Sensor B3' 172500 132500 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.Text 'Sensor B2' 132500 130000 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.Text 'Sensor B1' 95000 130000 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-
-.end
-
-.PageNo PLCPower2 17 '22-02-2025 01:52:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
-.Title Diagram 0
-.Born 2 0 23.0 1514433141
-
-
-.AppData [MechLoad]
-.AppData DBField=
-.AppData [DataTemplates]
-.AppData Sec0=pcsDiaBasic
-
-
-.Refdata 1 1 70000 267500 10000 47500 7 1 1 A 40000 40000 8 6 57500 30000
-
-
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 330000 130000 0 1
-.Point 0 330000 162500 0 2
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 170000 90000 0 3
-.Point 1 170000 120000 0 9
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 250000 90000 0 6
-.Point 1 250000 120000 0 7
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 145 0 20
-.Point 1048577 250000 135000 0 8
-.Point 0 250000 162500 0 5
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 147 0 20
-.Point 1048577 170000 135000 0 10
-.Point 0 170000 162500 0 4
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 90000 130000 0 11
-.Point 0 90000 162500 0 12
-.end
-
-.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
-.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
-.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
-.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
-.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
-.SField "" 1 0
-.SField "" 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField "" 5 0
-.SField "" 6 0
-.SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
-.SField "" 11 0
-.SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
-.SField "" 15 0
-.SField "" 16 0
-.SField "" 17 0
-.SField "" 18 0
-.SField "" 19 0
-.SField "" 20 0
-.SField "" 21 0
-.SField "" 22 0
-.SField "" 23 0
-.SField "" 24 0
-.SField "" 25 0
-.end
-
-.com INSPOINT.SYM 0 50000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
-.Name "" 50000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
-.Typ "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
-.Art "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
-.Func "" 50000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
-.end
-
-.com INSPOINT.SYM 0 370000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
-.Name "" 370000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
-.Typ "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
-.Art "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
-.Func "" 370000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
-.end
-
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 90000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 30 1 0
-.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 70000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 110000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 110000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 110000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
-.Field IOStatustype 109000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 305 0 ' ' 9 DI ""
-.Field PlcNo 90000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 92500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 95000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 97500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 70750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 425 0 ' ' 9 "" ""
-.con 17 90000 162500 0 0 12 35 Digital 0 0 0
-.PinName 10.11 89250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DIA.4 70750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 70750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
-.PinDes "" 70750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
-.ConRef 0 1 "" 0 0 0
-.SingleRef "" 70750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=216
-.end
-
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 170000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 31 1 0
-.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 150000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 190000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 190000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 190000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
-.Field IOStatustype 189000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 305 0 ' ' 9 DI ""
-.Field PlcNo 170000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 172500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 175000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 177500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 150750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.Fdata "" 425 0 ' ' 9 "" ""
-.con 17 170000 162500 0 0 4 35 Digital 0 0 0
-.PinName 10.12 169250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DIA.5 150750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 150750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
-.PinDes "" 150750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
-.ConRef 0 1 "" 0 0 0
-.SingleRef "" 150750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=216
-.end
-
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 330000 127500 0 0 1 0 11 1 0 1 6 0 0 0 0 0 0 0 -1 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 325625 126250 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 325625 117250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 325625 114000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 325625 120500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 330000 125000 0 0 0 18 "" 0 0 0
-.PinName 12 329250 124250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 330750 124250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 330000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 330000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 330000 130000 0 0 1 34 "" 0 0 0
-.PinName 12 329250 126750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 330750 130750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 330000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 330000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=289
-.end
-
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 250000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 32 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 250000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 30 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
 .Name -KEA1 230000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 6ES7214-1HG40-0XB0 270000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
@@ -22468,9 +22509,9 @@
 .Fdata "" 424 0 ' ' 9 "" ""
 .Field PlcID 230750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 250000 162500 0 0 5 35 Digital 0 0 0
-.PinName 10.13 249250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DIA.6 230750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.con 17 250000 162500 0 0 0 35 Digital 0 0 0
+.PinName 10.11 249250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DIA.4 230750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 230750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
 .PinDes "" 230750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
 .ConRef 0 1 "" 0 0 0
@@ -22479,7 +22520,36 @@
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 330000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 33 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 290000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 31 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 270000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 310000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 310000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 310000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 309000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DI ""
+.Field PlcNo 290000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 292500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 295000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 297500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 270750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 290000 162500 0 0 9 35 Digital 0 0 0
+.PinName 10.12 289250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DIA.5 270750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 270750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 270750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 270750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 330000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 32 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
 .Name -KEA1 310000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
 .Typ 6ES7214-1HG40-0XB0 350000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
@@ -22497,9 +22567,9 @@
 .Fdata "" 424 0 ' ' 9 "" ""
 .Field PlcID 310750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 330000 162500 0 0 2 35 Digital 0 0 0
-.PinName 10.14 329250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DIA.7 310750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.con 17 330000 162500 0 0 11 35 Digital 0 0 0
+.PinName 10.13 329250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DIA.6 310750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .PinLab "" 310750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
 .PinDes "" 310750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
 .ConRef 0 1 "" 0 0 0
@@ -22508,115 +22578,208 @@
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 90000 127500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XD8 85625 126250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 85625 117250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 85625 114000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 85625 120500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 90000 125000 0 0 0 18 "" 0 0 0
-.PinName 7 89250 124250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 124250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 125000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 90000 130000 0 0 11 34 "" 0 0 0
-.PinName 7 89500 127000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 130750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 132500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-IN1.SYM 512 370000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 33 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 350000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 390000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 390000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 390000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 389000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DI ""
+.Field PlcNo 370000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 372500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 375000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 377500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 350750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 370000 162500 0 0 0 35 Digital 0 0 0
+.PinName 10.14 369250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DIA.7 350750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 350750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 350750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 350750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=242
+.AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 170000 87500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 165625 86250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 165625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 165625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 165625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 85000 0 0 0 18 "" 0 0 0
-.PinName 7 169250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 90000 0 0 3 34 "" 0 0 0
-.PinName 7 169500 87000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=243
-.end
-
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 250000 87500 0 0 1 0 11 1 0 1 4 0 0 0 0 0 0 0 -1 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC5 245625 86250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 245625 77250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 245625 74000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 245625 80500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 250000 85000 0 0 0 18 "" 0 0 0
-.PinName 7 249250 84250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 250750 84250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 250000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 250000 85000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 250000 90000 0 0 6 34 "" 0 0 0
-.PinName 7 249500 87000 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 250750 90750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 250000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 250000 92500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=243
-.end
-
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00265-006.SYM 0 250000 127500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 2 1 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00265-006.SYM 0 290000 130000 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 2 1 0
 .portal 13 34efe3a4-4a6d-400d-9979-a8109bd4dca9 34efe3a4-4a6d-400d-9979-a8109bd4dca9 'Schneider electric' LRD05
-.Name -FC4 241500 128750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ LRD05 241500 119750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art LRD05 241500 116500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 241500 123000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -FC3 281500 131250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ LRD05 281500 122250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art LRD05 281500 119000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 281500 125500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
 .SymbRef 128 1 "" 0 0 0
-.SingleRef "" 241500 126250 0 0 6252327 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 250000 135000 0 0 8 0 "" 0 0 0
-.PinName 97 249250 134250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 250000 134750 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 250000 137500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 250000 137500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 250000 120000 0 0 7 0 "" 0 0 0
-.PinName 98 249250 120750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 250000 122750 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 250000 120000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 250000 120000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.AppData [Component]
-.AppData ComponentID=253
-.end
-
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00265-006.SYM 0 170000 127500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 2 1 0
-.portal 13 34efe3a4-4a6d-400d-9979-a8109bd4dca9 34efe3a4-4a6d-400d-9979-a8109bd4dca9 'Schneider electric' LRD05
-.Name -FC3 161500 128750 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ LRD05 161500 119750 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art LRD05 161500 116500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 161500 123000 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.SymbRef 128 1 "" 0 0 0
-.SingleRef "" 161500 126250 0 0 6252327 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 170000 135000 0 0 10 0 "" 0 0 0
-.PinName 97 169250 134250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170000 134750 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 137500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 137500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 170000 120000 0 0 9 0 "" 0 0 0
-.PinName 98 169250 120750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170000 122750 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 120000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 120000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.SingleRef "" 281500 128750 0 0 6252327 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 290000 137500 0 0 10 0 "" 0 0 0
+.PinName 97 289250 136750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 290000 137250 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 290000 140000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 290000 140000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 290000 122500 0 0 0 0 "" 0 0 0
+.PinName 98 289250 123250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 290000 125250 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 290000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 290000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=252
 .end
 
-.Text 'Sensor B4' 335000 130000 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00265-006.SYM 0 330000 130000 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 2 1 0
+.portal 13 34efe3a4-4a6d-400d-9979-a8109bd4dca9 34efe3a4-4a6d-400d-9979-a8109bd4dca9 'Schneider electric' LRD05
+.Name -FC4 321500 131250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ LRD05 321500 122250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art LRD05 321500 119000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 321500 125500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.SymbRef 128 1 "" 0 0 0
+.SingleRef "" 321500 128750 0 0 6252327 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 330000 137500 0 0 12 0 "" 0 0 0
+.PinName 97 329250 136750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 330000 137250 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 330000 140000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 330000 140000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 330000 122500 0 0 0 0 "" 0 0 0
+.PinName 98 329250 123250 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 330000 125250 0 0 0 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 330000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 330000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=253
+.end
+
+.Text 'Sensor B3' 172500 132500 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Text 'Sensor B2' 132500 130000 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Text 'Sensor B1' 95000 130000 0 1 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 
 .end
 
-.PageNo PLCPower3 18 '22-02-2025 01:55:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo PLC_DQB 18 '25-02-2025 10:46:44' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title Diagram 0
+.Born 2 0 23.0 1514433099
+
+
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+.AppData Sec0=pcsDiaBasic
+
+
+.Refdata 1 1 70000 267500 10000 47500 7 1 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.com INSPOINT.SYM 0 50000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
+.Name "" 50000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.Typ "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 50000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 50000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.end
+
+.com INSPOINT.SYM 0 370000 260000 0 0 1 0 28 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
+.Name "" 370000 261250 0 0 0 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.Typ "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Art "" 370000 261250 0 0 16711680 25 0 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 370000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 212500 172500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 50 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 192500 174000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 232500 174000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 232500 183000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 232500 177000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 231500 171500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 212500 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 215000 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 217500 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 220000 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 193250 161500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 212500 127500 0 0 0 19 Digital 0 0 0
+.PinName X12.11 211750 126500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQB.0 193250 171500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 193250 156500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 193250 151750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 193250 164000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 252500 172500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 51 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 232500 174000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 272500 174000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 272500 183000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 272500 177000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 271500 171500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 252500 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 255000 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 257500 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 260000 160000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 233250 161500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 252500 127500 0 0 0 19 Digital 0 0 0
+.PinName X12.12 251750 126500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQB.1 233250 171500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 233250 156500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 233250 151750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 233250 164000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+
+.end
+
+.PageNo PLC_DQA 19 '25-02-2025 10:33:58' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Diagram 0
 .Born 2 0 23.0 1514433157
 
@@ -22631,20 +22794,20 @@
 
 
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 170000 135000 0 1
-.Point 0 170000 162500 0 2
+.Point 1048576 100000 132500 0 7
+.Point 0 100000 162500 0 1
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 170000 95000 0 3
-.Point 0 170000 122500 0 4
+.Point 1048576 100000 95000 0 2
+.Point 0 100000 122500 0 8
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 90000 95000 0 5
-.Point 0 90000 122500 0 6
+.Point 1048576 60000 95000 0 3
+.Point 0 60000 122500 0 4
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0 0 0 0 0 0 20
-.Point 1048576 90000 132500 0 7
-.Point 0 90000 162500 0 8
+.Point 1048576 60000 132500 0 5
+.Point 0 60000 162500 0 6
 .end
 
 .Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
@@ -22693,154 +22856,322 @@
 .Func "" 370000 261250 0 0 16711680 25 0 7 0 144 0 0 0 0 0 0 0 0 0 0
 .end
 
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 90000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 42 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 60000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 42 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 70000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 110000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 110000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 110000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
-.Field IOStatustype 109000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -KEA1 40000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 80000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 80000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 80000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 79000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 305 0 ' ' 9 DO ""
-.Field PlcNo 90000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field PlcNo 60000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 92500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NetNo 62500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 95000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NodeNo 65000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 97500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field SlotNo 67500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 70750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Field PlcID 40750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 90000 162500 0 0 8 19 Digital 0 0 0
-.PinName X12.2 89250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DQA.0 70750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 70750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
-.PinDes "" 70750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.con 17 60000 162500 0 0 6 19 Digital 0 0 0
+.PinName X12.2 59250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.0 40750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 40750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 40750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
 .ConRef 0 1 "" 0 0 0
-.SingleRef "" 70750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.SingleRef "" 40750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 170000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 43 1 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 100000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 43 1 0
 .portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
-.Name -KEA1 150000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 6ES7214-1HG40-0XB0 190000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Art 6ES7214-1HG40-0XB0 190000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 190000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
-.Field IOStatustype 189000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Name -KEA1 80000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 120000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 120000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 120000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 119000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 305 0 ' ' 9 DO ""
-.Field PlcNo 170000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field PlcNo 100000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 421 0 ' ' 9 "" ""
-.Field NetNo 172500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NetNo 102500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 422 0 ' ' 9 "" ""
-.Field NodeNo 175000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field NodeNo 105000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 423 0 ' ' 9 "" ""
-.Field SlotNo 177500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Field SlotNo 107500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 424 0 ' ' 9 "" ""
-.Field PlcID 150750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Field PlcID 80750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
 .Fdata "" 425 0 ' ' 9 "" ""
-.con 17 170000 162500 0 0 2 19 Digital 0 0 0
-.PinName X12.3 169250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc DQA.1 150750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 150750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
-.PinDes "" 150750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.con 17 100000 162500 0 0 1 19 Digital 0 0 0
+.PinName X12.3 99250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.1 80750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 80750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 80750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
 .ConRef 0 1 "" 0 0 0
-.SingleRef "" 150750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.SingleRef "" 80750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00305.SYM 0 90000 127500 0 0 1 0 3 1 0 1 1 0 0 0 0 0 0 0 0 1 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00305.SYM 0 60000 127500 0 0 1 0 3 1 0 1 1 0 0 0 0 0 0 0 0 1 0
 .portal 14 a38bbeeb-80dd-460a-949c-6e9c674a60d1 a38bbeeb-80dd-460a-949c-6e9c674a60d1 'Schneider electric' LC1D09BL
-.Name -QA3 82500 127500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ LC1D09BL 82500 116250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Art LC1D09BL 82500 112500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 82500 120000 0 0 0 25 0 2 0 16 0 2 0 0 0 0 0 0 0 0
+.Name -QA3 52500 127500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ LC1D09BL 52500 116250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Art LC1D09BL 52500 112500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 52500 120000 0 0 0 25 0 2 0 16 0 2 0 0 0 0 0 0 0 0
 .SymbRef 0 5 C:\PCAutomationEDU\Symbols\Misc\SB_REF.SYM 0 0 0
-.MultiRef /MotorMAA1.4 89000 54250 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.MultiRef "" 90000 54250 0 0 6252327 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
-.MultiRef "" 91000 54250 0 0 6252327 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 90000 132500 0 0 7 0 "" 0 0 0
-.PinName A1 89250 133250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 133250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 1 90000 122500 0 0 6 0 "" 0 0 0
-.PinName A2 89250 121750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 121750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.MultiRef /MotorMAA1.4 59000 54250 0 0 6252327 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.MultiRef "" 60000 54250 0 0 6252327 25 0 7 0 16 0 2 0 0 0 0 0 0 0 0
+.MultiRef "" 61000 54250 0 0 6252327 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 60000 132500 0 0 5 0 "" 0 0 0
+.PinName A1 59250 133250 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 60750 133250 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 60000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 60000 135000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 1 60000 122500 0 0 4 0 "" 0 0 0
+.PinName A2 59250 121750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 60750 121750 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 60000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 60000 122500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
 .AppData ComponentID=249
 .end
 
-.com C:\PCAutomationEDU\Symbols\UserSymbols\VUVG-S10-B52-ZT-M7-1T1L.SYM 0 202500 127500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 100000 92500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 0 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC4 95625 91250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 95625 82250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 95625 79000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 95625 85500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 100000 90000 0 0 0 18 "" 0 0 0
+.PinName 1 99250 89250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 100750 89250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 100000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 100000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 100000 95000 0 0 2 34 "" 0 0 0
+.PinName 1 99250 95750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 100750 95750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 100000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 100000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=293
+.end
+
+.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 60000 92500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 -1 0 0
+.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
+.Name -XDC4 55625 91250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 'WDU 6' 55625 82250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art 1020200000 55625 79000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Func "" 55625 85500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 60000 90000 0 0 0 18 "" 0 0 0
+.PinName 1 59250 89250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 60750 89250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 60000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 60000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.con 17 60000 95000 0 0 3 34 "" 0 0 0
+.PinName 1 59250 95750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 60750 95750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 60000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.PinDes "" 60000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=293
+.end
+
+.com C:\PCAUTOMATIONEDU\SYMBOLS\USERSYMBOLS\VALVE.SYM 0 100000 127500 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 -1 0 0
 .portal 0 CF351613-C561-4263-B690-440AA4A8D2B3 "" Festo VUVG-S10-B52-ZT-M7-1T1L
-.Name -QN1 176750 128500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ '5/2, bistable' 176750 120000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art VUVG-S10-B52-ZT-M7-1T1L 176750 116750 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
-.Func "" 176750 123250 0 0 0 25 0 8 0 144 0 2 0 0 0 0 0 0 0 0
-.con 1 170000 135000 0 0 1 0 "" 0 0 0
-.PinName 1 169250 135750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 169250 134250 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 237500 135000 0 0 0 0 "" 0 0 0
-.PinName 2 236750 135750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 236750 134250 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 170000 122500 0 0 4 0 "" 0 0 0
-.PinName 3 169250 121750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 169250 123250 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
-.con 1 237500 122500 0 0 0 0 "" 0 0 0
-.PinName 4 236750 121750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 236750 123250 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
+.Name -QMB1 89250 128500 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ '5/2, bistable' 89250 120000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Art VUVG-S10-B52-ZT-M7-1T1L 89250 116750 0 0 0 25 0 8 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 89250 123250 0 0 0 25 0 8 0 144 0 2 0 0 0 0 0 0 0 0
+.con 1 100000 132500 0 0 7 0 "" 0 0 0
+.PinName "" 99250 133250 0 0 6252327 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 99250 131750 0 0 0 25 0 2 900 16 0 2 0 0 0 0 0 0 0 0
+.con 1 100000 122500 0 0 8 0 "" 0 0 0
+.PinName 2 99250 121750 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc "" 99250 123250 0 0 0 25 0 0 900 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=244
+.AppData ComponentID=311
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 170000 92500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 0 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC4 165625 91250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 165625 82250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 165625 79000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 165625 85500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 90000 0 0 0 18 "" 0 0 0
-.PinName 1 169250 89250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 89250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 170000 95000 0 0 3 34 "" 0 0 0
-.PinName 1 169250 95750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 170750 95750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 170000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 170000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 140000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 44 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 120000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 160000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 160000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 160000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 159000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 140000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 142500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 145000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 147500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 120750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 140000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.4 139250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.2 120750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 120750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 120750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 120750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=293
+.AppData ComponentID=216
 .end
 
-.com C:\PCAutomationEDU\Symbols\IEC60617\PCS-S00017.SYM 0 90000 92500 0 0 1 0 11 1 0 1 3 0 0 0 0 0 0 0 -1 0 0
-.portal 5 c922a79a-fe5d-4922-8382-350146c3949a c922a79a-fe5d-4922-8382-350146c3949a Weidmüller 1020200000
-.Name -XDC4 85625 91250 0 0 0 25 0 2 0 0 0 2 0 0 0 0 0 0 0 0
-.Typ 'WDU 6' 85625 82250 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Art 1020200000 85625 79000 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
-.Func "" 85625 85500 0 0 0 25 0 8 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 90000 90000 0 0 0 18 "" 0 0 0
-.PinName 1 89250 89250 0 0 6252327 25 0 2 900 128 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 89250 0 0 0 25 0 8 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 90000 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.con 17 90000 95000 0 0 5 34 "" 0 0 0
-.PinName 1 89250 95750 0 0 6252327 25 0 0 900 0 0 2 0 0 0 0 0 0 0 0
-.PinFunc "" 90750 95750 0 0 0 25 0 6 900 16 0 2 0 0 0 0 0 0 0 0
-.PinLab "" 90000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
-.PinDes "" 90000 97500 0 0 0 25 0 6 0 16 0 2 0 0 0 0 0 0 0 0
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 180000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 45 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 160000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 200000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 200000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 200000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 199000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 180000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 182500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 185000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 187500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 160750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 180000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.5 179250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.3 160750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 160750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 160750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 160750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
 .AppData [Component]
-.AppData ComponentID=293
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 220000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 46 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 200000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 240000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 240000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 240000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 239000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 220000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 222500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 225000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 227500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 200750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 220000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.6 219250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.4 200750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 200750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 200750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 200750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 260000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 47 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 240000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 280000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 280000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 280000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 279000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 260000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 262500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 265000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 267500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 240750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 260000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.8 259250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.5 240750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 240750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 240750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 240750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 300000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 48 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 280000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 320000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 320000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 320000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 319000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 300000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 302500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 305000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 307500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 280750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 300000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.9 299250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.6 280750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 280750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 280750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 280750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
+.end
+
+.com C:\PCAutomationEDU\Symbols\PLC\PLC-OUT1.SYM 512 340000 207500 0 0 1 0 12 1 0 1 1 0 0 0 0 0 0 0 49 1 0
+.portal 27 52fa2c02-8653-4eca-861e-8aeb117831cc 52fa2c02-8653-4eca-861e-8aeb117831cc Siemens 6ES7214-1HG40-0XB0
+.Name -KEA1 320000 209000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.Typ 6ES7214-1HG40-0XB0 360000 209000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Art 6ES7214-1HG40-0XB0 360000 218000 0 0 0 25 0 2 0 128 0 2 0 0 0 0 0 0 0 0
+.Func "" 360000 212000 0 0 0 25 0 2 0 152 0 2 15 0 0 0 0 0 0 0
+.Field IOStatustype 359000 206500 0 0 0 25 0 8 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 305 0 ' ' 9 DO ""
+.Field PlcNo 340000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 421 0 ' ' 9 "" ""
+.Field NetNo 342500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 422 0 ' ' 9 "" ""
+.Field NodeNo 345000 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 423 0 ' ' 9 "" ""
+.Field SlotNo 347500 195000 0 0 0 25 0 0 0 128 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 424 0 ' ' 9 "" ""
+.Field PlcID 320750 196500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.Fdata "" 425 0 ' ' 9 "" ""
+.con 17 340000 162500 0 0 0 19 Digital 0 0 0
+.PinName X12.10 339250 161500 0 0 6252327 25 0 2 900 0 0 2 0 0 0 0 0 0 0 0
+.PinFunc DQA.7 320750 206500 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.PinLab "" 320750 191500 0 0 0 25 0 6 0 16 0 2 22 0 0 0 0 0 0 0
+.PinDes "" 320750 186750 0 0 0 25 0 6 0 24 0 2 22 0 0 0 0 0 0 0
+.ConRef 0 1 "" 0 0 0
+.SingleRef "" 320750 199000 0 0 6252327 25 0 0 0 16 0 2 0 0 0 0 0 0 0 0
+.AppData [Component]
+.AppData ComponentID=216
 .end
 
 
 .end
 
-.PageNo Layout7 19 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 16 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo Layout7 20 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 65552 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Layout 0
 .Born 2 0 20.0 1513576155
 
@@ -22880,7 +23211,7 @@
 
 .end
 
-.PageNo 4 20 '23-01-2025 10:54:54' 4 10000 4 1 300 1 0 1048576 60000 140000 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 '30-01-2025 12:05:12' -1
+.PageNo 4 21 '23-01-2025 10:54:54' 4 10000 4 1 300 1 0 1048576 60000 140000 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 '30-01-2025 12:05:12' -1
 .Title 'Arrangement - A4 - 1:4 - CompList' 0
 .Born 2 0 20.0 1513576155
 
@@ -23055,7 +23386,7 @@
 
 .end
 
-.PageNo 5 21 '23-01-2025 10:54:54' 4 10000 4 1 300 1 0 1048576 80000 190000 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 5 22 '23-01-2025 10:54:54' 4 10000 4 1 300 1 0 1048576 80000 190000 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Arrangement - A3 - 1:4 - CompList' 0
 .Born 2 0 20.0 1513576155
 
@@ -23230,7 +23561,7 @@
 
 .end
 
-.PageNo Lists 22 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 16 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo Lists 23 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 65552 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title Lists 0
 .Born 2 0 20.0 1513576155
 
@@ -23270,7 +23601,7 @@
 
 .end
 
-.PageNo 6 23 '22-02-2025 01:23:36' 4 10000 1 0 0 1 4 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 6 24 '25-02-2025 09:08:48' 4 10000 1 0 0 1 4 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Parts list ' 0
 .Born 2 0 20.0 1513576155
 
@@ -23339,14 +23670,14 @@
 .SLink 5 6 10 0 0
 .SField 1 6 0
 .SField VUVG-S10-B52-ZT-M7-1T1L 7 0
-.SLink 7 18 6 0 0
+.SLink 7 19 0 0 0
 .SField '5/2, bistable' 8 0
-.SLink 8 18 6 0 0
+.SLink 8 19 0 0 0
 .SField Festo 9 0
-.SLink 9 18 6 0 0
+.SLink 9 19 0 0 0
 .SField "" 10 0
 .SField C:\PCAutomationEDU\Database\pcsPictures\VUVG-S10-B52-ZT-M7-1T1L.jpg 11 0
-.SLink 11 18 6 0 0
+.SLink 11 19 0 0 0
 .SField 1 12 0
 .SField V60A513A-A3 13 0
 .SLink 13 9 15 0 0
@@ -23358,25 +23689,25 @@
 .SField C:\PCAutomationEDU\Database\pcsPictures\V60A513A-A3.jpg 17 0
 .SLink 17 9 15 0 0
 .SField 1 18 0
-.SField 170007505 19 0
-.SLink 19 10 0 0 0
+.SField 170007504 19 0
+.SLink 19 10 15 0 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 20 0
-.SLink 20 10 0 0 0
+.SLink 20 10 15 0 0
 .SField 'Scankab Cables' 21 0
-.SLink 21 10 0 0 0
+.SLink 21 10 15 0 0
 .SField "" 22 0
-.SField 'C:\PCAutomationEDU\Database\pcsPictures\Scankab Cables-170007505.jpg' 23 0
-.SLink 23 10 0 0 0
+.SField 'C:\PCAutomationEDU\Database\pcsPictures\Scankab Cables-170007504.jpg' 23 0
+.SLink 23 10 15 0 0
 .SField - 24 0
 .SField 170007507 25 0
-.SLink 25 12 31 0 0
+.SLink 25 11 22 0 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 26 0
-.SLink 26 12 31 0 0
+.SLink 26 11 22 0 0
 .SField 'Scankab Cables' 27 0
-.SLink 27 12 31 0 0
+.SLink 27 11 22 0 0
 .SField "" 28 0
 .SField 'C:\PCAutomationEDU\Database\pcsPictures\Scankab Cables-170007507.jpg' 29 0
-.SLink 29 12 31 0 0
+.SLink 29 11 22 0 0
 .SField - 30 0
 .SField 170007507OZ 31 0
 .SLink 31 13 14 0 0
@@ -23399,25 +23730,25 @@
 .SLink 41 5 7 0 0
 .SField - 42 0
 .SField LC1D09BL 43 0
-.SLink 43 11 5 0 0
+.SLink 43 19 5 0 0
 .SField LC1D09BL 44 0
-.SLink 44 11 5 0 0
+.SLink 44 19 5 0 0
 .SField 'Schneider electric' 45 0
-.SLink 45 11 5 0 0
+.SLink 45 19 5 0 0
 .SField "" 46 0
 .SField 'C:\PCAutomationEDU\Database\pcsPictures\Schneider electric-LC1D09BL.jpg' 47 0
-.SLink 47 11 5 0 0
-.SField 13 48 0
+.SLink 47 19 5 0 0
+.SField 9 48 0
 .SField LRD05 49 0
-.SLink 49 10 17 0 0
+.SLink 49 10 13 0 0
 .SField LRD05 50 0
-.SLink 50 10 17 0 0
+.SLink 50 10 13 0 0
 .SField 'Schneider electric' 51 0
-.SLink 51 10 17 0 0
+.SLink 51 10 13 0 0
 .SField "" 52 0
 .SField 'C:\PCAutomationEDU\Database\pcsPictures\Schneider electric-LRD05.jpg' 53 0
-.SLink 53 10 17 0 0
-.SField 6 54 0
+.SLink 53 10 13 0 0
+.SField 5 54 0
 .SField XALK178G 55 0
 .SLink 55 8 3 0 0
 .SField XALK178G 56 0
@@ -23459,21 +23790,21 @@
 .SLink 77 13 10 0 0
 .SField 1 78 0
 .SField 1058237 79 0
-.SLink 79 14 6 0 0
+.SLink 79 14 4 0 0
 .SField WTB4SL-3P2261 80 0
-.SLink 80 14 6 0 0
+.SLink 80 14 4 0 0
 .SField SICK 81 0
-.SLink 81 14 6 0 0
+.SLink 81 14 4 0 0
 .SField "" 82 0
 .SField C:\PCAutomationEDU\Database\pcsPictures\SICK-1058237.png 83 0
-.SLink 83 14 6 0 0
-.SField 4 84 0
+.SLink 83 14 4 0 0
+.SField 5 84 0
 .end
 
 
 .end
 
-.PageNo 7 24 '22-02-2025 01:23:36' 4 10000 1 0 0 1 4 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 7 25 '25-02-2025 09:08:48' 4 10000 1 0 0 1 4 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Parts list ' 0
 .Born 2 2 24.0 1513576450
 
@@ -23531,14 +23862,14 @@
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 3 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 3 0 0 0 0 0 0 0 0
 .SField 2095618 1 0
-.SLink 1 14 0 0 0
+.SLink 1 14 24 0 0
 .SField YF2A15-050UB5XLEAX 2 0
-.SLink 2 14 0 0 0
+.SLink 2 14 24 0 0
 .SField SICK 3 0
-.SLink 3 14 0 0 0
+.SLink 3 14 24 0 0
 .SField "" 4 0
 .SField C:\PCAutomationEDU\Database\pcsPictures\SICK-2095618.png 5 0
-.SLink 5 14 0 0 0
+.SLink 5 14 24 0 0
 .SField - 6 0
 .SField 3LD2003-1TL53 7 0
 .SLink 7 5 8 0 0
@@ -23571,96 +23902,108 @@
 .SLink 23 5 10 0 0
 .SField 1 24 0
 .SField 6ES7214-1HG40-0XB0 25 0
-.SLink 25 15 3 0 0
+.SLink 25 16 3 0 0
 .SField 6ES7214-1HG40-0XB0 26 0
-.SLink 26 15 3 0 0
+.SLink 26 16 3 0 0
 .SField Siemens 27 0
-.SLink 27 15 3 0 0
+.SLink 27 16 3 0 0
 .SField "" 28 0
 .SField C:\PCAutomationEDU\Database\pcsPictures\Siemens-6ES7214-1HG40-0XB0.jpg 29 0
-.SLink 29 15 3 0 0
+.SLink 29 16 3 0 0
 .SField 1 30 0
-.SField 1010200000 31 0
-.SField 'WPE 6' 32 0
-.SField Weidmüller 33 0
+.SField D-M9B 31 0
+.SLink 31 15 5 0 0
+.SField 'SMC D-M9B 24V 2Wire' 32 0
+.SLink 32 15 5 0 0
+.SField SMC 33 0
+.SLink 33 15 5 0 0
 .SField "" 34 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1010200000.jpg 35 0
-.SField 9 36 0
-.SField 1011060000 37 0
-.SLink 37 6 4 0 0
-.SField 'WSI 6' 38 0
-.SLink 38 6 4 0 0
-.SField Weidmüller 39 0
-.SLink 39 6 4 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\SMC-D-M9NW-30106445-01.jpg 35 0
+.SLink 35 15 5 0 0
+.SField 2 36 0
+.SField D-M9P 37 0
+.SLink 37 15 3 0 0
+.SField 'SMC D-M9P 24V PNP 3Wire' 38 0
+.SLink 38 15 3 0 0
+.SField SMC 39 0
+.SLink 39 15 3 0 0
 .SField "" 40 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1011060000.jpg 41 0
-.SLink 41 6 4 0 0
-.SField 1 42 0
-.SField 1020200000 43 0
-.SLink 43 18 7 0 0
-.SField 'WDU 6' 44 0
-.SLink 44 18 7 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\SMC-D-M9NW-30106445-01.jpg 41 0
+.SLink 41 15 3 0 0
+.SField 2 42 0
+.SField 1010200000 43 0
+.SLink 43 5 9 0 0
+.SField 'WPE 6' 44 0
+.SLink 44 5 9 0 0
 .SField Weidmüller 45 0
-.SLink 45 18 7 0 0
+.SLink 45 5 9 0 0
 .SField "" 46 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1020200000.jpg 47 0
-.SLink 47 18 7 0 0
-.SField 90 48 0
-.SField 1020280000 49 0
-.SLink 49 5 11 0 0
-.SField 'WDU 6' 50 0
-.SLink 50 5 11 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1010200000.jpg 47 0
+.SLink 47 5 9 0 0
+.SField 8 48 0
+.SField 1011060000 49 0
+.SLink 49 6 4 0 0
+.SField 'WSI 6' 50 0
+.SLink 50 6 4 0 0
 .SField Weidmüller 51 0
-.SLink 51 5 11 0 0
+.SLink 51 6 4 0 0
 .SField "" 52 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1020280000.jpg 53 0
-.SLink 53 5 11 0 0
-.SField 7 54 0
-.SField 1319280000 55 0
-.SLink 55 7 7 0 0
-.SField 'SCS 24VDC P2SIL3ES' 56 0
-.SLink 56 7 7 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1011060000.jpg 53 0
+.SLink 53 6 4 0 0
+.SField 1 54 0
+.SField 1020200000 55 0
+.SLink 55 5 6 0 0
+.SField 'WDU 6' 56 0
+.SLink 56 5 6 0 0
 .SField Weidmüller 57 0
-.SLink 57 7 7 0 0
+.SLink 57 5 6 0 0
 .SField "" 58 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\P2SIL3ES.png 59 0
-.SLink 59 7 7 0 0
-.SField 1 60 0
-.SField 1469470000 61 0
-.SLink 61 6 3 0 0
-.SField 'PRO ECO 72W 24V 3A' 62 0
-.SLink 62 6 3 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1020200000.jpg 59 0
+.SLink 59 5 6 0 0
+.SField 90 60 0
+.SField 1020280000 61 0
+.SLink 61 5 11 0 0
+.SField 'WDU 6' 62 0
+.SLink 62 5 11 0 0
 .SField Weidmüller 63 0
-.SLink 63 6 3 0 0
-.SField 'Power supply, switch-mode power supply unit, 24 V' 64 0
-.SLink 64 6 3 0 0
-.SField C:\PCAutomationEDU\Database\pcsPictures\1469470000.jpg 65 0
-.SLink 65 6 3 0 0
-.SField 1 66 0
-.SField "" 67 0
-.SField "" 68 0
-.SField "" 69 0
+.SLink 63 5 11 0 0
+.SField "" 64 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\Weidmüller-1020280000.jpg 65 0
+.SLink 65 5 11 0 0
+.SField 7 66 0
+.SField 1319280000 67 0
+.SLink 67 7 7 0 0
+.SField 'SCS 24VDC P2SIL3ES' 68 0
+.SLink 68 7 7 0 0
+.SField Weidmüller 69 0
+.SLink 69 7 7 0 0
 .SField "" 70 0
-.SField "" 71 0
-.SField 4 72 0
-.SField "" 73 0
-.SField "" 74 0
-.SField "" 75 0
-.SField "" 76 0
-.SField "" 77 0
-.SField "" 78 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\P2SIL3ES.png 71 0
+.SLink 71 7 7 0 0
+.SField 1 72 0
+.SField 1469470000 73 0
+.SLink 73 6 3 0 0
+.SField 'PRO ECO 72W 24V 3A' 74 0
+.SLink 74 6 3 0 0
+.SField Weidmüller 75 0
+.SLink 75 6 3 0 0
+.SField 'Power supply, switch-mode power supply unit, 24 V' 76 0
+.SLink 76 6 3 0 0
+.SField C:\PCAutomationEDU\Database\pcsPictures\1469470000.jpg 77 0
+.SLink 77 6 3 0 0
+.SField 1 78 0
 .SField "" 79 0
 .SField "" 80 0
 .SField "" 81 0
 .SField "" 82 0
 .SField "" 83 0
-.SField "" 84 0
+.SField 3 84 0
 .end
 
 
 .end
 
-.PageNo 7 25 '22-02-2025 01:23:38' 4 10000 1 0 0 1 4 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 7 26 '25-02-2025 09:08:48' 4 10000 1 0 0 1 4 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Parts list' 0
 .Born 2 0 20.0 1513576155
 
@@ -23728,43 +24071,43 @@
 .SLink 5 6 10 0 0
 .SField "" 6 0
 .SField '5/2, bistable' 7 0
-.SLink 7 18 6 0 0
+.SLink 7 19 0 0 0
 .SField "" 8 0
 .SField 'Spring Valve' 9 0
 .SLink 9 9 15 0 0
 .SField "" 10 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 11 0
-.SLink 11 10 0 0 0
+.SLink 11 10 15 0 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 12 0
-.SLink 12 12 31 0 0
+.SLink 12 11 22 0 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 13 0
 .SLink 13 13 14 0 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 14 0
 .SLink 14 5 7 0 0
 .SField "" 15 0
 .SField LC1D09BL 16 0
-.SLink 16 11 5 0 0
+.SLink 16 19 5 0 0
 .SField LRD05 17 0
-.SLink 17 10 17 0 0
+.SLink 17 10 13 0 0
 .SField VUVG-S10-B52-ZT-M7-1T1L 18 0
-.SLink 18 18 6 0 0
+.SLink 18 19 0 0 0
 .SField "" 19 0
 .SField V60A513A-A3 20 0
 .SLink 20 9 15 0 0
 .SField "" 21 0
-.SField 170007505 22 0
-.SLink 22 10 0 0 0
+.SField 170007504 22 0
+.SLink 22 10 15 0 0
 .SField 170007507 23 0
-.SLink 23 12 31 0 0
+.SLink 23 11 22 0 0
 .SField 170007507OZ 24 0
 .SLink 24 13 14 0 0
 .SField 170025005 25 0
 .SLink 25 5 7 0 0
 .SField "" 26 0
 .SField LC1D09BL 27 0
-.SLink 27 11 5 0 0
+.SLink 27 19 5 0 0
 .SField LRD05 28 0
-.SLink 28 10 17 0 0
+.SLink 28 10 13 0 0
 .SField 1 29 0
 .SField "" 30 0
 .SField 1 31 0
@@ -23774,30 +24117,30 @@
 .SField - 35 0
 .SField - 36 0
 .SField "" 37 0
-.SField 13 38 0
-.SField 6 39 0
+.SField 9 38 0
+.SField 5 39 0
 .SField ABB 40 0
 .SLink 40 6 10 0 0
 .SField "" 41 0
 .SField Festo 42 0
-.SLink 42 18 6 0 0
+.SLink 42 19 0 0 0
 .SField "" 43 0
 .SField Norgren 44 0
 .SLink 44 9 15 0 0
 .SField "" 45 0
 .SField 'Scankab Cables' 46 0
-.SLink 46 10 0 0 0
+.SLink 46 10 15 0 0
 .SField -- 47 0
-.SLink 47 12 31 0 0
+.SLink 47 11 22 0 0
 .SField -- 48 0
 .SLink 48 13 14 0 0
 .SField -- 49 0
 .SLink 49 5 7 0 0
 .SField "" 50 0
 .SField 'Schneider electric' 51 0
-.SLink 51 11 5 0 0
+.SLink 51 19 5 0 0
 .SField -- 52 0
-.SLink 52 10 17 0 0
+.SLink 52 10 13 0 0
 .SField XALK178G 53 0
 .SLink 53 8 3 0 0
 .SField XB4BA42 54 0
@@ -23808,7 +24151,7 @@
 .SLink 56 13 10 0 0
 .SField "" 57 0
 .SField WTB4SL-3P2261 58 0
-.SLink 58 14 6 0 0
+.SLink 58 14 4 0 0
 .SField XALK178G 59 0
 .SLink 59 8 3 0 0
 .SField XB4BA42 60 0
@@ -23819,13 +24162,13 @@
 .SLink 62 13 10 0 0
 .SField "" 63 0
 .SField 1058237 64 0
-.SLink 64 14 6 0 0
+.SLink 64 14 4 0 0
 .SField 1 65 0
 .SField 1 66 0
 .SField 1 67 0
 .SField 1 68 0
 .SField "" 69 0
-.SField 4 70 0
+.SField 5 70 0
 .SField -- 71 0
 .SLink 71 8 3 0 0
 .SField -- 72 0
@@ -23836,9 +24179,9 @@
 .SLink 74 13 10 0 0
 .SField "" 75 0
 .SField SICK 76 0
-.SLink 76 14 6 0 0
+.SLink 76 14 4 0 0
 .SField YF2A15-050UB5XLEAX 77 0
-.SLink 77 14 0 0 0
+.SLink 77 14 24 0 0
 .SField "" 78 0
 .SField 3LD2003-1TL53 79 0
 .SLink 79 5 8 0 0
@@ -23847,9 +24190,9 @@
 .SField 5SL6610-7 81 0
 .SLink 81 5 10 0 0
 .SField 6ES7214-1HG40-0XB0 82 0
-.SLink 82 15 3 0 0
+.SLink 82 16 3 0 0
 .SField 2095618 83 0
-.SLink 83 14 0 0 0
+.SLink 83 14 24 0 0
 .SField "" 84 0
 .SField 3LD2003-1TL53 85 0
 .SLink 85 5 8 0 0
@@ -23858,7 +24201,7 @@
 .SField 5SL6610-7 87 0
 .SLink 87 5 10 0 0
 .SField 6ES7214-1HG40-0XB0 88 0
-.SLink 88 15 3 0 0
+.SLink 88 16 3 0 0
 .SField - 89 0
 .SField "" 90 0
 .SField 1 91 0
@@ -23866,7 +24209,7 @@
 .SField 1 93 0
 .SField 1 94 0
 .SField -- 95 0
-.SLink 95 14 0 0 0
+.SLink 95 14 24 0 0
 .SField "" 96 0
 .SField Siemens 97 0
 .SLink 97 5 8 0 0
@@ -23875,52 +24218,59 @@
 .SField -- 99 0
 .SLink 99 5 10 0 0
 .SField -- 100 0
-.SLink 100 15 3 0 0
+.SLink 100 16 3 0 0
 .SField "" 101 0
 .SField "" 102 0
 .SField "" 103 0
 .SField "" 104 0
-.SField 'WPE 6' 105 0
-.SField 1010200000 106 0
-.SField 9 107 0
-.SField Weidmüller 108 0
-.SField 'WSI 6' 109 0
-.SLink 109 6 4 0 0
-.SField 1011060000 110 0
-.SLink 110 6 4 0 0
-.SField 1 111 0
+.SField 'SMC D-M9B 24V 2Wire' 105 0
+.SLink 105 15 5 0 0
+.SField D-M9B 106 0
+.SLink 106 15 5 0 0
+.SField 2 107 0
+.SField SMC 108 0
+.SLink 108 15 5 0 0
+.SField 'SMC D-M9P 24V PNP 3Wire' 109 0
+.SLink 109 15 3 0 0
+.SField D-M9P 110 0
+.SLink 110 15 3 0 0
+.SField 2 111 0
 .SField -- 112 0
-.SLink 112 6 4 0 0
-.SField 1020200000 113 0
-.SLink 113 18 7 0 0
-.SField 90 114 0
-.SField 1020280000 115 0
-.SLink 115 5 11 0 0
-.SField 7 116 0
-.SField 'WDU 6' 117 0
-.SLink 117 18 7 0 0
-.SField 'WDU 6' 118 0
-.SLink 118 5 11 0 0
-.SField 'SCS 24VDC P2SIL3ES' 119 0
-.SLink 119 7 7 0 0
-.SField 'PRO ECO 72W 24V 3A' 120 0
-.SLink 120 6 3 0 0
-.SField "" 121 0
-.SField "" 122 0
-.SField "" 123 0
+.SLink 112 15 3 0 0
+.SField "" 113 0
+.SField "" 114 0
+.SField 1010200000 115 0
+.SLink 115 5 9 0 0
+.SField 8 116 0
+.SField "" 117 0
+.SField 'WPE 6' 118 0
+.SLink 118 5 9 0 0
+.SField 'WSI 6' 119 0
+.SLink 119 6 4 0 0
+.SField 'WDU 6' 120 0
+.SLink 120 5 6 0 0
+.SField 'WDU 6' 121 0
+.SLink 121 5 11 0 0
+.SField 'SCS 24VDC P2SIL3ES' 122 0
+.SLink 122 7 7 0 0
+.SField 'PRO ECO 72W 24V 3A' 123 0
+.SLink 123 6 3 0 0
 .SField "" 124 0
 .SField "" 125 0
 .SField "" 126 0
 .SField "" 127 0
 .SField "" 128 0
 .SField "" 129 0
-.SField 1319280000 130 0
-.SLink 130 7 7 0 0
-.SField 1469470000 131 0
-.SLink 131 6 3 0 0
-.SField "" 132 0
-.SField "" 133 0
-.SField "" 134 0
+.SField 1011060000 130 0
+.SLink 130 6 4 0 0
+.SField 1020200000 131 0
+.SLink 131 5 6 0 0
+.SField 1020280000 132 0
+.SLink 132 5 11 0 0
+.SField 1319280000 133 0
+.SLink 133 7 7 0 0
+.SField 1469470000 134 0
+.SLink 134 6 3 0 0
 .SField "" 135 0
 .SField "" 136 0
 .SField "" 137 0
@@ -23928,27 +24278,29 @@
 .SField "" 139 0
 .SField "" 140 0
 .SField 1 141 0
-.SField 1 142 0
-.SField "" 143 0
-.SField 4 144 0
-.SField "" 145 0
+.SField 90 142 0
+.SField 7 143 0
+.SField 1 144 0
+.SField 1 145 0
 .SField "" 146 0
-.SField "" 147 0
+.SField 3 147 0
 .SField "" 148 0
 .SField "" 149 0
 .SField "" 150 0
 .SField "" 151 0
-.SField -- 152 0
-.SLink 152 18 7 0 0
-.SField -- 153 0
-.SLink 153 5 11 0 0
+.SField "" 152 0
+.SField Weidmüller 153 0
+.SLink 153 5 9 0 0
 .SField -- 154 0
-.SLink 154 7 7 0 0
+.SLink 154 6 4 0 0
 .SField -- 155 0
-.SLink 155 6 3 0 0
-.SField "" 156 0
-.SField "" 157 0
-.SField "" 158 0
+.SLink 155 5 6 0 0
+.SField -- 156 0
+.SLink 156 5 11 0 0
+.SField -- 157 0
+.SLink 157 7 7 0 0
+.SField -- 158 0
+.SLink 158 6 3 0 0
 .SField "" 159 0
 .SField "" 160 0
 .SField "" 161 0
@@ -24020,15 +24372,15 @@
 
 .end
 
-.PageNo 8 26 '26-01-2025 15:35:02' 4 10000 1 0 0 1 6 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 8 27 '25-02-2025 09:08:50' 4 10000 1 0 0 1 6 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Components list' 0
 .Born 2 0 20.0 1513576155
 
 
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
-.AppData LastItem=-WDB6
-.AppData FirstItem=-FCA2
+.AppData LastItem=-QAC14
+.AppData FirstItem=-FC2
 .AppData [MechLoad]
 .AppData DBField=
 .AppData [ListSetup]
@@ -24082,7 +24434,7 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -FCA2 1 0
+.SField -FC2 1 0
 .SLink 1 6 10 0 0
 .SField ABB 2 0
 .SLink 2 6 10 0 0
@@ -24091,81 +24443,89 @@
 .SField 2CDS251103R0064 5 0
 .SLink 5 6 10 0 0
 .SField "" 6 0
-.SField 170025005 7 0
-.SLink 7 5 7 0 0
-.SField -- 8 0
-.SLink 8 8 0 0 0
-.SField -- 9 0
-.SLink 9 8 14 0 0
-.SField 170007507OZ 10 0
-.SLink 10 13 14 0 0
-.SField 170007505 11 0
-.SLink 11 10 0 0 0
-.SField "" 12 0
-.SField LRD05 13 0
-.SLink 13 10 16 0 0
-.SField -- 14 0
-.SLink 14 10 17 0 0
-.SField RUMC32BD 15 0
-.SField -- 16 0
+.SField VUVG-S10-B52-ZT-M7-1T1L 7 0
+.SLink 7 19 0 0 0
+.SField "" 8 0
+.SField V60A513A-A3 9 0
+.SLink 9 9 15 0 0
+.SField "" 10 0
+.SField 170025005 11 0
+.SLink 11 5 7 0 0
+.SField -- 12 0
+.SLink 12 8 17 0 0
+.SField -- 13 0
+.SLink 13 8 14 0 0
+.SField 170007507OZ 14 0
+.SLink 14 13 14 0 0
+.SField 170007504 15 0
+.SLink 15 10 15 0 0
+.SField 170007507 16 0
+.SLink 16 11 22 0 0
 .SField -- 17 0
-.SField -WDB1 18 0
-.SLink 18 5 7 0 0
-.SField -WDB2 19 0
-.SLink 19 8 0 0 0
-.SField -WDB3 20 0
-.SLink 20 8 14 0 0
-.SField -WDB4 21 0
-.SLink 21 13 14 0 0
-.SField -WDB10 22 0
-.SLink 22 10 0 0 0
-.SField "" 23 0
-.SField -FCC1 24 0
-.SLink 24 10 16 0 0
-.SField -FCC2 25 0
-.SLink 25 10 17 0 0
-.SField -KFA1 26 0
-.SField -KFA2 27 0
-.SField -KFA3 28 0
-.SField 'Scankab Cables' 29 0
-.SLink 29 5 7 0 0
-.SField -- 30 0
-.SLink 30 8 0 0 0
-.SField -- 31 0
-.SLink 31 8 14 0 0
-.SField -- 32 0
-.SLink 32 13 14 0 0
-.SField -- 33 0
-.SLink 33 10 0 0 0
-.SField "" 34 0
-.SField 'Schneider electric' 35 0
-.SLink 35 10 16 0 0
+.SLink 17 12 31 0 0
+.SField -QN1 18 0
+.SLink 18 19 0 0 0
+.SField "" 19 0
+.SField -QNB1 20 0
+.SLink 20 9 15 0 0
+.SField "" 21 0
+.SField -WDB1 22 0
+.SLink 22 5 7 0 0
+.SField -WDB2 23 0
+.SLink 23 8 17 0 0
+.SField -WDB3 24 0
+.SLink 24 8 14 0 0
+.SField -WDB4 25 0
+.SLink 25 13 14 0 0
+.SField -WDB10 26 0
+.SLink 26 10 15 0 0
+.SField -WDB12 27 0
+.SLink 27 11 22 0 0
+.SField -WDB19 28 0
+.SLink 28 12 31 0 0
+.SField Festo 29 0
+.SLink 29 19 0 0 0
+.SField "" 30 0
+.SField Norgren 31 0
+.SLink 31 9 15 0 0
+.SField "" 32 0
+.SField 'Scankab Cables' 33 0
+.SLink 33 5 7 0 0
+.SField -- 34 0
+.SLink 34 8 17 0 0
+.SField -- 35 0
+.SLink 35 8 14 0 0
 .SField -- 36 0
-.SLink 36 10 17 0 0
+.SLink 36 13 14 0 0
 .SField -- 37 0
+.SLink 37 10 15 0 0
 .SField -- 38 0
+.SLink 38 11 22 0 0
 .SField -- 39 0
+.SLink 39 12 31 0 0
 .SField 'S201-C6 NA' 40 0
 .SLink 40 6 10 0 0
 .SField "" 41 0
-.SField 'SCANFLEX H 2001 - 300/500 V' 42 0
-.SLink 42 5 7 0 0
-.SField -- 43 0
-.SLink 43 8 0 0 0
-.SField -- 44 0
-.SLink 44 8 14 0 0
-.SField -- 45 0
-.SLink 45 13 14 0 0
-.SField -- 46 0
-.SLink 46 10 0 0 0
-.SField "" 47 0
-.SField LRD05 48 0
-.SLink 48 10 16 0 0
+.SField '5/2, bistable' 42 0
+.SLink 42 19 0 0 0
+.SField "" 43 0
+.SField 'Spring Valve' 44 0
+.SLink 44 9 15 0 0
+.SField "" 45 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 46 0
+.SLink 46 5 7 0 0
+.SField -- 47 0
+.SLink 47 8 17 0 0
+.SField -- 48 0
+.SLink 48 8 14 0 0
 .SField -- 49 0
-.SLink 49 10 17 0 0
-.SField RUMC32BD 50 0
+.SLink 49 13 14 0 0
+.SField -- 50 0
+.SLink 50 10 15 0 0
 .SField -- 51 0
+.SLink 51 11 22 0 0
 .SField -- 52 0
+.SLink 52 12 31 0 0
 .SField "" 53 0
 .SField "" 54 0
 .SField "" 55 0
@@ -24182,154 +24542,186 @@
 .SField /PowerSupplyACtoDC.4 66 0
 .SLink 66 6 10 0 0
 .SField "" 67 0
-.SField /PowerIN.4 68 0
-.SLink 68 5 7 0 0
-.SField /SafetyStop.3 69 0
-.SLink 69 8 0 0 0
-.SField /SafetyStop.5 70 0
-.SLink 70 8 14 0 0
-.SField /ButtonBox.4 71 0
-.SLink 71 13 14 0 0
-.SField /MotorMAA1.5 72 0
-.SLink 72 10 0 0 0
-.SField "" 73 0
-.SField /MotorMAA1.4 74 0
-.SLink 74 10 16 0 0
-.SField /MotorMAA1.5 75 0
-.SLink 75 10 17 0 0
-.SField /StartStop.5 76 0
-.SField /SensorRelay.2 77 0
-.SField /SensorRelay.4 78 0
-.SField -- 79 0
-.SField LC1D09BL 80 0
-.SLink 80 7 9 0 0
+.SField /PLCPower3.4 68 0
+.SLink 68 19 0 0 0
+.SField "" 69 0
+.SField /SafetyPower.6 70 0
+.SLink 70 9 15 0 0
+.SField "" 71 0
+.SField /PowerIN.4 72 0
+.SLink 72 5 7 0 0
+.SField /SafetyStop.3 73 0
+.SLink 73 8 17 0 0
+.SField /SafetyStop.5 74 0
+.SLink 74 8 14 0 0
+.SField /ButtonBox.4 75 0
+.SLink 75 13 14 0 0
+.SField /MotorMAA1.5 76 0
+.SLink 76 10 15 0 0
+.SField /MotorMAA2.4 77 0
+.SLink 77 11 22 0 0
+.SField /MotorMAA3.4 78 0
+.SLink 78 12 31 0 0
+.SField "" 79 0
+.SField LRD05 80 0
+.SLink 80 10 13 0 0
 .SField -- 81 0
-.SLink 81 7 8 0 0
+.SLink 81 10 14 0 0
 .SField -- 82 0
-.SLink 82 10 4 0 0
+.SLink 82 11 4 0 0
 .SField -- 83 0
-.SLink 83 10 5 0 0
-.SField XALK178G 84 0
-.SLink 84 8 3 0 0
-.SField -KFA4 85 0
-.SField -QAC1 86 0
-.SLink 86 7 9 0 0
-.SField -QAC2 87 0
-.SLink 87 7 8 0 0
-.SField -QAC3 88 0
-.SLink 88 10 4 0 0
-.SField -QAC4 89 0
-.SLink 89 10 5 0 0
-.SField -SGC1 90 0
-.SLink 90 8 3 0 0
-.SField -- 91 0
-.SField -- 92 0
-.SLink 92 7 9 0 0
+.SLink 83 12 5 0 0
+.SField -- 84 0
+.SLink 84 12 6 0 0
+.SField "" 85 0
+.SField -FC3 86 0
+.SLink 86 10 13 0 0
+.SField -FC4 87 0
+.SLink 87 10 14 0 0
+.SField -FC7 88 0
+.SLink 88 11 4 0 0
+.SField -FCC1 89 0
+.SLink 89 12 5 0 0
+.SField -FCC2 90 0
+.SLink 90 12 6 0 0
+.SField "" 91 0
+.SField 'Schneider electric' 92 0
+.SLink 92 10 13 0 0
 .SField -- 93 0
-.SLink 93 7 8 0 0
+.SLink 93 10 14 0 0
 .SField -- 94 0
-.SLink 94 10 4 0 0
+.SLink 94 11 4 0 0
 .SField -- 95 0
-.SLink 95 10 5 0 0
+.SLink 95 12 5 0 0
 .SField -- 96 0
-.SLink 96 8 3 0 0
-.SField -- 97 0
-.SField LC1D09BL 98 0
-.SLink 98 7 9 0 0
+.SLink 96 12 6 0 0
+.SField "" 97 0
+.SField LRD05 98 0
+.SLink 98 10 13 0 0
 .SField -- 99 0
-.SLink 99 7 8 0 0
+.SLink 99 10 14 0 0
 .SField -- 100 0
-.SLink 100 10 4 0 0
+.SLink 100 11 4 0 0
 .SField -- 101 0
-.SLink 101 10 5 0 0
-.SField XALK178G 102 0
-.SLink 102 8 3 0 0
+.SLink 101 12 5 0 0
+.SField -- 102 0
+.SLink 102 12 6 0 0
 .SField "" 103 0
 .SField "" 104 0
 .SField "" 105 0
 .SField "" 106 0
 .SField "" 107 0
 .SField "" 108 0
-.SField /SensorRelay.6 109 0
-.SField /SafetyRelay.3 110 0
-.SLink 110 7 9 0 0
-.SField /SafetyRelay.4 111 0
-.SLink 111 7 8 0 0
-.SField /MotorMAA1.4 112 0
-.SLink 112 10 4 0 0
-.SField /MotorMAA1.5 113 0
-.SLink 113 10 5 0 0
-.SField /SafetyStop.4 114 0
-.SLink 114 8 3 0 0
-.SField XB4BW36B5 115 0
-.SLink 115 13 3 0 0
-.SField XB5AA3351 116 0
-.SLink 116 13 10 0 0
-.SField XB4BA42 117 0
-.SLink 117 13 15 0 0
-.SField "" 118 0
-.SField 1058237 119 0
+.SField "" 109 0
+.SField /MotorMAA1.4 110 0
+.SLink 110 10 13 0 0
+.SField /MotorMAA1.5 111 0
+.SLink 111 10 14 0 0
+.SField /MotorMAA2.4 112 0
+.SLink 112 11 4 0 0
+.SField /MotorMAA3.5 113 0
+.SLink 113 12 5 0 0
+.SField /MotorMAA3.6 114 0
+.SLink 114 12 6 0 0
+.SField LC1D09BL 115 0
+.SLink 115 19 5 0 0
+.SField -- 116 0
+.SLink 116 10 5 0 0
+.SField -- 117 0
+.SLink 117 7 9 0 0
+.SField -- 118 0
+.SLink 118 7 8 0 0
+.SField -- 119 0
+.SLink 119 11 3 0 0
 .SField -- 120 0
-.SField -SJB1 121 0
-.SLink 121 13 3 0 0
-.SField -SJB2 122 0
-.SLink 122 13 10 0 0
-.SField -SJB3 123 0
-.SLink 123 13 15 0 0
-.SField "" 124 0
-.SField -BGG1 125 0
-.SField -BGG2 126 0
+.SLink 120 11 5 0 0
+.SField -QA3 121 0
+.SLink 121 19 5 0 0
+.SField -QA4 122 0
+.SLink 122 10 5 0 0
+.SField -QAC1 123 0
+.SLink 123 7 9 0 0
+.SField -QAC2 124 0
+.SLink 124 7 8 0 0
+.SField -QAC8 125 0
+.SLink 125 11 3 0 0
+.SField -QAC9 126 0
+.SLink 126 11 5 0 0
 .SField -- 127 0
-.SLink 127 13 3 0 0
+.SLink 127 19 5 0 0
 .SField -- 128 0
-.SLink 128 13 10 0 0
+.SLink 128 10 5 0 0
 .SField -- 129 0
-.SLink 129 13 15 0 0
-.SField "" 130 0
-.SField SICK 131 0
+.SLink 129 7 9 0 0
+.SField -- 130 0
+.SLink 130 7 8 0 0
+.SField -- 131 0
+.SLink 131 11 3 0 0
 .SField -- 132 0
-.SField XB4BW36B5 133 0
-.SLink 133 13 3 0 0
-.SField XB5AA3351 134 0
-.SLink 134 13 10 0 0
-.SField XB4BA42 135 0
-.SLink 135 13 15 0 0
-.SField "" 136 0
-.SField WTB4SL-3P2261 137 0
+.SLink 132 11 5 0 0
+.SField LC1D09BL 133 0
+.SLink 133 19 5 0 0
+.SField -- 134 0
+.SLink 134 10 5 0 0
+.SField -- 135 0
+.SLink 135 7 9 0 0
+.SField -- 136 0
+.SLink 136 7 8 0 0
+.SField -- 137 0
+.SLink 137 11 3 0 0
 .SField -- 138 0
+.SLink 138 11 5 0 0
 .SField "" 139 0
 .SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
 .SField "" 144 0
-.SField /ButtonBox.4 145 0
-.SLink 145 13 3 0 0
-.SField /ButtonBox.5 146 0
-.SLink 146 13 10 0 0
-.SField /ButtonBox.6 147 0
-.SLink 147 13 15 0 0
-.SField "" 148 0
-.SField /Sensors.3 149 0
-.SField /Sensors.5 150 0
+.SField /PLCPower3.2 145 0
+.SLink 145 19 5 0 0
+.SField /MotorMAA1.5 146 0
+.SLink 146 10 5 0 0
+.SField /SafetyRelay.3 147 0
+.SLink 147 7 9 0 0
+.SField /SafetyRelay.4 148 0
+.SLink 148 7 8 0 0
+.SField /MotorMAA2.4 149 0
+.SLink 149 11 3 0 0
+.SField /MotorMAA2.5 150 0
+.SLink 150 11 5 0 0
 .SField -- 151 0
-.SField -BGG3 152 0
+.SLink 151 11 6 0 0
+.SField -QAC10 152 0
+.SLink 152 11 6 0 0
 .SField -- 153 0
+.SLink 153 11 6 0 0
 .SField -- 154 0
+.SLink 154 11 6 0 0
 .SField "" 155 0
-.SField /Sensors.6 156 0
-.SField 2095618 157 0
-.SField -WDB5 158 0
+.SField /MotorMAA2.6 156 0
+.SLink 156 11 6 0 0
+.SField -- 157 0
+.SLink 157 12 7 0 0
+.SField -QAC12 158 0
+.SLink 158 12 7 0 0
 .SField -- 159 0
-.SField YF2A15-050UB5XLEAX 160 0
+.SLink 159 12 7 0 0
+.SField -- 160 0
+.SLink 160 12 7 0 0
 .SField "" 161 0
-.SField /Sensors.3 162 0
+.SField /MotorMAA3.6 162 0
+.SLink 162 12 7 0 0
 .SField -- 163 0
-.SField -WDB6 164 0
+.SLink 163 12 8 0 0
+.SField -QAC14 164 0
+.SLink 164 12 8 0 0
 .SField -- 165 0
+.SLink 165 12 8 0 0
 .SField -- 166 0
+.SLink 166 12 8 0 0
 .SField "" 167 0
-.SField /Sensors.4 168 0
+.SField /MotorMAA3.7 168 0
+.SLink 168 12 8 0 0
 .SField "" 169 0
 .SField "" 170 0
 .SField "" 171 0
@@ -24363,15 +24755,15 @@
 
 .end
 
-.PageNo 9 27 '26-01-2025 15:35:02' 4 10000 1 0 0 1 6 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 9 28 '25-02-2025 09:08:50' 4 10000 1 0 0 1 6 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Components list' 0
 .Born 2 2 24.0 1513576450
 
 
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
-.AppData LastItem=-XDC69
-.AppData FirstItem=-WDB7
+.AppData LastItem=-KF1
+.AppData FirstItem=-SGC1
 .AppData [MechLoad]
 .AppData DBField=
 .AppData [ListSetup]
@@ -24420,98 +24812,106 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -WDB7 1 0
-.SField SICK 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField 2095618 5 0
-.SField "" 6 0
-.SField 5SL6610-7 7 0
-.SLink 7 5 10 0 0
-.SField 3LD2003-1TL53 8 0
-.SLink 8 5 8 0 0
-.SField 3SE7150-1BH00 9 0
-.SLink 9 8 4 0 0
-.SField "" 10 0
-.SField 1011060000 11 0
-.SLink 11 6 4 0 0
-.SField 1319280000 12 0
-.SLink 12 7 7 0 0
-.SField 1469470000 13 0
-.SLink 13 6 3 0 0
-.SField 1010200000 14 0
-.SLink 14 5 9 0 0
-.SField 1020200000 15 0
-.SLink 15 5 6 0 0
-.SField 1020280000 16 0
-.SLink 16 5 11 0 0
-.SField 1010200000 17 0
-.SLink 17 10 9 0 0
-.SField -FCA1 18 0
-.SLink 18 5 10 0 0
-.SField -SGA1 19 0
-.SLink 19 5 8 0 0
-.SField -SGC2 20 0
-.SLink 20 8 4 0 0
-.SField "" 21 0
-.SField -FCA3 22 0
-.SLink 22 6 4 0 0
-.SField -KF1 23 0
-.SLink 23 7 7 0 0
-.SField -TBA1 24 0
-.SLink 24 6 3 0 0
-.SField -X1 25 0
-.SLink 25 5 9 0 0
-.SField "" 26 0
-.SLink 26 5 6 0 0
-.SField "" 27 0
-.SLink 27 5 11 0 0
-.SField -X2 28 0
-.SLink 28 10 9 0 0
-.SField Siemens 29 0
-.SLink 29 5 10 0 0
+.SField -SGC1 1 0
+.SLink 1 8 3 0 0
+.SField 'Schneider electric' 2 0
+.SLink 2 8 3 0 0
+.SField -SJB1 3 0
+.SLink 3 13 3 0 0
+.SField -- 4 0
+.SLink 4 13 3 0 0
+.SField XALK178G 5 0
+.SLink 5 8 3 0 0
+.SField XB4BW36B5 6 0
+.SLink 6 13 3 0 0
+.SField XB5AA3351 7 0
+.SLink 7 13 10 0 0
+.SField XB4BA42 8 0
+.SLink 8 13 15 0 0
+.SField "" 9 0
+.SField 1058237 10 0
+.SLink 10 14 4 0 0
+.SField -- 11 0
+.SLink 11 14 5 0 0
+.SField -- 12 0
+.SLink 12 14 6 0 0
+.SField -- 13 0
+.SLink 13 14 19 0 0
+.SField -- 14 0
+.SLink 14 14 27 0 0
+.SField 2095618 15 0
+.SLink 15 14 24 0 0
+.SField -- 16 0
+.SLink 16 14 25 0 0
+.SField -- 17 0
+.SLink 17 14 26 0 0
+.SField -SJB2 18 0
+.SLink 18 13 10 0 0
+.SField -SJB3 19 0
+.SLink 19 13 15 0 0
+.SField "" 20 0
+.SField -BGG1 21 0
+.SLink 21 14 4 0 0
+.SField -BGG2 22 0
+.SLink 22 14 5 0 0
+.SField -BGG3 23 0
+.SLink 23 14 6 0 0
+.SField -BGG4 24 0
+.SLink 24 14 19 0 0
+.SField -BGG5 25 0
+.SLink 25 14 27 0 0
+.SField -WDB5 26 0
+.SLink 26 14 24 0 0
+.SField -WDB6 27 0
+.SLink 27 14 25 0 0
+.SField -WDB7 28 0
+.SLink 28 14 26 0 0
+.SField -- 29 0
+.SLink 29 13 10 0 0
 .SField -- 30 0
-.SLink 30 5 8 0 0
-.SField -- 31 0
-.SLink 31 8 4 0 0
-.SField "" 32 0
-.SField Weidmüller 33 0
-.SLink 33 6 4 0 0
+.SLink 30 13 15 0 0
+.SField "" 31 0
+.SField SICK 32 0
+.SLink 32 14 4 0 0
+.SField -- 33 0
+.SLink 33 14 5 0 0
 .SField -- 34 0
-.SLink 34 7 7 0 0
+.SLink 34 14 6 0 0
 .SField -- 35 0
-.SLink 35 6 3 0 0
+.SLink 35 14 19 0 0
 .SField -- 36 0
-.SLink 36 5 9 0 0
+.SLink 36 14 27 0 0
 .SField -- 37 0
-.SLink 37 5 6 0 0
+.SLink 37 14 24 0 0
 .SField -- 38 0
-.SLink 38 5 11 0 0
+.SLink 38 14 25 0 0
 .SField -- 39 0
-.SLink 39 10 9 0 0
-.SField YF2A15-050UB5XLEAX 40 0
-.SField "" 41 0
-.SField 5SL6610-7 42 0
-.SLink 42 5 10 0 0
-.SField 3LD2003-1TL53 43 0
-.SLink 43 5 8 0 0
-.SField 3SE7150-1BH00 44 0
-.SLink 44 8 4 0 0
-.SField "" 45 0
-.SField 'WSI 6' 46 0
-.SLink 46 6 4 0 0
-.SField 'SCS 24VDC P2SIL3ES' 47 0
-.SLink 47 7 7 0 0
-.SField 'PRO ECO 72W 24V 3A' 48 0
-.SLink 48 6 3 0 0
-.SField 'WPE 6' 49 0
-.SLink 49 5 9 0 0
-.SField 'WDU 6' 50 0
-.SLink 50 5 6 0 0
+.SLink 39 14 26 0 0
+.SField XALK178G 40 0
+.SLink 40 8 3 0 0
+.SField XB4BW36B5 41 0
+.SLink 41 13 3 0 0
+.SField XB5AA3351 42 0
+.SLink 42 13 10 0 0
+.SField XB4BA42 43 0
+.SLink 43 13 15 0 0
+.SField "" 44 0
+.SField WTB4SL-3P2261 45 0
+.SLink 45 14 4 0 0
+.SField -- 46 0
+.SLink 46 14 5 0 0
+.SField -- 47 0
+.SLink 47 14 6 0 0
+.SField -- 48 0
+.SLink 48 14 19 0 0
+.SField -- 49 0
+.SLink 49 14 27 0 0
+.SField YF2A15-050UB5XLEAX 50 0
+.SLink 50 14 24 0 0
 .SField -- 51 0
-.SLink 51 5 11 0 0
-.SField 'WPE 6' 52 0
-.SLink 52 10 9 0 0
+.SLink 51 14 25 0 0
+.SField -- 52 0
+.SLink 52 14 26 0 0
 .SField "" 53 0
 .SField "" 54 0
 .SField "" 55 0
@@ -24520,160 +24920,186 @@
 .SField "" 58 0
 .SField "" 59 0
 .SField "" 60 0
-.SField 'Power supply, switch-mode power supply unit, 24 V' 61 0
-.SLink 61 6 3 0 0
+.SField "" 61 0
 .SField "" 62 0
 .SField "" 63 0
 .SField "" 64 0
 .SField "" 65 0
-.SField /Sensors.6 66 0
-.SField "" 67 0
-.SField /PowerIN.4 68 0
-.SLink 68 5 10 0 0
-.SField /PowerIN.4 69 0
-.SLink 69 5 8 0 0
-.SField /SafetyStop.5 70 0
-.SLink 70 8 4 0 0
-.SField "" 71 0
-.SField /PowerSupplyACtoDC.4 72 0
-.SLink 72 6 4 0 0
-.SField /SafetyRelay.5 73 0
-.SLink 73 7 7 0 0
-.SField /PowerSupplyACtoDC.5 74 0
-.SLink 74 6 3 0 0
-.SField /PowerIN.4 75 0
-.SLink 75 5 9 0 0
-.SField /PowerIN.4 76 0
-.SLink 76 5 6 0 0
-.SField /PowerIN.4 77 0
-.SLink 77 5 11 0 0
-.SField /MotorMAA1.5 78 0
-.SLink 78 10 9 0 0
-.SField 1020200000 79 0
-.SLink 79 10 8 0 0
+.SField /SafetyStop.4 66 0
+.SLink 66 8 3 0 0
+.SField /ButtonBox.4 67 0
+.SLink 67 13 3 0 0
+.SField /ButtonBox.5 68 0
+.SLink 68 13 10 0 0
+.SField /ButtonBox.6 69 0
+.SLink 69 13 15 0 0
+.SField "" 70 0
+.SField '/Photo Sensors.1' 71 0
+.SLink 71 14 4 0 0
+.SField '/Photo Sensors.3' 72 0
+.SLink 72 14 5 0 0
+.SField '/Photo Sensors.4' 73 0
+.SLink 73 14 6 0 0
+.SField '/Photo Sensors.6' 74 0
+.SLink 74 14 19 0 0
+.SField '/Photo Sensors.8' 75 0
+.SLink 75 14 27 0 0
+.SField '/Photo Sensors.1' 76 0
+.SLink 76 14 24 0 0
+.SField '/Photo Sensors.3' 77 0
+.SLink 77 14 25 0 0
+.SField '/Photo Sensors.4' 78 0
+.SLink 78 14 26 0 0
+.SField -- 79 0
+.SLink 79 14 32 0 0
 .SField -- 80 0
-.SField -- 81 0
-.SLink 81 8 5 0 0
-.SField -- 82 0
-.SField 1010200000 83 0
-.SLink 83 6 9 0 0
-.SField 1020200000 84 0
-.SLink 84 9 13 0 0
-.SField "" 85 0
-.SLink 85 10 8 0 0
-.SField -X4 86 0
-.SField -X5.:5 87 0
-.SLink 87 8 5 0 0
-.SField -X8 88 0
-.SField -XDC1 89 0
-.SLink 89 6 9 0 0
-.SField "" 90 0
-.SLink 90 9 13 0 0
+.SLink 80 14 33 0 0
+.SField "" 81 0
+.SField 5SL6610-7 82 0
+.SLink 82 5 10 0 0
+.SField 6ES7214-1HG40-0XB0 83 0
+.SLink 83 16 3 0 0
+.SField 3LD2003-1TL53 84 0
+.SLink 84 5 8 0 0
+.SField -WDB8 85 0
+.SLink 85 14 32 0 0
+.SField -WDB9 86 0
+.SLink 86 14 33 0 0
+.SField "" 87 0
+.SField -FC1 88 0
+.SLink 88 5 10 0 0
+.SField -KEA1 89 0
+.SLink 89 16 3 0 0
+.SField -SGA1 90 0
+.SLink 90 5 8 0 0
 .SField -- 91 0
-.SLink 91 10 8 0 0
+.SLink 91 14 32 0 0
 .SField -- 92 0
-.SField -- 93 0
-.SLink 93 8 5 0 0
-.SField -- 94 0
+.SLink 92 14 33 0 0
+.SField "" 93 0
+.SField Siemens 94 0
+.SLink 94 5 10 0 0
 .SField -- 95 0
-.SLink 95 6 9 0 0
+.SLink 95 16 3 0 0
 .SField -- 96 0
-.SLink 96 9 13 0 0
-.SField 'WDU 6' 97 0
-.SLink 97 10 8 0 0
+.SLink 96 5 8 0 0
+.SField -- 97 0
+.SLink 97 14 32 0 0
 .SField -- 98 0
-.SField -- 99 0
-.SLink 99 8 5 0 0
-.SField -- 100 0
-.SField 'WPE 6' 101 0
-.SLink 101 6 9 0 0
-.SField 'WDU 6' 102 0
-.SLink 102 9 13 0 0
+.SLink 98 14 33 0 0
+.SField "" 99 0
+.SField 5SL6610-7 100 0
+.SLink 100 5 10 0 0
+.SField 6ES7214-1HG40-0XB0 101 0
+.SLink 101 16 3 0 0
+.SField 3LD2003-1TL53 102 0
+.SLink 102 5 8 0 0
 .SField "" 103 0
 .SField "" 104 0
 .SField "" 105 0
 .SField "" 106 0
 .SField "" 107 0
 .SField "" 108 0
-.SField /MotorMAA1.5 109 0
-.SLink 109 10 8 0 0
-.SField /StartStop.6 110 0
-.SField /SafetyStop.5 111 0
-.SLink 111 8 5 0 0
-.SField /SensorRelay.6 112 0
-.SField /PowerSupplyACtoDC.4 113 0
-.SLink 113 6 9 0 0
-.SField /SafetyPower.4 114 0
-.SLink 114 9 13 0 0
-.SField 1020280000 115 0
-.SLink 115 6 7 0 0
-.SField 1020200000 116 0
-.SLink 116 9 14 0 0
-.SField -- 117 0
-.SField 1020280000 118 0
-.SField 1020200000 119 0
+.SField '/Photo Sensors.6' 109 0
+.SLink 109 14 32 0 0
+.SField '/Photo Sensors.8' 110 0
+.SLink 110 14 33 0 0
+.SField "" 111 0
+.SField /PowerIN.4 112 0
+.SLink 112 5 10 0 0
+.SField /PLCPower.2 113 0
+.SLink 113 16 3 0 0
+.SField /PowerIN.4 114 0
+.SLink 114 5 8 0 0
+.SField 3SE7150-1BH00 115 0
+.SLink 115 8 4 0 0
+.SField "" 116 0
+.SField D-M9P 117 0
+.SLink 117 15 3 0 0
+.SField -- 118 0
+.SLink 118 15 4 0 0
+.SField D-M9B 119 0
+.SLink 119 15 5 0 0
 .SField -- 120 0
-.SField "" 121 0
-.SLink 121 6 7 0 0
-.SField -XDC3 122 0
-.SLink 122 9 14 0 0
-.SField -XDC4 123 0
-.SField "" 124 0
-.SField -XDC5 125 0
-.SField -XDC6 126 0
+.SLink 120 15 6 0 0
+.SField -SGC2 121 0
+.SLink 121 8 4 0 0
+.SField "" 122 0
+.SField -BED1 123 0
+.SLink 123 15 3 0 0
+.SField -BED2 124 0
+.SLink 124 15 4 0 0
+.SField -BED3 125 0
+.SLink 125 15 5 0 0
+.SField -BED4 126 0
+.SLink 126 15 6 0 0
 .SField -- 127 0
-.SLink 127 6 7 0 0
-.SField -- 128 0
-.SLink 128 9 14 0 0
-.SField -- 129 0
+.SLink 127 8 4 0 0
+.SField "" 128 0
+.SField SMC 129 0
+.SLink 129 15 3 0 0
 .SField -- 130 0
+.SLink 130 15 4 0 0
 .SField -- 131 0
+.SLink 131 15 5 0 0
 .SField -- 132 0
-.SField -- 133 0
-.SLink 133 6 7 0 0
-.SField -- 134 0
-.SLink 134 9 14 0 0
-.SField -- 135 0
+.SLink 132 15 6 0 0
+.SField 3SE7150-1BH00 133 0
+.SLink 133 8 4 0 0
+.SField "" 134 0
+.SField 'SMC D-M9P 24V PNP 3Wire' 135 0
+.SLink 135 15 3 0 0
 .SField -- 136 0
-.SField -- 137 0
+.SLink 136 15 4 0 0
+.SField 'SMC D-M9B 24V 2Wire' 137 0
+.SLink 137 15 5 0 0
 .SField -- 138 0
+.SLink 138 15 6 0 0
 .SField "" 139 0
 .SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
 .SField "" 144 0
-.SField /PowerSupplyACtoDC.4 145 0
-.SLink 145 6 7 0 0
-.SField /SafetyPower.6 146 0
-.SLink 146 9 14 0 0
-.SField /SensorRelay.4 147 0
-.SField /Sensors.4 148 0
-.SField /StartStop.7 149 0
-.SField /StartStop.7 150 0
-.SField -- 151 0
-.SLink 151 10 12 0 0
-.SField -XDC8 152 0
-.SLink 152 10 12 0 0
-.SField -- 153 0
-.SLink 153 10 12 0 0
-.SField -- 154 0
-.SLink 154 10 12 0 0
+.SField /SafetyStop.5 145 0
+.SLink 145 8 4 0 0
+.SField "" 146 0
+.SField '/Reed Sensors.3' 147 0
+.SLink 147 15 3 0 0
+.SField '/Reed Sensors.4' 148 0
+.SLink 148 15 4 0 0
+.SField '/Reed Sensors.5' 149 0
+.SLink 149 15 5 0 0
+.SField '/Reed Sensors.7' 150 0
+.SLink 150 15 6 0 0
+.SField "" 151 0
+.SField "" 152 0
+.SField "" 153 0
+.SField "" 154 0
 .SField "" 155 0
-.SField /MotorMAA1.5 156 0
-.SLink 156 10 12 0 0
-.SField -- 157 0
-.SField -XDC69 158 0
-.SField -- 159 0
-.SField -- 160 0
+.SField "" 156 0
+.SField 1011060000 157 0
+.SLink 157 6 4 0 0
+.SField -FC6 158 0
+.SLink 158 6 4 0 0
+.SField Weidmüller 159 0
+.SLink 159 6 4 0 0
+.SField 'WSI 6' 160 0
+.SLink 160 6 4 0 0
 .SField "" 161 0
-.SField /SensorRelay.4 162 0
-.SField "" 163 0
-.SField "" 164 0
-.SField "" 165 0
-.SField "" 166 0
+.SField /PowerSupplyACtoDC.4 162 0
+.SLink 162 6 4 0 0
+.SField 1319280000 163 0
+.SLink 163 7 7 0 0
+.SField -KF1 164 0
+.SLink 164 7 7 0 0
+.SField -- 165 0
+.SLink 165 7 7 0 0
+.SField 'SCS 24VDC P2SIL3ES' 166 0
+.SLink 166 7 7 0 0
 .SField "" 167 0
-.SField "" 168 0
+.SField /SafetyRelay.5 168 0
+.SLink 168 7 7 0 0
 .SField "" 169 0
 .SField "" 170 0
 .SField "" 171 0
@@ -24707,15 +25133,15 @@
 
 .end
 
-.PageNo 10 28 '26-01-2025 15:35:02' 4 10000 1 0 0 1 6 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 10 29 '25-02-2025 09:08:50' 4 10000 1 0 0 1 6 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Components list' 0
 .Born 2 2 24.0 1513782369
 
 
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
-.AppData LastItem=-XDD1
-.AppData FirstItem=-MAA1
+.AppData LastItem=-MAA1
+.AppData FirstItem=-TBA1
 .AppData [MechLoad]
 .AppData DBField=
 .AppData [ListSetup]
@@ -24764,8 +25190,389 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -MAA1 1 0
-.SLink 1 10 3 0 0
+.SField -TBA1 1 0
+.SLink 1 6 3 0 0
+.SField Weidmüller 2 0
+.SLink 2 6 3 0 0
+.SField -X1 3 0
+.SLink 3 5 9 0 0
+.SField -- 4 0
+.SLink 4 5 9 0 0
+.SField 1469470000 5 0
+.SLink 5 6 3 0 0
+.SField 1010200000 6 0
+.SLink 6 5 9 0 0
+.SField 1020200000 7 0
+.SLink 7 5 6 0 0
+.SField 1020280000 8 0
+.SLink 8 5 11 0 0
+.SField 1010200000 9 0
+.SLink 9 10 9 0 0
+.SField 1020200000 10 0
+.SLink 10 10 8 0 0
+.SField 1010200000 11 0
+.SLink 11 12 12 0 0
+.SField 1020200000 12 0
+.SLink 12 8 5 0 0
+.SField 1010200000 13 0
+.SLink 13 9 17 0 0
+.SField 1020200000 14 0
+.SLink 14 9 19 0 0
+.SField 1010200000 15 0
+.SLink 15 11 12 0 0
+.SField 1020200000 16 0
+.SLink 16 11 21 0 0
+.SField 1010200000 17 0
+.SLink 17 6 9 0 0
+.SField "" 18 0
+.SLink 18 5 6 0 0
+.SField "" 19 0
+.SLink 19 5 11 0 0
+.SField -X2 20 0
+.SLink 20 10 9 0 0
+.SField "" 21 0
+.SLink 21 10 8 0 0
+.SField -X5 22 0
+.SLink 22 12 12 0 0
+.SField -X5.:5 23 0
+.SLink 23 8 5 0 0
+.SField -X12 24 0
+.SLink 24 9 17 0 0
+.SField "" 25 0
+.SLink 25 9 19 0 0
+.SField -X43 26 0
+.SLink 26 11 12 0 0
+.SField "" 27 0
+.SLink 27 11 21 0 0
+.SField -XD1 28 0
+.SLink 28 6 9 0 0
+.SField -- 29 0
+.SLink 29 5 6 0 0
+.SField -- 30 0
+.SLink 30 5 11 0 0
+.SField -- 31 0
+.SLink 31 10 9 0 0
+.SField -- 32 0
+.SLink 32 10 8 0 0
+.SField -- 33 0
+.SLink 33 12 12 0 0
+.SField -- 34 0
+.SLink 34 8 5 0 0
+.SField -- 35 0
+.SLink 35 9 17 0 0
+.SField -- 36 0
+.SLink 36 9 19 0 0
+.SField -- 37 0
+.SLink 37 11 12 0 0
+.SField -- 38 0
+.SLink 38 11 21 0 0
+.SField -- 39 0
+.SLink 39 6 9 0 0
+.SField 'PRO ECO 72W 24V 3A' 40 0
+.SLink 40 6 3 0 0
+.SField 'WPE 6' 41 0
+.SLink 41 5 9 0 0
+.SField 'WDU 6' 42 0
+.SLink 42 5 6 0 0
+.SField -- 43 0
+.SLink 43 5 11 0 0
+.SField 'WPE 6' 44 0
+.SLink 44 10 9 0 0
+.SField 'WDU 6' 45 0
+.SLink 45 10 8 0 0
+.SField 'WPE 6' 46 0
+.SLink 46 12 12 0 0
+.SField 'WDU 6' 47 0
+.SLink 47 8 5 0 0
+.SField 'WPE 6' 48 0
+.SLink 48 9 17 0 0
+.SField 'WDU 6' 49 0
+.SLink 49 9 19 0 0
+.SField 'WPE 6' 50 0
+.SLink 50 11 12 0 0
+.SField 'WDU 6' 51 0
+.SLink 51 11 21 0 0
+.SField 'WPE 6' 52 0
+.SLink 52 6 9 0 0
+.SField 'Power supply, switch-mode power supply unit, 24 V' 53 0
+.SLink 53 6 3 0 0
+.SField "" 54 0
+.SField "" 55 0
+.SField "" 56 0
+.SField "" 57 0
+.SField "" 58 0
+.SField "" 59 0
+.SField "" 60 0
+.SField "" 61 0
+.SField "" 62 0
+.SField "" 63 0
+.SField "" 64 0
+.SField "" 65 0
+.SField /PowerSupplyACtoDC.5 66 0
+.SLink 66 6 3 0 0
+.SField /PowerIN.4 67 0
+.SLink 67 5 9 0 0
+.SField /PowerIN.4 68 0
+.SLink 68 5 6 0 0
+.SField /PowerIN.4 69 0
+.SLink 69 5 11 0 0
+.SField /MotorMAA1.5 70 0
+.SLink 70 10 9 0 0
+.SField /MotorMAA1.5 71 0
+.SLink 71 10 8 0 0
+.SField /MotorMAA3.5 72 0
+.SLink 72 12 12 0 0
+.SField /SafetyStop.5 73 0
+.SLink 73 8 5 0 0
+.SField /SafetyPower.8 74 0
+.SLink 74 9 17 0 0
+.SField /SafetyPower.8 75 0
+.SLink 75 9 19 0 0
+.SField /MotorMAA2.4 76 0
+.SLink 76 11 12 0 0
+.SField /MotorMAA2.5 77 0
+.SLink 77 11 21 0 0
+.SField /PowerSupplyACtoDC.4 78 0
+.SLink 78 6 9 0 0
+.SField 1020200000 79 0
+.SLink 79 9 13 0 0
+.SField 1020280000 80 0
+.SLink 80 6 7 0 0
+.SField 1020200000 81 0
+.SLink 81 11 15 0 0
+.SField -- 82 0
+.SField 1010200000 83 0
+.SLink 83 16 6 0 0
+.SField 1020200000 84 0
+.SLink 84 16 5 0 0
+.SField "" 85 0
+.SLink 85 9 13 0 0
+.SField "" 86 0
+.SLink 86 6 7 0 0
+.SField -XD2 87 0
+.SLink 87 11 15 0 0
+.SField -XD8 88 0
+.SField -XDC 89 0
+.SLink 89 16 6 0 0
+.SField -XDC3 90 0
+.SLink 90 16 5 0 0
+.SField -- 91 0
+.SLink 91 9 13 0 0
+.SField -- 92 0
+.SLink 92 6 7 0 0
+.SField -- 93 0
+.SLink 93 11 15 0 0
+.SField -- 94 0
+.SField -- 95 0
+.SLink 95 16 6 0 0
+.SField -- 96 0
+.SLink 96 16 5 0 0
+.SField 'WDU 6' 97 0
+.SLink 97 9 13 0 0
+.SField -- 98 0
+.SLink 98 6 7 0 0
+.SField -- 99 0
+.SLink 99 11 15 0 0
+.SField -- 100 0
+.SField 'WPE 6' 101 0
+.SLink 101 16 6 0 0
+.SField 'WDU 6' 102 0
+.SLink 102 16 5 0 0
+.SField "" 103 0
+.SField "" 104 0
+.SField "" 105 0
+.SField "" 106 0
+.SField "" 107 0
+.SField "" 108 0
+.SField /SafetyPower.2 109 0
+.SLink 109 9 13 0 0
+.SField /PowerSupplyACtoDC.4 110 0
+.SLink 110 6 7 0 0
+.SField /MotorMAA2.4 111 0
+.SLink 111 11 15 0 0
+.SField /PLCPower2.2 112 0
+.SField /PLCPower.2 113 0
+.SLink 113 16 6 0 0
+.SField /PLCPower.1 114 0
+.SLink 114 16 5 0 0
+.SField -- 115 0
+.SLink 115 19 6 0 0
+.SField 1020280000 116 0
+.SLink 116 14 17 0 0
+.SField 1020200000 117 0
+.SField -- 118 0
+.SLink 118 10 12 0 0
+.SField 1010200000 119 0
+.SLink 119 6 11 0 0
+.SField 1020200000 120 0
+.SLink 120 7 15 0 0
+.SField -XDC4 121 0
+.SLink 121 19 6 0 0
+.SField "" 122 0
+.SLink 122 14 17 0 0
+.SField -XDC5 123 0
+.SField -XDC8 124 0
+.SLink 124 10 12 0 0
+.SField -XDC121 125 0
+.SLink 125 6 11 0 0
+.SField XDC4 126 0
+.SLink 126 7 15 0 0
+.SField -- 127 0
+.SLink 127 19 6 0 0
+.SField -- 128 0
+.SLink 128 14 17 0 0
+.SField -- 129 0
+.SField -- 130 0
+.SLink 130 10 12 0 0
+.SField -- 131 0
+.SLink 131 6 11 0 0
+.SField -- 132 0
+.SLink 132 7 15 0 0
+.SField -- 133 0
+.SLink 133 19 6 0 0
+.SField -- 134 0
+.SLink 134 14 17 0 0
+.SField -- 135 0
+.SField -- 136 0
+.SLink 136 10 12 0 0
+.SField 'WPE 6' 137 0
+.SLink 137 6 11 0 0
+.SField 'WDU 6' 138 0
+.SLink 138 7 15 0 0
+.SField "" 139 0
+.SField "" 140 0
+.SField "" 141 0
+.SField "" 142 0
+.SField "" 143 0
+.SField "" 144 0
+.SField /PLCPower3.4 145 0
+.SLink 145 19 6 0 0
+.SField '/Photo Sensors.3' 146 0
+.SLink 146 14 17 0 0
+.SField /PLCPower2.4 147 0
+.SField /MotorMAA1.5 148 0
+.SLink 148 10 12 0 0
+.SField /PowerSupplyACtoDC.5 149 0
+.SLink 149 6 11 0 0
+.SField /SafetyRelay.4 150 0
+.SLink 150 7 15 0 0
+.SField 1020280000 151 0
+.SLink 151 14 7 0 0
+.SField "" 152 0
+.SLink 152 14 7 0 0
+.SField -- 153 0
+.SLink 153 14 7 0 0
+.SField -- 154 0
+.SLink 154 14 7 0 0
+.SField "" 155 0
+.SField '/Photo Sensors.1' 156 0
+.SLink 156 14 7 0 0
+.SField "" 157 0
+.SField "" 158 0
+.SField "" 159 0
+.SField "" 160 0
+.SField "" 161 0
+.SField "" 162 0
+.SField "" 163 0
+.SField -MAA1 164 0
+.SLink 164 10 3 0 0
+.SField "" 165 0
+.SField "" 166 0
+.SField "" 167 0
+.SField /MotorMAA1.5 168 0
+.SLink 168 10 3 0 0
+.SField "" 169 0
+.SField "" 170 0
+.SField "" 171 0
+.SField "" 172 0
+.SField "" 173 0
+.SField "" 174 0
+.SField "" 175 0
+.SField "" 176 0
+.SField "" 177 0
+.SField "" 178 0
+.SField "" 179 0
+.SField "" 180 0
+.SField "" 181 0
+.SField "" 182 0
+.SField "" 183 0
+.SField "" 184 0
+.SField "" 185 0
+.SField "" 186 0
+.SField "" 187 0
+.SField "" 188 0
+.SField "" 189 0
+.SField "" 190 0
+.SField "" 191 0
+.SField "" 192 0
+.SField "" 193 0
+.SField "" 194 0
+.SField "" 195 0
+.SField "" 196 0
+.end
+
+
+.end
+
+.PageNo 11 30 '25-02-2025 09:08:50' 4 10000 1 0 0 1 6 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title 'Components list' 0
+.Born 2 2 24.0 1515800857
+
+
+.AppData [PageTitle]
+.AppData 'Format2=%s %s..%s'
+.AppData LastItem=-XDD1
+.AppData FirstItem=-MAA3
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [ListSetup]
+.AppData CableAddOnLength=0
+.AppData [DataTemplates]
+
+
+.Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.Pagehead2 pcsComponents1.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 2 0 0 0 0 -1 0 0
+.Name "" 38750 20000 0 0 0 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.SField -MAA3 1 0
+.SLink 1 11 8 0 0
 .SField "" 2 0
 .SField -XDD1 3 0
 .SLink 3 5 3 0 0
@@ -24831,8 +25638,8 @@
 .SField "" 63 0
 .SField "" 64 0
 .SField "" 65 0
-.SField /MotorMAA1.5 66 0
-.SLink 66 10 3 0 0
+.SField /MotorMAA2.4 66 0
+.SLink 66 11 8 0 0
 .SField /PowerIN.4 67 0
 .SLink 67 5 3 0 0
 .SField "" 68 0
@@ -24969,7 +25776,7 @@
 
 .end
 
-.PageNo 9 29 '26-01-2025 15:35:02' 4 10000 1 0 0 1 7 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 9 31 '25-02-2025 09:08:50' 4 10000 1 0 0 1 7 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Terminal list - External connections' 0
 .Born 2 0 20.0 1513576155
 
@@ -24980,7 +25787,7 @@
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
 .AppData FirstItem=-X1:1
-.AppData LastItem=-XDC1:2
+.AppData LastItem=-XD1:1
 
 
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
@@ -25061,81 +25868,95 @@
 .SField -XDD1:1 18 0
 .SLink 18 5 3 1 0
 .SField "" 19 0
-.SField -FCC2:2 20 0
-.SLink 20 10 17 2 0
-.SField -FCC1:2 21 0
-.SLink 21 10 16 2 0
-.SField -FCC2:4 22 0
-.SLink 22 10 17 4 0
-.SField -FCC1:4 23 0
-.SLink 23 10 16 4 0
-.SField -FCC2:6 24 0
-.SLink 24 10 17 6 0
-.SField -FCC1:6 25 0
-.SLink 25 10 16 6 0
+.SField -FC4:2 20 0
+.SLink 20 10 14 2 0
+.SField -FC3:2 21 0
+.SLink 21 10 13 2 0
+.SField -FC4:4 22 0
+.SLink 22 10 14 4 0
+.SField -FC3:4 23 0
+.SLink 23 10 13 4 0
+.SField -FC4:6 24 0
+.SLink 24 10 14 6 0
+.SField -FC3:6 25 0
+.SLink 25 10 13 6 0
 .SField "" 26 0
 .SField "" 27 0
-.SField -X4:3 28 0
-.SLink 28 7 16 1 0
-.SField -X4:4 29 0
-.SLink 29 7 17 1 0
-.SField -X4:5 30 0
-.SField -X4:6 31 0
-.SField -X4:1 32 0
-.SLink 32 7 19 1 0
+.SField -X5:1 28 0
+.SLink 28 14 8 1 0
+.SField -X5:7 29 0
+.SLink 29 7 4 1 0
+.SField -X5:3 30 0
+.SLink 30 7 5 1 0
+.SField -X5:4 31 0
+.SLink 31 14 11 1 0
+.SField -X5:8 32 0
+.SLink 32 7 6 1 0
 .SField "" 33 0
-.SField "" 34 0
+.SField -BGG1:1 34 0
+.SLink 34 14 4 1 0
 .SField "" 35 0
 .SField "" 36 0
-.SField "" 37 0
+.SField -BGG2:1 37 0
+.SLink 37 14 5 1 0
 .SField "" 38 0
-.SField -X4:5 39 0
-.SLink 39 13 11 1 0
-.SField -X4:6 40 0
-.SLink 40 13 12 1 0
-.SField -X4:2 41 0
-.SLink 41 13 5 1 0
-.SField -X4:7 42 0
-.SLink 42 13 13 1 0
-.SField -X4:1 43 0
-.SLink 43 13 6 1 0
-.SField -X4:3 44 0
-.SLink 44 13 7 1 0
-.SField "" 45 0
-.SField -SJB2:14 46 0
-.SLink 46 13 10 2 0
-.SField -SJB1:X2 47 0
-.SLink 47 13 4 2 0
-.SField -SJB3:22 48 0
-.SLink 48 13 15 2 0
-.SField "" 49 0
+.SField -X5:5 39 0
+.SLink 39 8 5 1 0
+.SField -X5:6 40 0
+.SLink 40 8 6 1 0
+.SField -X5:1 41 0
+.SLink 41 8 7 1 0
+.SField -X5:7 42 0
+.SLink 42 14 14 1 0
+.SField -X5:10 43 0
+.SLink 43 14 21 1 0
+.SField -X5:3 44 0
+.SLink 44 8 8 1 0
+.SField -SGC2:21 45 0
+.SLink 45 8 4 1 0
+.SField -SGC2:31 46 0
+.SLink 46 8 13 1 0
+.SField "" 47 0
+.SField -BGG3:1 48 0
+.SLink 48 14 6 1 0
+.SField -BGG4:1 49 0
+.SLink 49 14 19 1 0
 .SField "" 50 0
-.SField -X4:4 51 0
-.SLink 51 13 8 1 0
-.SField -SJB1:14 52 0
-.SLink 52 13 3 4 0
-.SField -X4:7 53 0
-.SField "" 54 0
-.SField "" 55 0
-.SField "" 56 0
-.SField "" 57 0
-.SField "" 58 0
-.SField -WDB4:4 59 0
-.SLink 59 13 14 6 0
+.SField -X5:2 51 0
+.SLink 51 8 9 1 0
+.SField -SGC1:12 52 0
+.SLink 52 8 3 2 0
+.SField -X5:4 53 0
+.SLink 53 8 10 1 0
+.SField -SGC1:22 54 0
+.SLink 54 8 3 4 0
+.SField -X5:13 55 0
+.SLink 55 14 28 1 0
+.SField -BGG5:1 56 0
+.SLink 56 14 27 1 0
+.SField -WDB9:1 57 0
+.SLink 57 14 33 1 0
+.SField -WDB2:4 58 0
+.SLink 58 8 17 4 0
+.SField -WDB2:3 59 0
+.SLink 59 8 17 3 0
 .SField "" 60 0
-.SField "" 61 0
-.SField -WDB4:7 62 0
-.SLink 62 13 14 4 0
-.SField -WDB4:2 63 0
-.SLink 63 13 14 7 0
-.SField -WDB4:6 64 0
-.SLink 64 13 14 5 0
-.SField "" 65 0
+.SField -WDB8:1 61 0
+.SLink 61 14 32 1 0
+.SField -WDB7:1 62 0
+.SLink 62 14 26 1 0
+.SField "" 63 0
+.SField -WDB3:2 64 0
+.SLink 64 8 14 2 0
+.SField -WDB3:1 65 0
+.SLink 65 8 14 1 0
 .SField "" 66 0
-.SField "" 67 0
+.SField -WDB6:1 67 0
+.SLink 67 14 25 1 0
 .SField "" 68 0
 .SField "" 69 0
-.SField "" 70 0
+.SField -WDB5:1 70 0
+.SLink 70 14 24 1 0
 .SField "" 71 0
 .SField "" 72 0
 .SField "" 73 0
@@ -25185,77 +26006,99 @@
 .SField "" 112 0
 .SField "" 113 0
 .SField "" 114 0
-.SField -X5:1 115 0
-.SLink 115 7 3 1 0
-.SField -X5:7 116 0
-.SLink 116 7 4 1 0
-.SField -X5:3 117 0
-.SLink 117 7 5 1 0
-.SField -X5:8 118 0
-.SLink 118 7 6 1 0
-.SField -X5:5 119 0
-.SLink 119 8 5 1 0
-.SField -X5:6 120 0
-.SLink 120 8 6 1 0
-.SField -X5:1 121 0
-.SLink 121 8 7 1 0
-.SField -X5:3 122 0
-.SLink 122 8 8 1 0
-.SField -X5:2 123 0
-.SLink 123 8 9 1 0
-.SField -X5:4 124 0
-.SLink 124 8 10 1 0
-.SField -X5:7 125 0
-.SLink 125 8 11 1 0
-.SField -X5:8 126 0
-.SLink 126 8 12 1 0
-.SField "" 127 0
+.SField -X5:7 115 0
+.SLink 115 8 11 1 0
+.SField -X5:8 116 0
+.SLink 116 8 12 1 0
+.SField -X5:1 117 0
+.SLink 117 12 12 1 0
+.SField -X5:3 118 0
+.SLink 118 12 25 1 0
+.SField -X5:2 119 0
+.SLink 119 12 26 1 0
+.SField -X5:1 120 0
+.SLink 120 12 27 1 0
+.SField -X5:4 121 0
+.SLink 121 12 28 1 0
+.SField -X5:5 122 0
+.SLink 122 12 29 1 0
+.SField -X5:6 123 0
+.SLink 123 12 30 1 0
+.SField "" 124 0
+.SField -X12:PE 125 0
+.SLink 125 9 17 1 0
+.SField -X12:1 126 0
+.SLink 126 9 18 1 0
+.SField -X12:2 127 0
+.SLink 127 9 19 1 0
 .SField "" 128 0
-.SField "" 129 0
-.SField -SGC2:21 130 0
-.SLink 130 8 4 1 0
-.SField -SGC2:31 131 0
-.SLink 131 8 13 1 0
-.SField "" 132 0
-.SField "" 133 0
-.SField -SGC1:12 134 0
-.SLink 134 8 3 2 0
-.SField -SGC1:22 135 0
-.SLink 135 8 3 4 0
+.SField -MAA3:W2 129 0
+.SLink 129 12 3 3 0
+.SField -MAA3:V2 130 0
+.SLink 130 12 3 2 0
+.SField -MAA3:U2 131 0
+.SLink 131 12 3 1 0
+.SField -MAA3:U1 132 0
+.SLink 132 12 3 6 0
+.SField -MAA3:V1 133 0
+.SLink 133 12 3 5 0
+.SField -MAA3:W1 134 0
+.SLink 134 12 3 4 0
+.SField "" 135 0
 .SField "" 136 0
-.SField "" 137 0
-.SField "" 138 0
-.SField -X8:1 139 0
-.SField -X8:2 140 0
-.SField -X8:3 141 0
-.SField -X8:4 142 0
-.SField -X8:5 143 0
-.SField -X8:6 144 0
-.SField -BGG1:1 145 0
-.SField -BGG1:3 146 0
-.SField -BGG1:4 147 0
-.SField -BGG2:1 148 0
-.SField -BGG2:3 149 0
-.SField -BGG2:4 150 0
-.SField -X8:7 151 0
-.SField -X8:8 152 0
-.SField -X8:9 153 0
-.SField -X8:3 154 0
-.SField -X8:6 155 0
-.SField -X8:9 156 0
-.SField -BGG3:1 157 0
-.SField -BGG3:3 158 0
-.SField -BGG3:4 159 0
+.SField -XDC5:1 137 0
+.SLink 137 9 16 2 0
+.SField -XDC4:1 138 0
+.SLink 138 9 20 1 0
+.SField "" 139 0
+.SField -X43:3 140 0
+.SLink 140 11 16 1 0
+.SField -X43:PE 141 0
+.SLink 141 11 12 1 0
+.SField -X43:2 142 0
+.SLink 142 11 17 1 0
+.SField -X43:1 143 0
+.SLink 143 11 18 1 0
+.SField -X43:4 144 0
+.SLink 144 11 19 1 0
+.SField "" 145 0
+.SField -MAA3:3 146 0
+.SLink 146 11 8 3 0
+.SField -MAA3:PE 147 0
+.SLink 147 11 8 5 0
+.SField -MAA3:2 148 0
+.SLink 148 11 8 2 0
+.SField -MAA3:1 149 0
+.SLink 149 11 8 1 0
+.SField -MAA3:4 150 0
+.SLink 150 11 8 4 0
+.SField -X43:5 151 0
+.SLink 151 11 20 1 0
+.SField -X43:6 152 0
+.SLink 152 11 21 1 0
+.SField "" 153 0
+.SField -XD1:1 154 0
+.SLink 154 5 12 1 0
+.SField -XD1:2 155 0
+.SLink 155 5 13 1 0
+.SField -XD1:3 156 0
+.SLink 156 5 14 1 0
+.SField -MAA3:5 157 0
+.SLink 157 11 8 6 0
+.SField -MAA3:6 158 0
+.SLink 158 11 8 7 0
+.SField "" 159 0
 .SField "" 160 0
 .SField "" 161 0
 .SField "" 162 0
-.SField "" 163 0
+.SField -XD1:4 163 0
+.SLink 163 5 15 1 0
 .SField "" 164 0
-.SField -XDC1:1 165 0
-.SLink 165 5 12 1 0
+.SField -XD1:4 165 0
+.SLink 165 6 7 1 0
 .SField "" 166 0
-.SField -XDC1:2 167 0
-.SLink 167 5 13 1 0
+.SField -XD1:1 167 0
+.SLink 167 6 8 1 0
 .SField "" 168 0
 .SField "" 169 0
 .SField "" 170 0
@@ -25263,29 +26106,38 @@
 .SField "" 172 0
 .SField "" 173 0
 .SField "" 174 0
-.SField -WDB7:4 175 0
-.SField -WDB7:3 176 0
-.SField -WDB7:1 177 0
-.SField -WDB6:4 178 0
-.SField -WDB6:3 179 0
-.SField -WDB6:1 180 0
-.SField -WDB5:4 181 0
-.SField -WDB5:3 182 0
-.SField -WDB5:1 183 0
+.SField "" 175 0
+.SField -WDB12:6 176 0
+.SLink 176 11 22 7 0
+.SField -WDB12:5 177 0
+.SLink 177 11 22 6 0
+.SField -WDB12:4 178 0
+.SLink 178 11 22 5 0
+.SField -WDB12:1 179 0
+.SLink 179 11 22 1 0
+.SField -WDB12:2 180 0
+.SLink 180 11 22 2 0
+.SField -WDB12:GNYE 181 0
+.SLink 181 11 22 4 0
+.SField -WDB12:3 182 0
+.SLink 182 11 22 3 0
+.SField "" 183 0
 .SField "" 184 0
 .SField "" 185 0
 .SField "" 186 0
-.SField -WDB2:BROWN 187 0
-.SLink 187 8 0 0 0
-.SField -WDB2:GREEN 188 0
-.SLink 188 8 0 0 0
-.SField "" 189 0
-.SField "" 190 0
-.SField -WDB3:2 191 0
-.SLink 191 8 14 2 0
-.SField -WDB3:1 192 0
-.SLink 192 8 14 1 0
-.SField "" 193 0
+.SField "" 187 0
+.SField -WDB19:6 188 0
+.SLink 188 12 31 7 0
+.SField -WDB19:5 189 0
+.SLink 189 12 31 6 0
+.SField -WDB19:4 190 0
+.SLink 190 12 31 5 0
+.SField -WDB19:1 191 0
+.SLink 191 12 31 1 0
+.SField -WDB19:2 192 0
+.SLink 192 12 31 2 0
+.SField -WDB19:3 193 0
+.SLink 193 12 31 3 0
 .SField "" 194 0
 .SField "" 195 0
 .SField "" 196 0
@@ -25322,7 +26174,7 @@
 
 .end
 
-.PageNo 10 30 '26-01-2025 15:35:02' 4 10000 1 0 0 1 7 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 10 32 '25-02-2025 09:08:50' 4 10000 1 0 0 1 7 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Terminal list - External connections' 0
 .Born 2 2 24.0 1513576450
 
@@ -25332,8 +26184,8 @@
 .AppData [DataTemplates]
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
-.AppData FirstItem=-XDC1:3
-.AppData LastItem=-XDC69:1
+.AppData FirstItem=-XD1:5
+.AppData LastItem=-XDC5:3
 
 
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
@@ -25379,78 +26231,90 @@
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
-.SField -XDC1:3 3 0
-.SLink 3 5 14 1 0
-.SField -XDC1:4 4 0
-.SLink 4 5 15 1 0
-.SField -XDC1:4 5 0
-.SLink 5 6 7 1 0
-.SField -XDC1:1 6 0
-.SLink 6 6 8 1 0
-.SField -XDC1:5 7 0
-.SLink 7 6 9 1 0
-.SField -XDC1:1 8 0
-.SLink 8 9 11 1 0
-.SField -XDC1:2 9 0
-.SLink 9 9 12 1 0
-.SField -XDC1:3 10 0
-.SLink 10 9 13 1 0
+.SField -XD1:5 3 0
+.SLink 3 6 9 1 0
+.SField -XD1:1 4 0
+.SLink 4 9 11 1 0
+.SField -XD1:2 5 0
+.SLink 5 9 12 1 0
+.SField -XD1:3 6 0
+.SLink 6 9 13 1 0
+.SField "" 7 0
+.SField -XD2:1 8 0
+.SLink 8 11 13 1 0
+.SField -XD2:2 9 0
+.SLink 9 11 14 1 0
+.SField -XD2:3 10 0
+.SLink 10 11 15 1 0
 .SField "" 11 0
-.SField -XDC3:1 12 0
-.SLink 12 6 5 1 0
-.SField -XDC3:5 13 0
-.SField -XDC3:5 14 0
-.SField -XDC3:5 15 0
+.SField -XD8:3 12 0
+.SLink 12 7 16 1 0
+.SField -XD8:4 13 0
+.SLink 13 7 17 1 0
+.SField -XD8:6 14 0
+.SLink 14 18 0 0 0
+.SField -XD8:7 15 0
 .SField "" 16 0
 .SField "" 17 0
 .SField "" 18 0
-.SField "" 19 0
-.SField "" 20 0
-.SField "" 21 0
+.SField -QAC8:1 19 0
+.SLink 19 11 3 1 0
+.SField -QAC8:3 20 0
+.SLink 20 11 3 3 0
+.SField -QAC8:5 21 0
+.SLink 21 11 3 5 0
 .SField "" 22 0
 .SField "" 23 0
-.SField -X8:7 24 0
-.SField -X8:4 25 0
-.SField -X8:1 26 0
-.SField -XDC3:1 27 0
-.SLink 27 7 10 1 0
-.SField -XDC3:2 28 0
-.SLink 28 7 11 1 0
-.SField -XDC3:3 29 0
-.SLink 29 7 12 1 0
-.SField -XDC3:4 30 0
-.SLink 30 7 18 1 0
-.SField -XDC3:1 31 0
-.SLink 31 9 14 1 0
-.SField "" 32 0
+.SField "" 24 0
+.SField "" 25 0
+.SField "" 26 0
+.SField -XD8:1 27 0
+.SLink 27 7 19 1 0
+.SField -XD8:5 28 0
+.SLink 28 13 11 1 0
+.SField -XD8:6 29 0
+.SLink 29 13 12 1 0
+.SField -XD8:2 30 0
+.SLink 30 13 5 1 0
+.SField -XD8:7 31 0
+.SLink 31 13 13 1 0
+.SField -XD8:8 32 0
+.SLink 32 13 16 1 0
 .SField "" 33 0
 .SField "" 34 0
-.SField "" 35 0
-.SField "" 36 0
-.SField "" 37 0
-.SField "" 38 0
-.SField -XDC4:1 39 0
-.SLink 39 6 6 1 0
-.SField -XDC4:2 40 0
-.SLink 40 7 13 1 0
-.SField -XDC4:3 41 0
-.SLink 41 7 14 1 0
-.SField -XDC4:1 42 0
-.SLink 42 7 15 1 0
-.SField -XDC4:1 43 0
-.SLink 43 13 9 1 0
-.SField -XDC4:1 44 0
+.SField -SJB2:14 35 0
+.SLink 35 13 10 2 0
+.SField -SJB1:X2 36 0
+.SLink 36 13 4 2 0
+.SField -SJB3:22 37 0
+.SLink 37 13 15 2 0
+.SField -SJB3:21 38 0
+.SLink 38 13 15 1 0
+.SField -XD8:1 39 0
+.SLink 39 13 6 1 0
+.SField -XD8:3 40 0
+.SLink 40 13 7 1 0
+.SField -XD8:4 41 0
+.SLink 41 13 8 1 0
+.SField "" 42 0
+.SField -XDC:PE 43 0
+.SLink 43 16 6 1 0
+.SField "" 44 0
 .SField "" 45 0
 .SField "" 46 0
-.SField "" 47 0
+.SField -SJB1:14 47 0
+.SLink 47 13 3 4 0
 .SField "" 48 0
 .SField "" 49 0
-.SField -X8:8 50 0
-.SField -XDC4:1 51 0
-.SField -X8:5 52 0
-.SField -XDC4:1 53 0
-.SField -X8:2 54 0
-.SField -XDC4:1 55 0
+.SField "" 50 0
+.SField -XDC3:+ 51 0
+.SLink 51 6 5 1 0
+.SField "" 52 0
+.SField -XDC3:1 53 0
+.SLink 53 7 10 1 0
+.SField "" 54 0
+.SField -XDC3:2 55 0
+.SLink 55 7 11 1 0
 .SField "" 56 0
 .SField "" 57 0
 .SField "" 58 0
@@ -25458,13 +26322,17 @@
 .SField "" 60 0
 .SField "" 61 0
 .SField "" 62 0
-.SField "" 63 0
+.SField -WDB4:4 63 0
+.SLink 63 13 14 6 0
 .SField "" 64 0
 .SField "" 65 0
 .SField "" 66 0
-.SField "" 67 0
-.SField "" 68 0
-.SField "" 69 0
+.SField -WDB4:7 67 0
+.SLink 67 13 14 4 0
+.SField -WDB4:2 68 0
+.SLink 68 13 14 7 0
+.SField -WDB4:6 69 0
+.SLink 69 13 14 5 0
 .SField "" 70 0
 .SField "" 71 0
 .SField "" 72 0
@@ -25510,27 +26378,376 @@
 .SField "" 112 0
 .SField "" 113 0
 .SField "" 114 0
+.SField -XDC3:3 115 0
+.SLink 115 7 12 1 0
+.SField -XDC3:1 116 0
+.SLink 116 16 5 1 0
+.SField -XDC3:4 117 0
+.SLink 117 7 18 1 0
+.SField -XDC3:1 118 0
+.SLink 118 9 14 1 0
+.SField -XDC3:+ 119 0
+.SLink 119 14 3 1 0
+.SField -XDC3:+ 120 0
+.SLink 120 14 34 1 0
+.SField -XDC3:+ 121 0
+.SLink 121 14 35 1 0
+.SField -XDC3:+ 122 0
+.SLink 122 14 36 1 0
+.SField -XDC3:+ 123 0
+.SLink 123 14 37 1 0
+.SField "" 124 0
+.SField -XDC4:1 125 0
+.SLink 125 9 20 1 0
+.SField -XDC4:1 126 0
+.SLink 126 16 4 1 0
+.SField -XDC4:1 127 0
+.SLink 127 19 7 1 0
+.SField "" 128 0
+.SField "" 129 0
+.SField -X5:1 130 0
+.SLink 130 14 8 2 0
+.SField "" 131 0
+.SField "" 132 0
+.SField "" 133 0
+.SField "" 134 0
+.SField "" 135 0
+.SField -X12:2 136 0
+.SLink 136 9 19 1 0
+.SField "" 137 0
+.SField "" 138 0
+.SField -XDC4:1 139 0
+.SLink 139 16 9 1 0
+.SField -XDC4:1 140 0
+.SLink 140 13 9 1 0
+.SField -XDC4:- 141 0
+.SLink 141 14 17 1 0
+.SField -XDC4:- 142 0
+.SLink 142 14 18 1 0
+.SField -XDC4:- 143 0
+.SLink 143 14 20 1 0
+.SField -XDC4:- 144 0
+.SLink 144 14 31 1 0
+.SField "" 145 0
+.SField "" 146 0
+.SField -XDC5:5 147 0
+.SLink 147 14 12 2 0
+.SField -XDC5:8 148 0
+.SLink 148 14 15 2 0
+.SField -XDC5:11 149 0
+.SLink 149 14 22 2 0
+.SField -XDC5:14 150 0
+.SLink 150 14 29 2 0
+.SField -XDC4:1 151 0
+.SLink 151 16 10 1 0
+.SField "" 152 0
+.SField -XDC5:1 153 0
+.SLink 153 9 10 1 0
+.SField -XDC5:1 154 0
+.SLink 154 16 8 1 0
+.SField -XDC5:2 155 0
+.SLink 155 14 9 1 0
+.SField -XDC5:3 156 0
+.SLink 156 14 10 1 0
+.SField "" 157 0
+.SField "" 158 0
+.SField "" 159 0
+.SField "" 160 0
+.SField -BGG1:3 161 0
+.SLink 161 14 4 3 0
+.SField -BGG1:4 162 0
+.SLink 162 14 4 4 0
+.SField -XDC5:7 163 0
+.SField "" 164 0
+.SField -XDC5:5 165 0
+.SLink 165 14 12 1 0
+.SField -BGG2:3 166 0
+.SLink 166 14 5 3 0
+.SField -XDC5:3 167 0
+.SLink 167 18 0 0 0
+.SField "" 168 0
+.SField "" 169 0
+.SField -WDB6:3 170 0
+.SLink 170 14 25 2 0
+.SField "" 171 0
+.SField -WDB5:4 172 0
+.SLink 172 14 24 3 0
+.SField -WDB5:3 173 0
+.SLink 173 14 24 2 0
+.SField "" 174 0
+.SField "" 175 0
+.SField "" 176 0
+.SField "" 177 0
+.SField "" 178 0
+.SField "" 179 0
+.SField "" 180 0
+.SField "" 181 0
+.SField "" 182 0
+.SField "" 183 0
+.SField "" 184 0
+.SField "" 185 0
+.SField "" 186 0
+.SField "" 187 0
+.SField "" 188 0
+.SField "" 189 0
+.SField "" 190 0
+.SField "" 191 0
+.SField "" 192 0
+.SField "" 193 0
+.SField "" 194 0
+.SField "" 195 0
+.SField "" 196 0
+.SField "" 197 0
+.SField "" 198 0
+.SField "" 199 0
+.SField "" 200 0
+.SField "" 201 0
+.SField "" 202 0
+.SField "" 203 0
+.SField "" 204 0
+.SField "" 205 0
+.SField "" 206 0
+.SField "" 207 0
+.SField "" 208 0
+.SField "" 209 0
+.SField "" 210 0
+.SField "" 211 0
+.SField "" 212 0
+.SField "" 213 0
+.SField "" 214 0
+.SField "" 215 0
+.SField "" 216 0
+.SField "" 217 0
+.SField "" 218 0
+.SField "" 219 0
+.SField "" 220 0
+.SField "" 221 0
+.SField "" 222 0
+.SField "" 223 0
+.SField "" 224 0
+.end
+
+
+.end
+
+.PageNo 11 33 '25-02-2025 09:08:50' 4 10000 1 0 0 1 7 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title 'Terminal list - External connections' 0
+.Born 2 2 24.0 1515800857
+
+
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+.AppData [PageTitle]
+.AppData 'Format2=%s %s..%s'
+.AppData FirstItem=-XDC5:6
+.AppData LastItem=XDC4:-
+
+
+.Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.Pagehead2 PCSTERMINALS1.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 2 0 0 0 0 -1 0 0
+.Name "" 38750 20000 0 0 0 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.SField -BGG2:4 1 0
+.SLink 1 14 5 4 0
+.SField "" 2 0
+.SField -XDC5:6 3 0
+.SLink 3 14 13 1 0
+.SField -XDC5:9 4 0
+.SLink 4 18 0 0 0
+.SField -XDC5:12 5 0
+.SField -XDC5:11 6 0
+.SLink 6 14 22 1 0
+.SField -XDC5:12 7 0
+.SLink 7 14 23 1 0
+.SField -XDC5:8 8 0
+.SLink 8 14 15 1 0
+.SField -XDC5:9 9 0
+.SLink 9 14 16 1 0
+.SField -XDC5:14 10 0
+.SLink 10 14 29 1 0
+.SField -XDC5:15 11 0
+.SLink 11 14 30 1 0
+.SField "" 12 0
+.SField -XDC8:1 13 0
+.SLink 13 9 5 1 0
+.SField -XDC8:2 14 0
+.SLink 14 9 6 1 0
+.SField -XDC8:3 15 0
+.SLink 15 9 7 1 0
+.SField "" 16 0
+.SField -BGG4:3 17 0
+.SLink 17 14 19 3 0
+.SField -BGG4:4 18 0
+.SLink 18 14 19 4 0
+.SField -BGG3:3 19 0
+.SLink 19 14 6 3 0
+.SField -BGG3:4 20 0
+.SLink 20 14 6 4 0
+.SField -BGG5:3 21 0
+.SLink 21 14 27 3 0
+.SField -BGG5:4 22 0
+.SLink 22 14 27 4 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.SField "" 26 0
+.SField -XDC8:1 27 0
+.SLink 27 10 10 1 0
+.SField -XDC8:2 28 0
+.SLink 28 10 11 1 0
+.SField -XDC8:3 29 0
+.SLink 29 10 12 1 0
+.SField "" 30 0
+.SField -XDC121:1 31 0
+.SLink 31 6 11 1 0
+.SField "" 32 0
+.SField "" 33 0
+.SField "" 34 0
+.SField "" 35 0
+.SField "" 36 0
+.SField "" 37 0
+.SField "" 38 0
+.SField XDC4:- 39 0
+.SLink 39 6 6 1 0
+.SField XDC4:2 40 0
+.SLink 40 7 13 1 0
+.SField XDC4:3 41 0
+.SLink 41 7 14 1 0
+.SField XDC4:1 42 0
+.SLink 42 7 15 1 0
+.SField XDC4:- 43 0
+.SLink 43 14 7 1 0
+.SField "" 44 0
+.SField "" 45 0
+.SField "" 46 0
+.SField "" 47 0
+.SField "" 48 0
+.SField -XDC5:2 49 0
+.SLink 49 14 9 2 0
+.SField "" 50 0
+.SField "" 51 0
+.SField "" 52 0
+.SField "" 53 0
+.SField "" 54 0
+.SField "" 55 0
+.SField "" 56 0
+.SField "" 57 0
+.SField "" 58 0
+.SField "" 59 0
+.SField "" 60 0
+.SField "" 61 0
+.SField "" 62 0
+.SField "" 63 0
+.SField "" 64 0
+.SField "" 65 0
+.SField "" 66 0
+.SField "" 67 0
+.SField "" 68 0
+.SField "" 69 0
+.SField "" 70 0
+.SField "" 71 0
+.SField "" 72 0
+.SField "" 73 0
+.SField "" 74 0
+.SField "" 75 0
+.SField -WDB9:4 76 0
+.SLink 76 14 33 3 0
+.SField -WDB9:3 77 0
+.SLink 77 14 33 2 0
+.SField -WDB7:4 78 0
+.SLink 78 14 26 3 0
+.SField -WDB7:3 79 0
+.SLink 79 14 26 2 0
+.SField -WDB8:4 80 0
+.SLink 80 14 32 3 0
+.SField -WDB8:3 81 0
+.SLink 81 14 32 2 0
+.SField "" 82 0
+.SField "" 83 0
+.SField -WDB6:4 84 0
+.SLink 84 14 25 3 0
+.SField "" 85 0
+.SField "" 86 0
+.SField "" 87 0
+.SField "" 88 0
+.SField "" 89 0
+.SField "" 90 0
+.SField "" 91 0
+.SField "" 92 0
+.SField "" 93 0
+.SField "" 94 0
+.SField "" 95 0
+.SField "" 96 0
+.SField "" 97 0
+.SField "" 98 0
+.SField "" 99 0
+.SField "" 100 0
+.SField "" 101 0
+.SField "" 102 0
+.SField "" 103 0
+.SField "" 104 0
+.SField "" 105 0
+.SField "" 106 0
+.SField "" 107 0
+.SField "" 108 0
+.SField "" 109 0
+.SField "" 110 0
+.SField "" 111 0
+.SField "" 112 0
+.SField "" 113 0
+.SField "" 114 0
 .SField "" 115 0
-.SField -XDC5:1 116 0
-.SLink 116 9 10 1 0
-.SField -XDC5:1 117 0
-.SField -XDC5:1 118 0
+.SField "" 116 0
+.SField "" 117 0
+.SField "" 118 0
 .SField "" 119 0
-.SField -XDC6:1 120 0
+.SField "" 120 0
 .SField "" 121 0
-.SField -XDC8:1 122 0
-.SLink 122 9 5 1 0
-.SField -XDC8:2 123 0
-.SLink 123 9 6 1 0
-.SField -XDC8:3 124 0
-.SLink 124 9 7 1 0
-.SField -XDC8:1 125 0
-.SLink 125 10 10 1 0
-.SField -XDC8:2 126 0
-.SLink 126 10 11 1 0
-.SField -XDC8:3 127 0
-.SLink 127 10 12 1 0
-.SField -X4:5 128 0
+.SField "" 122 0
+.SField "" 123 0
+.SField "" 124 0
+.SField "" 125 0
+.SField "" 126 0
+.SField "" 127 0
+.SField "" 128 0
 .SField "" 129 0
 .SField "" 130 0
 .SField "" 131 0
@@ -25542,7 +26759,7 @@
 .SField "" 137 0
 .SField "" 138 0
 .SField "" 139 0
-.SField -XDC69:1 140 0
+.SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
@@ -25632,7 +26849,7 @@
 
 .end
 
-.PageNo 10 31 '26-01-2025 15:35:02' 4 10000 1 0 0 1 8 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
+.PageNo 10 34 '25-02-2025 09:08:50' 4 10000 1 0 0 1 8 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:12' -1
 .Title 'Cable list' 0
 .Born 2 0 20.0 1513576155
 
@@ -25709,14 +26926,14 @@
 .SField GNYE 9 0
 .SLink 9 5 7 5 0
 .SField "" 10 0
-.SField BROWN 11 0
-.SLink 11 8 0 0 0
-.SField GREEN 12 0
-.SLink 12 8 0 0 0
-.SField WHITE 13 0
-.SLink 13 8 0 0 0
-.SField YELLOW 14 0
-.SLink 14 8 0 0 0
+.SField 1 11 0
+.SLink 11 8 17 1 0
+.SField 2 12 0
+.SLink 12 8 17 2 0
+.SField 3 13 0
+.SLink 13 8 17 3 0
+.SField 4 14 0
+.SLink 14 8 17 4 0
 .SField "" 15 0
 .SField 1 16 0
 .SLink 16 8 14 1 0
@@ -25729,14 +26946,14 @@
 .SField /PowerIN.4 20 0
 .SLink 20 5 3 1 0
 .SField "" 21 0
-.SField /SafetyStop.5 22 0
-.SLink 22 8 10 1 0
+.SField /SafetyStop.3 22 0
+.SLink 22 8 7 2 0
 .SField /SafetyStop.4 23 0
-.SLink 23 8 9 1 0
+.SLink 23 8 8 2 0
 .SField /SafetyStop.4 24 0
-.SLink 24 8 8 2 0
-.SField /SafetyStop.3 25 0
-.SLink 25 8 7 2 0
+.SLink 24 8 9 1 0
+.SField /SafetyStop.5 25 0
+.SLink 25 8 10 1 0
 .SField "" 26 0
 .SField /SafetyStop.5 27 0
 .SLink 27 8 5 1 0
@@ -25749,14 +26966,14 @@
 .SField /PowerIN.4 31 0
 .SLink 31 5 9 1 0
 .SField "" 32 0
-.SField /SafetyStop.4 33 0
-.SLink 33 8 3 4 0
-.SField /SafetyStop.3 34 0
-.SLink 34 8 3 2 0
-.SField /SafetyStop.4 35 0
-.SLink 35 8 3 3 0
-.SField /SafetyStop.3 36 0
-.SLink 36 8 3 1 0
+.SField /SafetyStop.3 33 0
+.SLink 33 8 3 1 0
+.SField /SafetyStop.4 34 0
+.SLink 34 8 3 3 0
+.SField /SafetyStop.3 35 0
+.SLink 35 8 3 2 0
+.SField /SafetyStop.4 36 0
+.SLink 36 8 3 4 0
 .SField "" 37 0
 .SField /SafetyStop.5 38 0
 .SLink 38 8 4 1 0
@@ -25773,10 +26990,8 @@
 .SLink 44 13 14 7 0
 .SField 3 45 0
 .SLink 45 13 14 2 0
-.SField /SafetyStop.6 46 0
-.SLink 46 8 11 2 0
-.SField /SafetyStop.7 47 0
-.SLink 47 8 12 2 0
+.SField "" 46 0
+.SField "" 47 0
 .SField "" 48 0
 .SField /ButtonBox.4 49 0
 .SLink 49 13 6 2 0
@@ -25784,13 +26999,11 @@
 .SLink 50 13 5 1 0
 .SField /ButtonBox.4 51 0
 .SLink 51 13 7 2 0
-.SField /SafetyStop.5 52 0
-.SLink 52 8 4 2 0
-.SField /SafetyStop.6 53 0
-.SLink 53 8 13 2 0
+.SField "" 52 0
+.SField "" 53 0
 .SField "" 54 0
 .SField /ButtonBox.4 55 0
-.SLink 55 13 3 1 0
+.SLink 55 13 4 1 0
 .SField /ButtonBox.4 56 0
 .SLink 56 13 4 2 0
 .SField /ButtonBox.4 57 0
@@ -25805,6 +27018,7 @@
 .SLink 61 13 14 4 0
 .SField "" 62 0
 .SField 1 63 0
+.SLink 63 14 24 1 0
 .SField /ButtonBox.7 64 0
 .SLink 64 13 8 1 0
 .SField /ButtonBox.5 65 0
@@ -25814,30 +27028,41 @@
 .SField /ButtonBox.6 67 0
 .SLink 67 13 13 1 0
 .SField "" 68 0
-.SField /Sensors.3 69 0
+.SField '/Photo Sensors.1' 69 0
+.SLink 69 14 8 1 0
 .SField /ButtonBox.4 70 0
 .SLink 70 13 3 4 0
-.SField /ButtonBox.6 71 0
-.SLink 71 13 15 1 0
+.SField /ButtonBox.5 71 0
+.SLink 71 13 10 1 0
 .SField /ButtonBox.5 72 0
 .SLink 72 13 10 2 0
 .SField /ButtonBox.6 73 0
 .SLink 73 13 15 2 0
 .SField "" 74 0
-.SField /Sensors.3 75 0
+.SField '/Photo Sensors.1' 75 0
+.SLink 75 14 4 1 0
 .SField 3 76 0
-.SField /Sensors.3 77 0
-.SField /Sensors.3 78 0
+.SLink 76 14 24 2 0
+.SField '/Photo Sensors.1' 77 0
+.SLink 77 14 9 1 0
+.SField '/Photo Sensors.1' 78 0
+.SLink 78 14 4 3 0
 .SField 4 79 0
-.SField /Sensors.3 80 0
-.SField /Sensors.3 81 0
+.SLink 79 14 24 3 0
+.SField '/Photo Sensors.1' 80 0
+.SLink 80 14 10 1 0
+.SField '/Photo Sensors.1' 81 0
+.SLink 81 14 4 4 0
 .SField "" 82 0
 .SField "" 83 0
 .SField "" 84 0
 .SField "" 85 0
 .SField 3 86 0
+.SLink 86 14 10 1 0
 .SField 2 87 0
+.SLink 87 14 9 1 0
 .SField 1 88 0
+.SLink 88 14 8 1 0
 .SField "" 89 0
 .SField 7 90 0
 .SLink 90 13 13 1 0
@@ -25854,23 +27079,21 @@
 .SField 1 96 0
 .SLink 96 13 6 2 0
 .SField "" 97 0
-.SField 8 98 0
-.SLink 98 8 12 2 0
-.SField 7 99 0
-.SLink 99 8 11 2 0
+.SField "" 98 0
+.SField "" 99 0
 .SField 6 100 0
 .SLink 100 8 6 1 0
 .SField 5 101 0
 .SLink 101 8 5 1 0
 .SField "" 102 0
-.SField 1 103 0
-.SLink 103 8 7 2 0
-.SField 3 104 0
-.SLink 104 8 8 2 0
-.SField 2 105 0
-.SLink 105 8 9 1 0
-.SField 4 106 0
-.SLink 106 8 10 1 0
+.SField 4 103 0
+.SLink 103 8 10 1 0
+.SField 2 104 0
+.SLink 104 8 9 1 0
+.SField 3 105 0
+.SLink 105 8 8 2 0
+.SField 1 106 0
+.SLink 106 8 7 2 0
 .SField "" 107 0
 .SField 1 108 0
 .SLink 108 5 3 1 0
@@ -25894,13 +27117,13 @@
 .SLink 117 5 7 5 0
 .SField "" 118 0
 .SField -WDB2 119 0
-.SLink 119 8 0 0 0
+.SLink 119 8 17 1 0
 .SField -WDB2 120 0
-.SLink 120 8 0 0 0
+.SLink 120 8 17 2 0
 .SField -WDB2 121 0
-.SLink 121 8 0 0 0
+.SLink 121 8 17 3 0
 .SField -WDB2 122 0
-.SLink 122 8 0 0 0
+.SLink 122 8 17 4 0
 .SField "" 123 0
 .SField -WDB3 124 0
 .SLink 124 8 14 1 0
@@ -25927,8 +27150,11 @@
 .SLink 135 13 14 4 0
 .SField "" 136 0
 .SField -WDB5 137 0
+.SLink 137 14 24 1 0
 .SField -WDB5 138 0
+.SLink 138 14 24 2 0
 .SField -WDB5 139 0
+.SLink 139 14 24 3 0
 .SField "" 140 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 141 0
 .SLink 141 5 7 1 0
@@ -25942,13 +27168,13 @@
 .SLink 145 5 7 5 0
 .SField "" 146 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 147 0
-.SLink 147 8 0 0 0
+.SLink 147 8 17 1 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 148 0
-.SLink 148 8 0 0 0
+.SLink 148 8 17 2 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 149 0
-.SLink 149 8 0 0 0
+.SLink 149 8 17 3 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 150 0
-.SLink 150 8 0 0 0
+.SLink 150 8 17 4 0
 .SField "" 151 0
 .SField 'SCANFLEX H 2001 - 300/500 V' 152 0
 .SLink 152 8 14 1 0
@@ -25975,46 +27201,50 @@
 .SLink 163 13 14 4 0
 .SField "" 164 0
 .SField YF2A15-050UB5XLEAX 165 0
+.SLink 165 14 24 1 0
 .SField YF2A15-050UB5XLEAX 166 0
+.SLink 166 14 24 2 0
 .SField YF2A15-050UB5XLEAX 167 0
+.SLink 167 14 24 3 0
 .SField "" 168 0
 .SField "" 169 0
-.SField -X8 170 0
-.SField -X8 171 0
-.SField -X8 172 0
+.SField -XDC5 170 0
+.SLink 170 14 10 1 0
+.SField -XDC5 171 0
+.SLink 171 14 9 1 0
+.SField -X5 172 0
+.SLink 172 14 8 1 0
 .SField "" 173 0
-.SField -X4 174 0
+.SField -XD8 174 0
 .SLink 174 13 13 1 0
-.SField -X4 175 0
+.SField -XD8 175 0
 .SLink 175 13 12 1 0
-.SField -X4 176 0
+.SField -XD8 176 0
 .SLink 176 13 11 2 0
-.SField -X4 177 0
+.SField -XD8 177 0
 .SLink 177 13 8 1 0
-.SField -X4 178 0
+.SField -XD8 178 0
 .SLink 178 13 7 2 0
-.SField -X4 179 0
+.SField -XD8 179 0
 .SLink 179 13 5 1 0
-.SField -X4 180 0
+.SField -XD8 180 0
 .SLink 180 13 6 2 0
 .SField "" 181 0
-.SField -X5 182 0
-.SLink 182 8 12 2 0
-.SField -X5 183 0
-.SLink 183 8 11 2 0
+.SField "" 182 0
+.SField "" 183 0
 .SField -X5 184 0
 .SLink 184 8 6 1 0
 .SField -X5 185 0
 .SLink 185 8 5 1 0
 .SField "" 186 0
 .SField -X5 187 0
-.SLink 187 8 7 2 0
+.SLink 187 8 10 1 0
 .SField -X5 188 0
-.SLink 188 8 8 2 0
+.SLink 188 8 9 1 0
 .SField -X5 189 0
-.SLink 189 8 9 1 0
+.SLink 189 8 8 2 0
 .SField -X5 190 0
-.SLink 190 8 10 1 0
+.SLink 190 8 7 2 0
 .SField "" 191 0
 .SField -XDD1 192 0
 .SLink 192 5 3 1 0
@@ -26084,41 +27314,42 @@
 .SField "" 252 0
 .SField "" 253 0
 .SField 4 254 0
+.SLink 254 14 4 4 0
 .SField 3 255 0
+.SLink 255 14 4 3 0
 .SField 1 256 0
+.SLink 256 14 4 1 0
 .SField "" 257 0
 .SField 22 258 0
 .SLink 258 13 15 2 0
 .SField 14 259 0
 .SLink 259 13 10 2 0
-.SField 21 260 0
-.SLink 260 13 15 1 0
+.SField 13 260 0
+.SLink 260 13 10 1 0
 .SField 14 261 0
 .SLink 261 13 3 4 0
 .SField 13 262 0
 .SLink 262 13 3 3 0
 .SField X2 263 0
 .SLink 263 13 4 2 0
-.SField 21 264 0
-.SLink 264 13 3 1 0
+.SField X1 264 0
+.SLink 264 13 4 1 0
 .SField "" 265 0
-.SField 32 266 0
-.SLink 266 8 13 2 0
-.SField 22 267 0
-.SLink 267 8 4 2 0
+.SField "" 266 0
+.SField "" 267 0
 .SField 31 268 0
 .SLink 268 8 13 1 0
 .SField 21 269 0
 .SLink 269 8 4 1 0
 .SField "" 270 0
-.SField 11 271 0
-.SLink 271 8 3 1 0
-.SField 21 272 0
-.SLink 272 8 3 3 0
-.SField 12 273 0
-.SLink 273 8 3 2 0
-.SField 22 274 0
-.SLink 274 8 3 4 0
+.SField 22 271 0
+.SLink 271 8 3 4 0
+.SField 12 272 0
+.SLink 272 8 3 2 0
+.SField 21 273 0
+.SLink 273 8 3 3 0
+.SField 11 274 0
+.SLink 274 8 3 1 0
 .SField "" 275 0
 .SField 5 276 0
 .SLink 276 5 9 1 0
@@ -26132,15 +27363,18 @@
 .SLink 280 5 4 1 0
 .SField "" 281 0
 .SField -BGG1 282 0
+.SLink 282 14 4 4 0
 .SField -BGG1 283 0
+.SLink 283 14 4 3 0
 .SField -BGG1 284 0
+.SLink 284 14 4 1 0
 .SField "" 285 0
 .SField -SJB3 286 0
 .SLink 286 13 15 2 0
 .SField -SJB2 287 0
 .SLink 287 13 10 2 0
-.SField -SJB3 288 0
-.SLink 288 13 15 1 0
+.SField -SJB2 288 0
+.SLink 288 13 10 1 0
 .SField -SJB1 289 0
 .SLink 289 13 3 4 0
 .SField -SJB1 290 0
@@ -26148,25 +27382,23 @@
 .SField -SJB1 291 0
 .SLink 291 13 4 2 0
 .SField -SJB1 292 0
-.SLink 292 13 3 1 0
+.SLink 292 13 4 1 0
 .SField "" 293 0
-.SField -SGC2 294 0
-.SLink 294 8 13 2 0
-.SField -SGC2 295 0
-.SLink 295 8 4 2 0
+.SField "" 294 0
+.SField "" 295 0
 .SField -SGC2 296 0
 .SLink 296 8 13 1 0
 .SField -SGC2 297 0
 .SLink 297 8 4 1 0
 .SField "" 298 0
 .SField -SGC1 299 0
-.SLink 299 8 3 1 0
+.SLink 299 8 3 4 0
 .SField -SGC1 300 0
-.SLink 300 8 3 3 0
+.SLink 300 8 3 2 0
 .SField -SGC1 301 0
-.SLink 301 8 3 2 0
+.SLink 301 8 3 3 0
 .SField -SGC1 302 0
-.SLink 302 8 3 4 0
+.SLink 302 8 3 1 0
 .SField "" 303 0
 .SField -X1 304 0
 .SLink 304 5 9 1 0
@@ -26239,7 +27471,7 @@
 
 .end
 
-.PageNo 11 32 '26-01-2025 15:35:02' 4 10000 1 0 0 1 8 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 11 35 '25-02-2025 09:08:50' 4 10000 1 0 0 1 8 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Cable list' 0
 .Born 2 2 24.0 1513782369
 
@@ -26250,7 +27482,7 @@
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
 .AppData FirstItem=-WDB6
-.AppData LastItem=-WDB10
+.AppData LastItem=-WDB12
 
 
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
@@ -26294,56 +27526,696 @@
 .Typ "" 36250 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 36250 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 35000 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField /Sensors.5 1 0
-.SField /Sensors.5 2 0
-.SField /Sensors.5 3 0
-.SField /Sensors.5 4 0
+.SField '/Photo Sensors.3' 1 0
+.SLink 1 14 11 1 0
+.SField '/Photo Sensors.3' 2 0
+.SLink 2 14 5 1 0
+.SField '/Photo Sensors.3' 3 0
+.SLink 3 14 12 1 0
+.SField '/Photo Sensors.3' 4 0
+.SLink 4 14 5 3 0
 .SField 1 5 0
+.SLink 5 14 25 1 0
 .SField 3 6 0
+.SLink 6 14 25 2 0
 .SField 4 7 0
+.SLink 7 14 25 3 0
 .SField "" 8 0
 .SField 1 9 0
+.SLink 9 14 26 1 0
 .SField 3 10 0
+.SLink 10 14 26 2 0
 .SField 4 11 0
+.SLink 11 14 26 3 0
 .SField "" 12 0
 .SField 1 13 0
-.SLink 13 10 0 0 0
-.SField 2 14 0
-.SLink 14 10 0 0 0
-.SField 3 15 0
-.SLink 15 10 0 0 0
-.SField 4 16 0
-.SLink 16 10 0 0 0
-.SField "" 17 0
-.SField /Sensors.5 18 0
+.SLink 13 14 32 1 0
+.SField 3 14 0
+.SLink 14 14 32 2 0
+.SField 4 15 0
+.SLink 15 14 32 3 0
+.SField "" 16 0
+.SField 1 17 0
+.SLink 17 14 33 1 0
+.SField '/Photo Sensors.3' 18 0
+.SLink 18 14 13 1 0
 .SField "" 19 0
-.SField /Sensors.7 20 0
-.SField /Sensors.7 21 0
-.SField /Sensors.7 22 0
+.SField '/Photo Sensors.5' 20 0
+.SLink 20 14 14 1 0
+.SField '/Photo Sensors.5' 21 0
+.SLink 21 14 15 1 0
+.SField '/Photo Sensors.5' 22 0
+.SLink 22 14 16 1 0
 .SField "" 23 0
-.SField /MotorMAA1.5 24 0
-.SLink 24 10 6 2 0
-.SField /MotorMAA1.5 25 0
-.SLink 25 10 7 2 0
-.SField /MotorMAA1.5 26 0
-.SLink 26 10 8 2 0
-.SField /MotorMAA1.5 27 0
-.SLink 27 10 9 2 0
-.SField "" 28 0
-.SField /Sensors.5 29 0
+.SField '/Photo Sensors.6' 24 0
+.SLink 24 14 21 1 0
+.SField '/Photo Sensors.6' 25 0
+.SLink 25 14 22 1 0
+.SField '/Photo Sensors.7' 26 0
+.SLink 26 14 23 1 0
+.SField "" 27 0
+.SField '/Photo Sensors.8' 28 0
+.SLink 28 14 28 1 0
+.SField '/Photo Sensors.3' 29 0
+.SLink 29 14 5 4 0
 .SField "" 30 0
-.SField /Sensors.7 31 0
-.SField /Sensors.7 32 0
-.SField /Sensors.7 33 0
+.SField '/Photo Sensors.5' 31 0
+.SLink 31 14 6 1 0
+.SField '/Photo Sensors.5' 32 0
+.SLink 32 14 6 3 0
+.SField '/Photo Sensors.5' 33 0
+.SLink 33 14 6 4 0
 .SField "" 34 0
-.SField /MotorMAA1.5 35 0
-.SLink 35 10 3 1 0
-.SField /MotorMAA1.5 36 0
-.SLink 36 10 3 2 0
-.SField /MotorMAA1.5 37 0
-.SLink 37 10 3 3 0
-.SField /MotorMAA1.5 38 0
-.SLink 38 10 3 4 0
+.SField '/Photo Sensors.6' 35 0
+.SLink 35 14 19 1 0
+.SField '/Photo Sensors.6' 36 0
+.SLink 36 14 19 3 0
+.SField '/Photo Sensors.7' 37 0
+.SLink 37 14 19 4 0
+.SField "" 38 0
+.SField '/Photo Sensors.8' 39 0
+.SLink 39 14 27 1 0
+.SField 3 40 0
+.SLink 40 14 33 2 0
+.SField 4 41 0
+.SLink 41 14 33 3 0
+.SField "" 42 0
+.SField 1 43 0
+.SLink 43 10 15 1 0
+.SField 2 44 0
+.SLink 44 10 15 2 0
+.SField 3 45 0
+.SLink 45 10 15 3 0
+.SField '/Photo Sensors.8' 46 0
+.SLink 46 14 29 1 0
+.SField '/Photo Sensors.8' 47 0
+.SLink 47 14 30 1 0
+.SField "" 48 0
+.SField /MotorMAA1.5 49 0
+.SLink 49 10 6 2 0
+.SField /MotorMAA1.5 50 0
+.SLink 50 10 7 2 0
+.SField /MotorMAA1.5 51 0
+.SLink 51 10 8 2 0
+.SField '/Photo Sensors.8' 52 0
+.SLink 52 14 27 3 0
+.SField '/Photo Sensors.8' 53 0
+.SLink 53 14 27 4 0
+.SField "" 54 0
+.SField /MotorMAA1.5 55 0
+.SLink 55 10 3 1 0
+.SField /MotorMAA1.5 56 0
+.SLink 56 10 3 2 0
+.SField /MotorMAA1.5 57 0
+.SLink 57 10 3 3 0
+.SField GNYE 58 0
+.SLink 58 10 15 4 0
+.SField "" 59 0
+.SField 1 60 0
+.SLink 60 11 22 1 0
+.SField 2 61 0
+.SLink 61 11 22 2 0
+.SField 3 62 0
+.SLink 62 11 22 3 0
+.SField 4 63 0
+.SLink 63 11 22 5 0
+.SField /MotorMAA1.5 64 0
+.SLink 64 10 9 2 0
+.SField "" 65 0
+.SField /MotorMAA2.4 66 0
+.SLink 66 11 18 1 0
+.SField /MotorMAA2.4 67 0
+.SLink 67 11 17 1 0
+.SField /MotorMAA2.4 68 0
+.SLink 68 11 16 1 0
+.SField /MotorMAA2.5 69 0
+.SLink 69 11 19 1 0
+.SField /MotorMAA1.5 70 0
+.SLink 70 10 3 4 0
+.SField "" 71 0
+.SField /MotorMAA2.4 72 0
+.SLink 72 11 8 1 0
+.SField /MotorMAA2.4 73 0
+.SLink 73 11 8 2 0
+.SField /MotorMAA2.4 74 0
+.SLink 74 11 8 3 0
+.SField /MotorMAA2.4 75 0
+.SLink 75 11 8 4 0
+.SField 5 76 0
+.SLink 76 11 22 6 0
+.SField /MotorMAA2.5 77 0
+.SLink 77 11 20 1 0
+.SField /MotorMAA2.4 78 0
+.SLink 78 11 8 6 0
+.SField 6 79 0
+.SLink 79 11 22 7 0
+.SField /MotorMAA2.5 80 0
+.SLink 80 11 21 1 0
+.SField /MotorMAA2.4 81 0
+.SLink 81 11 8 7 0
+.SField GNYE 82 0
+.SLink 82 11 22 4 0
+.SField /MotorMAA2.4 83 0
+.SLink 83 11 12 1 0
+.SField /MotorMAA2.4 84 0
+.SLink 84 11 8 5 0
+.SField PE 85 0
+.SLink 85 11 12 1 0
+.SField 6 86 0
+.SLink 86 11 21 1 0
+.SField 5 87 0
+.SLink 87 11 20 1 0
+.SField 4 88 0
+.SLink 88 11 19 1 0
+.SField 3 89 0
+.SLink 89 11 16 1 0
+.SField 2 90 0
+.SLink 90 11 17 1 0
+.SField 1 91 0
+.SLink 91 11 18 1 0
+.SField "" 92 0
+.SField 4 93 0
+.SLink 93 10 9 2 0
+.SField 3 94 0
+.SLink 94 10 8 2 0
+.SField 2 95 0
+.SLink 95 10 7 2 0
+.SField 1 96 0
+.SLink 96 10 6 2 0
+.SField "" 97 0
+.SField 15 98 0
+.SLink 98 14 30 1 0
+.SField 14 99 0
+.SLink 99 14 29 1 0
+.SField 13 100 0
+.SLink 100 14 28 1 0
+.SField "" 101 0
+.SField 12 102 0
+.SLink 102 14 23 1 0
+.SField 11 103 0
+.SLink 103 14 22 1 0
+.SField 10 104 0
+.SLink 104 14 21 1 0
+.SField "" 105 0
+.SField 9 106 0
+.SLink 106 14 16 1 0
+.SField 8 107 0
+.SLink 107 14 15 1 0
+.SField 7 108 0
+.SLink 108 14 14 1 0
+.SField "" 109 0
+.SField 6 110 0
+.SLink 110 14 13 1 0
+.SField 5 111 0
+.SLink 111 14 12 1 0
+.SField 4 112 0
+.SLink 112 14 11 1 0
+.SField -WDB6 113 0
+.SLink 113 14 25 1 0
+.SField -WDB6 114 0
+.SLink 114 14 25 2 0
+.SField -WDB6 115 0
+.SLink 115 14 25 3 0
+.SField "" 116 0
+.SField -WDB7 117 0
+.SLink 117 14 26 1 0
+.SField -WDB7 118 0
+.SLink 118 14 26 2 0
+.SField -WDB7 119 0
+.SLink 119 14 26 3 0
+.SField "" 120 0
+.SField -WDB8 121 0
+.SLink 121 14 32 1 0
+.SField -WDB8 122 0
+.SLink 122 14 32 2 0
+.SField -WDB8 123 0
+.SLink 123 14 32 3 0
+.SField "" 124 0
+.SField -WDB9 125 0
+.SLink 125 14 33 1 0
+.SField -WDB9 126 0
+.SLink 126 14 33 2 0
+.SField -WDB9 127 0
+.SLink 127 14 33 3 0
+.SField "" 128 0
+.SField -WDB10 129 0
+.SLink 129 10 15 1 0
+.SField -WDB10 130 0
+.SLink 130 10 15 2 0
+.SField -WDB10 131 0
+.SLink 131 10 15 3 0
+.SField -WDB10 132 0
+.SLink 132 10 15 4 0
+.SField "" 133 0
+.SField -WDB12 134 0
+.SLink 134 11 22 1 0
+.SField -WDB12 135 0
+.SLink 135 11 22 2 0
+.SField -WDB12 136 0
+.SLink 136 11 22 3 0
+.SField -WDB12 137 0
+.SLink 137 11 22 5 0
+.SField -WDB12 138 0
+.SLink 138 11 22 6 0
+.SField -WDB12 139 0
+.SLink 139 11 22 7 0
+.SField -WDB12 140 0
+.SLink 140 11 22 4 0
+.SField YF2A15-050UB5XLEAX 141 0
+.SLink 141 14 25 1 0
+.SField YF2A15-050UB5XLEAX 142 0
+.SLink 142 14 25 2 0
+.SField YF2A15-050UB5XLEAX 143 0
+.SLink 143 14 25 3 0
+.SField "" 144 0
+.SField YF2A15-050UB5XLEAX 145 0
+.SLink 145 14 26 1 0
+.SField YF2A15-050UB5XLEAX 146 0
+.SLink 146 14 26 2 0
+.SField YF2A15-050UB5XLEAX 147 0
+.SLink 147 14 26 3 0
+.SField "" 148 0
+.SField YF2A15-050UB5XLEAX 149 0
+.SLink 149 14 32 1 0
+.SField YF2A15-050UB5XLEAX 150 0
+.SLink 150 14 32 2 0
+.SField YF2A15-050UB5XLEAX 151 0
+.SLink 151 14 32 3 0
+.SField "" 152 0
+.SField YF2A15-050UB5XLEAX 153 0
+.SLink 153 14 33 1 0
+.SField YF2A15-050UB5XLEAX 154 0
+.SLink 154 14 33 2 0
+.SField YF2A15-050UB5XLEAX 155 0
+.SLink 155 14 33 3 0
+.SField "" 156 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 157 0
+.SLink 157 10 15 1 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 158 0
+.SLink 158 10 15 2 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 159 0
+.SLink 159 10 15 3 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 160 0
+.SLink 160 10 15 4 0
+.SField "" 161 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 162 0
+.SLink 162 11 22 1 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 163 0
+.SLink 163 11 22 2 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 164 0
+.SLink 164 11 22 3 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 165 0
+.SLink 165 11 22 5 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 166 0
+.SLink 166 11 22 6 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 167 0
+.SLink 167 11 22 7 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 168 0
+.SLink 168 11 22 4 0
+.SField -X43 169 0
+.SLink 169 11 12 1 0
+.SField -X43 170 0
+.SLink 170 11 21 1 0
+.SField -X43 171 0
+.SLink 171 11 20 1 0
+.SField -X43 172 0
+.SLink 172 11 19 1 0
+.SField -X43 173 0
+.SLink 173 11 16 1 0
+.SField -X43 174 0
+.SLink 174 11 17 1 0
+.SField -X43 175 0
+.SLink 175 11 18 1 0
+.SField "" 176 0
+.SField -X2 177 0
+.SLink 177 10 9 2 0
+.SField -X2 178 0
+.SLink 178 10 8 2 0
+.SField -X2 179 0
+.SLink 179 10 7 2 0
+.SField -X2 180 0
+.SLink 180 10 6 2 0
+.SField "" 181 0
+.SField -XDC5 182 0
+.SLink 182 14 30 1 0
+.SField -XDC5 183 0
+.SLink 183 14 29 1 0
+.SField -X5 184 0
+.SLink 184 14 28 1 0
+.SField "" 185 0
+.SField -XDC5 186 0
+.SLink 186 14 23 1 0
+.SField -XDC5 187 0
+.SLink 187 14 22 1 0
+.SField -X5 188 0
+.SLink 188 14 21 1 0
+.SField "" 189 0
+.SField -XDC5 190 0
+.SLink 190 14 16 1 0
+.SField -XDC5 191 0
+.SLink 191 14 15 1 0
+.SField -X5 192 0
+.SLink 192 14 14 1 0
+.SField "" 193 0
+.SField -XDC5 194 0
+.SLink 194 14 13 1 0
+.SField -XDC5 195 0
+.SLink 195 14 12 1 0
+.SField -X5 196 0
+.SLink 196 14 11 1 0
+.SField "" 197 0
+.SField "" 198 0
+.SField "" 199 0
+.SField "" 200 0
+.SField "" 201 0
+.SField "" 202 0
+.SField "" 203 0
+.SField "" 204 0
+.SField "" 205 0
+.SField "" 206 0
+.SField "" 207 0
+.SField "" 208 0
+.SField "" 209 0
+.SField "" 210 0
+.SField "" 211 0
+.SField "" 212 0
+.SField "" 213 0
+.SField "" 214 0
+.SField "" 215 0
+.SField "" 216 0
+.SField "" 217 0
+.SField "" 218 0
+.SField "" 219 0
+.SField "" 220 0
+.SField "" 221 0
+.SField "" 222 0
+.SField "" 223 0
+.SField "" 224 0
+.SField "" 225 0
+.SField "" 226 0
+.SField "" 227 0
+.SField "" 228 0
+.SField "" 229 0
+.SField "" 230 0
+.SField "" 231 0
+.SField "" 232 0
+.SField "" 233 0
+.SField "" 234 0
+.SField "" 235 0
+.SField "" 236 0
+.SField "" 237 0
+.SField "" 238 0
+.SField "" 239 0
+.SField "" 240 0
+.SField "" 241 0
+.SField "" 242 0
+.SField "" 243 0
+.SField "" 244 0
+.SField "" 245 0
+.SField "" 246 0
+.SField "" 247 0
+.SField "" 248 0
+.SField "" 249 0
+.SField "" 250 0
+.SField "" 251 0
+.SField "" 252 0
+.SField PE 253 0
+.SLink 253 11 8 5 0
+.SField 6 254 0
+.SLink 254 11 8 7 0
+.SField 5 255 0
+.SLink 255 11 8 6 0
+.SField 4 256 0
+.SLink 256 11 8 4 0
+.SField 3 257 0
+.SLink 257 11 8 3 0
+.SField 2 258 0
+.SLink 258 11 8 2 0
+.SField 1 259 0
+.SLink 259 11 8 1 0
+.SField "" 260 0
+.SField 4 261 0
+.SLink 261 10 3 4 0
+.SField 3 262 0
+.SLink 262 10 3 3 0
+.SField 2 263 0
+.SLink 263 10 3 2 0
+.SField 1 264 0
+.SLink 264 10 3 1 0
+.SField "" 265 0
+.SField 4 266 0
+.SLink 266 14 27 4 0
+.SField 3 267 0
+.SLink 267 14 27 3 0
+.SField 1 268 0
+.SLink 268 14 27 1 0
+.SField "" 269 0
+.SField 4 270 0
+.SLink 270 14 19 4 0
+.SField 3 271 0
+.SLink 271 14 19 3 0
+.SField 1 272 0
+.SLink 272 14 19 1 0
+.SField "" 273 0
+.SField 4 274 0
+.SLink 274 14 6 4 0
+.SField 3 275 0
+.SLink 275 14 6 3 0
+.SField 1 276 0
+.SLink 276 14 6 1 0
+.SField "" 277 0
+.SField 4 278 0
+.SLink 278 14 5 4 0
+.SField 3 279 0
+.SLink 279 14 5 3 0
+.SField 1 280 0
+.SLink 280 14 5 1 0
+.SField -MAA3 281 0
+.SLink 281 11 8 5 0
+.SField -MAA3 282 0
+.SLink 282 11 8 7 0
+.SField -MAA3 283 0
+.SLink 283 11 8 6 0
+.SField -MAA3 284 0
+.SLink 284 11 8 4 0
+.SField -MAA3 285 0
+.SLink 285 11 8 3 0
+.SField -MAA3 286 0
+.SLink 286 11 8 2 0
+.SField -MAA3 287 0
+.SLink 287 11 8 1 0
+.SField "" 288 0
+.SField -MAA1 289 0
+.SLink 289 10 3 4 0
+.SField -MAA1 290 0
+.SLink 290 10 3 3 0
+.SField -MAA1 291 0
+.SLink 291 10 3 2 0
+.SField -MAA1 292 0
+.SLink 292 10 3 1 0
+.SField "" 293 0
+.SField -BGG5 294 0
+.SLink 294 14 27 4 0
+.SField -BGG5 295 0
+.SLink 295 14 27 3 0
+.SField -BGG5 296 0
+.SLink 296 14 27 1 0
+.SField "" 297 0
+.SField -BGG4 298 0
+.SLink 298 14 19 4 0
+.SField -BGG4 299 0
+.SLink 299 14 19 3 0
+.SField -BGG4 300 0
+.SLink 300 14 19 1 0
+.SField "" 301 0
+.SField -BGG3 302 0
+.SLink 302 14 6 4 0
+.SField -BGG3 303 0
+.SLink 303 14 6 3 0
+.SField -BGG3 304 0
+.SLink 304 14 6 1 0
+.SField "" 305 0
+.SField -BGG2 306 0
+.SLink 306 14 5 4 0
+.SField -BGG2 307 0
+.SLink 307 14 5 3 0
+.SField -BGG2 308 0
+.SLink 308 14 5 1 0
+.SField "" 309 0
+.SField "" 310 0
+.SField "" 311 0
+.SField "" 312 0
+.SField "" 313 0
+.SField "" 314 0
+.SField "" 315 0
+.SField "" 316 0
+.SField "" 317 0
+.SField "" 318 0
+.SField "" 319 0
+.SField "" 320 0
+.SField "" 321 0
+.SField "" 322 0
+.SField "" 323 0
+.SField "" 324 0
+.SField "" 325 0
+.SField "" 326 0
+.SField "" 327 0
+.SField "" 328 0
+.SField "" 329 0
+.SField "" 330 0
+.SField "" 331 0
+.SField "" 332 0
+.SField "" 333 0
+.SField "" 334 0
+.SField "" 335 0
+.SField "" 336 0
+.SField "" 337 0
+.SField "" 338 0
+.SField "" 339 0
+.SField "" 340 0
+.SField "" 341 0
+.SField "" 342 0
+.SField "" 343 0
+.SField "" 344 0
+.SField "" 345 0
+.SField "" 346 0
+.SField "" 347 0
+.SField "" 348 0
+.SField "" 349 0
+.SField "" 350 0
+.SField "" 351 0
+.SField "" 352 0
+.SField "" 353 0
+.SField "" 354 0
+.SField "" 355 0
+.SField "" 356 0
+.SField "" 357 0
+.SField "" 358 0
+.SField "" 359 0
+.SField "" 360 0
+.SField "" 361 0
+.SField "" 362 0
+.SField "" 363 0
+.SField "" 364 0
+.end
+
+
+.end
+
+.PageNo 12 36 '25-02-2025 09:08:50' 4 10000 1 0 0 1 8 32 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title 'Cable list' 0
+.Born 2 2 24.0 1515800857
+
+
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+.AppData [PageTitle]
+.AppData 'Format2=%s %s..%s'
+.AppData FirstItem=-WDB19
+.AppData LastItem=
+
+
+.Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.Pagehead2 pcsCables1.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 2 0 0 0 0 -1 0 0
+.Name "" 36250 20000 0 0 0 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.Typ "" 36250 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Art "" 36250 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Func "" 35000 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.SField /MotorMAA3.5 1 0
+.SLink 1 12 27 1 0
+.SField /MotorMAA3.5 2 0
+.SLink 2 12 3 1 0
+.SField /MotorMAA3.5 3 0
+.SLink 3 12 26 1 0
+.SField /MotorMAA3.5 4 0
+.SLink 4 12 3 2 0
+.SField 1 5 0
+.SLink 5 12 31 1 0
+.SField 2 6 0
+.SLink 6 12 31 2 0
+.SField 3 7 0
+.SLink 7 12 31 3 0
+.SField 4 8 0
+.SLink 8 12 31 5 0
+.SField 5 9 0
+.SLink 9 12 31 6 0
+.SField 6 10 0
+.SLink 10 12 31 7 0
+.SField GNYE 11 0
+.SLink 11 12 31 4 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField /MotorMAA3.5 18 0
+.SLink 18 12 25 1 0
+.SField /MotorMAA3.6 19 0
+.SLink 19 12 28 1 0
+.SField /MotorMAA3.6 20 0
+.SLink 20 12 29 1 0
+.SField /MotorMAA3.6 21 0
+.SLink 21 12 30 1 0
+.SField /MotorMAA3.5 22 0
+.SLink 22 12 12 2 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.SField "" 26 0
+.SField "" 27 0
+.SField "" 28 0
+.SField /MotorMAA3.5 29 0
+.SLink 29 12 3 3 0
+.SField /MotorMAA3.5 30 0
+.SLink 30 12 3 6 0
+.SField /MotorMAA3.5 31 0
+.SLink 31 12 3 5 0
+.SField /MotorMAA3.5 32 0
+.SLink 32 12 3 4 0
+.SField /MotorMAA3.5 33 0
+.SLink 33 12 3 7 0
+.SField "" 34 0
+.SField "" 35 0
+.SField "" 36 0
+.SField "" 37 0
+.SField "" 38 0
 .SField "" 39 0
 .SField "" 40 0
 .SField "" 41 0
@@ -26406,38 +28278,44 @@
 .SField "" 98 0
 .SField "" 99 0
 .SField "" 100 0
-.SField 4 101 0
-.SLink 101 10 9 2 0
-.SField 3 102 0
-.SLink 102 10 8 2 0
-.SField 2 103 0
-.SLink 103 10 7 2 0
-.SField 1 104 0
-.SLink 104 10 6 2 0
+.SField "" 101 0
+.SField "" 102 0
+.SField "" 103 0
+.SField "" 104 0
 .SField "" 105 0
-.SField 9 106 0
-.SField 8 107 0
-.SField 7 108 0
-.SField "" 109 0
-.SField 6 110 0
-.SField 5 111 0
-.SField 4 112 0
-.SField -WDB6 113 0
-.SField -WDB6 114 0
-.SField -WDB6 115 0
-.SField "" 116 0
-.SField -WDB7 117 0
-.SField -WDB7 118 0
-.SField -WDB7 119 0
+.SField 1 106 0
+.SLink 106 12 12 2 0
+.SField 6 107 0
+.SLink 107 12 30 1 0
+.SField 5 108 0
+.SLink 108 12 29 1 0
+.SField 4 109 0
+.SLink 109 12 28 1 0
+.SField 3 110 0
+.SLink 110 12 25 1 0
+.SField 2 111 0
+.SLink 111 12 26 1 0
+.SField 1 112 0
+.SLink 112 12 27 1 0
+.SField -WDB19 113 0
+.SLink 113 12 31 1 0
+.SField -WDB19 114 0
+.SLink 114 12 31 2 0
+.SField -WDB19 115 0
+.SLink 115 12 31 3 0
+.SField -WDB19 116 0
+.SLink 116 12 31 5 0
+.SField -WDB19 117 0
+.SLink 117 12 31 6 0
+.SField -WDB19 118 0
+.SLink 118 12 31 7 0
+.SField -WDB19 119 0
+.SLink 119 12 31 4 0
 .SField "" 120 0
-.SField -WDB10 121 0
-.SLink 121 10 0 0 0
-.SField -WDB10 122 0
-.SLink 122 10 0 0 0
-.SField -WDB10 123 0
-.SLink 123 10 0 0 0
-.SField -WDB10 124 0
-.SLink 124 10 0 0 0
+.SField "" 121 0
+.SField "" 122 0
+.SField "" 123 0
+.SField "" 124 0
 .SField "" 125 0
 .SField "" 126 0
 .SField "" 127 0
@@ -26454,22 +28332,25 @@
 .SField "" 138 0
 .SField "" 139 0
 .SField "" 140 0
-.SField YF2A15-050UB5XLEAX 141 0
-.SField YF2A15-050UB5XLEAX 142 0
-.SField YF2A15-050UB5XLEAX 143 0
-.SField "" 144 0
-.SField YF2A15-050UB5XLEAX 145 0
-.SField YF2A15-050UB5XLEAX 146 0
-.SField YF2A15-050UB5XLEAX 147 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 141 0
+.SLink 141 12 31 1 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 142 0
+.SLink 142 12 31 2 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 143 0
+.SLink 143 12 31 3 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 144 0
+.SLink 144 12 31 5 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 145 0
+.SLink 145 12 31 6 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 146 0
+.SLink 146 12 31 7 0
+.SField 'SCANFLEX H 2001 - 300/500 V' 147 0
+.SLink 147 12 31 4 0
 .SField "" 148 0
-.SField 'SCANFLEX H 2001 - 300/500 V' 149 0
-.SLink 149 10 0 0 0
-.SField 'SCANFLEX H 2001 - 300/500 V' 150 0
-.SLink 150 10 0 0 0
-.SField 'SCANFLEX H 2001 - 300/500 V' 151 0
-.SLink 151 10 0 0 0
-.SField 'SCANFLEX H 2001 - 300/500 V' 152 0
-.SLink 152 10 0 0 0
+.SField "" 149 0
+.SField "" 150 0
+.SField "" 151 0
+.SField "" 152 0
 .SField "" 153 0
 .SField "" 154 0
 .SField "" 155 0
@@ -26502,22 +28383,25 @@
 .SField "" 182 0
 .SField "" 183 0
 .SField "" 184 0
-.SField -X2 185 0
-.SLink 185 10 9 2 0
-.SField -X2 186 0
-.SLink 186 10 8 2 0
-.SField -X2 187 0
-.SLink 187 10 7 2 0
-.SField -X2 188 0
-.SLink 188 10 6 2 0
+.SField "" 185 0
+.SField "" 186 0
+.SField "" 187 0
+.SField "" 188 0
 .SField "" 189 0
-.SField -X8 190 0
-.SField -X8 191 0
-.SField -X8 192 0
-.SField "" 193 0
-.SField -X8 194 0
-.SField -X8 195 0
-.SField -X8 196 0
+.SField -X5 190 0
+.SLink 190 12 12 2 0
+.SField -X5 191 0
+.SLink 191 12 30 1 0
+.SField -X5 192 0
+.SLink 192 12 29 1 0
+.SField -X5 193 0
+.SLink 193 12 28 1 0
+.SField -X5 194 0
+.SLink 194 12 25 1 0
+.SField -X5 195 0
+.SLink 195 12 26 1 0
+.SField -X5 196 0
+.SLink 196 12 27 1 0
 .SField "" 197 0
 .SField "" 198 0
 .SField "" 199 0
@@ -26590,22 +28474,25 @@
 .SField "" 266 0
 .SField "" 267 0
 .SField "" 268 0
-.SField 4 269 0
-.SLink 269 10 3 4 0
-.SField 3 270 0
-.SLink 270 10 3 3 0
-.SField 2 271 0
-.SLink 271 10 3 2 0
-.SField 1 272 0
-.SLink 272 10 3 1 0
+.SField "" 269 0
+.SField "" 270 0
+.SField "" 271 0
+.SField "" 272 0
 .SField "" 273 0
-.SField 4 274 0
-.SField 3 275 0
-.SField 1 276 0
-.SField "" 277 0
-.SField 4 278 0
-.SField 3 279 0
-.SField 1 280 0
+.SField PE 274 0
+.SLink 274 12 3 7 0
+.SField W1 275 0
+.SLink 275 12 3 4 0
+.SField V1 276 0
+.SLink 276 12 3 5 0
+.SField U1 277 0
+.SLink 277 12 3 6 0
+.SField W2 278 0
+.SLink 278 12 3 3 0
+.SField V2 279 0
+.SLink 279 12 3 2 0
+.SField U2 280 0
+.SLink 280 12 3 1 0
 .SField "" 281 0
 .SField "" 282 0
 .SField "" 283 0
@@ -26622,22 +28509,25 @@
 .SField "" 294 0
 .SField "" 295 0
 .SField "" 296 0
-.SField -MAA1 297 0
-.SLink 297 10 3 4 0
-.SField -MAA1 298 0
-.SLink 298 10 3 3 0
-.SField -MAA1 299 0
-.SLink 299 10 3 2 0
-.SField -MAA1 300 0
-.SLink 300 10 3 1 0
+.SField "" 297 0
+.SField "" 298 0
+.SField "" 299 0
+.SField "" 300 0
 .SField "" 301 0
-.SField -BGG3 302 0
-.SField -BGG3 303 0
-.SField -BGG3 304 0
-.SField "" 305 0
-.SField -BGG2 306 0
-.SField -BGG2 307 0
-.SField -BGG2 308 0
+.SField -MAA3 302 0
+.SLink 302 12 3 7 0
+.SField -MAA3 303 0
+.SLink 303 12 3 4 0
+.SField -MAA3 304 0
+.SLink 304 12 3 5 0
+.SField -MAA3 305 0
+.SLink 305 12 3 6 0
+.SField -MAA3 306 0
+.SLink 306 12 3 3 0
+.SField -MAA3 307 0
+.SLink 307 12 3 2 0
+.SField -MAA3 308 0
+.SLink 308 12 3 1 0
 .SField "" 309 0
 .SField "" 310 0
 .SField "" 311 0
@@ -26699,15 +28589,15 @@
 
 .end
 
-.PageNo 12 33 '23-01-2025 10:54:54' 4 10000 1 0 0 1 9 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 13 37 '25-02-2025 09:08:50' 4 10000 1 0 0 1 9 128 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'PLC list' 0
 .Born 2 0 20.0 1513576155
 
 
 .AppData [PageTitle]
 .AppData 'Format2=%s %s..%s'
-.AppData LastItem=
-.AppData FirstItem=
+.AppData LastItem=-KEA1:X12.3
+.AppData FirstItem=-KEA1:10.7
 .AppData [MechLoad]
 .AppData DBField=
 .AppData [DataTemplates]
@@ -26759,54 +28649,72 @@
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField "" 5 0
+.SField -KEA1:10.7 3 0
+.SLink 3 18 0 0 0
+.SField /PLCPower1.2 4 0
+.SLink 4 18 0 0 0
+.SField -XDC5 5 0
+.SLink 5 18 0 0 0
 .SField "" 6 0
 .SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
+.SField -KEA1:10.8 8 0
+.SLink 8 18 0 0 0
+.SField /PLCPower1.3 9 0
+.SLink 9 18 0 0 0
+.SField -XDC5 10 0
+.SLink 10 18 0 0 0
 .SField "" 11 0
 .SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
-.SField "" 15 0
+.SField -KEA1:10.9 13 0
+.SLink 13 18 0 0 0
+.SField /PLCPower1.4 14 0
+.SLink 14 18 0 0 0
+.SField -XDC5 15 0
+.SLink 15 18 0 0 0
 .SField "" 16 0
 .SField "" 17 0
-.SField "" 18 0
-.SField "" 19 0
-.SField "" 20 0
+.SField -KEA1:10.10 18 0
+.SLink 18 18 0 0 0
+.SField /PLCPower1.7 19 0
+.SLink 19 18 0 0 0
+.SField -XD8 20 0
+.SLink 20 18 0 0 0
 .SField "" 21 0
 .SField "" 22 0
-.SField "" 23 0
-.SField "" 24 0
-.SField "" 25 0
+.SField -KEA1:10.11 23 0
+.SField /PLCPower2.2 24 0
+.SField -XD8 25 0
 .SField "" 26 0
 .SField "" 27 0
-.SField "" 28 0
-.SField "" 29 0
-.SField "" 30 0
+.SField -KEA1:10.12 28 0
+.SField /PLCPower2.4 29 0
+.SField -FC3 30 0
 .SField "" 31 0
 .SField "" 32 0
-.SField "" 33 0
-.SField "" 34 0
-.SField "" 35 0
+.SField -KEA1:10.13 33 0
+.SField /PLCPower2.6 34 0
+.SField -FC4 35 0
 .SField "" 36 0
 .SField "" 37 0
-.SField "" 38 0
-.SField "" 39 0
-.SField "" 40 0
+.SField -KEA1:10.14 38 0
+.SField /PLCPower2.8 39 0
+.SField -XDC5 40 0
 .SField "" 41 0
 .SField "" 42 0
-.SField "" 43 0
-.SField "" 44 0
-.SField "" 45 0
+.SField -KEA1:X12.2 43 0
+.SLink 43 19 3 1 0
+.SField /PLCPower3.2 44 0
+.SLink 44 19 3 1 0
+.SField -QA3 45 0
+.SLink 45 19 5 1 0
 .SField "" 46 0
 .SField "" 47 0
-.SField "" 48 0
-.SField "" 49 0
-.SField "" 50 0
+.SField -KEA1:X12.3 48 0
+.SLink 48 19 4 1 0
+.SField /PLCPower3.4 49 0
+.SLink 49 19 4 1 0
+.SField -QN1 50 0
+.SLink 50 19 0 0 0
 .SField "" 51 0
 .SField "" 52 0
 .SField "" 53 0
@@ -26897,16 +28805,22 @@
 .SField "" 138 0
 .SField "" 139 0
 .SField "" 140 0
-.SField "" 141 0
-.SField "" 142 0
-.SField "" 143 0
-.SField "" 144 0
-.SField "" 145 0
-.SField "" 146 0
-.SField "" 147 0
-.SField "" 148 0
-.SField "" 149 0
-.SField "" 150 0
+.SField DIA.0 141 0
+.SLink 141 18 0 0 0
+.SField DIA.1 142 0
+.SLink 142 18 0 0 0
+.SField DIA.2 143 0
+.SLink 143 18 0 0 0
+.SField DIA.3 144 0
+.SLink 144 18 0 0 0
+.SField DIA.4 145 0
+.SField DIA.5 146 0
+.SField DIA.6 147 0
+.SField DIA.7 148 0
+.SField DQA.0 149 0
+.SLink 149 19 3 1 0
+.SField DQA.1 150 0
+.SLink 150 19 4 1 0
 .SField "" 151 0
 .SField "" 152 0
 .SField "" 153 0
@@ -26953,14 +28867,14 @@
 .SField "" 194 0
 .SField "" 195 0
 .SField "" 196 0
-.SField "" 197 0
-.SField "" 198 0
-.SField "" 199 0
-.SField "" 200 0
-.SField "" 201 0
+.SField -XDC5 197 0
+.SField -XDC5 198 0
+.SField -XDC5 199 0
+.SField -XD8 200 0
+.SField -XD8 201 0
 .SField "" 202 0
 .SField "" 203 0
-.SField "" 204 0
+.SField -XDC5 204 0
 .SField "" 205 0
 .SField "" 206 0
 .SField "" 207 0
@@ -26986,7 +28900,7 @@
 
 .end
 
-.PageNo 13 34 '26-01-2025 15:35:02' 4 10000 1 0 300 1 10 128 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 14 38 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 128 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Connection list' 0
 .Born 2 0 20.0 1513576155
 
@@ -27042,100 +28956,116 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -XDC3:2 1 0
-.SLink 1 7 11 2 0
-.SField -XDC3:5 2 0
-.SField -XDC3:5 3 0
-.SField -X8:1 4 0
-.SField -BGG1:1 5 0
-.SField -QAC1:A1 6 0
-.SLink 6 7 9 1 0
-.SField -XDC4:2 7 0
-.SLink 7 7 13 2 0
-.SField -X8:2 8 0
-.SField -XDC4:1 9 0
+.SField -X5:1 1 0
+.SLink 1 14 8 2 0
+.SField -BGG1:1 2 0
+.SLink 2 14 4 1 0
+.SField -XDC5:2 3 0
+.SLink 3 14 9 2 0
+.SField -BGG1:3 4 0
+.SLink 4 14 4 3 0
+.SField -BGG1:4 5 0
+.SLink 5 14 4 4 0
+.SField -XDC3:1 6 0
+.SLink 6 16 5 2 0
+.SField -QA3:A1 7 0
+.SLink 7 19 5 1 0
+.SField -XDC5:3 8 0
+.SLink 8 18 0 0 0
+.SField -XD8:7 9 0
 .SField -XDC4:1 10 0
-.SField -BGG1:3 11 0
-.SField -KF1:A1 12 0
-.SLink 12 7 7 7 0
-.SField -SGC1:11 13 0
-.SLink 13 8 3 1 0
-.SField -SGC1:12 14 0
-.SLink 14 8 3 2 0
-.SField -BGG1:4 15 0
-.SField -KF1:A2 16 0
-.SLink 16 7 7 8 0
-.SField -XDC3:3 17 0
-.SLink 17 7 12 2 0
-.SField -SGC1:21 18 0
-.SLink 18 8 3 3 0
-.SField -SGC1:22 19 0
-.SLink 19 8 3 4 0
-.SField -X1:1 20 0
-.SLink 20 5 4 1 0
-.SField -SGA1:1 21 0
-.SLink 21 5 8 1 0
-.SField -FCA1:1 22 0
-.SLink 22 5 10 1 0
-.SField -XDC1:1 23 0
-.SLink 23 5 12 2 0
-.SField -SJB1:21 24 0
-.SLink 24 13 3 1 0
-.SField -SJB1.P:X1 25 0
-.SLink 25 13 4 1 0
-.SField -SJB1.P:X2 26 0
-.SLink 26 13 4 2 0
-.SField -X1:2 27 0
-.SLink 27 5 5 1 0
-.SField -SGA1:3 28 0
-.SLink 28 5 8 3 0
-.SField -KF1:13 29 0
-.SLink 29 7 7 1 0
-.SField -X8:4 30 0
-.SField -X8:7 31 0
-.SField -XDC3:5 32 0
-.SField -X8:1 33 0
-.SField -KF1:14 34 0
-.SLink 34 7 7 2 0
-.SField -QAC1:A2 35 0
-.SLink 35 7 9 2 0
-.SField -XDC4:1 36 0
-.SField -X8:5 37 0
-.SField -X8:8 38 0
-.SField -X8:2 39 0
-.SField -XDC3:1 40 0
-.SLink 40 7 10 2 0
-.SField -X5:1 41 0
-.SLink 41 8 7 2 0
-.SField -X5:2 42 0
-.SLink 42 8 9 1 0
-.SField -X8:3 43 0
-.SField -XDC4:1 44 0
-.SLink 44 7 15 2 0
-.SField -KF1:23 45 0
-.SLink 45 7 7 3 0
-.SField -X5:3 46 0
-.SLink 46 8 8 2 0
-.SField -X5:4 47 0
-.SLink 47 8 10 1 0
-.SField -XDD1:5 48 0
-.SLink 48 5 3 5 0
-.SField -X1:1 49 0
-.SLink 49 5 4 2 0
-.SField -SGA1:2 50 0
-.SLink 50 5 8 2 0
-.SField -FCA1:2 51 0
-.SLink 51 5 10 2 0
-.SField -X4:1 52 0
-.SLink 52 13 6 2 0
-.SField -SJB1:22 53 0
-.SLink 53 13 3 2 0
-.SField -X4:2 54 0
-.SLink 54 13 5 1 0
-.SField -XDD1:4 55 0
-.SLink 55 5 3 4 0
-.SField -X1:2 56 0
-.SLink 56 5 5 2 0
+.SLink 10 19 7 2 0
+.SField -XDC4:1 11 0
+.SLink 11 16 4 2 0
+.SField -XDC:PE 12 0
+.SLink 12 16 6 2 0
+.SField -QAC1:1 13 0
+.SLink 13 9 3 1 0
+.SField -QAC2:1 14 0
+.SLink 14 9 4 1 0
+.SField -XDC8:1 15 0
+.SLink 15 9 5 2 0
+.SField -QAC1:3 16 0
+.SLink 16 9 3 3 0
+.SField -QAC2:3 17 0
+.SLink 17 9 4 3 0
+.SField -XDC8:2 18 0
+.SLink 18 9 6 2 0
+.SField -QAC1:5 19 0
+.SLink 19 9 3 5 0
+.SField -QAC2:5 20 0
+.SLink 20 9 4 5 0
+.SField -XDC8:3 21 0
+.SLink 21 9 7 2 0
+.SField -XDC5:6 22 0
+.SLink 22 18 0 0 0
+.SField -XDC3:2 23 0
+.SLink 23 7 11 2 0
+.SField -BGG2:1 24 0
+.SLink 24 14 5 1 0
+.SField -XDC5:5 25 0
+.SLink 25 14 12 2 0
+.SField -BGG2:3 26 0
+.SLink 26 14 5 3 0
+.SField -QAC1:A1 27 0
+.SLink 27 7 9 1 0
+.SField XDC4:2 28 0
+.SLink 28 7 13 2 0
+.SField -XDC3:+ 29 0
+.SLink 29 14 3 1 0
+.SField -X5:1 30 0
+.SLink 30 14 8 1 0
+.SField XDC4:- 31 0
+.SLink 31 14 7 1 0
+.SField -XDC5:2 32 0
+.SLink 32 14 9 1 0
+.SField -XDC5:3 33 0
+.SLink 33 14 10 1 0
+.SField -KEA1:X10.1 34 0
+.SLink 34 16 3 1 0
+.SField -KEA1:X12.2 35 0
+.SLink 35 19 3 1 0
+.SField -KEA1:10.7 36 0
+.SLink 36 18 0 0 0
+.SField -KEA1:10.11 37 0
+.SField -QA3:A2 38 0
+.SLink 38 19 5 2 0
+.SField -KEA1:X10.2 39 0
+.SLink 39 16 3 2 0
+.SField -KEA1:X10.3 40 0
+.SLink 40 16 3 3 0
+.SField -XD1:1 41 0
+.SLink 41 9 11 2 0
+.SField -QAC1:2 42 0
+.SLink 42 9 3 2 0
+.SField -QAC2:2 43 0
+.SLink 43 9 4 2 0
+.SField -XD1:2 44 0
+.SLink 44 9 12 2 0
+.SField -QAC1:4 45 0
+.SLink 45 9 3 4 0
+.SField -QAC2:4 46 0
+.SLink 46 9 4 4 0
+.SField -XD1:3 47 0
+.SLink 47 9 13 2 0
+.SField -QAC1:6 48 0
+.SLink 48 9 3 6 0
+.SField -QAC2:6 49 0
+.SLink 49 9 4 6 0
+.SField -KEA1:10.8 50 0
+.SLink 50 18 0 0 0
+.SField -KF1:13 51 0
+.SLink 51 7 7 1 0
+.SField -X5:4 52 0
+.SLink 52 14 11 1 0
+.SField -XDC4:- 53 0
+.SLink 53 14 17 1 0
+.SField -XDC5:5 54 0
+.SLink 54 14 12 1 0
+.SField -KF1:14 55 0
+.SLink 55 7 7 2 0
+.SField -QAC1:A2 56 0
+.SLink 56 7 9 2 0
 .SField "" 57 0
 .SField "" 58 0
 .SField "" 59 0
@@ -27193,32 +29123,32 @@
 .SField "" 111 0
 .SField "" 112 0
 .SField "" 113 0
-.SField "" 114 0
+.SField -WDB5:1 114 0
 .SField "" 115 0
-.SField "" 116 0
-.SField -WDB5:1 117 0
+.SField -WDB5:3 116 0
+.SField -WDB5:4 117 0
 .SField "" 118 0
 .SField "" 119 0
 .SField "" 120 0
 .SField "" 121 0
 .SField "" 122 0
-.SField -WDB5:3 123 0
+.SField "" 123 0
 .SField "" 124 0
-.SField -WDB2:YELLOW 125 0
-.SField -WDB2:GREEN 126 0
-.SField -WDB5:4 127 0
+.SField "" 125 0
+.SField "" 126 0
+.SField "" 127 0
 .SField "" 128 0
 .SField "" 129 0
-.SField -WDB2:WHITE 130 0
-.SField -WDB2:BROWN 131 0
-.SField -WDB1:1 132 0
+.SField "" 130 0
+.SField "" 131 0
+.SField "" 132 0
 .SField "" 133 0
 .SField "" 134 0
 .SField "" 135 0
-.SField -WDB4:1 136 0
+.SField -WDB6:1 136 0
 .SField "" 137 0
-.SField -WDB4:2 138 0
-.SField -WDB1:2 139 0
+.SField -WDB6:3 138 0
+.SField "" 139 0
 .SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
@@ -27337,7 +29267,7 @@
 
 .end
 
-.PageNo 14 35 '26-01-2025 15:35:02' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 15 39 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Connection list' 0
 .Born 2 2 24.0 1513576450
 
@@ -27392,118 +29322,114 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -FCA1:3 1 0
-.SLink 1 5 10 3 0
-.SField -XDC1:2 2 0
-.SLink 2 5 13 2 0
-.SField -SJB1:13 3 0
-.SLink 3 13 3 3 0
-.SField -QAC3:1 4 0
-.SLink 4 10 4 1 0
-.SField -QAC3:1 5 0
-.SLink 5 10 4 1 0
-.SField -SJB1:14 6 0
-.SLink 6 13 3 4 0
-.SField -QAC3 7 0
-.SLink 7 10 4 2 0
-.SField -FCC1:2 8 0
-.SLink 8 10 16 2 0
-.SField -X2:1 9 0
-.SLink 9 10 6 1 0
-.SField -X1:3 10 0
-.SLink 10 5 6 1 0
-.SField -SGA1:5 11 0
-.SLink 11 5 8 5 0
-.SField -FCA1:5 12 0
-.SLink 12 5 10 5 0
-.SField -XDC1:3 13 0
-.SLink 13 5 14 2 0
-.SField -FCA2:1 14 0
-.SLink 14 6 10 1 0
-.SField -QAC1:1 15 0
-.SLink 15 9 3 1 0
-.SField -TBA1:L(+) 16 0
-.SLink 16 6 3 6 0
-.SField -QAC3:3 17 0
-.SLink 17 10 4 3 0
-.SField -QAC3:3 18 0
-.SLink 18 10 4 3 0
-.SField -QAC3 19 0
-.SLink 19 10 4 4 0
-.SField -FCC1:4 20 0
-.SLink 20 10 16 4 0
-.SField -X2:2 21 0
-.SLink 21 10 7 1 0
-.SField -QAC2:1 22 0
-.SLink 22 9 4 1 0
-.SField -QAC2:A1 23 0
-.SLink 23 7 8 1 0
-.SField -FCA3:1 24 0
-.SLink 24 6 4 2 0
-.SField -XDC4:3 25 0
-.SLink 25 7 14 2 0
-.SField -XDC8:1 26 0
-.SLink 26 9 5 2 0
-.SField -XDC3:1 27 0
-.SLink 27 6 5 2 0
-.SField -X1:4 28 0
-.SLink 28 5 11 1 0
-.SField -SGA1:4 29 0
-.SLink 29 5 8 4 0
-.SField -FCA1:4 30 0
-.SLink 30 5 10 4 0
-.SField -X4:3 31 0
-.SLink 31 13 7 2 0
-.SField -QAC4:5 32 0
-.SLink 32 10 5 5 0
-.SField -XDC8:3 33 0
-.SLink 33 10 12 2 0
-.SField -X4:4 34 0
-.SLink 34 13 8 1 0
-.SField -FCC1 35 0
-.SLink 35 10 16 1 0
-.SField -X2:1 36 0
-.SLink 36 10 6 1 0
-.SField -FCC2:2 37 0
-.SLink 37 10 17 2 0
-.SField -XDD1:3 38 0
-.SLink 38 5 3 3 0
-.SField -X1:3 39 0
-.SLink 39 5 6 2 0
-.SField -SGA1:6 40 0
-.SLink 40 5 8 6 0
-.SField -FCA1:6 41 0
-.SLink 41 5 10 6 0
-.SField -XDC1:1 42 0
-.SLink 42 6 8 2 0
-.SField -XDC1:1 43 0
-.SLink 43 9 11 2 0
-.SField -FCA2:2 44 0
-.SLink 44 6 10 2 0
-.SField -QAC4:3 45 0
-.SLink 45 10 5 3 0
-.SField -XDC8:2 46 0
-.SLink 46 10 11 2 0
-.SField -FCC1 47 0
-.SLink 47 10 16 3 0
-.SField -X2:2 48 0
-.SLink 48 10 7 1 0
-.SField -FCC2:4 49 0
-.SLink 49 10 17 4 0
-.SField -QAC1:2 50 0
-.SLink 50 9 3 2 0
-.SField -KF1:24 51 0
-.SLink 51 7 7 4 0
-.SField -TBA1:+ 52 0
-.SLink 52 6 3 3 0
-.SField -QAC2:A2 53 0
-.SLink 53 7 8 2 0
-.SField -QAC2:2 54 0
-.SLink 54 9 4 2 0
-.SField -FCA3:2 55 0
-.SLink 55 6 4 1 0
-.SField -XDD1:2 56 0
-.SLink 56 5 3 2 0
+.SField -XDC5:1 1 0
+.SLink 1 16 8 2 0
+.SField -BGG2:4 2 0
+.SLink 2 14 5 4 0
+.SField -KF1:A1 3 0
+.SLink 3 7 7 7 0
+.SField -QAC1:13 4 0
+.SLink 4 9 8 1 0
+.SField -QAC2:13 5 0
+.SLink 5 9 9 1 0
+.SField -XDC5:1 6 0
+.SLink 6 9 10 2 0
+.SField -XDC4:1 7 0
+.SLink 7 16 9 2 0
+.SField -SGC1:11 8 0
+.SLink 8 8 3 1 0
+.SField -SGC1:12 9 0
+.SLink 9 8 3 2 0
+.SField -FC3:97 10 0
+.SField -QN1:1 11 0
+.SLink 11 19 0 0 0
+.SField -XDC5:9 12 0
+.SLink 12 18 0 0 0
+.SField -XDC4:1 13 0
+.SLink 13 19 6 2 0
+.SField -XDC4:1 14 0
+.SLink 14 16 10 2 0
+.SField -XDC5:7 15 0
+.SField -KF1:A2 16 0
+.SLink 16 7 7 8 0
+.SField -XDC3:3 17 0
+.SLink 17 7 12 2 0
+.SField -SGC1:21 18 0
+.SLink 18 8 3 3 0
+.SField -SGC1:22 19 0
+.SLink 19 8 3 4 0
+.SField -X1:1 20 0
+.SLink 20 5 4 1 0
+.SField -SGA1:1 21 0
+.SLink 21 5 8 1 0
+.SField -FC1:1 22 0
+.SLink 22 5 10 1 0
+.SField -XD1:1 23 0
+.SLink 23 5 12 2 0
+.SField -SJB1.P:X1 24 0
+.SLink 24 13 4 1 0
+.SField -SJB1.P:X2 25 0
+.SLink 25 13 4 2 0
+.SField -QAC8:1 26 0
+.SLink 26 11 3 1 0
+.SField -QAC8:1 27 0
+.SLink 27 11 3 1 0
+.SField -X1:2 28 0
+.SLink 28 5 5 1 0
+.SField -KEA1:X12.1 29 0
+.SLink 29 16 7 3 0
+.SField -XDC5:6 30 0
+.SLink 30 14 13 1 0
+.SField -XDC3:1 31 0
+.SLink 31 7 10 2 0
+.SField -XDC3:1 32 0
+.SLink 32 9 14 2 0
+.SField -QAC1:14 33 0
+.SLink 33 9 8 2 0
+.SField -QAC2:14 34 0
+.SLink 34 9 9 2 0
+.SField -KEA1:X10.6 35 0
+.SLink 35 16 7 5 0
+.SField -X5:1 36 0
+.SLink 36 8 7 2 0
+.SField -X5:2 37 0
+.SLink 37 8 9 1 0
+.SField -KEA1:10.12 38 0
+.SField -KEA1:X12.3 39 0
+.SLink 39 19 4 1 0
+.SField -KEA1:10.9 40 0
+.SLink 40 18 0 0 0
+.SField -QN1:3 41 0
+.SLink 41 19 0 0 0
+.SField -KEA1:X11.1 42 0
+.SLink 42 16 7 6 0
+.SField -FC3:98 43 0
+.SField XDC4:1 44 0
+.SLink 44 7 15 2 0
+.SField -KF1:23 45 0
+.SLink 45 7 7 3 0
+.SField -X5:3 46 0
+.SLink 46 8 8 2 0
+.SField -X5:4 47 0
+.SLink 47 8 10 1 0
+.SField -XDD1:5 48 0
+.SLink 48 5 3 5 0
+.SField -X1:1 49 0
+.SLink 49 5 4 2 0
+.SField -SGA1:2 50 0
+.SLink 50 5 8 2 0
+.SField -FC1:2 51 0
+.SLink 51 5 10 2 0
+.SField -XD8:1 52 0
+.SLink 52 13 6 2 0
+.SField -XD8:2 53 0
+.SLink 53 13 5 1 0
+.SField -XD2:1 54 0
+.SLink 54 11 13 1 0
+.SField -QAC9:1 55 0
+.SLink 55 11 5 1 0
+.SField -XDD1:4 56 0
+.SLink 56 5 3 4 0
 .SField "" 57 0
 .SField "" 58 0
 .SField "" 59 0
@@ -27561,15 +29487,15 @@
 .SField "" 111 0
 .SField "" 112 0
 .SField "" 113 0
-.SField "" 114 0
-.SField -WDB4:3 115 0
+.SField -WDB6:4 114 0
+.SField "" 115 0
 .SField "" 116 0
 .SField "" 117 0
-.SField -WDB4:4 118 0
+.SField "" 118 0
 .SField "" 119 0
-.SField "" 120 0
-.SField "" 121 0
-.SField -WDB1:3 122 0
+.SField -WDB2:1 120 0
+.SField -WDB2:3 121 0
+.SField "" 122 0
 .SField "" 123 0
 .SField "" 124 0
 .SField "" 125 0
@@ -27577,17 +29503,17 @@
 .SField "" 127 0
 .SField "" 128 0
 .SField "" 129 0
-.SField "" 130 0
-.SField "" 131 0
-.SField "" 132 0
+.SField -WDB2:2 130 0
+.SField -WDB2:4 131 0
+.SField -WDB1:1 132 0
 .SField "" 133 0
 .SField "" 134 0
 .SField "" 135 0
-.SField "" 136 0
-.SField "" 137 0
+.SField -WDB4:1 136 0
+.SField -WDB4:2 137 0
 .SField "" 138 0
 .SField "" 139 0
-.SField -WDB1:4 140 0
+.SField -WDB1:2 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
@@ -27705,7 +29631,7 @@
 
 .end
 
-.PageNo 15 36 '26-01-2025 15:35:02' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 16 40 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Connection list' 0
 .Born 2 2 24.0 1513576450
 
@@ -27760,118 +29686,486 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -SGA1:N.1 1 0
-.SLink 1 5 8 7 0
-.SField -FCA1:N 2 0
-.SLink 2 5 10 7 0
-.SField -XDC1:4 3 0
-.SLink 3 5 15 2 0
-.SField -FCA2:3N 4 0
-.SLink 4 6 10 3 0
-.SField -X5:2 5 0
-.SLink 5 8 9 2 0
-.SField -FCA2:4N 6 0
-.SLink 6 6 10 4 0
-.SField -QAC1:3 7 0
-.SLink 7 9 3 3 0
-.SField -QAC3:5 8 0
-.SLink 8 10 4 5 0
-.SField -QAC3:5 9 0
-.SLink 9 10 4 5 0
-.SField -QAC3 10 0
-.SLink 10 10 4 6 0
-.SField -FCC1:6 11 0
-.SLink 11 10 16 6 0
-.SField -X2:3 12 0
-.SLink 12 10 8 1 0
-.SField -QAC2:3 13 0
-.SLink 13 9 4 3 0
-.SField -XDC8:2 14 0
-.SLink 14 9 6 2 0
-.SField -XDC4:1 15 0
-.SLink 15 6 6 2 0
-.SField -X1:5 16 0
-.SLink 16 5 9 1 0
-.SField -KF1:31 17 0
-.SLink 17 7 7 5 0
-.SField -QAC1:5 18 0
-.SLink 18 9 3 5 0
-.SField -QAC2:5 19 0
-.SLink 19 9 4 5 0
-.SField -XDC8:3 20 0
-.SLink 20 9 7 2 0
-.SField -KF1:S33 21 0
-.SLink 21 7 7 15 0
-.SField -TBA1:PE 22 0
-.SLink 22 6 3 8 0
-.SField -X5:4 23 0
-.SLink 23 8 10 2 0
-.SField -KF1:32 24 0
-.SLink 24 7 7 6 0
-.SField -KF1:S34 25 0
-.SLink 25 7 7 16 0
-.SField -X4:5 26 0
-.SLink 26 13 11 2 0
-.SField -SJB2:13 27 0
-.SLink 27 13 10 1 0
-.SField -SJB2:14 28 0
-.SLink 28 13 10 2 0
-.SField -X1:4 29 0
-.SLink 29 5 11 2 0
-.SField -SGA1:N.2 30 0
-.SLink 30 5 8 8 0
-.SField '-FCA1:N''' 31 0
-.SLink 31 5 10 8 0
-.SField -XDC1:4 32 0
-.SLink 32 6 7 2 0
-.SField -X5:6 33 0
-.SLink 33 8 6 2 0
-.SField -TBA1:N(-) 34 0
-.SLink 34 6 3 7 0
-.SField -XDC1:2 35 0
-.SLink 35 9 12 2 0
-.SField -QAC4:1 36 0
-.SLink 36 10 5 1 0
-.SField -XDC8:1 37 0
-.SLink 37 10 10 2 0
-.SField -FCC1 38 0
-.SLink 38 10 16 5 0
-.SField -X2:3 39 0
-.SLink 39 10 8 1 0
-.SField -FCC2:6 40 0
-.SLink 40 10 17 6 0
-.SField -QAC1:4 41 0
-.SLink 41 9 3 4 0
-.SField -QAC2:4 42 0
-.SLink 42 9 4 4 0
-.SField -TBA1:- 43 0
-.SLink 43 6 3 4 0
-.SField -XDD1:1 44 0
-.SLink 44 5 3 1 0
-.SField -XDC3:4 45 0
-.SLink 45 7 18 2 0
-.SField -XDC1:3 46 0
-.SLink 46 9 13 2 0
-.SField -QAC1:6 47 0
-.SLink 47 9 3 6 0
-.SField -QAC2:6 48 0
-.SLink 48 9 4 6 0
-.SField -X4:3 49 0
-.SLink 49 7 16 2 0
-.SField -XDC1:5 50 0
-.SLink 50 6 9 2 0
-.SField -X5.:5:5 51 0
-.SLink 51 8 5 2 0
-.SField -X4:1 52 0
-.SLink 52 7 19 2 0
-.SField -X4:4 53 0
-.SLink 53 7 17 2 0
-.SField -SJB3:21 54 0
-.SLink 54 13 15 1 0
-.SField -SJB3:21 55 0
-.SLink 55 13 15 1 0
-.SField -X4:6 56 0
-.SLink 56 13 12 1 0
+.SField -QAC8 1 0
+.SLink 1 11 3 2 0
+.SField -SGA1:3 2 0
+.SLink 2 5 8 3 0
+.SField -X43:1 3 0
+.SLink 3 11 18 2 0
+.SField -FC1:3 4 0
+.SLink 4 5 10 3 0
+.SField -FC6:1 5 0
+.SLink 5 6 4 2 0
+.SField -MAA3:1 6 0
+.SLink 6 11 8 1 0
+.SField -XDC3:+ 7 0
+.SLink 7 6 5 2 0
+.SField -XD1:2 8 0
+.SLink 8 5 13 2 0
+.SField -MAA3:4 9 0
+.SLink 9 11 8 4 0
+.SField -SJB1:13 10 0
+.SLink 10 13 3 3 0
+.SField -QA3:1 11 0
+.SLink 11 10 4 1 0
+.SField -QA4:5 12 0
+.SLink 12 10 5 5 0
+.SField -SJB1:14 13 0
+.SLink 13 13 3 4 0
+.SField -QA3 14 0
+.SLink 14 10 4 2 0
+.SField -FC3:2 15 0
+.SLink 15 10 13 2 0
+.SField -X2:1 16 0
+.SLink 16 10 6 1 0
+.SField -QAC8:3 17 0
+.SLink 17 11 3 3 0
+.SField -QAC8:3 18 0
+.SLink 18 11 3 3 0
+.SField -X1:3 19 0
+.SLink 19 5 6 1 0
+.SField -QAC8 20 0
+.SLink 20 11 3 4 0
+.SField -SGA1:5 21 0
+.SLink 21 5 8 5 0
+.SField -X43:2 22 0
+.SLink 22 11 17 2 0
+.SField -FC1:5 23 0
+.SLink 23 5 10 5 0
+.SField -MAA3:2 24 0
+.SLink 24 11 8 2 0
+.SField -XD1:3 25 0
+.SLink 25 5 14 2 0
+.SField -MAA3:5 26 0
+.SLink 26 11 8 6 0
+.SField -FC2:1 27 0
+.SLink 27 6 10 1 0
+.SField -TBA1:L(+) 28 0
+.SLink 28 6 3 6 0
+.SField -FC7 29 0
+.SLink 29 11 4 1 0
+.SField -X1:2 30 0
+.SLink 30 5 5 2 0
+.SField -FC7:2 31 0
+.SLink 31 11 4 2 0
+.SField -SGA1:4 32 0
+.SLink 32 5 8 4 0
+.SField -TBA1:+ 33 0
+.SLink 33 6 3 3 0
+.SField -X43:1 34 0
+.SLink 34 11 18 1 0
+.SField -FC6:2 35 0
+.SLink 35 6 4 1 0
+.SField -FC1:4 36 0
+.SLink 36 5 10 4 0
+.SField -X43:4 37 0
+.SLink 37 11 19 1 0
+.SField -XD8:3 38 0
+.SLink 38 13 7 2 0
+.SField -QA4:5 39 0
+.SLink 39 10 5 5 0
+.SField -XDC8:3 40 0
+.SLink 40 10 12 2 0
+.SField -XD8:4 41 0
+.SLink 41 13 8 1 0
+.SField -FC3 42 0
+.SLink 42 10 13 1 0
+.SField -X2:1 43 0
+.SLink 43 10 6 1 0
+.SField -FC4:2 44 0
+.SLink 44 10 14 2 0
+.SField -XD2:2 45 0
+.SLink 45 11 14 1 0
+.SField -QAC9:3 46 0
+.SLink 46 11 5 3 0
+.SField -XDD1:3 47 0
+.SLink 47 5 3 3 0
+.SField -FC7 48 0
+.SLink 48 11 4 3 0
+.SField -X1:3 49 0
+.SLink 49 5 6 2 0
+.SField -FC7:4 50 0
+.SLink 50 11 4 4 0
+.SField -SGA1:6 51 0
+.SLink 51 5 8 6 0
+.SField -X43:2 52 0
+.SLink 52 11 17 1 0
+.SField -FC1:6 53 0
+.SLink 53 5 10 6 0
+.SField -X43:5 54 0
+.SLink 54 11 20 1 0
+.SField -XD1:1 55 0
+.SLink 55 6 8 2 0
+.SField -FC2:2 56 0
+.SLink 56 6 10 2 0
+.SField "" 57 0
+.SField "" 58 0
+.SField "" 59 0
+.SField "" 60 0
+.SField "" 61 0
+.SField "" 62 0
+.SField "" 63 0
+.SField "" 64 0
+.SField "" 65 0
+.SField "" 66 0
+.SField "" 67 0
+.SField "" 68 0
+.SField "" 69 0
+.SField "" 70 0
+.SField "" 71 0
+.SField "" 72 0
+.SField "" 73 0
+.SField "" 74 0
+.SField "" 75 0
+.SField "" 76 0
+.SField "" 77 0
+.SField "" 78 0
+.SField "" 79 0
+.SField "" 80 0
+.SField "" 81 0
+.SField "" 82 0
+.SField "" 83 0
+.SField "" 84 0
+.SField "" 85 0
+.SField "" 86 0
+.SField "" 87 0
+.SField "" 88 0
+.SField "" 89 0
+.SField "" 90 0
+.SField "" 91 0
+.SField "" 92 0
+.SField "" 93 0
+.SField "" 94 0
+.SField "" 95 0
+.SField "" 96 0
+.SField "" 97 0
+.SField "" 98 0
+.SField "" 99 0
+.SField "" 100 0
+.SField "" 101 0
+.SField "" 102 0
+.SField "" 103 0
+.SField "" 104 0
+.SField "" 105 0
+.SField "" 106 0
+.SField "" 107 0
+.SField "" 108 0
+.SField "" 109 0
+.SField "" 110 0
+.SField "" 111 0
+.SField "" 112 0
+.SField "" 113 0
+.SField "" 114 0
+.SField "" 115 0
+.SField "" 116 0
+.SField "" 117 0
+.SField -WDB12:1 118 0
+.SField "" 119 0
+.SField "" 120 0
+.SField -WDB12:4 121 0
+.SField -WDB4:3 122 0
+.SField "" 123 0
+.SField "" 124 0
+.SField -WDB4:4 125 0
+.SField "" 126 0
+.SField "" 127 0
+.SField "" 128 0
+.SField "" 129 0
+.SField "" 130 0
+.SField -WDB1:3 131 0
+.SField "" 132 0
+.SField "" 133 0
+.SField "" 134 0
+.SField "" 135 0
+.SField -WDB12:2 136 0
+.SField "" 137 0
+.SField -WDB12:5 138 0
+.SField "" 139 0
+.SField "" 140 0
+.SField "" 141 0
+.SField "" 142 0
+.SField "" 143 0
+.SField "" 144 0
+.SField "" 145 0
+.SField "" 146 0
+.SField "" 147 0
+.SField "" 148 0
+.SField "" 149 0
+.SField "" 150 0
+.SField "" 151 0
+.SField "" 152 0
+.SField "" 153 0
+.SField "" 154 0
+.SField "" 155 0
+.SField "" 156 0
+.SField "" 157 0
+.SField "" 158 0
+.SField "" 159 0
+.SField "" 160 0
+.SField "" 161 0
+.SField "" 162 0
+.SField "" 163 0
+.SField "" 164 0
+.SField "" 165 0
+.SField "" 166 0
+.SField "" 167 0
+.SField "" 168 0
+.SField "" 169 0
+.SField "" 170 0
+.SField "" 171 0
+.SField "" 172 0
+.SField "" 173 0
+.SField "" 174 0
+.SField "" 175 0
+.SField "" 176 0
+.SField "" 177 0
+.SField "" 178 0
+.SField "" 179 0
+.SField "" 180 0
+.SField "" 181 0
+.SField "" 182 0
+.SField "" 183 0
+.SField "" 184 0
+.SField "" 185 0
+.SField "" 186 0
+.SField "" 187 0
+.SField "" 188 0
+.SField "" 189 0
+.SField "" 190 0
+.SField "" 191 0
+.SField "" 192 0
+.SField "" 193 0
+.SField "" 194 0
+.SField "" 195 0
+.SField "" 196 0
+.SField "" 197 0
+.SField "" 198 0
+.SField "" 199 0
+.SField "" 200 0
+.SField "" 201 0
+.SField "" 202 0
+.SField "" 203 0
+.SField "" 204 0
+.SField "" 205 0
+.SField "" 206 0
+.SField "" 207 0
+.SField "" 208 0
+.SField "" 209 0
+.SField "" 210 0
+.SField "" 211 0
+.SField "" 212 0
+.SField "" 213 0
+.SField "" 214 0
+.SField "" 215 0
+.SField "" 216 0
+.SField "" 217 0
+.SField "" 218 0
+.SField "" 219 0
+.SField "" 220 0
+.SField "" 221 0
+.SField "" 222 0
+.SField "" 223 0
+.SField "" 224 0
+.SField "" 225 0
+.SField "" 226 0
+.SField "" 227 0
+.SField "" 228 0
+.SField "" 229 0
+.SField "" 230 0
+.SField "" 231 0
+.SField "" 232 0
+.SField "" 233 0
+.SField "" 234 0
+.SField "" 235 0
+.SField "" 236 0
+.SField "" 237 0
+.SField "" 238 0
+.SField "" 239 0
+.SField "" 240 0
+.SField "" 241 0
+.SField "" 242 0
+.SField "" 243 0
+.SField "" 244 0
+.SField "" 245 0
+.SField "" 246 0
+.SField "" 247 0
+.SField "" 248 0
+.SField "" 249 0
+.SField "" 250 0
+.SField "" 251 0
+.SField "" 252 0
+.end
+
+
+.end
+
+.PageNo 17 41 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.Title 'Connection list' 0
+.Born 2 2 24.0 1513576450
+
+
+.AppData [PageTitle]
+.AppData 'Format2=%s %s..%s'
+.AppData LastItem=
+.AppData FirstItem=
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+
+
+.Refdata 1 1 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.Pagehead2 pcsConnections.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 2 0 0 0 0 -1 0 0
+.Name "" 38750 20000 0 0 0 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.SField -QA3:3 1 0
+.SLink 1 10 4 3 0
+.SField -QA4:3 2 0
+.SLink 2 10 5 3 0
+.SField -QA3 3 0
+.SLink 3 10 4 4 0
+.SField -FC3:4 4 0
+.SLink 4 10 13 4 0
+.SField -X2:2 5 0
+.SLink 5 10 7 1 0
+.SField -QAC2:A1 6 0
+.SLink 6 7 8 1 0
+.SField XDC4:3 7 0
+.SLink 7 7 14 2 0
+.SField -QAC8:5 8 0
+.SLink 8 11 3 5 0
+.SField -QAC8:5 9 0
+.SLink 9 11 3 5 0
+.SField -X1:4 10 0
+.SLink 10 5 11 1 0
+.SField -QAC8 11 0
+.SLink 11 11 3 6 0
+.SField -SGA1:N.1 12 0
+.SLink 12 5 8 7 0
+.SField -X43:3 13 0
+.SLink 13 11 16 2 0
+.SField -FC1:N 14 0
+.SLink 14 5 10 7 0
+.SField -MAA3:3 15 0
+.SLink 15 11 8 3 0
+.SField -XD1:4 16 0
+.SLink 16 5 15 2 0
+.SField -MAA3:6 17 0
+.SLink 17 11 8 7 0
+.SField -FC2:3N 18 0
+.SLink 18 6 10 3 0
+.SField -X5:2 19 0
+.SLink 19 8 9 2 0
+.SField -FC2:4N 20 0
+.SLink 20 6 10 4 0
+.SField -QA3:5 21 0
+.SLink 21 10 4 5 0
+.SField -QA4:1 22 0
+.SLink 22 10 5 1 0
+.SField -QA3 23 0
+.SLink 23 10 4 6 0
+.SField -FC3:6 24 0
+.SLink 24 10 13 6 0
+.SField -X2:3 25 0
+.SLink 25 10 8 1 0
+.SField XDC4:- 26 0
+.SLink 26 6 6 2 0
+.SField -X1:5 27 0
+.SLink 27 5 9 1 0
+.SField -KF1:31 28 0
+.SLink 28 7 7 5 0
+.SField -QA4:3 29 0
+.SLink 29 10 5 3 0
+.SField -XDC8:2 30 0
+.SLink 30 10 11 2 0
+.SField -FC3 31 0
+.SLink 31 10 13 3 0
+.SField -X2:2 32 0
+.SLink 32 10 7 1 0
+.SField -FC4:4 33 0
+.SLink 33 10 14 4 0
+.SField -KF1:24 34 0
+.SLink 34 7 7 4 0
+.SField -QAC2:A2 35 0
+.SLink 35 7 8 2 0
+.SField -XD2:3 36 0
+.SLink 36 11 15 1 0
+.SField -QAC9:5 37 0
+.SLink 37 11 5 5 0
+.SField -XDD1:2 38 0
+.SLink 38 5 3 2 0
+.SField -FC7 39 0
+.SLink 39 11 4 5 0
+.SField -X1:4 40 0
+.SLink 40 5 11 2 0
+.SField -FC7:6 41 0
+.SLink 41 11 4 6 0
+.SField -SGA1:N.2 42 0
+.SLink 42 5 8 8 0
+.SField -X43:3 43 0
+.SLink 43 11 16 1 0
+.SField '-FC1:N''' 44 0
+.SLink 44 5 10 8 0
+.SField -X43:6 45 0
+.SLink 45 11 21 1 0
+.SField -XD1:4 46 0
+.SLink 46 6 7 2 0
+.SField -X5:6 47 0
+.SLink 47 8 6 2 0
+.SField -TBA1:N(-) 48 0
+.SLink 48 6 3 7 0
+.SField -QA4:1 49 0
+.SLink 49 10 5 1 0
+.SField -XDC8:1 50 0
+.SLink 50 10 10 2 0
+.SField -FC3 51 0
+.SLink 51 10 13 5 0
+.SField -X2:3 52 0
+.SLink 52 10 8 1 0
+.SField -FC4:6 53 0
+.SLink 53 10 14 6 0
+.SField -TBA1:- 54 0
+.SLink 54 6 3 4 0
+.SField -XDD1:1 55 0
+.SLink 55 5 3 1 0
+.SField -XDC3:4 56 0
+.SLink 56 7 18 2 0
 .SField "" 57 0
 .SField "" 58 0
 .SField "" 59 0
@@ -27937,14 +30231,14 @@
 .SField "" 119 0
 .SField "" 120 0
 .SField "" 121 0
-.SField "" 122 0
+.SField -WDB1:4 122 0
 .SField "" 123 0
 .SField "" 124 0
 .SField "" 125 0
 .SField "" 126 0
-.SField "" 127 0
-.SField -WDB1:GNYE 128 0
-.SField "" 129 0
+.SField -WDB12:3 127 0
+.SField "" 128 0
+.SField -WDB12:6 129 0
 .SField "" 130 0
 .SField "" 131 0
 .SField "" 132 0
@@ -27953,9 +30247,9 @@
 .SField "" 135 0
 .SField "" 136 0
 .SField "" 137 0
-.SField -WDB4:5 138 0
-.SField "" 139 0
-.SField -WDB4:6 140 0
+.SField "" 138 0
+.SField -WDB1:GNYE 139 0
+.SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
@@ -28073,9 +30367,377 @@
 
 .end
 
-.PageNo 16 37 '26-01-2025 15:35:02' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 18 42 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Connection list' 0
-.Born 2 2 24.0 1513576450
+.Born 2 2 24.0 1513782369
+
+
+.AppData [PageTitle]
+.AppData 'Format2=%s %s..%s'
+.AppData LastItem=L3
+.AppData FirstItem=L1
+.AppData [MechLoad]
+.AppData DBField=
+.AppData [DataTemplates]
+
+
+.Refdata 1 1 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead PCSA3HBASIC.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 6 0 0 0 0 -1 0 0
+.Name "" 24500 12500 0 0 0 25 0 7 0 144 0 3 0 0 0 0 0 0 0 0
+.Typ 'PCSCHEMATIC Automation Education. Not for commercial use.' 8000 41100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.Art "" 24500 11800 0 0 16711680 18 12 7 0 128 0 0 0 0 0 0 0 0 0 0
+.Func "" 24500 11800 0 0 16711680 18 12 7 0 144 0 0 0 0 0 0 0 0 0 0
+.SField "" 1 0
+.SField "" 2 0
+.SField "" 3 0
+.SField "" 4 0
+.SField "" 5 0
+.SField "" 6 0
+.SField "" 7 0
+.SField "" 8 0
+.SField "" 9 0
+.SField "" 10 0
+.SField "" 11 0
+.SField "" 12 0
+.SField "" 13 0
+.SField "" 14 0
+.SField "" 15 0
+.SField "" 16 0
+.SField "" 17 0
+.SField "" 18 0
+.SField "" 19 0
+.SField "" 20 0
+.SField "" 21 0
+.SField "" 22 0
+.SField "" 23 0
+.SField "" 24 0
+.SField "" 25 0
+.end
+
+.Pagehead2 pcsConnections.SYM 0 25000 10000 0 0 0 0 1 1 0 1 0 0 0 2 0 0 0 0 -1 0 0
+.Name "" 38750 20000 0 0 0 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
+.Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
+.SField -MAA3:PE 1 0
+.SLink 1 11 8 5 0
+.SField -TBA1:- 2 0
+.SLink 2 6 3 5 0
+.SField -KF1:S33 3 0
+.SLink 3 7 7 15 0
+.SField -TBA1:PE 4 0
+.SLink 4 6 3 8 0
+.SField -X5:4 5 0
+.SLink 5 8 10 2 0
+.SField -KF1:32 6 0
+.SLink 6 7 7 6 0
+.SField -BGG3:1 7 0
+.SLink 7 14 6 1 0
+.SField -KF1:S34 8 0
+.SLink 8 7 7 16 0
+.SField -QAC10:1 9 0
+.SLink 9 12 4 1 0
+.SField -QAC10 10 0
+.SLink 10 12 4 2 0
+.SField -XDC5:8 11 0
+.SLink 11 14 15 2 0
+.SField -SJB2:13 12 0
+.SLink 12 13 10 1 0
+.SField -X5:1 13 0
+.SLink 13 12 27 2 0
+.SField -SJB2:14 14 0
+.SLink 14 13 10 2 0
+.SField -BGG3:3 15 0
+.SLink 15 14 6 3 0
+.SField -MAA3:U2 16 0
+.SLink 16 12 3 1 0
+.SField -MAA3:W1 17 0
+.SLink 17 12 3 4 0
+.SField -QAC10:3 18 0
+.SLink 18 12 4 3 0
+.SField -QAC10 19 0
+.SLink 19 12 4 4 0
+.SField -QA4 20 0
+.SLink 20 10 5 2 0
+.SField -X5:2 21 0
+.SLink 21 12 26 2 0
+.SField -BGG3:4 22 0
+.SLink 22 14 6 4 0
+.SField -MAA3:V2 23 0
+.SLink 23 12 3 2 0
+.SField -MAA1:1 24 0
+.SLink 24 10 3 1 0
+.SField -MAA3:V1 25 0
+.SLink 25 12 3 5 0
+.SField -QAC10:5 26 0
+.SLink 26 12 4 5 0
+.SField -QAC10 27 0
+.SLink 27 12 4 6 0
+.SField -QA4 28 0
+.SLink 28 10 5 4 0
+.SField -X43:PE 29 0
+.SLink 29 11 12 1 0
+.SField -XDC121:1 30 0
+.SLink 30 6 11 2 0
+.SField -XD8:3 31 0
+.SLink 31 7 16 2 0
+.SField -XD1:5 32 0
+.SLink 32 6 9 2 0
+.SField -X5.:5:5 33 0
+.SLink 33 8 5 2 0
+.SField -XD8:1 34 0
+.SLink 34 7 19 2 0
+.SField -X5:7 35 0
+.SLink 35 14 14 1 0
+.SField -XD8:4 36 0
+.SLink 36 7 17 2 0
+.SField -QAC12:1 37 0
+.SLink 37 12 7 1 0
+.SField -FCC1 38 0
+.SLink 38 12 5 1 0
+.SField -XDC4:- 39 0
+.SLink 39 14 18 1 0
+.SField -XD8:5 40 0
+.SLink 40 13 11 2 0
+.SField -FCC1:2 41 0
+.SLink 41 12 5 2 0
+.SField -XD8:6 42 0
+.SLink 42 13 12 1 0
+.SField -XDC5:8 43 0
+.SLink 43 14 15 1 0
+.SField -X5:1 44 0
+.SLink 44 12 27 1 0
+.SField -X5:6 45 0
+.SLink 45 12 30 1 0
+.SField -QAC12:3 46 0
+.SLink 46 12 7 3 0
+.SField -FCC1 47 0
+.SLink 47 12 5 3 0
+.SField -FC4 48 0
+.SLink 48 10 14 1 0
+.SField -FCC1:4 49 0
+.SLink 49 12 5 4 0
+.SField -XDC5:9 50 0
+.SLink 50 14 16 1 0
+.SField -X5:2 51 0
+.SLink 51 12 26 1 0
+.SField -X2:1 52 0
+.SLink 52 10 6 2 0
+.SField -X5:5 53 0
+.SLink 53 12 29 1 0
+.SField -QAC12:5 54 0
+.SLink 54 12 7 5 0
+.SField -FCC1 55 0
+.SLink 55 12 5 5 0
+.SField -FC4 56 0
+.SLink 56 10 14 3 0
+.SField "" 57 0
+.SField "" 58 0
+.SField "" 59 0
+.SField "" 60 0
+.SField "" 61 0
+.SField "" 62 0
+.SField "" 63 0
+.SField "" 64 0
+.SField "" 65 0
+.SField "" 66 0
+.SField "" 67 0
+.SField "" 68 0
+.SField "" 69 0
+.SField "" 70 0
+.SField "" 71 0
+.SField "" 72 0
+.SField "" 73 0
+.SField "" 74 0
+.SField "" 75 0
+.SField "" 76 0
+.SField "" 77 0
+.SField "" 78 0
+.SField "" 79 0
+.SField "" 80 0
+.SField "" 81 0
+.SField "" 82 0
+.SField "" 83 0
+.SField "" 84 0
+.SField "" 85 0
+.SField "" 86 0
+.SField "" 87 0
+.SField "" 88 0
+.SField "" 89 0
+.SField "" 90 0
+.SField "" 91 0
+.SField "" 92 0
+.SField L1 93 0
+.SField "" 94 0
+.SField "" 95 0
+.SField "" 96 0
+.SField "" 97 0
+.SField "" 98 0
+.SField "" 99 0
+.SField "" 100 0
+.SField "" 101 0
+.SField L2 102 0
+.SField "" 103 0
+.SField "" 104 0
+.SField "" 105 0
+.SField "" 106 0
+.SField "" 107 0
+.SField "" 108 0
+.SField "" 109 0
+.SField L3 110 0
+.SField "" 111 0
+.SField "" 112 0
+.SField -WDB12:GNYE 113 0
+.SField "" 114 0
+.SField "" 115 0
+.SField "" 116 0
+.SField "" 117 0
+.SField "" 118 0
+.SField -WDB7:1 119 0
+.SField "" 120 0
+.SField "" 121 0
+.SField "" 122 0
+.SField "" 123 0
+.SField -WDB4:5 124 0
+.SField "" 125 0
+.SField -WDB4:6 126 0
+.SField -WDB7:3 127 0
+.SField -WDB19:1 128 0
+.SField -WDB19:6 129 0
+.SField "" 130 0
+.SField "" 131 0
+.SField "" 132 0
+.SField "" 133 0
+.SField -WDB7:4 134 0
+.SField -WDB19:2 135 0
+.SField -WDB10:1 136 0
+.SField -WDB19:5 137 0
+.SField "" 138 0
+.SField "" 139 0
+.SField "" 140 0
+.SField "" 141 0
+.SField "" 142 0
+.SField "" 143 0
+.SField "" 144 0
+.SField "" 145 0
+.SField "" 146 0
+.SField "" 147 0
+.SField "" 148 0
+.SField "" 149 0
+.SField "" 150 0
+.SField "" 151 0
+.SField "" 152 0
+.SField "" 153 0
+.SField "" 154 0
+.SField "" 155 0
+.SField "" 156 0
+.SField "" 157 0
+.SField "" 158 0
+.SField "" 159 0
+.SField "" 160 0
+.SField "" 161 0
+.SField "" 162 0
+.SField "" 163 0
+.SField "" 164 0
+.SField "" 165 0
+.SField "" 166 0
+.SField "" 167 0
+.SField "" 168 0
+.SField "" 169 0
+.SField "" 170 0
+.SField "" 171 0
+.SField "" 172 0
+.SField "" 173 0
+.SField "" 174 0
+.SField "" 175 0
+.SField "" 176 0
+.SField "" 177 0
+.SField "" 178 0
+.SField "" 179 0
+.SField "" 180 0
+.SField "" 181 0
+.SField "" 182 0
+.SField "" 183 0
+.SField "" 184 0
+.SField "" 185 0
+.SField "" 186 0
+.SField "" 187 0
+.SField "" 188 0
+.SField "" 189 0
+.SField "" 190 0
+.SField "" 191 0
+.SField "" 192 0
+.SField "" 193 0
+.SField "" 194 0
+.SField "" 195 0
+.SField "" 196 0
+.SField "" 197 0
+.SField "" 198 0
+.SField "" 199 0
+.SField "" 200 0
+.SField "" 201 0
+.SField "" 202 0
+.SField "" 203 0
+.SField "" 204 0
+.SField "" 205 0
+.SField "" 206 0
+.SField "" 207 0
+.SField "" 208 0
+.SField "" 209 0
+.SField "" 210 0
+.SField "" 211 0
+.SField "" 212 0
+.SField "" 213 0
+.SField "" 214 0
+.SField "" 215 0
+.SField "" 216 0
+.SField "" 217 0
+.SField "" 218 0
+.SField "" 219 0
+.SField "" 220 0
+.SField "" 221 0
+.SField "" 222 0
+.SField "" 223 0
+.SField "" 224 0
+.SField "" 225 0
+.SField "" 226 0
+.SField "" 227 0
+.SField "" 228 0
+.SField "" 229 0
+.SField "" 230 0
+.SField "" 231 0
+.SField "" 232 0
+.SField "" 233 0
+.SField "" 234 0
+.SField "" 235 0
+.SField "" 236 0
+.SField "" 237 0
+.SField "" 238 0
+.SField "" 239 0
+.SField "" 240 0
+.SField "" 241 0
+.SField "" 242 0
+.SField "" 243 0
+.SField "" 244 0
+.SField "" 245 0
+.SField "" 246 0
+.SField "" 247 0
+.SField "" 248 0
+.SField "" 249 0
+.SField "" 250 0
+.SField "" 251 0
+.SField "" 252 0
+.end
+
+
+.end
+
+.PageNo 19 43 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Title 'Connection list' 0
+.Born 2 2 24.0 1515800857
 
 
 .AppData [PageTitle]
@@ -28128,43 +30790,48 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -BGG2:1 1 0
-.SField -QAC4 2 0
-.SLink 2 10 5 2 0
-.SField -MAA1:1 3 0
-.SLink 3 10 3 1 0
-.SField -X4:5 4 0
-.SField -KFA2:14 5 0
-.SField -QAC4 6 0
-.SLink 6 10 5 4 0
-.SField -KFA2:11 7 0
-.SField -KFA1:A1 8 0
-.SField -MAA1:2 9 0
-.SLink 9 10 3 2 0
-.SField -BGG2:3 10 0
-.SField -QAC4 11 0
-.SLink 11 10 5 6 0
-.SField -MAA1:3 12 0
-.SLink 12 10 3 3 0
-.SField -BGG2:4 13 0
-.SField -MAA1:4 14 0
-.SLink 14 10 3 4 0
+.SField -X5:3 1 0
+.SLink 1 12 25 2 0
+.SField -MAA3:W2 2 0
+.SLink 2 12 3 3 0
+.SField -MAA1:2 3 0
+.SLink 3 10 3 2 0
+.SField -MAA3:U1 4 0
+.SLink 4 12 3 6 0
+.SField -QAC9:2 5 0
+.SLink 5 11 5 2 0
+.SField -X43:4 6 0
+.SLink 6 11 19 2 0
+.SField -QA4 7 0
+.SLink 7 10 5 6 0
+.SField -MAA1:3 8 0
+.SLink 8 10 3 3 0
+.SField -QAC9:4 9 0
+.SLink 9 11 5 4 0
+.SField -X43:5 10 0
+.SLink 10 11 20 2 0
+.SField -MAA3:PE 11 0
+.SLink 11 12 3 7 0
+.SField -MAA1:4 12 0
+.SLink 12 10 3 4 0
+.SField -QAC9:6 13 0
+.SLink 13 11 5 6 0
+.SField -X43:6 14 0
+.SLink 14 11 21 2 0
 .SField -KF1:S11 15 0
 .SLink 15 7 7 11 0
 .SField -SGC2:21 16 0
 .SLink 16 8 4 1 0
 .SField -SGC2:22 17 0
 .SLink 17 8 4 2 0
-.SField -KF1:S12 18 0
-.SLink 18 7 7 12 0
-.SField -QAC1:13 19 0
-.SLink 19 9 8 1 0
-.SField -QAC2:13 20 0
-.SLink 20 9 9 1 0
-.SField -XDC5:1 21 0
-.SLink 21 9 10 2 0
-.SField -KF1:S21 22 0
-.SLink 22 7 7 13 0
+.SField -FC4:97 18 0
+.SField -XDC5:7 19 0
+.SField -KF1:S12 20 0
+.SLink 20 7 7 12 0
+.SField -KF1:S21 21 0
+.SLink 21 7 7 13 0
+.SField -SJB3:21 22 0
+.SLink 22 13 15 1 0
 .SField -SJB3:22 23 0
 .SLink 23 13 15 2 0
 .SField -KF1:S22 24 0
@@ -28173,55 +30840,64 @@
 .SLink 25 8 13 1 0
 .SField -SGC2:32 26 0
 .SLink 26 8 13 2 0
-.SField -KFA1:14 27 0
-.SField -BGG3:1 28 0
-.SField -X8:4 29 0
-.SField -FCC2 30 0
-.SLink 30 10 17 1 0
-.SField -X2:1 31 0
-.SLink 31 10 6 2 0
-.SField -XDC5:1 32 0
-.SField -X4:6 33 0
-.SField -FCC2 34 0
-.SLink 34 10 17 3 0
-.SField -KFA1:11 35 0
-.SField -KFA2:11 36 0
-.SField -X2:2 37 0
-.SLink 37 10 7 2 0
-.SField -X8:5 38 0
-.SField -FCC2 39 0
-.SLink 39 10 17 5 0
-.SField -X2:3 40 0
-.SLink 40 10 8 2 0
-.SField -X8:6 41 0
-.SField -X2:4 42 0
-.SLink 42 10 9 2 0
+.SField -BGG4:1 27 0
+.SLink 27 14 19 1 0
+.SField -QAC10:1 28 0
+.SLink 28 11 6 1 0
+.SField -FCC1:6 29 0
+.SLink 29 12 5 6 0
+.SField -X5:3 30 0
+.SLink 30 12 25 1 0
+.SField -X2:2 31 0
+.SLink 31 10 7 2 0
+.SField -X5:4 32 0
+.SLink 32 12 28 1 0
+.SField -QAC10:2 33 0
+.SLink 33 11 6 2 0
+.SField -QAC10:2 34 0
+.SLink 34 11 6 2 0
+.SField -FC4 35 0
+.SLink 35 10 14 5 0
+.SField -X2:3 36 0
+.SLink 36 10 8 2 0
+.SField -QAC10:4 37 0
+.SLink 37 11 6 4 0
+.SField -QAC10:4 38 0
+.SLink 38 11 6 4 0
+.SField -X5:1 39 0
+.SLink 39 12 12 2 0
+.SField -X2:4 40 0
+.SLink 40 10 9 2 0
+.SField -QAC10:6 41 0
+.SLink 41 11 6 6 0
+.SField -QAC10:6 42 0
+.SLink 42 11 6 6 0
 .SField -X5:1 43 0
 .SLink 43 7 3 2 0
 .SField -X5.:5:5 44 0
 .SLink 44 8 5 1 0
-.SField -X5:7 45 0
-.SLink 45 8 11 2 0
-.SField -X5:7 46 0
-.SLink 46 7 4 2 0
-.SField -XDC3:1 47 0
-.SLink 47 9 14 2 0
-.SField -QAC1:14 48 0
-.SLink 48 9 8 2 0
-.SField -QAC2:14 49 0
-.SLink 49 9 9 2 0
-.SField -X5:3 50 0
-.SLink 50 7 5 2 0
-.SField -X4:7 51 0
+.SField -X5:8 45 0
+.SLink 45 8 12 2 0
+.SField -KEA1:10.13 46 0
+.SField -FC4:98 47 0
+.SField -X5:7 48 0
+.SLink 48 7 4 2 0
+.SField -X5:3 49 0
+.SLink 49 7 5 2 0
+.SField -XD8:8 50 0
+.SLink 50 13 16 1 0
+.SField -XD8:7 51 0
 .SLink 51 13 13 1 0
 .SField -X5:8 52 0
 .SLink 52 7 6 2 0
 .SField -X5:6 53 0
 .SLink 53 8 6 1 0
-.SField -X5:8 54 0
-.SLink 54 8 12 2 0
-.SField -X4:7 55 0
-.SField -X8:7 56 0
+.SField -X5:7 54 0
+.SLink 54 8 11 2 0
+.SField -X5:10 55 0
+.SLink 55 14 21 1 0
+.SField -QAC10:3 56 0
+.SLink 56 11 6 3 0
 .SField "" 57 0
 .SField "" 58 0
 .SField "" 59 0
@@ -28278,23 +30954,23 @@
 .SField "" 110 0
 .SField "" 111 0
 .SField "" 112 0
-.SField -WDB6:1 113 0
-.SField "" 114 0
-.SField -WDB10:1 115 0
-.SField "" 116 0
+.SField "" 113 0
+.SField -WDB19:3 114 0
+.SField -WDB10:2 115 0
+.SField -WDB19:4 116 0
 .SField "" 117 0
 .SField "" 118 0
 .SField "" 119 0
-.SField "" 120 0
-.SField -WDB10:2 121 0
-.SField -WDB6:3 122 0
-.SField "" 123 0
-.SField -WDB10:3 124 0
-.SField -WDB6:4 125 0
-.SField -WDB10:4 126 0
+.SField -WDB10:3 120 0
+.SField "" 121 0
+.SField "" 122 0
+.SField -WDB19:GNYE 123 0
+.SField -WDB10:GNYE 124 0
+.SField "" 125 0
+.SField "" 126 0
 .SField "" 127 0
 .SField -WDB3:1 128 0
-.SField -WDB3:3 129 0
+.SField "" 129 0
 .SField "" 130 0
 .SField "" 131 0
 .SField "" 132 0
@@ -28303,9 +30979,9 @@
 .SField -WDB4:7 135 0
 .SField "" 136 0
 .SField -WDB3:2 137 0
-.SField -WDB3:4 138 0
-.SField "" 139 0
-.SField -WDB7:1 140 0
+.SField "" 138 0
+.SField -WDB8:1 139 0
+.SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
 .SField "" 143 0
@@ -28423,9 +31099,9 @@
 
 .end
 
-.PageNo 17 38 '26-01-2025 15:35:02' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 20 44 '25-02-2025 09:08:50' 4 10000 1 0 300 1 10 32 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title 'Connection list' 0
-.Born 2 2 24.0 1513782369
+.Born 2 2 24.0 1515800857
 
 
 .AppData [PageTitle]
@@ -28478,63 +31154,113 @@
 .Typ "" 38750 22500 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Art "" 38750 16000 0 0 16711680 25 0 6 0 32 0 2 0 0 0 0 0 0 0 0
 .Func "" 37500 20000 0 0 16711680 25 0 6 0 48 0 2 0 0 0 0 0 0 0 0
-.SField -BGG3:3 1 0
-.SField -BGG3:4 2 0
-.SField -X4:2 3 0
-.SLink 3 13 5 2 0
-.SField -KFA1:24 4 0
-.SField -XDC6:1 5 0
-.SField "" 6 0
-.SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
-.SField "" 11 0
-.SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
-.SField "" 15 0
-.SField "" 16 0
-.SField "" 17 0
-.SField "" 18 0
-.SField "" 19 0
-.SField "" 20 0
-.SField "" 21 0
-.SField "" 22 0
-.SField "" 23 0
-.SField "" 24 0
-.SField "" 25 0
-.SField "" 26 0
-.SField "" 27 0
+.SField -QAC10:3 1 0
+.SLink 1 11 6 3 0
+.SField -FCC2:1 2 0
+.SLink 2 12 6 1 0
+.SField -FCC2:2 3 0
+.SLink 3 12 6 2 0
+.SField -X5:4 4 0
+.SLink 4 12 28 2 0
+.SField -FCC2:3 5 0
+.SLink 5 12 6 3 0
+.SField -FCC2:4 6 0
+.SLink 6 12 6 4 0
+.SField -X5:5 7 0
+.SLink 7 12 29 2 0
+.SField -XDC5:11 8 0
+.SLink 8 14 22 2 0
+.SField -BGG4:3 9 0
+.SLink 9 14 19 3 0
+.SField -FCC2:5 10 0
+.SLink 10 12 6 5 0
+.SField -FCC2:6 11 0
+.SLink 11 12 6 6 0
+.SField -X5:6 12 0
+.SLink 12 12 30 2 0
+.SField -BGG4:4 13 0
+.SLink 13 14 19 4 0
+.SField -QAC14:1 14 0
+.SLink 14 12 8 1 0
+.SField -QAC14:3 15 0
+.SLink 15 12 8 3 0
+.SField -QNB1:2 16 0
+.SLink 16 9 15 2 0
+.SField -XD8:2 17 0
+.SLink 17 13 5 2 0
+.SField -X12:1 18 0
+.SLink 18 9 18 1 0
+.SField -QNB1:1 19 0
+.SLink 19 9 15 1 0
+.SField -XD8:6 20 0
+.SLink 20 18 0 0 0
+.SField -QNB1:3 21 0
+.SLink 21 9 15 3 0
+.SField -XDC5:12 22 0
+.SField -X12:2 23 0
+.SLink 23 9 19 1 0
+.SField -BGG5:1 24 0
+.SLink 24 14 27 1 0
+.SField -XDC5:14 25 0
+.SLink 25 14 29 2 0
+.SField -BGG5:3 26 0
+.SLink 26 14 27 3 0
+.SField -BGG5:4 27 0
+.SLink 27 14 27 4 0
 .SField "" 28 0
-.SField -X8:8 29 0
-.SField -X8:9 30 0
-.SField -XDC4:1 31 0
-.SLink 31 13 9 2 0
-.SField -XDC5:1 32 0
-.SField -KFA1:21 33 0
-.SField "" 34 0
-.SField "" 35 0
-.SField "" 36 0
-.SField "" 37 0
-.SField "" 38 0
-.SField "" 39 0
-.SField "" 40 0
-.SField "" 41 0
-.SField "" 42 0
-.SField "" 43 0
-.SField "" 44 0
-.SField "" 45 0
-.SField "" 46 0
-.SField "" 47 0
-.SField "" 48 0
-.SField "" 49 0
-.SField "" 50 0
-.SField "" 51 0
-.SField "" 52 0
-.SField "" 53 0
-.SField "" 54 0
-.SField "" 55 0
+.SField -QAC10:5 29 0
+.SLink 29 11 6 5 0
+.SField -QAC12:2 30 0
+.SLink 30 12 7 2 0
+.SField -QAC14:2 31 0
+.SLink 31 12 8 2 0
+.SField -QAC14:2 32 0
+.SLink 32 12 8 2 0
+.SField -QAC12:4 33 0
+.SLink 33 12 7 4 0
+.SField -QAC14:4 34 0
+.SLink 34 12 8 4 0
+.SField -QAC14:4 35 0
+.SLink 35 12 8 4 0
+.SField -XDC4:- 36 0
+.SLink 36 14 20 1 0
+.SField -XDC5:11 37 0
+.SLink 37 14 22 1 0
+.SField -QAC12:6 38 0
+.SLink 38 12 7 6 0
+.SField -QAC14:6 39 0
+.SLink 39 12 8 6 0
+.SField -QAC14:6 40 0
+.SLink 40 12 8 6 0
+.SField -XDC5:12 41 0
+.SLink 41 14 23 1 0
+.SField -QAC14:3 42 0
+.SLink 42 12 8 3 0
+.SField -QAC14:5 43 0
+.SLink 43 12 8 5 0
+.SField -X12:2 44 0
+.SLink 44 9 19 2 0
+.SField -XDC4:1 45 0
+.SLink 45 13 9 2 0
+.SField -XDC5:1 46 0
+.SLink 46 9 16 2 0
+.SField -X12:1 47 0
+.SLink 47 9 18 2 0
+.SField -KEA1:10.10 48 0
+.SLink 48 18 0 0 0
+.SField -X12:PE 49 0
+.SLink 49 9 17 2 0
+.SField -KEA1:10.14 50 0
+.SField -XDC4:1 51 0
+.SLink 51 9 20 1 0
+.SField -X5:13 52 0
+.SLink 52 14 28 1 0
+.SField -XDC4:- 53 0
+.SLink 53 14 31 1 0
+.SField -XDC5:14 54 0
+.SLink 54 14 29 1 0
+.SField -XDC5:15 55 0
+.SLink 55 14 30 1 0
 .SField "" 56 0
 .SField "" 57 0
 .SField "" 58 0
@@ -28592,19 +31318,19 @@
 .SField "" 110 0
 .SField "" 111 0
 .SField "" 112 0
-.SField -WDB7:3 113 0
-.SField -WDB7:4 114 0
+.SField "" 113 0
+.SField "" 114 0
 .SField "" 115 0
 .SField "" 116 0
 .SField "" 117 0
 .SField "" 118 0
 .SField "" 119 0
 .SField "" 120 0
-.SField "" 121 0
+.SField -WDB8:3 121 0
 .SField "" 122 0
 .SField "" 123 0
 .SField "" 124 0
-.SField "" 125 0
+.SField -WDB8:4 125 0
 .SField "" 126 0
 .SField "" 127 0
 .SField "" 128 0
@@ -28615,10 +31341,10 @@
 .SField "" 133 0
 .SField "" 134 0
 .SField "" 135 0
-.SField "" 136 0
+.SField -WDB9:1 136 0
 .SField "" 137 0
-.SField "" 138 0
-.SField "" 139 0
+.SField -WDB9:3 138 0
+.SField -WDB9:4 139 0
 .SField "" 140 0
 .SField "" 141 0
 .SField "" 142 0
@@ -28737,7 +31463,7 @@
 
 .end
 
-.PageNo 'Graphical plans' 39 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 16 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.PageNo 'Graphical plans' 45 '23-01-2025 10:54:54' 4 10000 1 0 0 1 13 16 0 0 0 105000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
 .Title 'Graphical plans' 0
 .Born 2 0 20.0 1513576155
 
@@ -28777,7 +31503,7 @@
 
 .end
 
-.PageNo 13 40 '23-01-2025 10:54:54' 4 10000 1 0 300 1 11 65552 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 13 46 '23-01-2025 10:54:54' 4 10000 1 0 300 1 11 65552 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Terminal plan' 0
 .Born 2 0 14.0 1513576155
 
@@ -28920,7 +31646,7 @@
 
 .end
 
-.PageNo 14 41 '23-01-2025 10:54:54' 4 10000 1 0 300 1 12 65552 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 14 47 '23-01-2025 10:54:54' 4 10000 1 0 300 1 12 65552 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Cable plan' 0
 .Born 2 0 14.0 1513576155
 
@@ -29038,7 +31764,7 @@
 
 .end
 
-.PageNo 15 42 '23-01-2025 10:54:54' 4 10000 1 0 300 1 14 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
+.PageNo 15 48 '23-01-2025 10:54:54' 4 10000 1 0 300 1 14 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '30-01-2025 12:05:14' -1
 .Title 'Connection plan' 0
 .Born 2 0 20.0 1513576155
 

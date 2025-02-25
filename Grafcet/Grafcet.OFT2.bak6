@@ -3,7 +3,7 @@
   FileDescriptor = 'CAD file'
   FileVersion = 3
   DateTimeCreated = 45709.9445508218
-  DateTimeChanged = 45713.4950610532
+  DateTimeChanged = 45709.9967811458
   CreatedBy = 'lasse2466@gmail.com'
   ChangedBy = 'lasse2466@gmail.com'
   SystemFile = False
@@ -375,7 +375,7 @@ object TLOftDraft
         X = 170000000
         Y = 53000000
       end
-      object LLine166: TLLine
+      object LLine111: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -395,7 +395,7 @@ object TLOftDraft
           Y = 53000000
         end
       end
-      object LLine167: TLLine
+      object LLine112: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -862,7 +862,7 @@ object TLOftDraft
         X = 200000000
         Y = 63000000
       end
-      object LRectangle10: TLRectangle
+      object LRectangle7: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1111,7 +1111,7 @@ object TLOftDraft
         X = 170000000
         Y = 75000000
       end
-      object LLine168: TLLine
+      object LLine113: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1131,7 +1131,7 @@ object TLOftDraft
           Y = 75000000
         end
       end
-      object LLine169: TLLine
+      object LLine114: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1347,7 +1347,7 @@ object TLOftDraft
         X = 170000000
         Y = 85000000
       end
-      object LRectangle11: TLRectangle
+      object LRectangle8: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1598,7 +1598,7 @@ object TLOftDraft
         X = 200000000
         Y = 85000000
       end
-      object LRectangle12: TLRectangle
+      object LRectangle9: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1627,7 +1627,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅3̅·QMB1'
+        Text = 'Q̅A̅C̅3̅·B̅F̅B̅1̅'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -1636,10 +1636,10 @@ object TLOftDraft
           Y = 78249781
         end
         object TLNode
-          X = 191449396
+          X = 190406938
           Y = 81750219
         end
-        object LSymbolTextLine1: TLSymbolTextLine
+        object LSymbolTextLine13: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -1656,6 +1656,26 @@ object TLOftDraft
           end
           object TLNode
             X = 181530167
+            Y = 78249781
+          end
+        end
+        object LSymbolTextLine14: TLSymbolTextLine
+          Locked = False
+          Visible = True
+          BrushColor = clWhite
+          BrushStyle = bsClear
+          PenColor = clDefault
+          PenMode = pmCopy
+          PenStyle = psSolid
+          PenWidth = 175000
+          ArrowStyle = asNone
+          ArrowHeadLength = 8000000
+          object TLNode
+            X = 182572625
+            Y = 78249781
+          end
+          object TLNode
+            X = 190406938
             Y = 78249781
           end
         end
@@ -1867,7 +1887,7 @@ object TLOftDraft
         X = 170000000
         Y = 97000000
       end
-      object LLine170: TLLine
+      object LLine115: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -1887,7 +1907,7 @@ object TLOftDraft
           Y = 97000000
         end
       end
-      object LLine171: TLLine
+      object LLine116: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -2103,7 +2123,7 @@ object TLOftDraft
         X = 170000000
         Y = 107000000
       end
-      object LRectangle13: TLRectangle
+      object LRectangle10: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -2354,7 +2374,7 @@ object TLOftDraft
         X = 200000000
         Y = 107000000
       end
-      object LRectangle14: TLRectangle
+      object LRectangle11: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -2603,7 +2623,7 @@ object TLOftDraft
         X = 170000000
         Y = 119000000
       end
-      object LLine172: TLLine
+      object LLine117: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -2623,7 +2643,7 @@ object TLOftDraft
           Y = 119000000
         end
       end
-      object LLine173: TLLine
+      object LLine118: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -2839,7 +2859,7 @@ object TLOftDraft
         X = 170000000
         Y = 129000000
       end
-      object LRectangle15: TLRectangle
+      object LRectangle12: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -3090,7 +3110,7 @@ object TLOftDraft
         X = 200000000
         Y = 129000000
       end
-      object LRectangle16: TLRectangle
+      object LRectangle13: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -3119,7 +3139,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅3̅·Q̅M̅B̅1̅'
+        Text = 'Q̅A̅C̅3̅·BFB1'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -3128,10 +3148,10 @@ object TLOftDraft
           Y = 122249781
         end
         object TLNode
-          X = 191449396
+          X = 190406938
           Y = 125750219
         end
-        object LSymbolTextLine2: TLSymbolTextLine
+        object LSymbolTextLine12: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -3148,26 +3168,6 @@ object TLOftDraft
           end
           object TLNode
             X = 181530167
-            Y = 122249781
-          end
-        end
-        object LSymbolTextLine3: TLSymbolTextLine
-          Locked = False
-          Visible = True
-          BrushColor = clWhite
-          BrushStyle = bsClear
-          PenColor = clDefault
-          PenMode = pmCopy
-          PenStyle = psSolid
-          PenWidth = 175000
-          ArrowStyle = asNone
-          ArrowHeadLength = 8000000
-          object TLNode
-            X = 182572625
-            Y = 122249781
-          end
-          object TLNode
-            X = 191449396
             Y = 122249781
           end
         end
@@ -3379,7 +3379,7 @@ object TLOftDraft
         X = 170000000
         Y = 141000000
       end
-      object LLine174: TLLine
+      object LLine119: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -3399,7 +3399,7 @@ object TLOftDraft
           Y = 141000000
         end
       end
-      object LLine175: TLLine
+      object LLine120: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -3615,7 +3615,7 @@ object TLOftDraft
         X = 170000000
         Y = 151000000
       end
-      object LRectangle17: TLRectangle
+      object LRectangle14: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -3866,7 +3866,7 @@ object TLOftDraft
         X = 200000000
         Y = 151000000
       end
-      object LRectangle18: TLRectangle
+      object LRectangle15: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4115,7 +4115,7 @@ object TLOftDraft
         X = 170000000
         Y = 163000000
       end
-      object LLine176: TLLine
+      object LLine121: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4135,7 +4135,7 @@ object TLOftDraft
           Y = 163000000
         end
       end
-      object LLine177: TLLine
+      object LLine122: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4351,7 +4351,7 @@ object TLOftDraft
         X = 170000000
         Y = 173000000
       end
-      object LRectangle19: TLRectangle
+      object LRectangle17: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4602,7 +4602,7 @@ object TLOftDraft
         X = 200000000
         Y = 173000000
       end
-      object LRectangle20: TLRectangle
+      object LRectangle18: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4871,7 +4871,7 @@ object TLOftDraft
         X = 170000000
         Y = 185000000
       end
-      object LLine178: TLLine
+      object LLine123: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -4891,7 +4891,7 @@ object TLOftDraft
           Y = 185000000
         end
       end
-      object LLine179: TLLine
+      object LLine124: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -5107,7 +5107,7 @@ object TLOftDraft
         X = 170000000
         Y = 195000000
       end
-      object LRectangle21: TLRectangle
+      object LRectangle19: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -5358,7 +5358,7 @@ object TLOftDraft
         X = 200000000
         Y = 195000000
       end
-      object LRectangle22: TLRectangle
+      object LRectangle20: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -5387,7 +5387,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅5̅·Q̅A̅C̅7̅·QMB1'
+        Text = 'Q̅A̅C̅5̅·Q̅A̅C̅7̅·B̅F̅B̅1̅'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -5396,10 +5396,10 @@ object TLOftDraft
           Y = 188249781
         end
         object TLNode
-          X = 201022021
+          X = 199979563
           Y = 191750219
         end
-        object LSymbolTextLine4: TLSymbolTextLine
+        object LSymbolTextLine9: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -5419,7 +5419,7 @@ object TLOftDraft
             Y = 188249781
           end
         end
-        object LSymbolTextLine6: TLSymbolTextLine
+        object LSymbolTextLine10: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -5436,6 +5436,26 @@ object TLOftDraft
           end
           object TLNode
             X = 191102792
+            Y = 188249781
+          end
+        end
+        object LSymbolTextLine11: TLSymbolTextLine
+          Locked = False
+          Visible = True
+          BrushColor = clWhite
+          BrushStyle = bsClear
+          PenColor = clDefault
+          PenMode = pmCopy
+          PenStyle = psSolid
+          PenWidth = 175000
+          ArrowStyle = asNone
+          ArrowHeadLength = 8000000
+          object TLNode
+            X = 192145250
+            Y = 188249781
+          end
+          object TLNode
+            X = 199979563
             Y = 188249781
           end
         end
@@ -5647,7 +5667,7 @@ object TLOftDraft
         X = 170000000
         Y = 207000000
       end
-      object LLine180: TLLine
+      object LLine126: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -5667,7 +5687,7 @@ object TLOftDraft
           Y = 207000000
         end
       end
-      object LLine181: TLLine
+      object LLine127: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -5883,7 +5903,7 @@ object TLOftDraft
         X = 170000000
         Y = 217000000
       end
-      object LRectangle23: TLRectangle
+      object LRectangle21: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -6134,7 +6154,7 @@ object TLOftDraft
         X = 200000000
         Y = 217000000
       end
-      object LRectangle24: TLRectangle
+      object LRectangle22: TLRectangle
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -6383,7 +6403,7 @@ object TLOftDraft
         X = 170000000
         Y = 229000000
       end
-      object LLine182: TLLine
+      object LLine128: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -6403,7 +6423,7 @@ object TLOftDraft
           Y = 229000000
         end
       end
-      object LLine183: TLLine
+      object LLine129: TLLine
         Locked = False
         Visible = True
         BrushColor = clNone
@@ -6899,7 +6919,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅M̅B̅1̅'
+        Text = 'BFB1'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -6908,28 +6928,8 @@ object TLOftDraft
           Y = 232249781
         end
         object TLNode
-          X = 181876771
+          X = 180834312
           Y = 235750219
-        end
-        object LSymbolTextLine7: TLSymbolTextLine
-          Locked = False
-          Visible = True
-          BrushColor = clWhite
-          BrushStyle = bsClear
-          PenColor = clDefault
-          PenMode = pmCopy
-          PenStyle = psSolid
-          PenWidth = 175000
-          ArrowStyle = asNone
-          ArrowHeadLength = 8000000
-          object TLNode
-            X = 173000000
-            Y = 232249781
-          end
-          object TLNode
-            X = 181876771
-            Y = 232249781
-          end
         end
       end
       object LGrafcetConnector85: TLGrafcetConnector
@@ -7655,7 +7655,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅4̅·QMB2'
+        Text = 'Q̅A̅C̅4̅·BFB2'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -7664,10 +7664,10 @@ object TLOftDraft
           Y = 254249781
         end
         object TLNode
-          X = 191449396
+          X = 190406938
           Y = 257750219
         end
-        object LSymbolTextLine9: TLSymbolTextLine
+        object LSymbolTextLine15: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -8931,7 +8931,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅4̅·Q̅M̅B̅2̅'
+        Text = 'Q̅A̅C̅4̅·BFB2'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -8940,10 +8940,10 @@ object TLOftDraft
           Y = 78249781
         end
         object TLNode
-          X = 255449396
+          X = 254406938
           Y = 81750219
         end
-        object LSymbolTextLine10: TLSymbolTextLine
+        object LSymbolTextLine16: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -8960,26 +8960,6 @@ object TLOftDraft
           end
           object TLNode
             X = 245530167
-            Y = 78249781
-          end
-        end
-        object LSymbolTextLine11: TLSymbolTextLine
-          Locked = False
-          Visible = True
-          BrushColor = clWhite
-          BrushStyle = bsClear
-          PenColor = clDefault
-          PenMode = pmCopy
-          PenStyle = psSolid
-          PenWidth = 175000
-          ArrowStyle = asNone
-          ArrowHeadLength = 8000000
-          object TLNode
-            X = 246572625
-            Y = 78249781
-          end
-          object TLNode
-            X = 255449396
             Y = 78249781
           end
         end
@@ -11450,7 +11430,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅A̅C̅9̅·Q̅A̅C̅1̅0̅·QMB2'
+        Text = 'Q̅A̅C̅9̅·Q̅A̅C̅1̅0̅·B̅F̅B̅2̅'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -11459,10 +11439,10 @@ object TLOftDraft
           Y = 144249781
         end
         object TLNode
-          X = 266762979
+          X = 265720521
           Y = 147750219
         end
-        object LSymbolTextLine8: TLSymbolTextLine
+        object LSymbolTextLine18: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -11482,7 +11462,7 @@ object TLOftDraft
             Y = 144249781
           end
         end
-        object LSymbolTextLine12: TLSymbolTextLine
+        object LSymbolTextLine19: TLSymbolTextLine
           Locked = False
           Visible = True
           BrushColor = clWhite
@@ -11499,6 +11479,26 @@ object TLOftDraft
           end
           object TLNode
             X = 256843750
+            Y = 144249781
+          end
+        end
+        object LSymbolTextLine20: TLSymbolTextLine
+          Locked = False
+          Visible = True
+          BrushColor = clWhite
+          BrushStyle = bsClear
+          PenColor = clDefault
+          PenMode = pmCopy
+          PenStyle = psSolid
+          PenWidth = 175000
+          ArrowStyle = asNone
+          ArrowHeadLength = 8000000
+          object TLNode
+            X = 257886208
+            Y = 144249781
+          end
+          object TLNode
+            X = 265720521
             Y = 144249781
           end
         end
@@ -12962,7 +12962,7 @@ object TLOftDraft
         PenWidth = 200000
         FontName = 'Arial'
         TextHeight = 3500000
-        Text = 'Q̅M̅B̅2̅'
+        Text = 'BFB2'
         TextColor = clDefault
         TextDirection = tdLeftRight
         Framed = False
@@ -12971,28 +12971,8 @@ object TLOftDraft
           Y = 188249781
         end
         object TLNode
-          X = 245876771
+          X = 244834312
           Y = 191750219
-        end
-        object LSymbolTextLine13: TLSymbolTextLine
-          Locked = False
-          Visible = True
-          BrushColor = clWhite
-          BrushStyle = bsClear
-          PenColor = clDefault
-          PenMode = pmCopy
-          PenStyle = psSolid
-          PenWidth = 175000
-          ArrowStyle = asNone
-          ArrowHeadLength = 8000000
-          object TLNode
-            X = 237000000
-            Y = 188249781
-          end
-          object TLNode
-            X = 245876771
-            Y = 188249781
-          end
         end
       end
       object LGrafcetConnector157: TLGrafcetConnector
